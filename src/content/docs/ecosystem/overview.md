@@ -23,6 +23,7 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 - **[Newspeak House](https://newspeak.house/)** — the London College of Political Technologists: a community and residency supporting civic technologists and the tech-and-politics community in London.
 - **[Civic Tech Field Guide](https://civictech.guide/)** — the largest open, crowdsourced directory of democracy-tech tools, organisations, and programmes (11,000+ entries, open data), mapping civic tech and civic AI so practitioners can find and learn from one another.
 - **[Life Itself](https://lifeitself.org/)** — an organisation exploring new cultural, social, and economic paradigms, working toward a wiser, weller world.
+- **[Mutual Aid LA Network](https://mutualaidla.org/)** — a connector and information hub for mutual-aid groups, people, and resources across Los Angeles, including a searchable directory of local efforts (The Dispatch).
 
 ## Bridging & community building
 

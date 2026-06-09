@@ -18,7 +18,7 @@ The striking part isn't the app. It's that resilience ran on the infrastructure 
 This is citizen infrastructure in its rawest form, and it surfaces lessons the field keeps relearning:
 
 - **Meet people where they are.** The most powerful tool is often the unglamorous one everyone already uses, not the purpose-built platform.
-- **The hard part isn't the tech.** Scott's frustration afterwards wasn't a lack of apps — it was the missing connective tissue: a simple community directory, a way to schedule across everyone's different channels, a way to bridge people who live in WhatsApp, SMS, and email without forcing them onto one platform.
+- **The hard part isn't the tech.** Scott's frustration afterwards wasn't a lack of apps — it was the missing connective tissue: a simple community directory, a way to schedule across everyone's different channels, a way to bridge people who live in WhatsApp, SMS, and email without forcing them onto one platform. Networks like [Mutual Aid LA Network](https://mutualaidla.org/) build exactly this at the city scale — a searchable directory of mutual-aid groups across LA — but it rarely exists at the hyperlocal level a canyon community needs.
 - **Crisis reveals the gap.** Communities discover what infrastructure they're missing exactly when they need it most — and the energy of a crisis is hard to carry into the calm afterwards.
 
 Scott has since worked with bridging and community-building groups, including the [Harwood Institute](/ecosystem/overview/), to turn that fire-forged momentum into ongoing local organizing.
