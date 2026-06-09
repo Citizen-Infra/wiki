@@ -26,6 +26,9 @@ export default defineConfig({
           { slug: 'idea/technology-for-collective-action' },
           { slug: 'idea/digital-pitchforks' },
         ]},
+        { label: 'Concepts', items: [
+          { slug: 'concepts/overview' },
+        ]},
         { label: 'The toolkit', items: [
           { slug: 'toolkit/overview' },
           { slug: 'toolkit/connect-with-neighbors' },
