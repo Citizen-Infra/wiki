@@ -1,0 +1,30 @@
+# build output
+dist/
+# generated types
+.astro/
+
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# environment variables
+.env
+.env.*
+
+# macOS-specific files
+.DS_Store
+
+# local-only session process notes (not for public repo)
+docs/process-notes.md
+docs/private-notes.md
+# /process-source extractions — internal working notes, may contain
+# sensitive material; pages are written FROM these, never these themselves
+docs/research/
+# internal brainstorming artifacts (spec/plan) — name collaborators, internal
+# recordings and token practice; keep local, do not publish on the public repo
+docs/superpowers/
