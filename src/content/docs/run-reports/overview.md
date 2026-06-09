@@ -1,5 +1,28 @@
 ---
 title: Run Reports
+description: Plain-language write-ups of real deliberations — what happened, who took part, and what came of it — with the data and sources behind each one.
 ---
 
-Content in progress.
+This is a library of **run reports**: write-ups of specific, real deliberations that have
+happened in the world — citizens' assemblies, conventions, digital deliberations, and more.
+
+Each one is **layered**: a plain-language summary first (what it was, what came out of it),
+then the detail underneath — who took part and how they were chosen, the question they faced,
+what they produced, what changed as a result, and how well it worked. Every figure is traced
+to a public source, listed at the bottom of each page.
+
+## How to read these
+
+Each report covers **one specific deliberation** — a single, dated event — not a platform or a
+programme. (Where a tool is used to run many deliberations, we document a particular use of it.)
+The point is to show, concretely, that deliberative citizen infrastructure is real and that it
+works — along with its limits, which we try to report honestly.
+
+## In this library
+
+- [Irish Citizens' Assembly on the Eighth Amendment](/run-reports/irish-citizens-assembly/)
+- [French Citizens' Convention on End of Life](/run-reports/french-convention-end-of-life/)
+- [Demos Waves](/run-reports/demos-waves/)
+
+More will be added over time. Spot an error, or a deliberation that belongs here? Use the
+"Edit page" link at the bottom of any page.
