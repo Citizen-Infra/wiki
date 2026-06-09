@@ -28,6 +28,9 @@ export default defineConfig({
         ]},
         { label: 'Concepts', items: [
           { slug: 'concepts/overview' },
+          { slug: 'concepts/civic-ai' },
+          { slug: 'concepts/ai-for-participation' },
+          { slug: 'concepts/synthetic-participation' },
         ]},
         { label: 'The toolkit', items: [
           { slug: 'toolkit/overview' },
