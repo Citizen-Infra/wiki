@@ -46,6 +46,10 @@ export default defineConfig({
           { slug: 'run-reports/french-convention-end-of-life' },
           { slug: 'run-reports/demos-waves' },
         ]},
+        { label: 'Stories', items: [
+          { slug: 'stories/overview' },
+          { slug: 'stories/topanga-fire-mutual-aid' },
+        ]},
         { label: 'Ecosystem', items: [
           { slug: 'ecosystem/overview' },
         ]},
