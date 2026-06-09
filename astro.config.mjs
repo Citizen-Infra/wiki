@@ -34,6 +34,15 @@ export default defineConfig({
           { slug: 'toolkit/share-culture-and-resources' },
           { slug: 'toolkit/fund-collective-work' },
         ]},
+        { label: 'Run Reports', items: [
+          { slug: 'run-reports/overview' },
+          { slug: 'run-reports/irish-citizens-assembly' },
+          { slug: 'run-reports/french-convention-end-of-life' },
+          { slug: 'run-reports/demos-waves' },
+        ]},
+        { label: 'Ecosystem', items: [
+          { slug: 'ecosystem/overview' },
+        ]},
         { label: 'Library', items: [
           { slug: 'library/portable-governance' },
           { slug: 'library/reading-and-sources' },
