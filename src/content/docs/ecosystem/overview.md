@@ -15,9 +15,16 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 - **[Metagov](https://metagov.org/)** — a research collective building standards and tools for the governance and self-governance of online communities and digital institutions.
 - **[The Consilience Project](https://consilienceproject.org/)** — works to improve public sensemaking and the information ecosystem so societies can make better collective decisions.
 - **[DemocracyNext](https://www.demnext.org/)** — an international research and action institute focused on scaling high-quality, empowered, and permanent citizens' assemblies.
-- **[The Commoning Standard](https://www.roundskysolutions.com/commoning-standard/)** — a Round Sky Solutions initiative synthesising scattered research and practice into open standards for effective self-governance ("commoning"), treating self-governance as a universal literacy.
 - **[Inner Development Goals](https://innerdevelopmentgoals.org/)** — a non-profit, open-source initiative mapping the inner skills people need for outer change, across five dimensions (Being, Thinking, Relating, Collaborating, Acting).
 - **[Center for Engaged Democracy](https://www.merrimack.edu/wp-content/uploads/160-core-competencies-in-civic-engagement.pdf)** — a US academic hub (Merrimack College) that mapped the core competencies for civic engagement.
+
+## Commons & self-governance
+
+- **[The Commoning Standard](https://www.roundskysolutions.com/commoning-standard/)** — a Round Sky Solutions initiative synthesising scattered research and practice into open standards for effective self-governance ("commoning"), treating self-governance as a universal literacy.
+- **[Ostrom Workshop](https://ostromworkshop.indiana.edu/)** — a world-leading research centre at Indiana University on the commons and commons governance, in the tradition of Elinor and Vincent Ostrom.
+- **[International Association for the Study of the Commons](https://iasc-commons.org/)** — the leading professional association (founded 1989) bringing together researchers, practitioners, and policymakers on how communities govern shared resources.
+- **[ProSocial World](https://www.prosocial.world/)** — a non-profit applying evolutionary science and Ostrom's commons principles to help groups become more cooperative, equitable, and collaborative.
+- **[Plurality Institute](https://www.plurality.institute/)** — an academic research network developing technology for cooperation across difference (the "Plurality" approach).
 
 ## Networks & communities
 
