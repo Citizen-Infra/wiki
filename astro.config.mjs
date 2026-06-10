@@ -31,6 +31,10 @@ export default defineConfig({
           { slug: 'concepts/civic-ai' },
           { slug: 'concepts/ai-for-participation' },
           { slug: 'concepts/synthetic-participation' },
+          { slug: 'concepts/commoning-standard' },
+          { slug: 'concepts/power-matrix' },
+          { slug: 'concepts/cargo-cult-democracy' },
+          { slug: 'concepts/tech-place-is-education' },
         ]},
         { label: 'The toolkit', items: [
           { slug: 'toolkit/overview' },
