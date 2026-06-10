@@ -12,7 +12,7 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 
 ## Research & governance
 
-- **[Metagov](https://metagov.org/)** — a research collective building standards and tools for the governance and self-governance of online communities and digital institutions.
+- **[Metagov](https://metagov.org/)** — a research collective building standards and tools for the governance and self-governance of online communities and digital institutions; home of the "Modular Politics" framework, with its board chaired by Nathan Schneider.
 - **[The Consilience Project](https://consilienceproject.org/)** — works to improve public sensemaking and the information ecosystem so societies can make better collective decisions.
 - **[DemocracyNext](https://www.demnext.org/)** — an international research and action institute focused on scaling high-quality, empowered, and permanent citizens' assemblies.
 - **[Inner Development Goals](https://innerdevelopmentgoals.org/)** — a non-profit, open-source initiative mapping the inner skills people need for outer change, across five dimensions (Being, Thinking, Relating, Collaborating, Acting).

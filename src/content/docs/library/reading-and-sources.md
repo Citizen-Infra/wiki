@@ -25,6 +25,12 @@ A growing, annotated shelf of the talks, research, and writing we've found usefu
 - **Hélène Landemore, *Democratic Reason: Politics, Collective Intelligence, and the Rule of the Many*** (Princeton, 2013) — the epistemic argument: why inclusive, diverse groups make better decisions.
 - **Hélène Landemore, *Politics Without Politicians: The Case for Citizen Rule*** (2026) — open democracy told through the stories of real citizens' conventions.
 
+## Online communities & governance
+
+- **[Nathan Schneider — Democracy Innovators Podcast (2026)](https://www.youtube.com/watch?v=jlyfhmUWX04)** — on implicit feudalism, modular politics, protocols, and AI-interpreted governance. The source behind our online-governance Concepts.
+- **Nathan Schneider, *Governable Spaces: Democratic Design for Online Life*** (University of California Press, 2024) — the book that names "implicit feudalism" and makes the case for democratic design of online communities (open access).
+- **"Modular Politics: Toward a Governance Layer for Online Communities"** — the Metagov paper (Frey, Schneider, et al., 2021) behind the modular-politics framework.
+
 ---
 
 *This shelf grows as we process new sources. Have something that belongs here? Use the "Edit page" link below.*

@@ -21,6 +21,13 @@ It's a living reference that grows over time. Where a concept has real-world exa
 - [Cargo cult democracy](/concepts/cargo-cult-democracy/) — build the people, not just the democratic "artifact"
 - [Technology's place is education](/concepts/tech-place-is-education/) — why literacy, not tooling, is the bottleneck
 
+## Online communities & governance
+
+- [Implicit feudalism](/concepts/implicit-feudalism/) — why online spaces default to one all-powerful admin
+- [Modular politics](/concepts/modular-politics/) — communities composing their own governance from interchangeable parts
+- [Constitutional agents](/concepts/constitutional-agents/) — a plain-language constitution interpreted by an AI agent
+- [Protocol](/concepts/protocol/) — an ancient, neglected form of organising without a central ruler
+
 ## Civic AI
 
 - [Civic AI](/concepts/civic-ai/) — AI applied to democracy and civic life, and how the field is mapped

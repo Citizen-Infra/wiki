@@ -39,6 +39,10 @@ export default defineConfig({
           { slug: 'concepts/citizens-assembly' },
           { slug: 'concepts/epistemic-democracy' },
           { slug: 'concepts/sortition' },
+          { slug: 'concepts/implicit-feudalism' },
+          { slug: 'concepts/modular-politics' },
+          { slug: 'concepts/constitutional-agents' },
+          { slug: 'concepts/protocol' },
         ]},
         { label: 'The toolkit', items: [
           { slug: 'toolkit/overview' },

@@ -11,6 +11,11 @@ A new wave of them uses AI to do this at a scale that used to be impossible. A f
 - **[Urbanist AI](https://urbanistai.com/)** — lets residents reimagine their own street or neighbourhood using image-generation AI: take a photo, picture a greener or better version, draw on it together. A natural fit for participatory budgeting and placemaking.
 - **[Assembl](https://www.bluenove.com/en/)** (bluenove) — a "massive collective intelligence" platform that distils wide-ranging debates into legible, creative formats — mind maps, videos, even comic-strip summaries — so people can actually see what a deliberation produced.
 
+Alongside the AI-native tools, two established platforms are workhorses of online group decision-making:
+
+- **[Loomio](https://www.loomio.com/)** — a decision-making platform for groups and organisations to discuss, propose, and decide together asynchronously, leaving a clear record they can point back to. Built by a worker co-op.
+- **[Decidim](https://decidim.org/)** — a major free, open-source platform for citizen participation, born in Barcelona and now used by cities and organisations worldwide for consultations, participatory budgeting, and more.
+
 To understand what these tools can and can't do, see [AI for participation](/concepts/ai-for-participation/).
 
 *More tools will be added here over time. Know one that belongs? Use the "Edit page" link below.*
