@@ -25,6 +25,7 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 - **[International Association for the Study of the Commons](https://iasc-commons.org/)** — the leading professional association (founded 1989) bringing together researchers, practitioners, and policymakers on how communities govern shared resources.
 - **[ProSocial World](https://www.prosocial.world/)** — a non-profit applying evolutionary science and Ostrom's commons principles to help groups become more cooperative, equitable, and collaborative.
 - **[Plurality Institute](https://www.plurality.institute/)** — an academic research network developing technology for cooperation across difference (the "Plurality" approach).
+- **[Democratizing Work](https://democratizingwork.org/)** — an international initiative (sparked by Isabelle Ferreras' 2020 manifesto) arguing for democracy inside the workplace, not just the polity.
 
 ## Networks & communities
 

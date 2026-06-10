@@ -36,6 +36,8 @@ The convention's conclusions fed into the French government's legislative work o
 
 The convention is widely regarded as a serious, high-quality deliberation on a genuinely hard ethical question, and its detailed report is unusually rich. Its own guarantors also drew candid lessons: a small minority of members sought to undermine the process through sceptical media; the report's complexity sometimes obscured a clear path to decisions; and the wording and timing of internal votes needed more care. They also asked whether such fundamental ethical questions warrant more expert input — and stressed that a convention of 184 should be a springboard for broader public debate, not the last word.
 
+Hélène Landemore, who sat on the convention's governance committee, highlights how it handled deep disagreement. With roughly 76% favouring assisted dying and 24% against, the majority gave the minority half of the final report and half the speaking time, and devoted much of the report to palliative care. By her account about 95% of members approved the final package — and the minority's informal leader, opposed on principle, publicly thanked the majority for being heard. It's a vivid illustration of how a citizens' assembly can treat a near-zero-sum conflict as a shared problem rather than a battle to be won.
+
 ## Sources
 
 - [Convention Citoyenne sur la fin de vie — Final Report (lecese.fr, PDF)](https://conventioncitoyennesurlafindevie.lecese.fr/sites/cfv/files/Conventioncitoyenne_findevie_Rapportfinal.pdf)
@@ -43,3 +45,4 @@ The convention is widely regarded as a serious, high-quality deliberation on a g
 - [Learnings from the French Citizens' Convention on the End of Life — newDemocracy (PDF)](https://www.newdemocracy.com.au/wp-content/uploads/2023/06/RD-Note-CCFV.pdf)
 - [French citizens' assembly on assisted dying — Participedia](https://participedia.net/case/french-citizens-assembly-on-assisted-dying)
 - [End-of-life, participatory democracy, and legislative work in France — The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)02580-1/fulltext)
+- [Hélène Landemore (a governance-committee member) — Democracy Innovators Podcast (2026)](https://www.youtube.com/watch?v=QizItYVPA1E)

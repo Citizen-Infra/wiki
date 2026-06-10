@@ -22,6 +22,10 @@ works — along with its limits, which we try to report honestly.
 
 - [Irish Citizens' Assembly on the Eighth Amendment](/run-reports/irish-citizens-assembly/)
 - [French Citizens' Convention on End of Life](/run-reports/french-convention-end-of-life/)
+- [French Citizens' Convention for Climate (2019–2020)](/run-reports/french-convention-climate/)
+- [Iceland's crowdsourced constitution (2010–2013)](/run-reports/iceland-2010-constitution/)
+- [The Global Assembly on the Climate and Ecological Crisis (2021)](/run-reports/global-assembly-2021/)
+- [The Ostbelgien Model: a permanent citizens' council (Belgium)](/run-reports/ostbelgien-citizens-council/)
 - [Demos Waves](/run-reports/demos-waves/)
 
 More will be added over time. Spot an error, or a deliberation that belongs here? Use the

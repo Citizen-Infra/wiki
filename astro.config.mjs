@@ -35,6 +35,10 @@ export default defineConfig({
           { slug: 'concepts/power-matrix' },
           { slug: 'concepts/cargo-cult-democracy' },
           { slug: 'concepts/tech-place-is-education' },
+          { slug: 'concepts/open-democracy' },
+          { slug: 'concepts/citizens-assembly' },
+          { slug: 'concepts/epistemic-democracy' },
+          { slug: 'concepts/sortition' },
         ]},
         { label: 'The toolkit', items: [
           { slug: 'toolkit/overview' },
@@ -48,6 +52,10 @@ export default defineConfig({
           { slug: 'run-reports/overview' },
           { slug: 'run-reports/irish-citizens-assembly' },
           { slug: 'run-reports/french-convention-end-of-life' },
+          { slug: 'run-reports/french-convention-climate' },
+          { slug: 'run-reports/iceland-2010-constitution' },
+          { slug: 'run-reports/global-assembly-2021' },
+          { slug: 'run-reports/ostbelgien-citizens-council' },
           { slug: 'run-reports/demos-waves' },
         ]},
         { label: 'Stories', items: [

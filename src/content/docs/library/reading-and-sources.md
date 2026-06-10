@@ -18,6 +18,13 @@ A growing, annotated shelf of the talks, research, and writing we've found usefu
 - **[Council of Europe — Reference Framework of Competences for Democratic Culture](https://www.coe.int/en/web/reference-framework-of-competences-for-democratic-culture)** — an official European framework of the values, attitudes, skills, and knowledge people need to take part in a democratic culture.
 - **[US Army — ADP 6-22, *Army Leadership and the Profession*](https://www.eiu.edu/armyrotc/docs/adp6_22.pdf)** — the "be, know, do" leadership doctrine; a striking example of an institution treating leadership as something to teach everyone, not just those at the top.
 
+## Deliberative democracy & citizens' assemblies
+
+- **[Hélène Landemore — Democracy Innovators Podcast (2026)](https://www.youtube.com/watch?v=QizItYVPA1E)** — the Yale theorist on open democracy, sortition, and what citizens' assemblies can (and can't) do. The source behind our [Deliberative democracy](/concepts/overview/) concepts.
+- **Hélène Landemore, *Open Democracy: Reinventing Popular Rule for the Twenty-First Century*** (Princeton, 2020) — the case for a democracy founded on lot rather than elections.
+- **Hélène Landemore, *Democratic Reason: Politics, Collective Intelligence, and the Rule of the Many*** (Princeton, 2013) — the epistemic argument: why inclusive, diverse groups make better decisions.
+- **Hélène Landemore, *Politics Without Politicians: The Case for Citizen Rule*** (2026) — open democracy told through the stories of real citizens' conventions.
+
 ---
 
 *This shelf grows as we process new sources. Have something that belongs here? Use the "Edit page" link below.*
