@@ -14,7 +14,8 @@ A new wave of them uses AI to do this at a scale that used to be impossible. A f
 Alongside the AI-native tools, two established platforms are workhorses of online group decision-making:
 
 - **[Loomio](https://www.loomio.com/)** — a decision-making platform for groups and organisations to discuss, propose, and decide together asynchronously, leaving a clear record they can point back to. Built by a worker co-op.
-- **[Decidim](https://decidim.org/)** — a major free, open-source platform for citizen participation, born in Barcelona and now used by cities and organisations worldwide for consultations, participatory budgeting, and more.
+- **[Decidim](https://decidim.org/)** — a major free, open-source platform for citizen participation, born in Barcelona and now used by cities and organisations worldwide for consultations, participatory budgeting, and more. It powers **Brasil Participativo**, the Brazilian federal government's participation platform, which had reached roughly 1.4 million users by 2024 — a sign these tools can work at national scale.
+- **[Go Vocal](https://www.govocal.com/)** (formerly CitizenLab) — a community-engagement platform that helps local governments gather and make sense of resident input, increasingly with AI assistance. A widely used commercial option in Europe and beyond.
 
 To understand what these tools can and can't do, see [AI for participation](/concepts/ai-for-participation/).
 

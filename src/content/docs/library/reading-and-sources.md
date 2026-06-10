@@ -8,6 +8,7 @@ A growing, annotated shelf of the talks, research, and writing we've found usefu
 ## Civic AI & participation
 
 - **[Civic AI — Matt Stempeck (Metagov seminar, 2025)](https://www.youtube.com/watch?v=SonfdR0_h2w)** — a tour of how AI is showing up across democracy tech, from the curator of the Civic Tech Field Guide. Grounded, sceptical of hype, and full of real examples. The source behind several of our [Concepts](/concepts/overview/) pages.
+- **[The Civic Tech Field Guide, and why projects succeed or fail — Matt Stempeck (Democracy Innovators Podcast, 2026)](https://www.youtube.com/watch?v=jQ-PZUNkNfg)** — a decade of lessons from running the field's largest directory: how civic tech is mapped, the patterns behind projects that fail, and the few things that actually work. The source behind our ["civic tech field"](/concepts/overview/) concepts.
 - **[Guide to Digital Participation Platforms — People Powered](https://www.peoplepowered.org/digital-guide-home)** — a practical guide to when and how to use digital participation tools, including a research section cataloguing how around 30 platforms are already using AI. Comes with an online course and a platform-selection tool.
 - **[Civic AI features table — People Powered × Civic Tech Field Guide](https://bit.ly/civicai)** — the underlying data: which AI-for-participation features appear on which platforms.
 

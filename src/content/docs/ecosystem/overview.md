@@ -12,7 +12,8 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 
 ## Research & governance
 
-- **[Metagov](https://metagov.org/)** — a research collective building standards and tools for the governance and self-governance of online communities and digital institutions; home of the "Modular Politics" framework, with its board chaired by Nathan Schneider.
+- **[Metagov](https://metagov.org/)** — a research collective building standards and tools for the governance and self-governance of online communities and digital institutions; home of the "Modular Politics" framework, with its board chaired by Nathan Schneider. Building a tool with the Scottish Government to combine many participation tools into one coherent experience, alongside ontology work to give the field a shared vocabulary.
+- **[mySociety](https://www.mysociety.org/)** — a long-running UK civic-tech non-profit (FixMyStreet, WhatDoTheyKnow) and the host of **[TICTeC](https://tictec.mysociety.org/)**, the global conference and research network on the impact of civic technology.
 - **[The Consilience Project](https://consilienceproject.org/)** — works to improve public sensemaking and the information ecosystem so societies can make better collective decisions.
 - **[DemocracyNext](https://www.demnext.org/)** — an international research and action institute focused on scaling high-quality, empowered, and permanent citizens' assemblies.
 - **[Inner Development Goals](https://innerdevelopmentgoals.org/)** — a non-profit, open-source initiative mapping the inner skills people need for outer change, across five dimensions (Being, Thinking, Relating, Collaborating, Acting).
@@ -32,7 +33,10 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 - **[People Powered](https://www.peoplepowered.org/)** — a global hub for participatory democracy, helping organisations and governments expand people's power to shape public policy around the world.
 - **[OpenCivics](https://www.opencivics.co/)** — a community of practice and solidarity for open civic innovation, providing scaffolding for civic innovators to coordinate, align, and find funding.
 - **[Newspeak House](https://newspeak.house/)** — the London College of Political Technologists: a community and residency supporting civic technologists and the tech-and-politics community in London.
-- **[Civic Tech Field Guide](https://civictech.guide/)** — the largest open, crowdsourced directory of democracy-tech tools, organisations, and programmes (11,000+ entries, open data), mapping civic tech and civic AI so practitioners can find and learn from one another.
+- **[Civic Tech Field Guide](https://civictech.guide/)** — the largest open, crowdsourced directory of democracy-tech tools, organisations, and programmes (11,000+ entries, open data), mapping civic tech and civic AI so practitioners can find and learn from one another. Founded in 2016 by Micah Sifry, Erin Simpson, and Matt Stempeck at Civic Hall in New York; it organises the field into "the tech" (tools and data) and "the people" (fellowships, research, jobs, funders), and runs a trend-spotting newsletter.
+- **[Association Civic Tech Europe (ACTE)](https://acte-europe.org/)** — a Brussels-based trade association of civic-tech and gov-tech companies (founded 2019) representing participation platforms at the EU level — a sign of a maturing sector.
+- **[g0v (gov-zero)](https://g0v.tw/)** — a Taiwanese grassroots civic-tech movement and community that has produced thousands of open-source projects, a model for citizen-led technology worldwide.
+- **[Code for All](https://codeforall.org/)** — a global network connecting local civic-tech organisations so they can share ideas, tools, and impact across borders.
 - **[Life Itself](https://lifeitself.org/)** — an organisation exploring new cultural, social, and economic paradigms, working toward a wiser, weller world.
 - **[Mutual Aid LA Network](https://mutualaidla.org/)** — a connector and information hub for mutual-aid groups, people, and resources across Los Angeles, including a searchable directory of local efforts (The Dispatch).
 
