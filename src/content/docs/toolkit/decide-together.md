@@ -16,7 +16,10 @@ Alongside the AI-native tools, two established platforms are workhorses of onlin
 - **[Loomio](https://www.loomio.com/)** — a decision-making platform for groups and organisations to discuss, propose, and decide together asynchronously, leaving a clear record they can point back to. Built by a worker co-op.
 - **[Decidim](https://decidim.org/)** — a major free, open-source platform for citizen participation, born in Barcelona and now used by cities and organisations worldwide for consultations, participatory budgeting, and more. It powers **Brasil Participativo**, the Brazilian federal government's participation platform, which had reached roughly 1.4 million users by 2024 — a sign these tools can work at national scale.
 - **[Go Vocal](https://www.govocal.com/)** (formerly CitizenLab) — a community-engagement platform that helps local governments gather and make sense of resident input, increasingly with AI assistance. A widely used commercial option in Europe and beyond.
+- **[Make.org](https://make.org/)** — a European participatory-democracy platform that runs large-scale public consultations and surfaces where many thousands of people actually agree.
+- **[Cortico](https://cortico.ai/)** — a non-profit behind the Local Voices Network: it records small-group community conversations and uses AI to surface and share what people genuinely said.
+- **[Remesh](https://www.remesh.ai/)** — an AI-assisted platform that lets a large group "talk" by reacting to each other's statements in real time, revealing where opinion converges — used to help find common ground even in tense settings.
 
-To understand what these tools can and can't do, see [AI for participation](/concepts/ai-for-participation/).
+To understand what these tools can and can't do, see [AI for participation](/concepts/ai-for-participation/) and [Can AI scale deliberation?](/concepts/ai-and-deliberation/).
 
 *More tools will be added here over time. Know one that belongs? Use the "Edit page" link below.*

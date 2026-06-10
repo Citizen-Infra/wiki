@@ -27,6 +27,8 @@ works — along with its limits, which we try to report honestly.
 - [The Global Assembly on the Climate and Ecological Crisis (2021)](/run-reports/global-assembly-2021/)
 - [The Ostbelgien Model: a permanent citizens' council (Belgium)](/run-reports/ostbelgien-citizens-council/)
 - [Demos Waves](/run-reports/demos-waves/)
+- [Michigan Independent Citizens Redistricting Commission (2021)](/run-reports/michigan-redistricting-commission/)
+- [Connecticut Citizens' Assembly on Property Taxes (2026, in progress)](/run-reports/connecticut-property-taxes/)
 
 More will be added over time. Spot an error, or a deliberation that belongs here? Use the
 "Edit page" link at the bottom of any page.

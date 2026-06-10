@@ -36,6 +36,8 @@ The "unfiltered" promise didn't hold. The ecocide proposal was dropped or heavil
 
 The Convention is widely regarded as a serious, well-run deliberation that produced sophisticated, broadly-supported proposals from a representative group of citizens. Its disappointment is downstream: without a binding link to legislation, even a president's convened assembly can see its work filtered, diluted, or shelved — exactly the tension Hélène Landemore points to when she argues citizens' assemblies need real, not merely advisory, power.
 
+Landemore adds two wrinkles to the standard "watered-down" story. First, the Convention came closer to *legislating* than is usually recognised: Macron had effectively outsourced legislative initiative to it, making the members de-facto citizen legislators — and a later recommendation-by-recommendation analysis by [KNOCA](/ecosystem/overview/) found that, contrary to the popular narrative, most proposals did reach legislation in some form. Second, the assembly may have undercut itself: offered a path to a binding **referendum**, the members declined it, convinced the public would reject their work — even though polling showed 13 of their 14 headline proposals already had majority support. The lesson she draws is less "the system betrayed them" than that they hadn't yet learned to trust their fellow citizens, or each other. See [binding or advisory?](/concepts/binding-vs-advisory/).
+
 ## Sources
 
 - [Citizens' Convention for Climate — Wikipedia](https://en.wikipedia.org/wiki/Citizens_Convention_for_Climate)

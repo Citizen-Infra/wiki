@@ -13,6 +13,10 @@ It's a living reference that grows over time. Where a concept has real-world exa
 - [What is a citizens' assembly](/concepts/citizens-assembly/) — the format behind most of our Run Reports
 - [The epistemic case for democracy](/concepts/epistemic-democracy/) — why diverse groups can be wiser than experts
 - [Sortition (representation by lot)](/concepts/sortition/) — choosing decision-makers at random
+- [Letting citizens govern the assembly](/concepts/citizen-governance-of-assemblies/) — handing real procedural control to the participants, not just experts
+- [Civic love](/concepts/civic-love/) — the relational bond that makes deliberation work, and precedes its wisdom
+- [Binding or advisory?](/concepts/binding-vs-advisory/) — why advisory-only assemblies risk "participation washing," and how a few got real power
+- [Investor assemblies](/concepts/investor-assemblies/) — extending sortition beyond the state to the economy
 
 ## Self-governance & power
 
@@ -34,6 +38,7 @@ It's a living reference that grows over time. Where a concept has real-world exa
 - [Civic AI](/concepts/civic-ai/) — AI applied to democracy and civic life, and how the field is mapped
 - [AI for participation](/concepts/ai-for-participation/) — how AI is actually showing up in participation tools
 - [Synthetic participation](/concepts/synthetic-participation/) — the risk of AI-generated stand-ins for real citizens
+- [Can AI scale deliberation?](/concepts/ai-and-deliberation/) — what's gained and lost when you automate the work of deliberating
 
 ## The civic tech field
 

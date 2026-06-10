@@ -25,6 +25,8 @@ A growing, annotated shelf of the talks, research, and writing we've found usefu
 - **Hélène Landemore, *Open Democracy: Reinventing Popular Rule for the Twenty-First Century*** (Princeton, 2020) — the case for a democracy founded on lot rather than elections.
 - **Hélène Landemore, *Democratic Reason: Politics, Collective Intelligence, and the Rule of the Many*** (Princeton, 2013) — the epistemic argument: why inclusive, diverse groups make better decisions.
 - **Hélène Landemore, *Politics Without Politicians: The Case for Citizen Rule*** (2026) — open democracy told through the stories of real citizens' conventions.
+- **[Politics Without Politicians — Hélène Landemore × DemocracyNext (2026)](https://www.youtube.com/watch?v=sgFUtZCgAqI)** — a wide-ranging interview on binding citizen power, governing the assembly, the "civic love" at the heart of deliberation, and where AI fits. The source behind several of our newer [Deliberative democracy](/concepts/overview/) concepts and the Michigan & Connecticut [Run Reports](/run-reports/overview/).
+- **[*Goodbye Elections. Hello Democracy.*](https://equalitybylot.com/2023/02/18/goodbye-elections-hello-democracy/)** — a documentary by Adam Cronkright following an all-citizen assembly (Michigan, over Zoom during COVID) — among the best captures of the human, emotional dimension of deliberation.
 
 ## Online communities & governance
 

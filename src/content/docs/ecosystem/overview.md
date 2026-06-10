@@ -16,10 +16,11 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 - **[Metagov](https://metagov.org/)** — a research collective building standards and tools for the governance and self-governance of online communities and digital institutions; home of the "Modular Politics" framework, with its board chaired by Nathan Schneider. Building a tool with the Scottish Government to combine many participation tools into one coherent experience, alongside ontology work to give the field a shared vocabulary.
 - **[mySociety](https://www.mysociety.org/)** — a long-running UK civic-tech non-profit (FixMyStreet, WhatDoTheyKnow) and the host of **[TICTeC](https://tictec.mysociety.org/)**, the global conference and research network on the impact of civic technology.
 - **[The Consilience Project](https://consilienceproject.org/)** — works to improve public sensemaking and the information ecosystem so societies can make better collective decisions.
-- **[DemocracyNext](https://www.demnext.org/)** — an international research and action institute focused on scaling high-quality, empowered, and permanent citizens' assemblies.
+- **[DemocracyNext](https://www.demnext.org/)** — an international research and action institute focused on scaling high-quality, empowered, and permanent citizens' assemblies; convenor of the Connecticut Citizens' Assembly on Property Taxes, a flagship US assembly.
 - **[Inner Development Goals](https://innerdevelopmentgoals.org/)** — a non-profit, open-source initiative mapping the inner skills people need for outer change, across five dimensions (Being, Thinking, Relating, Collaborating, Acting).
 - **[Center for Engaged Democracy](https://www.merrimack.edu/wp-content/uploads/160-core-competencies-in-civic-engagement.pdf)** — a US academic hub (Merrimack College) that mapped the core competencies for civic engagement.
 - **[Institute of Applied Metatheory](https://appliedmetatheory.org/)** — a research institute applying "big-picture" metatheory to civilisational challenges, including mapping the ecology of integrative responses to the metacrisis.
+- **[KNOCA — Knowledge Network on Climate Assemblies](https://knoca.eu/)** — a European network sharing best practice and research on the design, running, and follow-up of climate assemblies.
 
 ## Commons & self-governance
 
