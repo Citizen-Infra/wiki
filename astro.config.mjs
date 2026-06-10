@@ -46,6 +46,7 @@ export default defineConfig({
           { slug: 'concepts/why-civic-tech-fails' },
           { slug: 'concepts/civic-products-and-features' },
           { slug: 'concepts/interoperability-and-standards' },
+          { slug: 'concepts/organizer-kit' },
         ]},
         { label: 'The toolkit', items: [
           { slug: 'toolkit/overview' },

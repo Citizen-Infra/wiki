@@ -39,5 +39,6 @@ It's a living reference that grows over time. Where a concept has real-world exa
 - [Why civic tech projects fail (and succeed)](/concepts/why-civic-tech-fails/) — a decade of patterns from the Civic Tech Field Guide
 - [Civic products, externalities & features](/concepts/civic-products-and-features/) — three ways technology touches democracy
 - [Connecting the tools — interoperability & standards](/concepts/interoperability-and-standards/) — making thousands of civic tools talk to each other
+- [The organizer kit](/concepts/organizer-kit/) — meeting the under-resourced local organizer where they already are
 
 More explainers are on the way. Spot one that's missing? Use the "Edit page" link below.
