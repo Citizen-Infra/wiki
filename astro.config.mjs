@@ -47,6 +47,10 @@ export default defineConfig({
           { slug: 'concepts/civic-products-and-features' },
           { slug: 'concepts/interoperability-and-standards' },
           { slug: 'concepts/organizer-kit' },
+          { slug: 'concepts/decentralized-landscape' },
+          { slug: 'concepts/civic-intelligence-infrastructure' },
+          { slug: 'concepts/funding-the-commons' },
+          { slug: 'concepts/metacrisis' },
         ]},
         { label: 'The toolkit', items: [
           { slug: 'toolkit/overview' },

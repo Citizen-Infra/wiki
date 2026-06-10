@@ -9,6 +9,7 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 
 - **[Sitra](https://www.sitra.fi/en/)** — the Finnish Innovation Fund: a public future fund operating under the Finnish Parliament, working on sustainability, the economy, and democratic renewal.
 - **[AI & Democracy Foundation](https://ai-democracy.org/)** — a governance-innovation organisation working to ensure democratic capacity can keep pace with advances in AI.
+- **[Mediators Foundation](https://www.mediatorsfoundation.org/)** — a US foundation that incubates and fiscally sponsors civic-renewal projects, including Better Together America and the Civic Intelligence Infrastructure initiative.
 
 ## Research & governance
 
@@ -18,6 +19,7 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 - **[DemocracyNext](https://www.demnext.org/)** — an international research and action institute focused on scaling high-quality, empowered, and permanent citizens' assemblies.
 - **[Inner Development Goals](https://innerdevelopmentgoals.org/)** — a non-profit, open-source initiative mapping the inner skills people need for outer change, across five dimensions (Being, Thinking, Relating, Collaborating, Acting).
 - **[Center for Engaged Democracy](https://www.merrimack.edu/wp-content/uploads/160-core-competencies-in-civic-engagement.pdf)** — a US academic hub (Merrimack College) that mapped the core competencies for civic engagement.
+- **[Institute of Applied Metatheory](https://appliedmetatheory.org/)** — a research institute applying "big-picture" metatheory to civilisational challenges, including mapping the ecology of integrative responses to the metacrisis.
 
 ## Commons & self-governance
 
@@ -27,23 +29,25 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 - **[ProSocial World](https://www.prosocial.world/)** — a non-profit applying evolutionary science and Ostrom's commons principles to help groups become more cooperative, equitable, and collaborative.
 - **[Plurality Institute](https://www.plurality.institute/)** — an academic research network developing technology for cooperation across difference (the "Plurality" approach).
 - **[Democratizing Work](https://democratizingwork.org/)** — an international initiative (sparked by Isabelle Ferreras' 2020 manifesto) arguing for democracy inside the workplace, not just the polity.
+- **[P2P Foundation](https://p2pfoundation.net/)** — Michel Bauwens' research network on commons-based peer production, and a primary source of thinking on how to fund the commons ("peerfunding" and "transvestment").
 
 ## Networks & communities
 
 - **[People Powered](https://www.peoplepowered.org/)** — a global hub for participatory democracy, helping organisations and governments expand people's power to shape public policy around the world.
-- **[OpenCivics](https://www.opencivics.co/)** — a community of practice and solidarity for open civic innovation, providing scaffolding for civic innovators to coordinate, align, and find funding.
+- **[OpenCivics](https://www.opencivics.co/)** — a community of practice and solidarity for open civic innovation, providing scaffolding for civic innovators to coordinate, align, and find funding. Its **Civic Innovator Sessions** spotlight emerging projects across the open-civic ecosystem.
 - **[Newspeak House](https://newspeak.house/)** — the London College of Political Technologists: a community and residency supporting civic technologists and the tech-and-politics community in London.
 - **[Civic Tech Field Guide](https://civictech.guide/)** — the largest open, crowdsourced directory of democracy-tech tools, organisations, and programmes (11,000+ entries, open data), mapping civic tech and civic AI so practitioners can find and learn from one another. Founded in 2016 by Micah Sifry, Erin Simpson, and Matt Stempeck at Civic Hall in New York; it organises the field into "the tech" (tools and data) and "the people" (fellowships, research, jobs, funders), and runs a trend-spotting newsletter.
 - **[Association Civic Tech Europe (ACTE)](https://acte-europe.org/)** — a Brussels-based trade association of civic-tech and gov-tech companies (founded 2019) representing participation platforms at the EU level — a sign of a maturing sector.
 - **[g0v (gov-zero)](https://g0v.tw/)** — a Taiwanese grassroots civic-tech movement and community that has produced thousands of open-source projects, a model for citizen-led technology worldwide.
 - **[Code for All](https://codeforall.org/)** — a global network connecting local civic-tech organisations so they can share ideas, tools, and impact across borders.
+- **[Collaborative Technology Alliance](https://www.collaborative.tech/)** — an alliance of decentralized- and collaborative-tech projects committed to interoperability across their platforms; incubator of the OpenHaven protocol navigator.
 - **[Life Itself](https://lifeitself.org/)** — an organisation exploring new cultural, social, and economic paradigms, working toward a wiser, weller world.
 - **[Mutual Aid LA Network](https://mutualaidla.org/)** — a connector and information hub for mutual-aid groups, people, and resources across Los Angeles, including a searchable directory of local efforts (The Dispatch).
 
 ## Bridging & community building
 
 - **[Braver Angels](https://braverangels.org/)** — a citizens' organisation uniting "red" and "blue" Americans in a working alliance to bridge the partisan divide and depolarise the country.
-- **[Better Together America](https://www.bettertogetheramerica.org/)** — a nationwide, nonpartisan network of local and state "civic hubs" building community resilience and problem-solving, incubated by the Mediators Foundation.
+- **[Better Together America](https://www.bettertogetheramerica.org/)** — a nationwide, nonpartisan network of local and state "civic hubs" building community resilience and problem-solving, incubated by the Mediators Foundation; the intended beta partner for the Civic Intelligence Infrastructure initiative.
 - **[The Harwood Institute](https://theharwoodinstitute.org/)** — equips communities to "turn outward" and become a collective force for change.
 
 ## Relational & civic-tech projects

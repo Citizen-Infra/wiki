@@ -32,6 +32,12 @@ A growing, annotated shelf of the talks, research, and writing we've found usefu
 - **Nathan Schneider, *Governable Spaces: Democratic Design for Online Life*** (University of California Press, 2024) — the book that names "implicit feudalism" and makes the case for democratic design of online communities (open access).
 - **"Modular Politics: Toward a Governance Layer for Online Communities"** — the Metagov paper (Frey, Schneider, et al., 2021) behind the modular-politics framework.
 
+## Infrastructure, the commons & the bigger picture
+
+- **[OpenHaven & Civic Intelligence Infrastructure — Brandon Nørgaard (OpenCivics, 2026)](https://youtu.be/Umpu1AmTuy8)** — a short Civic Innovator Session on mapping the decentralized protocol landscape and building a connective "intelligence layer" between civic tools. The source behind our [decentralized landscape](/concepts/decentralized-landscape/) and [civic intelligence infrastructure](/concepts/civic-intelligence-infrastructure/) concepts.
+- **[OpenHaven — Stakeholder Brief](https://openhaven.net/brief/)** — a community-led "convergence navigator" for the peer-to-peer and decentralized protocol landscape (Collaborative Technology Alliance).
+- **[Mapping an Ecology of Integrative Approaches to Addressing the Metacrisis](https://appliedmetatheory.org/mapping-ecology-integrative-approaches-addressing-metacrisis/)** — Brandon Norgaard, Nicholas Hedlund & Claudia Meglin (Institute of Applied Metatheory, 2025). The big-picture backdrop behind our [metacrisis](/concepts/metacrisis/) concept.
+
 ---
 
 *This shelf grows as we process new sources. Have something that belongs here? Use the "Edit page" link below.*

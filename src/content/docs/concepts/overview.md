@@ -20,6 +20,7 @@ It's a living reference that grows over time. Where a concept has real-world exa
 - [The Power Matrix](/concepts/power-matrix/) — the four forms of power at play whenever people coordinate
 - [Cargo cult democracy](/concepts/cargo-cult-democracy/) — build the people, not just the democratic "artifact"
 - [Technology's place is education](/concepts/tech-place-is-education/) — why literacy, not tooling, is the bottleneck
+- [Funding the commons](/concepts/funding-the-commons/) — how citizen infrastructure gets paid for without being captured
 
 ## Online communities & governance
 
@@ -40,5 +41,11 @@ It's a living reference that grows over time. Where a concept has real-world exa
 - [Civic products, externalities & features](/concepts/civic-products-and-features/) — three ways technology touches democracy
 - [Connecting the tools — interoperability & standards](/concepts/interoperability-and-standards/) — making thousands of civic tools talk to each other
 - [The organizer kit](/concepts/organizer-kit/) — meeting the under-resourced local organizer where they already are
+- [The peer-to-peer & decentralized landscape](/concepts/decentralized-landscape/) — the "decentralized" world citizens keep hearing about, and how to spot real power-sharing
+- [Civic intelligence infrastructure](/concepts/civic-intelligence-infrastructure/) — connective tissue that makes scattered civic work legible
+
+## The bigger picture
+
+- [The metacrisis](/concepts/metacrisis/) — why some argue today's crises are one interconnected predicament
 
 More explainers are on the way. Spot one that's missing? Use the "Edit page" link below.
