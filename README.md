@@ -34,4 +34,6 @@ Pages cite their sources, and figures should trace to a public source. Working w
 
 ## License
 
-Released under the [MIT License](./LICENSE).
+The content of this wiki is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](./LICENSE) — you're free to share and adapt it, including commercially, as long as you give appropriate credit.
+
+© 2026 Citizen Infrastructure Builders Club
