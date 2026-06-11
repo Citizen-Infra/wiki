@@ -32,6 +32,7 @@ export default defineConfig({
           { slug: 'concepts/ai-for-participation' },
           { slug: 'concepts/synthetic-participation' },
           { slug: 'concepts/ai-and-deliberation' },
+          { slug: 'concepts/civic-listening' },
           { slug: 'concepts/commoning-standard' },
           { slug: 'concepts/power-matrix' },
           { slug: 'concepts/cargo-cult-democracy' },
@@ -92,6 +93,8 @@ export default defineConfig({
           { slug: 'stories/topanga-fire-mutual-aid' },
           { slug: 'stories/open-source-insulin' },
           { slug: 'stories/fureai-kippu' },
+          { slug: 'stories/american-conversation-project' },
+          { slug: 'stories/real-talk-for-change' },
         ]},
         { label: 'Ecosystem', items: [
           { slug: 'ecosystem/overview' },

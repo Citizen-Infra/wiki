@@ -12,5 +12,7 @@ This section collects those stories: bottom-up, real-world examples of citizens 
 - [Topanga: a WhatsApp group becomes fire infrastructure](/stories/topanga-fire-mutual-aid/)
 - [Open-source insulin: "We Are Not Waiting"](/stories/open-source-insulin/)
 - [Fureai Kippu: care as a commons (Japan)](/stories/fureai-kippu/)
+- [The American Conversation Project](/stories/american-conversation-project/)
+- [Real Talk for Change (Boston)](/stories/real-talk-for-change/)
 
 More stories will be added over time. Have one that belongs here? Use the "Edit page" link below.

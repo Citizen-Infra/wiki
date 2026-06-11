@@ -22,6 +22,8 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 - **[Institute of Applied Metatheory](https://appliedmetatheory.org/)** — a research institute applying "big-picture" metatheory to civilisational challenges, including mapping the ecology of integrative responses to the metacrisis.
 - **[KNOCA — Knowledge Network on Climate Assemblies](https://knoca.eu/)** — a European network sharing best practice and research on the design, running, and follow-up of climate assemblies.
 - **[Child Rights International Network (CRIN)](https://home.crin.org/)** — a children's-rights organisation supporting those who commission, design, and facilitate citizens' assemblies to involve children meaningfully and safely; convenor of a Children and Democracy Network.
+- **[National Issues Forums Institute (NIFI)](https://nifi.org/)** — a US nonpartisan network promoting public deliberation on difficult issues, often hosted in libraries and classrooms.
+- **[Institute for Citizens & Scholars](https://cands.org/)** — a US institute building civic culture and skills, especially on college campuses.
 
 ## Commons & self-governance
 
@@ -53,6 +55,8 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 - **[Braver Angels](https://braverangels.org/)** — a citizens' organisation uniting "red" and "blue" Americans in a working alliance to bridge the partisan divide and depolarise the country.
 - **[Better Together America](https://www.bettertogetheramerica.org/)** — a nationwide, nonpartisan network of local and state "civic hubs" building community resilience and problem-solving, incubated by the Mediators Foundation; the intended beta partner for the Civic Intelligence Infrastructure initiative.
 - **[The Harwood Institute](https://theharwoodinstitute.org/)** — equips communities to "turn outward" and become a collective force for change.
+- **[National Conference on Citizenship (NCoC)](https://ncoc.org/)** — a long-running US civic-life organisation (founded after WWII) that convenes leaders and groups around active citizenship; behind the American Conversation Project.
+- **[National Civic League](https://www.nationalcivicleague.org/)** — a century-old US civic-engagement organisation (home of the All-America City Award) supporting inclusive, collaborative local problem-solving.
 
 ## Relational & civic-tech projects
 

@@ -50,6 +50,7 @@ It's a living reference that grows over time. Where a concept has real-world exa
 - [AI for participation](/concepts/ai-for-participation/) — how AI is actually showing up in participation tools
 - [Synthetic participation](/concepts/synthetic-participation/) — the risk of AI-generated stand-ins for real citizens
 - [Can AI scale deliberation?](/concepts/ai-and-deliberation/) — what's gained and lost when you automate the work of deliberating
+- [Civic listening](/concepts/civic-listening/) — hearing a whole community at scale through small-group story-sharing
 
 ## The civic tech field
 
