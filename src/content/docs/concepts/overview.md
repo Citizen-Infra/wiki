@@ -64,5 +64,8 @@ It's a living reference that grows over time. Where a concept has real-world exa
 ## The bigger picture
 
 - [The metacrisis](/concepts/metacrisis/) — why some argue today's crises are one interconnected predicament
+- [Planetary governance](/concepts/planetary-governance/) — governing the problems that cross every border, at the scale they actually operate on
+- [Segmented sovereignty](/concepts/segmented-sovereignty/) — how states sometimes cede a narrow slice of sovereignty to face a shared threat (the IAEA model)
+- [More-than-human governance](/concepts/multispecies-governance/) — giving animals, rivers and seas a voice in the decisions that affect them
 
 More explainers are on the way. Spot one that's missing? Use the "Edit page" link below.

@@ -78,6 +78,9 @@ export default defineConfig({
           ]},
           { label: 'The bigger picture', collapsed: true, items: [
             { slug: 'concepts/metacrisis' },
+            { slug: 'concepts/planetary-governance' },
+            { slug: 'concepts/segmented-sovereignty' },
+            { slug: 'concepts/multispecies-governance' },
           ]},
         ]},
         { label: 'The toolkit', items: [
@@ -117,6 +120,8 @@ export default defineConfig({
           { slug: 'stories/fureai-kippu' },
           { slug: 'stories/american-conversation-project' },
           { slug: 'stories/real-talk-for-change' },
+          { slug: 'stories/embassy-of-the-north-sea' },
+          { slug: 'stories/interspecies-money' },
         ]},
         { label: 'Ecosystem', items: [
           { slug: 'ecosystem/overview' },

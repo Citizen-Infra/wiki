@@ -14,5 +14,7 @@ This section collects those stories: bottom-up, real-world examples of citizens 
 - [Fureai Kippu: care as a commons (Japan)](/stories/fureai-kippu/)
 - [The American Conversation Project](/stories/american-conversation-project/)
 - [Real Talk for Change (Boston)](/stories/real-talk-for-change/)
+- [The Embassy of the North Sea (Netherlands)](/stories/embassy-of-the-north-sea/)
+- [Interspecies money: gorillas with bank accounts](/stories/interspecies-money/)
 
 More stories will be added over time. Have one that belongs here? Use the "Edit page" link below.

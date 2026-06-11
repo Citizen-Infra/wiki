@@ -24,6 +24,9 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 - **[Child Rights International Network (CRIN)](https://home.crin.org/)** — a children's-rights organisation supporting those who commission, design, and facilitate citizens' assemblies to involve children meaningfully and safely; convenor of a Children and Democracy Network.
 - **[National Issues Forums Institute (NIFI)](https://nifi.org/)** — a US nonpartisan network promoting public deliberation on difficult issues, often hosted in libraries and classrooms.
 - **[Institute for Citizens & Scholars](https://cands.org/)** — a US institute building civic culture and skills, especially on college campuses.
+- **[Berggruen Institute](https://www.berggruen.org/)** — a Los Angeles think tank developing ideas for fundamental political and social change; its Planetary programme (and projects like the Planetary Compendium and the Multispecies Constitution Project) explores governance at the scale of a living planet.
+- **[Dark Matter Labs](https://darkmatterlabs.org/)** — a strategic R&D and design studio working on the institutional "dark matter" — the laws, norms, and infrastructures — behind systemic transitions; its Planetary Civics mission and the Planetary Civics Inquiry reimagine governance for a planetary age.
+- **[Open Lunar Foundation](https://www.openlunar.org/)** — a non-profit working toward cooperative, peaceful governance of the Moon; it designs and facilitates lunar-scenario simulations (such as "Between the Craters" at the 2025 International Astronautical Congress) to test how shared rules might work before they are needed.
 
 ## Commons & self-governance
 

@@ -2,6 +2,8 @@
 dist/
 # generated types
 .astro/
+# netlify CLI deploy state
+.netlify/
 
 # dependencies
 node_modules/
