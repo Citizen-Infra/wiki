@@ -75,6 +75,8 @@ export default defineConfig({
             { slug: 'concepts/organizer-kit' },
             { slug: 'concepts/decentralized-landscape' },
             { slug: 'concepts/civic-intelligence-infrastructure' },
+            { slug: 'concepts/relational-tech' },
+            { slug: 'concepts/locality-to-locality-spreading' },
           ]},
           { label: 'The bigger picture', collapsed: true, items: [
             { slug: 'concepts/metacrisis' },
@@ -122,6 +124,8 @@ export default defineConfig({
           { slug: 'stories/real-talk-for-change' },
           { slug: 'stories/embassy-of-the-north-sea' },
           { slug: 'stories/interspecies-money' },
+          { slug: 'stories/outer-sunset' },
+          { slug: 'stories/community-supplies' },
         ]},
         { label: 'Ecosystem', items: [
           { slug: 'ecosystem/overview' },

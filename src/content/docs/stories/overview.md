@@ -16,5 +16,7 @@ This section collects those stories: bottom-up, real-world examples of citizens 
 - [Real Talk for Change (Boston)](/stories/real-talk-for-change/)
 - [The Embassy of the North Sea (Netherlands)](/stories/embassy-of-the-north-sea/)
 - [Interspecies money: gorillas with bank accounts](/stories/interspecies-money/)
+- [The Outer Sunset: a neighborhood builds its own tech](/stories/outer-sunset/)
+- [Community Supplies: a sharing app that spread to 200 neighborhoods](/stories/community-supplies/)
 
 More stories will be added over time. Have one that belongs here? Use the "Edit page" link below.

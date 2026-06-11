@@ -50,6 +50,13 @@ A growing, annotated shelf of the talks, research, and writing we've found usefu
 - **Jonathan S. Blake & Nils Gilman, *Children of a Modest Star: Planetary Thinking for an Age of Crises*** (Stanford University Press, 2024) — the book-length case for institutions that can act at the scale of the planet; origin of the "segmented sovereignty" reading of the IAEA.
 - **[Interspecies money is here — Nils Gilman & Mutesi Rusagara (Brookings, 2024)](https://www.brookings.edu/articles/interspecies-money-is-here/)** — the short essay behind our [interspecies money](/stories/interspecies-money/) Story: how a Rwandan pilot gave mountain gorillas a wallet and a trustee.
 
+## Neighbouring & relational tech
+
+- **[Metagov Seminar: Locality-to-Locality Spreading with the Relational Tech Project (2026)](https://www.youtube.com/watch?v=HbH_cYgUCWA)** — Deborah Tien & Josh Nesbit on building "village-scale" tools that strengthen neighbourhoods, and how those tools spread community to community. The source behind our [relational tech](/concepts/relational-tech/) and [locality-to-locality spreading](/concepts/locality-to-locality-spreading/) concepts and two Stories.
+- **[Building tech that's relational, place-based, participatory, and ~weird~ — Connective Tissue (2025)](https://connectivetissue.substack.com/p/building-tech-thats-relational-place)** — a Q&A with the Relational Tech Project's founders on "building with, not for," post-platform tech, and a new math of scale.
+- **[I wanted to buy less stuff. I ended up bonding with my neighbors — Washington Post (2026)](https://www.washingtonpost.com/climate-environment/2026/04/14/sharing-economy-community-neighbors/)** — the column that sent the [Community Supplies](/stories/community-supplies/) sharing app to roughly 200 neighbourhoods in three days.
+- **[The Protopian Prize — Metagov](https://protopianprize.com/)** — Metagov's fiction contest inviting stories of people building "public AI" and "democratic futures"; part of the same effort to imagine better civic technology.
+
 ---
 
 *This shelf grows as we process new sources. Have something that belongs here? Use the "Edit page" link below.*

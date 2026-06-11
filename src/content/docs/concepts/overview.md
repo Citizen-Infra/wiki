@@ -60,6 +60,8 @@ It's a living reference that grows over time. Where a concept has real-world exa
 - [The organizer kit](/concepts/organizer-kit/) — meeting the under-resourced local organizer where they already are
 - [The peer-to-peer & decentralized landscape](/concepts/decentralized-landscape/) — the "decentralized" world citizens keep hearing about, and how to spot real power-sharing
 - [Civic intelligence infrastructure](/concepts/civic-intelligence-infrastructure/) — connective tissue that makes scattered civic work legible
+- [Relational tech](/concepts/relational-tech/) — technology built *with* a community to deepen care and trust, not optimise attention
+- [Locality-to-locality spreading](/concepts/locality-to-locality-spreading/) — how grassroots tools spread by being remixed, one neighbourhood at a time
 
 ## The bigger picture
 

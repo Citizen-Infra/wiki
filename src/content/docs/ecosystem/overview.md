@@ -52,6 +52,8 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 - **[Collaborative Technology Alliance](https://www.collaborative.tech/)** — an alliance of decentralized- and collaborative-tech projects committed to interoperability across their platforms; incubator of the OpenHaven protocol navigator.
 - **[Life Itself](https://lifeitself.org/)** — an organisation exploring new cultural, social, and economic paradigms, working toward a wiser, weller world.
 - **[Mutual Aid LA Network](https://mutualaidla.org/)** — a connector and information hub for mutual-aid groups, people, and resources across Los Angeles, including a searchable directory of local efforts (The Dispatch).
+- **[Connective Tissue](https://connectivetissue.substack.com/)** — Sam Pressler's newsletter and community "on the connections, communities, and commitments that bind us together"; it incubated the Relational Tech Project and runs the [withneighbors.org](https://withneighbors.org/) neighbour-gathering microgrants.
+- **[Civic Joy Fund](https://www.civicjoyfund.org/)** — a San Francisco non-profit (co-founded by Manny Yekutiel of the café/event space Manny's) that funds public joy — night markets, free celebrations, artists painting utility boxes — and partners on neighbour-gathering microgrants.
 
 ## Bridging & community building
 
@@ -63,7 +65,7 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 
 ## Relational & civic-tech projects
 
-- **[Relational Tech Project](https://relationaltechproject.org/)** — a nonprofit supporting "relational tech": technology built with and for communities to help neighbours support each other and build what they need.
+- **[Relational Technology Project](https://relationaltechproject.org/)** — a nonprofit (Deborah Tien, Josh Nesbit, Sadev Parikh) supporting builders of "relational tech": small, village-scale tools that help neighbours care for each other and build trust. It stewards a commons of hundreds of neighbouring projects plus open tools — a chat-driven "Studio" for remixing them, an MCP server, and neighbour-gathering microgrants — and helps them spread "locality to locality."
 - **[New_ Public](https://newpublic.org/)** — a nonprofit product studio reimagining community and conversation online, building digital public spaces where people can thrive and connect.
 - **[Folk Technology](https://folktechnology.org/)** — a movement to build technology designed for regular folks, not "users" or "consumers."
 
