@@ -17,6 +17,9 @@ It's a living reference that grows over time. Where a concept has real-world exa
 - [Civic love](/concepts/civic-love/) — the relational bond that makes deliberation work, and precedes its wisdom
 - [Binding or advisory?](/concepts/binding-vs-advisory/) — why advisory-only assemblies risk "participation washing," and how a few got real power
 - [Investor assemblies](/concepts/investor-assemblies/) — extending sortition beyond the state to the economy
+- [Children & young people's assemblies](/concepts/children-and-youth-assemblies/) — bringing under-18s into deliberation, by right
+- [Intergenerational deliberation](/concepts/intergenerational-deliberation/) — 7-to-70 in one room, and stewarding decisions across generations
+- [Deliberation as enfranchisement](/concepts/deliberation-and-enfranchisement/) — giving a say to those the vote excludes
 
 ## Self-governance & power
 

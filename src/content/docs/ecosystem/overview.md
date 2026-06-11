@@ -21,6 +21,7 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 - **[Center for Engaged Democracy](https://www.merrimack.edu/wp-content/uploads/160-core-competencies-in-civic-engagement.pdf)** — a US academic hub (Merrimack College) that mapped the core competencies for civic engagement.
 - **[Institute of Applied Metatheory](https://appliedmetatheory.org/)** — a research institute applying "big-picture" metatheory to civilisational challenges, including mapping the ecology of integrative responses to the metacrisis.
 - **[KNOCA — Knowledge Network on Climate Assemblies](https://knoca.eu/)** — a European network sharing best practice and research on the design, running, and follow-up of climate assemblies.
+- **[Child Rights International Network (CRIN)](https://home.crin.org/)** — a children's-rights organisation supporting those who commission, design, and facilitate citizens' assemblies to involve children meaningfully and safely; convenor of a Children and Democracy Network.
 
 ## Commons & self-governance
 
@@ -36,6 +37,7 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 ## Networks & communities
 
 - **[People Powered](https://www.peoplepowered.org/)** — a global hub for participatory democracy, helping organisations and governments expand people's power to shape public policy around the world.
+- **[Mehr Demokratie](https://www.mehr-demokratie.de/en/)** — Germany's leading direct- and participatory-democracy NGO; its LOSLAND project (with the RIFS sustainability institute) brings citizens' assemblies to municipalities and engages young people.
 - **[OpenCivics](https://www.opencivics.co/)** — a community of practice and solidarity for open civic innovation, providing scaffolding for civic innovators to coordinate, align, and find funding. Its **Civic Innovator Sessions** spotlight emerging projects across the open-civic ecosystem.
 - **[Newspeak House](https://newspeak.house/)** — the London College of Political Technologists: a community and residency supporting civic technologists and the tech-and-politics community in London.
 - **[Civic Tech Field Guide](https://civictech.guide/)** — the largest open, crowdsourced directory of democracy-tech tools, organisations, and programmes (11,000+ entries, open data), mapping civic tech and civic AI so practitioners can find and learn from one another. Founded in 2016 by Micah Sifry, Erin Simpson, and Matt Stempeck at Civic Hall in New York; it organises the field into "the tech" (tools and data) and "the people" (fellowships, research, jobs, funders), and runs a trend-spotting newsletter.

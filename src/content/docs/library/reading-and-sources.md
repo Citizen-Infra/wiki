@@ -31,6 +31,8 @@ A growing, annotated shelf of the talks, research, and writing we've found usefu
 - **Hélène Landemore, *Politics Without Politicians: The Case for Citizen Rule*** (2026) — open democracy told through the stories of real citizens' conventions.
 - **[Politics Without Politicians — Hélène Landemore × DemocracyNext (2026)](https://www.youtube.com/watch?v=sgFUtZCgAqI)** — a wide-ranging interview on binding citizen power, governing the assembly, the "civic love" at the heart of deliberation, and where AI fits. The source behind several of our newer [Deliberative democracy](/concepts/overview/) concepts and the Michigan & Connecticut [Run Reports](/run-reports/overview/).
 - **[*Goodbye Elections. Hello Democracy.*](https://equalitybylot.com/2023/02/18/goodbye-elections-hello-democracy/)** — a documentary by Adam Cronkright following an all-citizen assembly (Michigan, over Zoom during COVID) — among the best captures of the human, emotional dimension of deliberation.
+- **[Children & young people's assemblies — DemocracyNext (2026)](https://www.youtube.com/watch?v=G48qf6qvU20)** — Katie Reed (CRIN) and two former teen assembly members on how under-18s are joining deliberative democracy. The source behind our children's-assembly concepts and the Ireland & Scotland [Run Reports](/run-reports/overview/).
+- **[Making (Deliberative) Waves — CRIN](https://home.crin.org/readlistenwatch/stories/making-deliberative-waves-reimagining-democracy-with-and-for-children)** — the Child Rights International Network on reimagining democracy with and for children.
 
 ## Online communities & governance
 

@@ -29,6 +29,8 @@ works — along with its limits, which we try to report honestly.
 - [Demos Waves](/run-reports/demos-waves/)
 - [Michigan Independent Citizens Redistricting Commission (2021)](/run-reports/michigan-redistricting-commission/)
 - [Connecticut Citizens' Assembly on Property Taxes (2026, in progress)](/run-reports/connecticut-property-taxes/)
+- [Ireland's Children & Young People's Assembly on Biodiversity Loss (2022)](/run-reports/ireland-biodiversity-assembly/)
+- [Scotland's Climate Assembly: the children's process (2020–2021)](/run-reports/scotland-climate-children/)
 
 More will be added over time. Spot an error, or a deliberation that belongs here? Use the
 "Edit page" link at the bottom of any page.

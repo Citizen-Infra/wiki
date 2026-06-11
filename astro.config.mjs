@@ -49,6 +49,9 @@ export default defineConfig({
           { slug: 'concepts/civic-love' },
           { slug: 'concepts/binding-vs-advisory' },
           { slug: 'concepts/investor-assemblies' },
+          { slug: 'concepts/children-and-youth-assemblies' },
+          { slug: 'concepts/intergenerational-deliberation' },
+          { slug: 'concepts/deliberation-and-enfranchisement' },
           { slug: 'concepts/implicit-feudalism' },
           { slug: 'concepts/modular-politics' },
           { slug: 'concepts/constitutional-agents' },
@@ -81,6 +84,8 @@ export default defineConfig({
           { slug: 'run-reports/demos-waves' },
           { slug: 'run-reports/michigan-redistricting-commission' },
           { slug: 'run-reports/connecticut-property-taxes' },
+          { slug: 'run-reports/ireland-biodiversity-assembly' },
+          { slug: 'run-reports/scotland-climate-children' },
         ]},
         { label: 'Stories', items: [
           { slug: 'stories/overview' },
