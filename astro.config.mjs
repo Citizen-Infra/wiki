@@ -90,17 +90,25 @@ export default defineConfig({
         ]},
         { label: 'Run Reports', items: [
           { slug: 'run-reports/overview' },
-          { slug: 'run-reports/irish-citizens-assembly' },
-          { slug: 'run-reports/french-convention-end-of-life' },
-          { slug: 'run-reports/french-convention-climate' },
-          { slug: 'run-reports/iceland-2010-constitution' },
-          { slug: 'run-reports/global-assembly-2021' },
-          { slug: 'run-reports/ostbelgien-citizens-council' },
-          { slug: 'run-reports/demos-waves' },
-          { slug: 'run-reports/michigan-redistricting-commission' },
-          { slug: 'run-reports/connecticut-property-taxes' },
-          { slug: 'run-reports/ireland-biodiversity-assembly' },
-          { slug: 'run-reports/scotland-climate-children' },
+          { label: "Citizens' assemblies & conventions", collapsed: true, items: [
+            { slug: 'run-reports/irish-citizens-assembly' },
+            { slug: 'run-reports/french-convention-end-of-life' },
+            { slug: 'run-reports/french-convention-climate' },
+            { slug: 'run-reports/global-assembly-2021' },
+            { slug: 'run-reports/connecticut-property-taxes' },
+          ]},
+          { label: 'Constitutional & electoral reform', collapsed: true, items: [
+            { slug: 'run-reports/iceland-2010-constitution' },
+            { slug: 'run-reports/michigan-redistricting-commission' },
+          ]},
+          { label: 'Permanent & recurring models', collapsed: true, items: [
+            { slug: 'run-reports/ostbelgien-citizens-council' },
+            { slug: 'run-reports/demos-waves' },
+          ]},
+          { label: 'Children & young people', collapsed: true, items: [
+            { slug: 'run-reports/ireland-biodiversity-assembly' },
+            { slug: 'run-reports/scotland-climate-children' },
+          ]},
         ]},
         { label: 'Stories', items: [
           { slug: 'stories/overview' },

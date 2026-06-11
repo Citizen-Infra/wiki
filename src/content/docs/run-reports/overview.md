@@ -20,15 +20,26 @@ works — along with its limits, which we try to report honestly.
 
 ## In this library
 
+### Citizens' assemblies & conventions
+
 - [Irish Citizens' Assembly on the Eighth Amendment](/run-reports/irish-citizens-assembly/)
 - [French Citizens' Convention on End of Life](/run-reports/french-convention-end-of-life/)
 - [French Citizens' Convention for Climate (2019–2020)](/run-reports/french-convention-climate/)
-- [Iceland's crowdsourced constitution (2010–2013)](/run-reports/iceland-2010-constitution/)
 - [The Global Assembly on the Climate and Ecological Crisis (2021)](/run-reports/global-assembly-2021/)
+- [Connecticut Citizens' Assembly on Property Taxes (2026, in progress)](/run-reports/connecticut-property-taxes/)
+
+### Constitutional & electoral reform
+
+- [Iceland's crowdsourced constitution (2010–2013)](/run-reports/iceland-2010-constitution/)
+- [Michigan Independent Citizens Redistricting Commission (2021)](/run-reports/michigan-redistricting-commission/)
+
+### Permanent & recurring models
+
 - [The Ostbelgien Model: a permanent citizens' council (Belgium)](/run-reports/ostbelgien-citizens-council/)
 - [Demos Waves](/run-reports/demos-waves/)
-- [Michigan Independent Citizens Redistricting Commission (2021)](/run-reports/michigan-redistricting-commission/)
-- [Connecticut Citizens' Assembly on Property Taxes (2026, in progress)](/run-reports/connecticut-property-taxes/)
+
+### Children & young people
+
 - [Ireland's Children & Young People's Assembly on Biodiversity Loss (2022)](/run-reports/ireland-biodiversity-assembly/)
 - [Scotland's Climate Assembly: the children's process (2020–2021)](/run-reports/scotland-climate-children/)
 

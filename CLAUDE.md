@@ -34,7 +34,7 @@ npx netlify-cli deploy --prod --dir=dist --site=citizen-infra
 A standard Starlight docs site with one critical convention:
 
 - **All content is Markdown in `src/content/docs/<section>/*.md`.** Each top-level folder is a sidebar group: `start/`, `idea/`, `concepts/`, `toolkit/`, `run-reports/`, `stories/`, `ecosystem/`, `library/`, plus `about.md` and the `index.mdx` homepage.
-- **The sidebar is hand-curated in `astro.config.mjs`.** Adding a `.md` file does **not** make it appear in navigation — you must add its `{ slug: '<section>/<name>' }` to the `sidebar` array. Forgetting this is the most common mistake; the page builds but is unreachable.
+- **The sidebar is hand-curated in `astro.config.mjs`.** Adding a `.md` file does **not** make it appear in navigation — you must add its `{ slug: '<section>/<name>' }` to the `sidebar` array. Forgetting this is the most common mistake; the page builds but is unreachable. **Concepts and Run Reports are split into collapsible theme sub-groups** (nested `{ label, collapsed: true, items: [...] }`) that mirror the H2/H3 groups on each section's overview page — add a new page to the matching sub-group in *both* the sidebar and that overview page, keeping the two in sync.
 - **Page conventions:** frontmatter `title` + `description`; plain language; internal links as `/section/slug/`; most concept/run-report pages end with a `## Sources` section. Cross-link generously between Concepts ↔ Run Reports/Stories ↔ Toolkit ↔ Ecosystem.
 - **Theme is intentionally vanilla** — no custom CSS or logo (branding is mid-flight). Don't add visual chrome; this is a content site.
 
