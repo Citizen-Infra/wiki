@@ -18,6 +18,10 @@ A growing, annotated shelf of the talks, research, and writing we've found usefu
 - **Cecile Green, *Collaboration that Works: A Ruthlessly Practical Handbook for a Generative World*** — a practical handbook of power-sharing practices, summarising the research behind the Commoning Standard's "Collab."
 - **[Council of Europe — Reference Framework of Competences for Democratic Culture](https://www.coe.int/en/web/reference-framework-of-competences-for-democratic-culture)** — an official European framework of the values, attitudes, skills, and knowledge people need to take part in a democratic culture.
 - **[US Army — ADP 6-22, *Army Leadership and the Profession*](https://www.eiu.edu/armyrotc/docs/adp6_22.pdf)** — the "be, know, do" leadership doctrine; a striking example of an institution treating leadership as something to teach everyone, not just those at the top.
+- **[David Bollier on the commons — Team Human w/ Douglas Rushkoff (2025)](https://www.youtube.com/watch?v=5NrkkC8tQGQ)** — a clear, wide-ranging conversation on what the commons really is, why the "tragedy" was a myth, enclosure, and the OntoShift. The source behind our [commons](/concepts/the-commons/) concepts and two Stories.
+- **David Bollier, *Think Like a Commoner* (2nd ed.)** — a short, accessible introduction to commons thinking and practice.
+- **David Bollier & Silke Helfrich, *Free, Fair and Alive: The Insurgent Power of the Commons*** (2019, open access) — the fuller treatment; source of "relationalised property" and the OntoShift.
+- **Robert C. Ellickson, *Order Without Law: How Neighbors Settle Disputes*** (Harvard, 1991) — how Shasta County cattle ranchers resolve disputes by informal social norms rather than the law: self-governance in the wild.
 
 ## Deliberative democracy & citizens' assemblies
 

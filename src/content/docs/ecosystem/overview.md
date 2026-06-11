@@ -31,6 +31,7 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 - **[Plurality Institute](https://www.plurality.institute/)** — an academic research network developing technology for cooperation across difference (the "Plurality" approach).
 - **[Democratizing Work](https://democratizingwork.org/)** — an international initiative (sparked by Isabelle Ferreras' 2020 manifesto) arguing for democracy inside the workplace, not just the polity.
 - **[P2P Foundation](https://p2pfoundation.net/)** — Michel Bauwens' research network on commons-based peer production, and a primary source of thinking on how to fund the commons ("peerfunding" and "transvestment").
+- **[Schumacher Center for a New Economics](https://centerforneweconomics.org/)** — a US institute advancing commons-based economics; home of David Bollier's Reinventing the Commons Program and issuer of the BerkShares local currency.
 
 ## Networks & communities
 

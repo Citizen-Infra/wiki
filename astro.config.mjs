@@ -36,6 +36,11 @@ export default defineConfig({
           { slug: 'concepts/power-matrix' },
           { slug: 'concepts/cargo-cult-democracy' },
           { slug: 'concepts/tech-place-is-education' },
+          { slug: 'concepts/the-commons' },
+          { slug: 'concepts/enclosure' },
+          { slug: 'concepts/the-ontoshift' },
+          { slug: 'concepts/relational-property' },
+          { slug: 'concepts/parallel-polis' },
           { slug: 'concepts/open-democracy' },
           { slug: 'concepts/citizens-assembly' },
           { slug: 'concepts/epistemic-democracy' },
@@ -80,6 +85,8 @@ export default defineConfig({
         { label: 'Stories', items: [
           { slug: 'stories/overview' },
           { slug: 'stories/topanga-fire-mutual-aid' },
+          { slug: 'stories/open-source-insulin' },
+          { slug: 'stories/fureai-kippu' },
         ]},
         { label: 'Ecosystem', items: [
           { slug: 'ecosystem/overview' },

@@ -26,6 +26,14 @@ It's a living reference that grows over time. Where a concept has real-world exa
 - [Technology's place is education](/concepts/tech-place-is-education/) — why literacy, not tooling, is the bottleneck
 - [Funding the commons](/concepts/funding-the-commons/) — how citizen infrastructure gets paid for without being captured
 
+## The commons
+
+- [The commons (and why it's not a tragedy)](/concepts/the-commons/) — what a commons actually is, and why Hardin got it wrong
+- [Enclosure](/concepts/enclosure/) — the fencing-off of shared wealth, from medieval fields to your data
+- [The OntoShift](/concepts/the-ontoshift/) — the mindset shift from isolated individual to web of interdependence
+- [Relational property](/concepts/relational-property/) — ownership as community-agreed use rights, not absolute dominion
+- [Parallel polis](/concepts/parallel-polis/) — building the horizontal alternative now, not just confronting the state
+
 ## Online communities & governance
 
 - [Implicit feudalism](/concepts/implicit-feudalism/) — why online spaces default to one all-powerful admin

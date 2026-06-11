@@ -18,6 +18,11 @@ Shared work needs shared resources. These tools help a community raise and manag
 
 - **[CoBudget](https://cobudget.com/)** — lets a community allocate a shared pot of money *collaboratively*: members propose ideas, see the budget, and decide together where it goes. Pairs naturally with participatory budgeting.
 
+## Own it together
+
+- **Community land trusts (CLTs)** — a non-profit holds land in trust for lasting community benefit, taking it permanently out of the speculative market so housing or farmland stays affordable and locally governed. A practical form of [relational property](/concepts/relational-property/).
+- **Community-supported agriculture (CSA)** — members pay a local farm up front for a season's share, sharing the risk and keeping the farm viable: patronage and a shared stake instead of pure market exchange.
+
 Two patterns worth knowing as you grow — **capped returns** (investors earn up to a ceiling, then the venture reinvests all surplus in its mission) and **open value accounting** (tracking and rewarding everyone who contributes, not just founders) — are explained in [Funding the commons](/concepts/funding-the-commons/).
 
 *More tools will be added here over time. Know one that belongs? Use the "Edit page" link below.*
