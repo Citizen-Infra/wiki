@@ -20,14 +20,9 @@ Node **≥22.12** (Netlify pins `NODE_VERSION=22`). Always `npm run build` befor
 
 ## Deploy
 
-Deploys are **CLI-manual, not git-connected** — pushing to `main` does *not* publish. A maintainer with Netlify access runs:
+Deploys are **automatic** — Netlify is git-connected and builds every push to `main`, so **merge = live** at citizen-infra.netlify.app. Don't run a manual `netlify deploy`; just merge a green PR. `netlify.toml` sets the build command (`npm run build`), publish dir (`dist`), and Node 22. A clean `npm run build` is still the local gate before you push.
 
-```bash
-npm run build
-npx netlify-cli deploy --prod --dir=dist --site=citizen-infra
-```
-
-`netlify.toml` (`command="npm run build"`, `publish="dist"`) is configured in case the repo is git-connected later, but today the local `dist/` is uploaded directly.
+`main` is protected: a PR's `build` check must pass before it can merge. Vetted collaborators **self-merge** their own green PRs (no review required); admins can still push directly. See **`CONTRIBUTING.md`** for the full branch → PR → self-merge flow.
 
 ## Architecture
 
