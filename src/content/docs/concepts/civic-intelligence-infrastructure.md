@@ -24,7 +24,7 @@ High-stakes civic analysis needs rigour a pure-chatbot approach can't guarantee.
 
 It's an early-stage, in-development concept; Better Together America's network of civic hubs is the intended beta. Think of it as a concrete proposal for the "intelligence layer" gap described in [connecting the tools](/concepts/interoperability-and-standards/), and a cousin of the questions raised in [AI for participation](/concepts/ai-for-participation/).
 
-## Sources
+## Sources 
 
 - *Civic Intelligence Infrastructure — Concept Overview* (Brandon Nørgaard, Mediators Foundation, 2026).
 - Brandon Nørgaard — OpenCivics Civic Innovator Session (2026): [youtu.be/Umpu1AmTuy8](https://youtu.be/Umpu1AmTuy8).
