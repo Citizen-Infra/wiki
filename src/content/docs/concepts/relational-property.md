@@ -17,6 +17,10 @@ You don't have to wait for the whole legal system to change. Bollier points to *
 - **Community land trusts** hold land in trust so it stays affordable and locally governed, out of the speculative market.
 - Initiatives like **A Land for All** in Israel/Palestine try to reframe a bitter conflict away from "one nation or two" toward *sharing* a land — a relational rather than exclusive claim.
 
+## A market-based cousin: self-assessed property
+
+Some thinkers reach a similar destination through markets rather than community custom. The 19th-century economist Henry George observed that most of a plot's value comes from the *community* around it, not its owner — an empty Manhattan would be nearly worthless. The **SALSA / Harberger** mechanism builds on that: you self-assess what your possession is worth, pay a fee on that figure, and must stand ready to sell at that price, with the proceeds recycled to the community that creates the value. It lands on the same idea this page is about — possession as **stewardship**, not absolute dominion — but arrives from the [plurality](/concepts/plurality/) / RadicalxChange direction. See [plural mechanisms](/concepts/plural-mechanisms/).
+
 Relational property is the legal-and-cultural underside of the [commons](/concepts/the-commons/), a counter to [enclosure](/concepts/enclosure/), and a close cousin of [protocol](/concepts/protocol/) — coordination by shared, adaptable agreement rather than top-down control. For practical vehicles, see [Fund collective work](/toolkit/fund-collective-work/).
 
 ## Sources

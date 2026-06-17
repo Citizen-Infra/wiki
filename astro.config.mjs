@@ -48,6 +48,8 @@ export default defineConfig({
             { slug: 'concepts/cargo-cult-democracy' },
             { slug: 'concepts/tech-place-is-education' },
             { slug: 'concepts/funding-the-commons' },
+            { slug: 'concepts/plural-mechanisms' },
+            { slug: 'concepts/network-societies' },
           ]},
           { label: 'The commons', collapsed: true, items: [
             { slug: 'concepts/the-commons' },
@@ -123,6 +125,7 @@ export default defineConfig({
             { slug: 'run-reports/vtaiwan-uber' },
             { slug: 'run-reports/taiwan-alignment-assemblies' },
             { slug: 'run-reports/engaged-california' },
+            { slug: 'run-reports/anno-tokyo-2024' },
           ]},
         ]},
         { label: 'Stories', items: [

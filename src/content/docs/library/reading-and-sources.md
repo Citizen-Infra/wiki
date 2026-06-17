@@ -13,13 +13,18 @@ A growing, annotated shelf of the talks, research, and writing we've found usefu
 - **[Civic AI features table — People Powered × Civic Tech Field Guide](https://bit.ly/civicai)** — the underlying data: which AI-for-participation features appear on which platforms.
 - **[The American Conversation Project — Deb Roy / Cortico (NCoC, 2025)](https://www.youtube.com/watch?v=Zm3w5PkbVPo)** — a clear walkthrough of Cortico's "talk, understand, share" civic-listening method, and the launch of a nationwide listening effort. The source behind our [civic listening](/concepts/civic-listening/) concept.
 
-## Plurality & digital democracy (Audrey Tang)
+## Plurality, radical markets & digital democracy
 
 - **[*Plurality: The Future of Collaborative Technology and Democracy*](https://www.plurality.net/)** — the open book by Audrey Tang, E. Glen Weyl & a large community (the ⿻ project): the fullest statement of [plurality](/concepts/plurality/) — technology designed to help people cooperate across difference rather than race toward a single super-intelligence.
 - **["Conversation Networks" — Deb Roy, Lawrence Lessig & Audrey Tang (2025)](https://arxiv.org/abs/2503.11714)** — the paper behind our [conversation networks](/concepts/conversation-networks/) concept: the media shape that replaces broadcasting.
 - **[*Good Enough Ancestor* release conversation — Audrey Tang × Matt Prewitt, RadicalxChange (2025)](https://www.youtube.com/watch?v=RbvrMnv5g6w)** — a 90-minute conversation spanning Taoism, the Sunflower Movement, bandwidth-and-latency democracy, and pluralism. A source behind our [plurality](/concepts/plurality/), [uncommon ground](/concepts/uncommon-ground/), and [conversation networks](/concepts/conversation-networks/) concepts.
 - **["How Pro-Social Technology Is Saving Democracy from 'Big Tech'" — Audrey Tang, The Great Simplification w/ Nate Hagens (TGS 169, 2025)](https://www.youtube.com/watch?v=aXgne-9F7uU)** — the clearest single tour of Tang's work: singularity vs plurality, the deepfake Alignment Assembly, [pre-bunking](/concepts/pre-bunking/), Polis, and [pro-social media](/concepts/bridging-and-pro-social-media/). The main source behind our plurality cluster and the [Taiwan Alignment Assemblies](/run-reports/taiwan-alignment-assemblies/) run report.
 - **["From Taiwan to Germany: How Radical Participation Leapfrogs Public Trust" — Audrey Tang & Zarah Bruhn, DLD26 (2025)](https://www.youtube.com/watch?v=S0cmxZzu5wA)** — a short panel on exporting Taiwan's "presidential hackathon" and Alignment Assembly models to Germany via [SPRIND](/ecosystem/overview/).
+- **[*Radical Markets: Uprooting Capitalism and Democracy for a Just Society*](https://press.princeton.edu/books/hardcover/9780691177502/radical-markets)** — Eric A. Posner & E. Glen Weyl (Princeton, 2018). The book behind [quadratic voting, funding & Harberger taxes](/concepts/plural-mechanisms/) and the RadicalxChange movement.
+- **["Designing for Plurality" — Audrey Tang & Glen Weyl, Tokyo (2024)](https://www.youtube.com/watch?v=CjwyCt9LZvI)** — the three futures (technocracy / libertarianism / plurality), the three principles, and "protest is the fuel, demonstration is the engine." A source behind our [plurality](/concepts/plurality/) concept.
+- **["Collective Decision Making with Matt Prewitt" — Green Pill #25 (2022)](https://www.youtube.com/watch?v=9UYjLiKvx68)** — a lucid deep-dive on quadratic voting/funding and Harberger taxes with the president of RadicalxChange. The source behind our [plural mechanisms](/concepts/plural-mechanisms/) concept.
+- **["Network Societies, Civic Tech & Democracy" — Glen Weyl & Timour Kosters, Edge City Austin (2025)](https://www.youtube.com/watch?v=B9RQlwyeYCY)** — why "network state" misreads what a network is. The source behind [network societies](/concepts/network-societies/) and the [Anno Tokyo](/run-reports/anno-tokyo-2024/) run report.
+- **["Salon IV: Plurality in Practice" — Protocol Symposium (2024)](https://www.youtube.com/watch?v=snnk_8q1w_4)** — a rare quantitative, sceptical look at how plural voting mechanisms behave in real use, and how easily they mis-calibrate.
 
 ## Self-governance & democratic culture
 
@@ -48,6 +53,7 @@ A growing, annotated shelf of the talks, research, and writing we've found usefu
 - **[Nathan Schneider — Democracy Innovators Podcast (2026)](https://www.youtube.com/watch?v=jlyfhmUWX04)** — on implicit feudalism, modular politics, protocols, and AI-interpreted governance. The source behind our online-governance Concepts.
 - **Nathan Schneider, *Governable Spaces: Democratic Design for Online Life*** (University of California Press, 2024) — the book that names "implicit feudalism" and makes the case for democratic design of online communities (open access).
 - **"Modular Politics: Toward a Governance Layer for Online Communities"** — the Metagov paper (Frey, Schneider, et al., 2021) behind the modular-politics framework.
+- **["Nathan Schneider: Contributions to a Glossary of Protocol" — Protocol Town Hall (2025)](https://www.youtube.com/watch?v=-5Lq2uaOgBw)** — protocol as a "pattern of interaction" and a site of creativity, not just control; vernacular protocols and protocol sovereignty. A source behind our [protocol](/concepts/protocol/) concept.
 
 ## Infrastructure, the commons & the bigger picture
 

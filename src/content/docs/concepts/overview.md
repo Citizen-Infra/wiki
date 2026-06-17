@@ -29,6 +29,8 @@ It's a living reference that grows over time. Where a concept has real-world exa
 - [Cargo cult democracy](/concepts/cargo-cult-democracy/) — build the people, not just the democratic "artifact"
 - [Technology's place is education](/concepts/tech-place-is-education/) — why literacy, not tooling, is the bottleneck
 - [Funding the commons](/concepts/funding-the-commons/) — how citizen infrastructure gets paid for without being captured
+- [Plural mechanisms: quadratic voting, funding & Harberger taxes](/concepts/plural-mechanisms/) — market-inspired tools that capture how *strongly* people care, and share property more fairly
+- [Network societies (not network states)](/concepts/network-societies/) — keeping communities connected, instead of exiting to found new ones
 
 ## The commons
 

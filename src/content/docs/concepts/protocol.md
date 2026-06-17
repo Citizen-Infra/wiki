@@ -18,6 +18,16 @@ What links them is that a protocol coordinates behaviour *without* a central rul
 
 For citizen infrastructure, protocols are a reminder that governing together doesn't always mean building an institution or an app. Sometimes it means agreeing on a *protocol* — a shared way of relating that many different groups can adopt and adapt. It's a complement to the more platform-centric idea of [modular politics](/concepts/modular-politics/).
 
+## Patterns of interaction, not just control
+
+Schneider defines a protocol broadly as a **pattern of interaction** — wide enough to hold internet standards, religious rituals, and a region's dialect all at once, so the useful work is in the *distinctions* you draw within. He pushes back on an influential older view (Alexander Galloway's 2004 *Protocol*) that cast protocol mainly as a hidden form of **control**: protocols are also **sites of creativity**. Two ideas from that work travel well:
+
+- **Vernacular protocols** — not only the rule-sets elites design and impose from the top down, but the ones communities *outside* institutional power build all the time (a local dialect is itself a vernacular protocol). Trans and other marginalised communities, for instance, develop rich protocols for care and survival.
+- **Protocol sovereignty** — a protocol controlled by no single entity (like the internet's TCP/IP) can take on a power of its own. Getting there means entangling many stakeholders, which is also what creates the risk of **capture** by corporate or state power.
+
+Schneider also argues protocols were the *dominant* form of human organisation long before the nation-state — which itself he reads as just one "protocol of stateness," historically an aberration — and that, since no single state can govern the climate or the internet, protocols are becoming central again.
+
 ## Sources
 
 - Nathan Schneider — Democracy Innovators Podcast (2026): [youtube.com/watch?v=jlyfhmUWX04](https://www.youtube.com/watch?v=jlyfhmUWX04) (from his forthcoming book on protocol).
+- "Nathan Schneider: Contributions to a Glossary of Protocol" — Protocol Town Hall (2025): [youtube.com/watch?v=-5Lq2uaOgBw](https://www.youtube.com/watch?v=-5Lq2uaOgBw).

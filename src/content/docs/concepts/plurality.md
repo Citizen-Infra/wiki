@@ -7,6 +7,12 @@ Most of the loud conversation about technology points in one direction: **up**. 
 
 **Plurality** is the deliberately opposite bet. Instead of building one vertical super-mind, you design each piece of technology — AI, but also things like shared virtual spaces — to help people **work across their differences**. The motion isn't upward and singular; it's **horizontal**: capabilities spread sideways, and each one stays *steerable by the community using it*. Tang's slogan: *when the singularity is near, remember the plurality is here.*
 
+## Three futures of technology
+
+Tang and Weyl frame today's choice as three rival futures (a framing borrowed, half-seriously, from the *Civilization* games): **technocracy** — a giant benevolent AI runs things and hands everyone a universal basic income (the vision around figures like Reid Hoffman and Nick Bostrom's *Deep Utopia*); **libertarianism** — crypto and exit replace governments, communities and unions, each faction off on its own (the *Network State* / *Sovereign Individual* vision, see [network societies](/concepts/network-societies/)); and **plurality** — the quieter third path that actually underlies the everyday internet, personal computing, even *Star Trek*. The first two, they argue, are each antithetical to democracy in their own way; plurality is the one that keeps people connected.
+
+Its roots run deeper than the tech debate. The philosopher **Hannah Arendt** used *plurality* for the basic human condition that we are each distinct yet share one common world; **Danielle Allen**'s idea of a *connected society* supplies the picture of diversity as a source of strength. And the canonical example, Taiwan, is pointedly **not** a small homogeneous island — its society is deeply divided over identity, yet it has learned to channel that difference toward progress rather than let it combust.
+
 ## Difference as energy, not fire
 
 The core move is a change of attitude toward conflict. When people disagree, the usual instinct is to treat the disagreement as a fire to put out. Plurality treats it as **energy to harness** — like a geothermal engine that turns heat into power rather than letting it burn down trust. Polarisation, on this view, is not the problem; *wasting* it is. The work is to find what different groups can build together, which is exactly what the [Taiwan Alignment Assemblies](/run-reports/taiwan-alignment-assemblies/) and [vTaiwan](/run-reports/vtaiwan-uber/) were built to do.
@@ -26,6 +32,7 @@ Plurality is set out at length in the open book *Plurality: The Future of Collab
 ## Sources
 
 - *Plurality: The Future of Collaborative Technology and Democracy* — Audrey Tang, E. Glen Weyl & the Plurality community: [plurality.net](https://www.plurality.net/).
+- "Designing for Plurality" — Audrey Tang & Glen Weyl, Tokyo (2024): [youtube.com/watch?v=CjwyCt9LZvI](https://www.youtube.com/watch?v=CjwyCt9LZvI).
 - "How Pro-Social Technology Is Saving Democracy from 'Big Tech'" — Audrey Tang on *The Great Simplification* with Nate Hagens (TGS 169, 2025): [youtube.com/watch?v=aXgne-9F7uU](https://www.youtube.com/watch?v=aXgne-9F7uU).
 - *Good Enough Ancestor* release conversation — Audrey Tang with Matt Prewitt (RadicalxChange), 2025: [youtube.com/watch?v=RbvrMnv5g6w](https://www.youtube.com/watch?v=RbvrMnv5g6w).
 - Audrey Tang, Institute for Ethics in AI, University of Oxford: [afp.oxford-aiethics.ox.ac.uk/people/ambassador-audrey-tang](https://afp.oxford-aiethics.ox.ac.uk/people/ambassador-audrey-tang).
