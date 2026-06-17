@@ -43,5 +43,11 @@ works — along with its limits, which we try to report honestly.
 - [Ireland's Children & Young People's Assembly on Biodiversity Loss (2022)](/run-reports/ireland-biodiversity-assembly/)
 - [Scotland's Climate Assembly: the children's process (2020–2021)](/run-reports/scotland-climate-children/)
 
+### Digital & AI-facilitated deliberation
+
+- [vTaiwan and the Uber question (2015)](/run-reports/vtaiwan-uber/)
+- [Taiwan's Alignment Assemblies: deepfake scam ads (2024)](/run-reports/taiwan-alignment-assemblies/)
+- [Engaged California: wildfire recovery (2025, in progress)](/run-reports/engaged-california/)
+
 More will be added over time. Spot an error, or a deliberation that belongs here? Use the
 "Edit page" link at the bottom of any page.

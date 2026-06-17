@@ -13,6 +13,14 @@ A growing, annotated shelf of the talks, research, and writing we've found usefu
 - **[Civic AI features table — People Powered × Civic Tech Field Guide](https://bit.ly/civicai)** — the underlying data: which AI-for-participation features appear on which platforms.
 - **[The American Conversation Project — Deb Roy / Cortico (NCoC, 2025)](https://www.youtube.com/watch?v=Zm3w5PkbVPo)** — a clear walkthrough of Cortico's "talk, understand, share" civic-listening method, and the launch of a nationwide listening effort. The source behind our [civic listening](/concepts/civic-listening/) concept.
 
+## Plurality & digital democracy (Audrey Tang)
+
+- **[*Plurality: The Future of Collaborative Technology and Democracy*](https://www.plurality.net/)** — the open book by Audrey Tang, E. Glen Weyl & a large community (the ⿻ project): the fullest statement of [plurality](/concepts/plurality/) — technology designed to help people cooperate across difference rather than race toward a single super-intelligence.
+- **["Conversation Networks" — Deb Roy, Lawrence Lessig & Audrey Tang (2025)](https://arxiv.org/abs/2503.11714)** — the paper behind our [conversation networks](/concepts/conversation-networks/) concept: the media shape that replaces broadcasting.
+- **[*Good Enough Ancestor* release conversation — Audrey Tang × Matt Prewitt, RadicalxChange (2025)](https://www.youtube.com/watch?v=RbvrMnv5g6w)** — a 90-minute conversation spanning Taoism, the Sunflower Movement, bandwidth-and-latency democracy, and pluralism. A source behind our [plurality](/concepts/plurality/), [uncommon ground](/concepts/uncommon-ground/), and [conversation networks](/concepts/conversation-networks/) concepts.
+- **["How Pro-Social Technology Is Saving Democracy from 'Big Tech'" — Audrey Tang, The Great Simplification w/ Nate Hagens (TGS 169, 2025)](https://www.youtube.com/watch?v=aXgne-9F7uU)** — the clearest single tour of Tang's work: singularity vs plurality, the deepfake Alignment Assembly, [pre-bunking](/concepts/pre-bunking/), Polis, and [pro-social media](/concepts/bridging-and-pro-social-media/). The main source behind our plurality cluster and the [Taiwan Alignment Assemblies](/run-reports/taiwan-alignment-assemblies/) run report.
+- **["From Taiwan to Germany: How Radical Participation Leapfrogs Public Trust" — Audrey Tang & Zarah Bruhn, DLD26 (2025)](https://www.youtube.com/watch?v=S0cmxZzu5wA)** — a short panel on exporting Taiwan's "presidential hackathon" and Alignment Assembly models to Germany via [SPRIND](/ecosystem/overview/).
+
 ## Self-governance & democratic culture
 
 - **[Cecile Green & Seth Frey on the Commoning Standard — Democracy Innovators Podcast (2026)](https://www.youtube.com/watch?v=0ekd-5YuHHE)** — a wide-ranging conversation on self-governance as a universal literacy, the forms of power, and where technology fits. The source behind our [Commoning Standard](/concepts/commoning-standard/) and related Concepts.

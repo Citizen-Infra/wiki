@@ -74,9 +74,9 @@ move it to **Processed** with its date and issue number. 111 queued, ~108h total
 
 **Audrey Tang, plurality & network societies**
 
-- [ ] https://www.youtube.com/watch?v=S0cmxZzu5wA — From Taiwan to Germany:How Radical Participation Leapfrogs Public Trust (Tang, Bruhn) | DLD26 (20m)
-- [ ] https://www.youtube.com/watch?v=RbvrMnv5g6w — Audrey Tang: On Becoming a "Good Enough Ancestor" (90m)
-- [ ] https://www.youtube.com/watch?v=aXgne-9F7uU — How Pro-Social Technology Is Saving Democracy from ‘Big Tech’ with Audrey Tang | TGS 169 (84m)
+- [x] https://www.youtube.com/watch?v=S0cmxZzu5wA — From Taiwan to Germany:How Radical Participation Leapfrogs Public Trust (Tang, Bruhn) | DLD26 (20m) → run-reports/taiwan-alignment-assemblies, library
+- [x] https://www.youtube.com/watch?v=RbvrMnv5g6w — Audrey Tang: On Becoming a "Good Enough Ancestor" (90m) → concepts/plurality, conversation-networks, uncommon-ground
+- [x] https://www.youtube.com/watch?v=aXgne-9F7uU — How Pro-Social Technology Is Saving Democracy from ‘Big Tech’ with Audrey Tang | TGS 169 (84m) → plurality cluster + run-reports
 - [ ] https://www.youtube.com/watch?v=snnk_8q1w_4 — Salon IV: Plurality in Practice - 2024 Protocol Symposium (62m)
 - [ ] https://www.youtube.com/watch?v=CjwyCt9LZvI — Design for Plurality (Panel) - Tokyo 2024 (36m)
 - [ ] https://www.youtube.com/watch?v=9UYjLiKvx68 — Collective Decision Making with Matt Prewitt | Green Pill #25 (66m)

@@ -32,6 +32,7 @@ export default defineConfig({
             { slug: 'concepts/open-democracy' },
             { slug: 'concepts/citizens-assembly' },
             { slug: 'concepts/epistemic-democracy' },
+            { slug: 'concepts/pre-bunking' },
             { slug: 'concepts/sortition' },
             { slug: 'concepts/citizen-governance-of-assemblies' },
             { slug: 'concepts/civic-love' },
@@ -60,13 +61,17 @@ export default defineConfig({
             { slug: 'concepts/modular-politics' },
             { slug: 'concepts/constitutional-agents' },
             { slug: 'concepts/protocol' },
+            { slug: 'concepts/bridging-and-pro-social-media' },
           ]},
           { label: 'Civic AI', collapsed: true, items: [
+            { slug: 'concepts/plurality' },
             { slug: 'concepts/civic-ai' },
             { slug: 'concepts/ai-for-participation' },
             { slug: 'concepts/synthetic-participation' },
             { slug: 'concepts/ai-and-deliberation' },
             { slug: 'concepts/civic-listening' },
+            { slug: 'concepts/conversation-networks' },
+            { slug: 'concepts/uncommon-ground' },
           ]},
           { label: 'The civic tech field', collapsed: true, items: [
             { slug: 'concepts/why-civic-tech-fails' },
@@ -113,6 +118,11 @@ export default defineConfig({
           { label: 'Children & young people', collapsed: true, items: [
             { slug: 'run-reports/ireland-biodiversity-assembly' },
             { slug: 'run-reports/scotland-climate-children' },
+          ]},
+          { label: 'Digital & AI-facilitated deliberation', collapsed: true, items: [
+            { slug: 'run-reports/vtaiwan-uber' },
+            { slug: 'run-reports/taiwan-alignment-assemblies' },
+            { slug: 'run-reports/engaged-california' },
           ]},
         ]},
         { label: 'Stories', items: [

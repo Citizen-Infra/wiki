@@ -17,6 +17,10 @@ A parallel polis built around the commons has an unusual feature: it doesn't fit
 
 You can see the parallel polis in action in the [Stories](/stories/overview/) — from neighbourhood [mutual aid after disaster](/stories/topanga-fire-mutual-aid/) to [care banked between neighbours](/stories/fureai-kippu/) — and it rests on the inner [OntoShift](/concepts/the-ontoshift/).
 
+## A parallel polis in code
+
+Taiwan's **[g0v](/run-reports/vtaiwan-uber/)** ("gov-zero") is a digital version of the same idea. Rather than only petitioning the government to fix its websites, volunteers build *shadow* versions — change the *o* in a `.gov.tw` address to a `0` and you reach a more open, forkable counterpart delivering the same public information, but lower-friction and remixable. Because the code is open and freely licensed, the government can simply *adopt* the better version back — which is how Taiwan's privacy-preserving contact-tracing and its [vTaiwan](/run-reports/vtaiwan-uber/) consultations began. A horizontal alternative built alongside the state, not against it.
+
 ## Sources
 
 - David Bollier — on Team Human w/ Douglas Rushkoff (2025), citing Václav Havel: [youtube.com/watch?v=5NrkkC8tQGQ](https://www.youtube.com/watch?v=5NrkkC8tQGQ).

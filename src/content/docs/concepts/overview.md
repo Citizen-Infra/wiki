@@ -12,6 +12,7 @@ It's a living reference that grows over time. Where a concept has real-world exa
 - [Open democracy](/concepts/open-democracy/) — a democracy built on citizens governing by lot, not by election
 - [What is a citizens' assembly](/concepts/citizens-assembly/) — the format behind most of our Run Reports
 - [The epistemic case for democracy](/concepts/epistemic-democracy/) — why diverse groups can be wiser than experts
+- [Pre-bunking](/concepts/pre-bunking/) — inoculating against a lie before it spreads, with a shared point nobody argues with
 - [Sortition (representation by lot)](/concepts/sortition/) — choosing decision-makers at random
 - [Letting citizens govern the assembly](/concepts/citizen-governance-of-assemblies/) — handing real procedural control to the participants, not just experts
 - [Civic love](/concepts/civic-love/) — the relational bond that makes deliberation work, and precedes its wisdom
@@ -43,14 +44,18 @@ It's a living reference that grows over time. Where a concept has real-world exa
 - [Modular politics](/concepts/modular-politics/) — communities composing their own governance from interchangeable parts
 - [Constitutional agents](/concepts/constitutional-agents/) — a plain-language constitution interpreted by an AI agent
 - [Protocol](/concepts/protocol/) — an ancient, neglected form of organising without a central ruler
+- [Bridging & pro-social media](/concepts/bridging-and-pro-social-media/) — ranking feeds by what builds understanding across communities, not by what hooks you
 
 ## Civic AI
 
+- [Plurality](/concepts/plurality/) — Audrey Tang's answer to the AI "singularity": spread capability sideways, steered by communities, turning difference into energy
 - [Civic AI](/concepts/civic-ai/) — AI applied to democracy and civic life, and how the field is mapped
 - [AI for participation](/concepts/ai-for-participation/) — how AI is actually showing up in participation tools
 - [Synthetic participation](/concepts/synthetic-participation/) — the risk of AI-generated stand-ins for real citizens
 - [Can AI scale deliberation?](/concepts/ai-and-deliberation/) — what's gained and lost when you automate the work of deliberating
 - [Civic listening](/concepts/civic-listening/) — hearing a whole community at scale through small-group story-sharing
+- [Conversation networks](/concepts/conversation-networks/) — the media shape that replaces broadcasting: many small conversations with AI in the background
+- [Uncommon ground](/concepts/uncommon-ground/) — not the bland agreement everyone shares, but the rare point that surprises both sides
 
 ## The civic tech field
 
