@@ -58,9 +58,9 @@ move it to **Processed** with its date and issue number. 111 queued, ~108h total
 
 - [ ] https://www.youtube.com/watch?v=bIGWZY-fCk0 — Mozilla Foundation Panel: AI for Democracy, or Democracy for AI? (51m)
 - [ ] https://www.youtube.com/watch?v=u_azC4tgpRU — AI-Enhanced Deliberative Democracy and the Future of the Collective Will (55m)
-- [ ] https://www.youtube.com/watch?v=qKTS0mfXRCk — From Division to Dialogue—How AI Can Save Democracy | Deb Roy (Ep. 16) (44m)
+- [x] https://www.youtube.com/watch?v=qKTS0mfXRCk — From Division to Dialogue—How AI Can Save Democracy | Deb Roy (Ep. 16) (44m) → concepts/civic-listening (dialogue networks), library
 - [ ] https://www.youtube.com/watch?v=mOfvIfg2XlE — Five dimensions of scaling democratic deliberation: With and beyond AI - paper launch (87m)
-- [ ] https://www.youtube.com/watch?v=-cCguFRH7f4 — The Peacemaking Machine with MIT and Deepmind's Michael Henry Tessler and Michiel A. Bakker (66m)
+- [x] https://www.youtube.com/watch?v=-cCguFRH7f4 — The Peacemaking Machine with MIT and Deepmind's Michael Henry Tessler and Michiel A. Bakker (66m) → concepts/habermas-machine, library
 - [ ] https://www.youtube.com/watch?v=T7Ilbu-24Bo — Democracy in the Age of AI Panel Discussion at the MIT Museum (95m)
 - [ ] https://www.youtube.com/watch?v=admufe52j0I — Integrating AI into Citizens’ Assemblies: Benefits, Concerns and Future Pathways (65m)
 - [ ] https://www.youtube.com/watch?v=m_EkUpH5L4Y — Hélène Landemore: Can AI Bring Deliberation to the Masses? (60m)

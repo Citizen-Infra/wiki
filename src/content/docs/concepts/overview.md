@@ -55,6 +55,7 @@ It's a living reference that grows over time. Where a concept has real-world exa
 - [AI for participation](/concepts/ai-for-participation/) — how AI is actually showing up in participation tools
 - [Synthetic participation](/concepts/synthetic-participation/) — the risk of AI-generated stand-ins for real citizens
 - [Can AI scale deliberation?](/concepts/ai-and-deliberation/) — what's gained and lost when you automate the work of deliberating
+- [AI mediation & the Habermas Machine](/concepts/habermas-machine/) — can an AI draft a consensus statement a divided group prefers to a human mediator's?
 - [Civic listening](/concepts/civic-listening/) — hearing a whole community at scale through small-group story-sharing
 - [Conversation networks](/concepts/conversation-networks/) — the media shape that replaces broadcasting: many small conversations with AI in the background
 - [Uncommon ground](/concepts/uncommon-ground/) — not the bland agreement everyone shares, but the rare point that surprises both sides

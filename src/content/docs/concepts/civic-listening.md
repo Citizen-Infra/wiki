@@ -21,6 +21,11 @@ There's a lot of AI inside the tools — but the philosophy is to build **civic 
 
 See it in action in [Real Talk for Change](/stories/real-talk-for-change/) (Boston) and the nationwide [American Conversation Project](/stories/american-conversation-project/).
 
+## Dialogue networks vs. social media
+
+Deb Roy calls the resulting pattern a **dialogue network**, and contrasts it with social media on three axes: content starts with a **small-group conversation** you go back and *highlight*, not a solitary **post**; your voice travels at the **speed of trust** — you consent before it moves to a less intimate space — not by **viral broadcast**; and sensemaking lifts up what's **resonant**, not what's **trending**. It pairs naturally with [citizens' assemblies](/concepts/citizens-assembly/): record the small-group and plenary conversations, let AI surface islands of agreement and sticking points, and keep an auditable trail of voices behind each recommendation — including dissent (an early tech-enhanced run was an Oregon assembly on youth homelessness). The in-person cousin of the online [conversation networks](/concepts/conversation-networks/) idea.
+
 ## Sources
 
 - The American Conversation Project, with Deb Roy (Cortico) — National Conference on Citizenship (2025): [youtube.com/watch?v=Zm3w5PkbVPo](https://www.youtube.com/watch?v=Zm3w5PkbVPo).
+- "From Division to Dialogue: How AI Can Save Democracy" — Deb Roy on *Life with Machines* w/ Baratunde Thurston (2025): [youtube.com/watch?v=qKTS0mfXRCk](https://www.youtube.com/watch?v=qKTS0mfXRCk).

@@ -71,6 +71,7 @@ export default defineConfig({
             { slug: 'concepts/ai-for-participation' },
             { slug: 'concepts/synthetic-participation' },
             { slug: 'concepts/ai-and-deliberation' },
+            { slug: 'concepts/habermas-machine' },
             { slug: 'concepts/civic-listening' },
             { slug: 'concepts/conversation-networks' },
             { slug: 'concepts/uncommon-ground' },
