@@ -52,6 +52,9 @@ It's a living reference that grows over time. Where a concept has real-world exa
 
 - [Plurality](/concepts/plurality/) — Audrey Tang's answer to the AI "singularity": spread capability sideways, steered by communities, turning difference into energy
 - [Civic AI](/concepts/civic-ai/) — AI applied to democracy and civic life, and how the field is mapped
+- [Democratising AI](/concepts/democratising-ai/) — four things people mean by the phrase — use, development, profits, governance — and which one actually shares power
+- [Public AI](/concepts/public-ai/) — AI built and governed as public infrastructure, like libraries or the power grid
+- [Does AI weaken democratic institutions?](/concepts/does-ai-weaken-institutions/) — the strongest critique, and the case for using AI judiciously
 - [AI for participation](/concepts/ai-for-participation/) — how AI is actually showing up in participation tools
 - [Synthetic participation](/concepts/synthetic-participation/) — the risk of AI-generated stand-ins for real citizens
 - [Can AI scale deliberation?](/concepts/ai-and-deliberation/) — what's gained and lost when you automate the work of deliberating

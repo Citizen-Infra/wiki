@@ -68,6 +68,9 @@ export default defineConfig({
           { label: 'Civic AI', collapsed: true, items: [
             { slug: 'concepts/plurality' },
             { slug: 'concepts/civic-ai' },
+            { slug: 'concepts/democratising-ai' },
+            { slug: 'concepts/public-ai' },
+            { slug: 'concepts/does-ai-weaken-institutions' },
             { slug: 'concepts/ai-for-participation' },
             { slug: 'concepts/synthetic-participation' },
             { slug: 'concepts/ai-and-deliberation' },
