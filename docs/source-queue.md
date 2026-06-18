@@ -13,27 +13,27 @@ move it to **Processed** with its date and issue number. 111 queued, ~91 remaini
 
 ### Tier 1 — core fit (process first)
 
-**Citizens' assemblies, sortition & deliberation**
+**Citizens' assemblies, sortition & deliberation** — IN PROGRESS (2026-06-18): waves A–C done (10 processed, 2 skipped); wave D + Latin America remain
 
-- [ ] https://www.youtube.com/watch?v=ttAFeJM-3x8 — Hélène Landemore (Yale): Politics without Politicians (63m)
-- [ ] https://www.youtube.com/watch?v=XCBEuSp_heI — Michael McCarthy, The Master's Tools: An interview with Claudia Chwalisz (57m)
-- [ ] https://www.youtube.com/watch?v=BYYvIckMVak — Citizens' Assemblies: A Democratic Response to Authoritarianism in Central & Eastern Europe (61m)
-- [ ] https://www.youtube.com/watch?v=2D4gHP5nsgk — Spaces for deliberation: Eight spatial qualities for designing deliberative assemblies (74m)
-- [ ] https://www.youtube.com/watch?v=POLwnybqUrY — Stories from behind the scenes of the UK’s first citizens’ assembly in a museum (86m)
-- [ ] https://www.youtube.com/watch?v=_J4WxRRY2RQ — Scaling democratic innovations: Features of effective catalyst organisations and future frontiers (90m)
-- [ ] https://www.youtube.com/watch?v=dBHUCdoTMKE — An interview with Josh Burgess, co-founder of Central Oregon Civic Action Project (19m)
-- [ ] https://www.youtube.com/watch?v=dLq2vr3j-nM — Learning Call on The Norwegian Future Panel | KNOCA (84m)
-- [ ] https://www.youtube.com/watch?v=SbIz83NRBVY — Learning Call on the Austrian Climate Assembly | KNOCA (85m)
-- [ ] https://www.youtube.com/watch?v=ZN1XDn-tVbc — Book Launch: Innovating Democracy? The Means and Ends of Citizen Participation in Latin America (66m)
-- [ ] https://www.youtube.com/watch?v=tEhpNXYXxZo — Paper Discussion: Putting Back the Action into the Deliberative System Debate (59m)
-- [ ] https://www.youtube.com/watch?v=cd0eJqV_XPk — The Role of Sortition in Organizations (64m)
-- [ ] https://www.youtube.com/watch?v=3CTJXS9WA1E — Deliberative Polling: Changing the Tides of Democracy | Alice Siu | TEDxStanford (16m)
-- [ ] https://www.youtube.com/watch?v=RtgvyXRttw4 — Nordic Deliberation Learning Call: Paths towards institutionalization in local governments (38m)
-- [ ] https://www.youtube.com/watch?v=aofZqy8y8RA — Webinar | Deliberative Democracy for Breaking the Gridlock: Exploring insights from HDR 2023/24 (86m)
-- [ ] https://www.youtube.com/watch?v=eAkcea8rO7E — The Citizen’s White Paper and the Civil Service: Participatory policy making in action (90m)
-- [ ] https://www.youtube.com/watch?v=cmHHZ1_cyeY — Tiago Peixoto about the role of collective action in reforming democratic systems (66m)
-- [ ] https://www.youtube.com/watch?v=7ZZ3xmEwkos — Deep Democracy   Light The Fire And Build Trust With Leen Schelfhout (57m)
-- [ ] https://www.youtube.com/watch?v=j7i72bJSBZE — How citizens can take back power (91m)
+- [~] https://www.youtube.com/watch?v=ttAFeJM-3x8 — Hélène Landemore (Yale): Politics without Politicians (63m) → SKIPPED: no captions available (theme already covered by sgFUtZCgAqI)
+- [x] https://www.youtube.com/watch?v=XCBEuSp_heI — Michael McCarthy, The Master's Tools: An interview with Claudia Chwalisz (57m) → concepts/democratising-finance, library
+- [~] https://www.youtube.com/watch?v=BYYvIckMVak — Citizens' Assemblies: A Democratic Response to Authoritarianism in Central & Eastern Europe (61m) → SKIPPED: no captions available (genuine gap — revisit if transcript appears)
+- [ ] https://www.youtube.com/watch?v=2D4gHP5nsgk — Spaces for deliberation: Eight spatial qualities for designing deliberative assemblies (74m) — WAVE D
+- [x] https://www.youtube.com/watch?v=POLwnybqUrY — Stories from behind the scenes of the UK’s first citizens’ assembly in a museum (86m) → run-reports/birmingham-museums-jury, ecosystem (Shared Future)
+- [x] https://www.youtube.com/watch?v=_J4WxRRY2RQ — Scaling democratic innovations: Features of effective catalyst organisations and future frontiers (90m) → concepts/scaling-catalysts, run-reports/deschutes-youth-homelessness, ecosystem (Involve, Healthy Democracy, Central Oregon CAP)
+- [x] https://www.youtube.com/watch?v=dBHUCdoTMKE — An interview with Josh Burgess, co-founder of Central Oregon Civic Action Project (19m) → folded into run-reports/deschutes-youth-homelessness
+- [x] https://www.youtube.com/watch?v=dLq2vr3j-nM — Learning Call on The Norwegian Future Panel | KNOCA (84m) → run-reports/norway-future-panel
+- [x] https://www.youtube.com/watch?v=SbIz83NRBVY — Learning Call on the Austrian Climate Assembly | KNOCA (85m) → run-reports/austrian-climate-assembly
+- [ ] https://www.youtube.com/watch?v=ZN1XDn-tVbc — Book Launch: Innovating Democracy? The Means and Ends of Citizen Participation in Latin America (66m) — NOT YET PROCESSED
+- [x] https://www.youtube.com/watch?v=tEhpNXYXxZo — Paper Discussion: Putting Back the Action into the Deliberative System Debate (59m) → concepts/institutionalising-deliberation
+- [x] https://www.youtube.com/watch?v=cd0eJqV_XPk — The Role of Sortition in Organizations (64m) → concepts/sortition-in-organisations, ecosystem (INSA, Democracy Without Elections)
+- [x] https://www.youtube.com/watch?v=3CTJXS9WA1E — Deliberative Polling: Changing the Tides of Democracy | Alice Siu | TEDxStanford (16m) → concepts/deliberative-polling, run-reports/america-in-one-room
+- [x] https://www.youtube.com/watch?v=RtgvyXRttw4 — Nordic Deliberation Learning Call: Paths towards institutionalization in local governments (38m) → concepts/institutionalising-deliberation (municipal), ecosystem (Nordic Deliberation Network)
+- [ ] https://www.youtube.com/watch?v=aofZqy8y8RA — Webinar | Deliberative Democracy for Breaking the Gridlock: Exploring insights from HDR 2023/24 (86m) — WAVE D
+- [ ] https://www.youtube.com/watch?v=eAkcea8rO7E — The Citizen’s White Paper and the Civil Service: Participatory policy making in action (90m) — WAVE D
+- [ ] https://www.youtube.com/watch?v=cmHHZ1_cyeY — Tiago Peixoto about the role of collective action in reforming democratic systems (66m) — WAVE D
+- [ ] https://www.youtube.com/watch?v=7ZZ3xmEwkos — Deep Democracy   Light The Fire And Build Trust With Leen Schelfhout (57m) — WAVE D
+- [x] https://www.youtube.com/watch?v=j7i72bJSBZE — How citizens can take back power (91m) → concepts/peoples-branch, institutionalising-deliberation, ecosystem (Iswe, Nesta), library (Wolf)
 
 **Civic-tech platforms & participation practice**
 
