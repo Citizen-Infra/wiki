@@ -20,6 +20,10 @@ David Krakauer (Santa Fe Institute) distinguishes **complementary cognitive arti
 
 The boundaries are genuinely unknown, so experiment — while keeping the human core. Some promising uses are clearly assistive: AI helped Israeli and Palestinian peace activists find consensus framings (via [Remesh](/toolkit/decide-together/)) when face-to-face talks had stalled; "values warm-up" tools help people articulate what they care about *before* a deliberation. The question to ask of any tool is Krakauer's: **does this build the democratic muscle, or replace it?**
 
+## A framework for judging each use
+
+For a more systematic version of the same instinct, Sammy McKinney's study of AI in citizens' assemblies maps **17 possible applications** across an assembly's whole life cycle (translation, facilitation, aggregation, clustering public input, generating consensus statements, inclusive learning materials, and more) and scores each against three kinds of good. **Democratic goods:** does it help *inclusiveness, popular control, considered judgment,* and *transparency*? **Institutional goods:** does it improve *efficiency* and *scalability*? **Ethical integrity:** does it respect *privacy*, avoid *imposition* of an off-the-shelf tool on a local context, and mitigate *bias*? His conclusion mirrors Krakauer's test: AI can raise both democratic quality and institutional capacity *if* the right safeguards are kept — human oversight, ethical data governance, co-design with participants, and hybrid human-plus-AI designs. For the bigger question of which *direction* to scale, see [the five dimensions of scaling deliberation](/concepts/scaling-deliberation/).
+
 This is the practical, tool-level companion to [AI for participation](/concepts/ai-for-participation/) and [synthetic participation](/concepts/synthetic-participation/). For platforms in this space, see [Decide & make sense together](/toolkit/decide-together/).
 
 ## Sources
