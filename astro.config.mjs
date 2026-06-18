@@ -31,6 +31,7 @@ export default defineConfig({
           { label: 'Deliberative democracy', collapsed: true, items: [
             { slug: 'concepts/open-democracy' },
             { slug: 'concepts/citizens-assembly' },
+            { slug: 'concepts/running-a-citizens-assembly' },
             { slug: 'concepts/deliberative-polling' },
             { slug: 'concepts/epistemic-democracy' },
             { slug: 'concepts/pre-bunking' },

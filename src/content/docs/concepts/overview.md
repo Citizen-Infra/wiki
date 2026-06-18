@@ -11,6 +11,7 @@ It's a living reference that grows over time. Where a concept has real-world exa
 
 - [Open democracy](/concepts/open-democracy/) — a democracy built on citizens governing by lot, not by election
 - [What is a citizens' assembly](/concepts/citizens-assembly/) — the format behind most of our Run Reports
+- [How a citizens' assembly is run](/concepts/running-a-citizens-assembly/) — the practical craft, from setting the question to caring for members afterwards
 - [Deliberative polling](/concepts/deliberative-polling/) — what a population thinks once it's actually informed, and how to measure the change
 - [The epistemic case for democracy](/concepts/epistemic-democracy/) — why diverse groups can be wiser than experts
 - [Pre-bunking](/concepts/pre-bunking/) — inoculating against a lie before it spreads, with a shared point nobody argues with
