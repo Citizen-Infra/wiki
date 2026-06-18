@@ -14,10 +14,13 @@ It's a living reference that grows over time. Where a concept has real-world exa
 - [The epistemic case for democracy](/concepts/epistemic-democracy/) — why diverse groups can be wiser than experts
 - [Pre-bunking](/concepts/pre-bunking/) — inoculating against a lie before it spreads, with a shared point nobody argues with
 - [Sortition (representation by lot)](/concepts/sortition/) — choosing decision-makers at random
+- [A people's branch of government](/concepts/peoples-branch/) — a permanent chamber chosen by lot, as a check on the elected ones
 - [Letting citizens govern the assembly](/concepts/citizen-governance-of-assemblies/) — handing real procedural control to the participants, not just experts
 - [Civic love](/concepts/civic-love/) — the relational bond that makes deliberation work, and precedes its wisdom
 - [Binding or advisory?](/concepts/binding-vs-advisory/) — why advisory-only assemblies risk "participation washing," and how a few got real power
+- [Institutionalising deliberation](/concepts/institutionalising-deliberation/) — making assemblies permanent, and why some embed while others quietly die
 - [Investor assemblies](/concepts/investor-assemblies/) — extending sortition beyond the state to the economy
+- [Democratising finance](/concepts/democratising-finance/) — sortition mandates for public banks and pension funds, and "Democracy on Fridays"
 - [Children & young people's assemblies](/concepts/children-and-youth-assemblies/) — bringing under-18s into deliberation, by right
 - [Intergenerational deliberation](/concepts/intergenerational-deliberation/) — 7-to-70 in one room, and stewarding decisions across generations
 - [Deliberation as enfranchisement](/concepts/deliberation-and-enfranchisement/) — giving a say to those the vote excludes
