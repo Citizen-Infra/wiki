@@ -23,6 +23,8 @@ works — along with its limits, which we try to report honestly.
 ### Citizens' assemblies & conventions
 
 - [Irish Citizens' Assembly on the Eighth Amendment](/run-reports/irish-citizens-assembly/)
+- [America in One Room (2019)](/run-reports/america-in-one-room/)
+- [Deschutes Civic Assembly on Youth Homelessness (2024)](/run-reports/deschutes-youth-homelessness/)
 - [France's Great National Debate (2019)](/run-reports/french-great-national-debate/)
 - [French Citizens' Convention on End of Life](/run-reports/french-convention-end-of-life/)
 - [French Citizens' Convention for Climate (2019–2020)](/run-reports/french-convention-climate/)

@@ -23,6 +23,10 @@ Studying six Italian regional laws designed to spark local participation, Spada 
 
 The surprise was that the centrifugal model's relentless churn built *durable capacity*: Tuscany's practitioners accumulated so much skill that, once the regional money dried up, one participation firm went from 15 projects (all regional) to 80 — 79 of them funded from outside the region entirely. The culture outlived the cash.
 
+## The municipal reality
+
+On the ground, the fight is mundane and recurring. Practitioners in Nordic cities (Trondheim, Jyväskylä, Gothenburg) report the same objections every time: assemblies are "too expensive," "too time-consuming," a "bypass of the elected council," or "just another pressure group" — and a change of local government can switch off the political will overnight. Their hard-won responses: *expensive, but can we afford not to?* (plans rejected late get sent back to square one anyway); the assembly **validates officials' own assessments** and gives cover for politically sensitive decisions; and the durable move is to write participation into steering documents and build a standard process (Gothenburg's formal assembly flowchart) so it no longer depends on one supportive administration.
+
 This is the same ambition behind a [people's branch](/concepts/peoples-branch/) and [democratising finance](/concepts/democratising-finance/) — building a *system* (with its own governance, agenda-setting and follow-up bodies), not a one-off. It's also why [advisory-only assemblies risk "participation washing"](/concepts/binding-vs-advisory/), and why [building the people matters more than the artifact](/concepts/cargo-cult-democracy/).
 
 ## Sources

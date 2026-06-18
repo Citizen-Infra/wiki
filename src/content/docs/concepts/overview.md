@@ -11,6 +11,7 @@ It's a living reference that grows over time. Where a concept has real-world exa
 
 - [Open democracy](/concepts/open-democracy/) — a democracy built on citizens governing by lot, not by election
 - [What is a citizens' assembly](/concepts/citizens-assembly/) — the format behind most of our Run Reports
+- [Deliberative polling](/concepts/deliberative-polling/) — what a population thinks once it's actually informed, and how to measure the change
 - [The epistemic case for democracy](/concepts/epistemic-democracy/) — why diverse groups can be wiser than experts
 - [Pre-bunking](/concepts/pre-bunking/) — inoculating against a lie before it spreads, with a shared point nobody argues with
 - [Sortition (representation by lot)](/concepts/sortition/) — choosing decision-makers at random
@@ -19,8 +20,10 @@ It's a living reference that grows over time. Where a concept has real-world exa
 - [Civic love](/concepts/civic-love/) — the relational bond that makes deliberation work, and precedes its wisdom
 - [Binding or advisory?](/concepts/binding-vs-advisory/) — why advisory-only assemblies risk "participation washing," and how a few got real power
 - [Institutionalising deliberation](/concepts/institutionalising-deliberation/) — making assemblies permanent, and why some embed while others quietly die
+- [Scaling catalysts](/concepts/scaling-catalysts/) — the organisations whose job is to make democratic innovation take root, and what makes them work
 - [Investor assemblies](/concepts/investor-assemblies/) — extending sortition beyond the state to the economy
 - [Democratising finance](/concepts/democratising-finance/) — sortition mandates for public banks and pension funds, and "Democracy on Fridays"
+- [Sortition in organisations](/concepts/sortition-in-organisations/) — random selection in workplaces, universities, unions and clubs, not just government
 - [Children & young people's assemblies](/concepts/children-and-youth-assemblies/) — bringing under-18s into deliberation, by right
 - [Intergenerational deliberation](/concepts/intergenerational-deliberation/) — 7-to-70 in one room, and stewarding decisions across generations
 - [Deliberation as enfranchisement](/concepts/deliberation-and-enfranchisement/) — giving a say to those the vote excludes

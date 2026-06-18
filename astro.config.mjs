@@ -31,6 +31,7 @@ export default defineConfig({
           { label: 'Deliberative democracy', collapsed: true, items: [
             { slug: 'concepts/open-democracy' },
             { slug: 'concepts/citizens-assembly' },
+            { slug: 'concepts/deliberative-polling' },
             { slug: 'concepts/epistemic-democracy' },
             { slug: 'concepts/pre-bunking' },
             { slug: 'concepts/sortition' },
@@ -39,8 +40,10 @@ export default defineConfig({
             { slug: 'concepts/civic-love' },
             { slug: 'concepts/binding-vs-advisory' },
             { slug: 'concepts/institutionalising-deliberation' },
+            { slug: 'concepts/scaling-catalysts' },
             { slug: 'concepts/investor-assemblies' },
             { slug: 'concepts/democratising-finance' },
+            { slug: 'concepts/sortition-in-organisations' },
             { slug: 'concepts/children-and-youth-assemblies' },
             { slug: 'concepts/intergenerational-deliberation' },
             { slug: 'concepts/deliberation-and-enfranchisement' },
@@ -114,6 +117,8 @@ export default defineConfig({
           { slug: 'run-reports/overview' },
           { label: "Citizens' assemblies & conventions", collapsed: true, items: [
             { slug: 'run-reports/irish-citizens-assembly' },
+            { slug: 'run-reports/america-in-one-room' },
+            { slug: 'run-reports/deschutes-youth-homelessness' },
             { slug: 'run-reports/french-great-national-debate' },
             { slug: 'run-reports/french-convention-end-of-life' },
             { slug: 'run-reports/french-convention-climate' },
