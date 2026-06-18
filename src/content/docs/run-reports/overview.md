@@ -28,6 +28,9 @@ works — along with its limits, which we try to report honestly.
 - [France's Great National Debate (2019)](/run-reports/french-great-national-debate/)
 - [French Citizens' Convention on End of Life](/run-reports/french-convention-end-of-life/)
 - [French Citizens' Convention for Climate (2019–2020)](/run-reports/french-convention-climate/)
+- [Austria's Citizens' Climate Assembly (2022)](/run-reports/austrian-climate-assembly/)
+- [The Citizens' Assembly for Norway's Future (2025)](/run-reports/norway-future-panel/)
+- [Birmingham Museums Citizens' Jury (2024)](/run-reports/birmingham-museums-jury/)
 - [The Global Assembly on the Climate and Ecological Crisis (2021)](/run-reports/global-assembly-2021/)
 - [Connecticut Citizens' Assembly on Property Taxes (2026, in progress)](/run-reports/connecticut-property-taxes/)
 
