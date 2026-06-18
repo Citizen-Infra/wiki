@@ -6,7 +6,7 @@ Each is processed via the `/process-source` flow -> wiki pages + a per-source
 ingestion history in memory (`project_cibc_wiki.md`).
 
 **How to use:** work top-down (Tier 1 first); skip any freely. When one is done,
-move it to **Processed** with its date and issue number. 111 queued, ~108h total.
+move it to **Processed** with its date and issue number. 111 queued, ~91 remaining (Tang/plurality + Civic-AI clusters done).
 
 ## Queue
 
@@ -54,20 +54,20 @@ move it to **Processed** with its date and issue number. 111 queued, ~108h total
 - [ ] https://www.youtube.com/watch?v=TVNWBE4XwTw — How can collective intelligence empower our democracy? (51m)
 - [ ] https://www.youtube.com/watch?v=1qLhm7iRyGY — Translating Community Voices into Actionable Insights with AI (53m)
 
-**Civic AI & deliberation-at-scale**
+**Civic AI & deliberation-at-scale** — CLUSTER COMPLETE (2026-06-18)
 
-- [ ] https://www.youtube.com/watch?v=bIGWZY-fCk0 — Mozilla Foundation Panel: AI for Democracy, or Democracy for AI? (51m)
-- [ ] https://www.youtube.com/watch?v=u_azC4tgpRU — AI-Enhanced Deliberative Democracy and the Future of the Collective Will (55m)
+- [x] https://www.youtube.com/watch?v=bIGWZY-fCk0 — Mozilla Foundation Panel: AI for Democracy, or Democracy for AI? (51m) → concepts/does-ai-weaken-institutions, ecosystem (Mozilla, Ushahidi)
+- [x] https://www.youtube.com/watch?v=u_azC4tgpRU — AI-Enhanced Deliberative Democracy and the Future of the Collective Will (55m) → concepts/ai-reflectors, ecosystem (Cooperative AI Foundation)
 - [x] https://www.youtube.com/watch?v=qKTS0mfXRCk — From Division to Dialogue—How AI Can Save Democracy | Deb Roy (Ep. 16) (44m) → concepts/civic-listening (dialogue networks), library
-- [ ] https://www.youtube.com/watch?v=mOfvIfg2XlE — Five dimensions of scaling democratic deliberation: With and beyond AI - paper launch (87m)
+- [x] https://www.youtube.com/watch?v=mOfvIfg2XlE — Five dimensions of scaling democratic deliberation: With and beyond AI - paper launch (87m) → concepts/scaling-deliberation, ecosystem (Arantzazulab, We Do Democracy)
 - [x] https://www.youtube.com/watch?v=-cCguFRH7f4 — The Peacemaking Machine with MIT and Deepmind's Michael Henry Tessler and Michiel A. Bakker (66m) → concepts/habermas-machine, library
-- [ ] https://www.youtube.com/watch?v=T7Ilbu-24Bo — Democracy in the Age of AI Panel Discussion at the MIT Museum (95m)
-- [ ] https://www.youtube.com/watch?v=admufe52j0I — Integrating AI into Citizens’ Assemblies: Benefits, Concerns and Future Pathways (65m)
-- [ ] https://www.youtube.com/watch?v=m_EkUpH5L4Y — Hélène Landemore: Can AI Bring Deliberation to the Masses? (60m)
-- [ ] https://www.youtube.com/watch?v=OQxMGMB5kL8 — Launch Webinar: A Roadmap to Democratic AI (55m)
-- [ ] https://www.youtube.com/watch?v=HzxW3a9jAxE — Is This the End of Human Politicians? | Jamie Joyce (103m)
-- [ ] https://www.youtube.com/watch?v=vgFB9opxRKs — Q&A publicai.co & Apertus (74m)
-- [ ] https://www.youtube.com/watch?v=1yW1omYoxYw — Scottish Data & Public Participation Then, Now, Beyond - Dr Tom Wilkinson (60m)
+- [x] https://www.youtube.com/watch?v=T7Ilbu-24Bo — Democracy in the Age of AI Panel Discussion at the MIT Museum (95m) → concepts/pre-bunking (DebunkBot), ecosystem (Sortition Foundation) [mostly confirmatory]
+- [x] https://www.youtube.com/watch?v=admufe52j0I — Integrating AI into Citizens’ Assemblies: Benefits, Concerns and Future Pathways (65m) → concepts/ai-and-deliberation (McKinney evaluation framework)
+- [x] https://www.youtube.com/watch?v=m_EkUpH5L4Y — Hélène Landemore: Can AI Bring Deliberation to the Masses? (60m) → run-reports/french-great-national-debate, concepts/ai-and-deliberation (mass-deliberation models)
+- [x] https://www.youtube.com/watch?v=OQxMGMB5kL8 — Launch Webinar: A Roadmap to Democratic AI (55m) → concepts/public-ai, democratising-ai, ecosystem (CIP, AI Now, Karya)
+- [x] https://www.youtube.com/watch?v=HzxW3a9jAxE — Is This the End of Human Politicians? | Jamie Joyce (103m) → concepts/argument-mapping, ecosystem (Society Library, Internet Archive)
+- [x] https://www.youtube.com/watch?v=vgFB9opxRKs — Q&A publicai.co & Apertus (74m) → concepts/public-ai, ecosystem (Swiss AI Initiative, Public AI Inference Utility)
+- [x] https://www.youtube.com/watch?v=1yW1omYoxYw — Scottish Data & Public Participation Then, Now, Beyond - Dr Tom Wilkinson (60m) → ecosystem (Sortition Foundation); participation-tool angle already covered by Metagov entry
 
 
 ### Tier 2 — strong fit, more conceptual
