@@ -21,6 +21,10 @@ So in 2019 Taiwan rewrote its school curriculum around **competence** instead: s
 
 This sits alongside the [epistemic case for democracy](/concepts/epistemic-democracy/) and the AI-assisted sensemaking in the [Taiwan Alignment Assemblies](/run-reports/taiwan-alignment-assemblies/), where the shared uncommon ground is itself shared back as a pre-bunk.
 
+## The one debunk that seems to work
+
+If pre-bunking flips the timing because *debunking* barely works, there's a recent exception worth noting: a tailored AI dialogue. In a 2024 *Science* study, an LLM chatbot ("DebunkBot," by Thomas Costello, Gordon Pennycook, and David Rand) held short, evidence-based, personalised conversations with people about a conspiracy they believed — and *durably* reduced their confidence by about 20%, an effect still measurable months later. What one-size-fits-all corrections can't do, a patient back-and-forth that meets each person's specific reasons apparently can.
+
 ## Sources
 
 - "How Pro-Social Technology Is Saving Democracy from 'Big Tech'" — Audrey Tang on *The Great Simplification* (TGS 169, 2025): [youtube.com/watch?v=aXgne-9F7uU](https://www.youtube.com/watch?v=aXgne-9F7uU).

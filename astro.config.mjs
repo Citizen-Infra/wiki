@@ -76,6 +76,7 @@ export default defineConfig({
             { slug: 'concepts/ai-and-deliberation' },
             { slug: 'concepts/scaling-deliberation' },
             { slug: 'concepts/habermas-machine' },
+            { slug: 'concepts/ai-reflectors' },
             { slug: 'concepts/argument-mapping' },
             { slug: 'concepts/civic-listening' },
             { slug: 'concepts/conversation-networks' },
@@ -110,6 +111,7 @@ export default defineConfig({
           { slug: 'run-reports/overview' },
           { label: "Citizens' assemblies & conventions", collapsed: true, items: [
             { slug: 'run-reports/irish-citizens-assembly' },
+            { slug: 'run-reports/french-great-national-debate' },
             { slug: 'run-reports/french-convention-end-of-life' },
             { slug: 'run-reports/french-convention-climate' },
             { slug: 'run-reports/global-assembly-2021' },

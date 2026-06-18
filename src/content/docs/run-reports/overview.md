@@ -23,6 +23,7 @@ works — along with its limits, which we try to report honestly.
 ### Citizens' assemblies & conventions
 
 - [Irish Citizens' Assembly on the Eighth Amendment](/run-reports/irish-citizens-assembly/)
+- [France's Great National Debate (2019)](/run-reports/french-great-national-debate/)
 - [French Citizens' Convention on End of Life](/run-reports/french-convention-end-of-life/)
 - [French Citizens' Convention for Climate (2019–2020)](/run-reports/french-convention-climate/)
 - [The Global Assembly on the Climate and Ecological Crisis (2021)](/run-reports/global-assembly-2021/)
