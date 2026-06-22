@@ -17,6 +17,7 @@ It's a living reference that grows over time. Where a concept has real-world exa
 - [Pre-bunking](/concepts/pre-bunking/) — inoculating against a lie before it spreads, with a shared point nobody argues with
 - [Sortition (representation by lot)](/concepts/sortition/) — choosing decision-makers at random
 - [A people's branch of government](/concepts/peoples-branch/) — a permanent chamber chosen by lot, as a check on the elected ones
+- [Multi-body sortition](/concepts/multi-body-sortition/) — what a whole legislature run on the lot could look like: Bouricius's reference design of several specialised random bodies
 - [Letting citizens govern the assembly](/concepts/citizen-governance-of-assemblies/) — handing real procedural control to the participants, not just experts
 - [Civic love](/concepts/civic-love/) — the relational bond that makes deliberation work, and precedes its wisdom
 - [Binding or advisory?](/concepts/binding-vs-advisory/) — why advisory-only assemblies risk "participation washing," and how a few got real power

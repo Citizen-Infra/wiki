@@ -15,7 +15,7 @@ It sounds counter-intuitive, but the case is strong:
 
 ## Not the same as "direct democracy"
 
-Sortition isn't everyone deciding everything directly — someone still has to sit down and do the hard work of drafting proposals, which can't be done by millions at once. It's better understood as representation, just *by lot instead of by ballot*: a representative subset does the deliberating, ideally with the wider public consulted throughout and key decisions put to a vote.
+Sortition isn't everyone deciding everything directly — someone still has to sit down and do the hard work of drafting proposals, which can't be done by millions at once. It's better understood as representation, just *by lot instead of by ballot*: a representative subset does the deliberating, ideally with the wider public consulted throughout and key decisions put to a vote. For what an entire legislature built this way could look like — separate randomly selected bodies to set the agenda, draft proposals, and cast the final vote — see [multi-body sortition](/concepts/multi-body-sortition/).
 
 ## Not only ancient
 

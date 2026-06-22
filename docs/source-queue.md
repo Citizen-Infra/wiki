@@ -6,7 +6,7 @@ Each is processed via the `/process-source` flow -> wiki pages + a per-source
 ingestion history in memory (`project_cibc_wiki.md`).
 
 **How to use:** work top-down (Tier 1 first); skip any freely. When one is done,
-move it to **Processed** with its date and issue number. 119 queued, ~90 remaining (Tang/plurality + Civic-AI clusters done).
+move it to **Processed** with its date and issue number. 119 queued, ~89 remaining (Tang/plurality + Civic-AI clusters done).
 
 ## Queue
 
@@ -173,7 +173,7 @@ Substantive sources surfaced in past @citizen_infra link digests (articles/repor
 
 - [x] https://carnegieuk.org/publication/blueprints-for-democratic-wellbeing/ — Carnegie UK (Escobar & Elstub): four blueprints to embed citizens' mini-publics in parliaments → concepts/institutionalising-deliberation + library [Tier 1]
 - [x] https://demos.co.uk/research/everyday-democracy-a-new-democratic-operating-model-to-rebuild-trust-between-state-and-citizen/ — Demos (Miriam Levin): "Everyday Democracy" — continuous participation to rebuild state–citizen trust → concepts/institutionalising-deliberation + library [Tier 1]
-- [ ] https://democracywithoutpoliticians.org/ — Terry Bouricius (book): the case for sortition / citizen juries over elections [Tier 1] (deferred 2026-06-22: site 503 unreachable)
+- [x] https://democracywithoutpoliticians.org/ — Terry Bouricius (book, Routledge 2026): the case for sortition over elections + the multi-body design → concepts/multi-body-sortition + library [Tier 1] (processed from epub)
 - [ ] https://mitpress.mit.edu/9780262049948/rewiring-democracy/ — Schneier & Sanders (MIT Press, book): "Rewiring Democracy" — AI across the democratic process [Tier 1, civic-AI]
 - [ ] https://research.mysociety.org/html/supporting-participation/ — mySociety: 14 recommendations for a European civic-tech hub (grow demand / strengthen supply / fix procurement) [Tier 1]
 - [ ] https://www.sitra.fi/en/publication/european-civic-technology-and-citizen-participation-in-the-age-of-ai/ — Sitra: European civic technology & citizen participation in the age of AI (report) [Tier 1]
