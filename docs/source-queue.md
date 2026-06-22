@@ -6,7 +6,7 @@ Each is processed via the `/process-source` flow -> wiki pages + a per-source
 ingestion history in memory (`project_cibc_wiki.md`).
 
 **How to use:** work top-down (Tier 1 first); skip any freely. When one is done,
-move it to **Processed** with its date and issue number. 119 queued, ~93 remaining (Tang/plurality + Civic-AI clusters done).
+move it to **Processed** with its date and issue number. 119 queued, ~90 remaining (Tang/plurality + Civic-AI clusters done).
 
 ## Queue
 
@@ -171,9 +171,9 @@ move it to **Processed** with its date and issue number. 119 queued, ~93 remaini
 
 Substantive sources surfaced in past @citizen_infra link digests (articles/reports/books, not the talks above). Re-tier or process freely; Tier hints are a starting point.
 
-- [ ] https://carnegieuk.org/publication/blueprints-for-democratic-wellbeing/ — Carnegie UK (Oliver Escobar): four ways to embed citizens' mini-publics in parliaments [Tier 1]
-- [ ] https://demos.co.uk/research/everyday-democracy-a-new-democratic-operating-model-to-rebuild-trust-between-state-and-citizen/ — Demos (Miriam Levin): "Everyday Democracy" — continuous participation to rebuild state–citizen trust [Tier 1]
-- [ ] https://democracywithoutpoliticians.org/ — Terry Bouricius (book): the case for sortition / citizen juries over elections [Tier 1]
+- [x] https://carnegieuk.org/publication/blueprints-for-democratic-wellbeing/ — Carnegie UK (Escobar & Elstub): four blueprints to embed citizens' mini-publics in parliaments → concepts/institutionalising-deliberation + library [Tier 1]
+- [x] https://demos.co.uk/research/everyday-democracy-a-new-democratic-operating-model-to-rebuild-trust-between-state-and-citizen/ — Demos (Miriam Levin): "Everyday Democracy" — continuous participation to rebuild state–citizen trust → concepts/institutionalising-deliberation + library [Tier 1]
+- [ ] https://democracywithoutpoliticians.org/ — Terry Bouricius (book): the case for sortition / citizen juries over elections [Tier 1] (deferred 2026-06-22: site 503 unreachable)
 - [ ] https://mitpress.mit.edu/9780262049948/rewiring-democracy/ — Schneier & Sanders (MIT Press, book): "Rewiring Democracy" — AI across the democratic process [Tier 1, civic-AI]
 - [ ] https://research.mysociety.org/html/supporting-participation/ — mySociety: 14 recommendations for a European civic-tech hub (grow demand / strengthen supply / fix procurement) [Tier 1]
 - [ ] https://www.sitra.fi/en/publication/european-civic-technology-and-citizen-participation-in-the-age-of-ai/ — Sitra: European civic technology & citizen participation in the age of AI (report) [Tier 1]
@@ -211,8 +211,8 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 
 - [x] https://www.coe.int/en/web/kyiv/-/a-historic-milestone-for-deliberative-democracy-ukraine-s-first-ever-citizens-assembly-successfully-launched — Council of Europe: Ukraine's first citizens' assemblies (Zvyahel + Slavutych, wartime) → run-reports/ukraine-wartime-assemblies [Tier 1]
 - [x] https://futurepolis.substack.com/p/the-lexington-experiment-part-i — Futurepolis (Gideon Lichfield): The Lexington Experiment, I & II — CivicLex's first Lexington KY civic assembly → run-reports/lexington-civic-assembly [Tier 1]
-- [ ] https://www.buergerrat.de/en/background/good-examples-of-citizens-assemblies/ — Mehr Demokratie (Bürgerrat.de): curated "good examples" of citizens' assemblies + their political impact → ecosystem (Mehr Demokratie) + library reference [Tier 1]
-- [ ] https://democracyrd.org/annual-report-2/ — Democracy R&D: annual "Year in Deliberation" report (global network of deliberative-democracy orgs; trends + 16 case studies) → ecosystem (Democracy R&D) + library [Tier 1]
+- [x] https://www.buergerrat.de/en/background/good-examples-of-citizens-assemblies/ — Mehr Demokratie: curated "good examples" of citizens' assemblies + their political impact → library + ecosystem (Mehr Demokratie) [Tier 1] (now redirects to mehr-demokratie.de)
+- [ ] https://democracyrd.org/annual-report-2/ — Democracy R&D: annual "Year in Deliberation" report (global network of deliberative-democracy orgs; trends + 16 case studies) → ecosystem (Democracy R&D) + library [Tier 1] (deferred 2026-06-22: site 403)
 - [x] https://report.whatcouldbgbe.com/ — "What Could BG Be?": Bowling Green / Warren County KY 2050 vision; Innovation Engine + Google Jigsaw + Computational Democracy Project, ideas gathered via Polis (Feb–Mar 2025), categorised by Sensemaker/Gemini → run-reports/bowling-green-what-could-bg-be (primary source) [Tier 1]
 - [x] https://medium.com/jigsaw/how-one-of-the-fastest-growing-cities-in-kentucky-used-ai-to-plan-for-the-next-25-years-3b70c4fd1412 — Jigsaw (Google): the Bowling Green case told by Jigsaw → run-reports/bowling-green-what-could-bg-be (secondary source) [Tier 1]
 - [x] https://medium.com/jigsaw/making-sense-of-large-scale-online-conversations-b153340bda55 — Jigsaw (Google): Sensemaker → concepts/civic-listening ("machine-led variant" section) + library; ecosystem (Jigsaw) line updated [Tier 1, civic-AI]

@@ -29,7 +29,20 @@ On the ground, the fight is mundane and recurring. Practitioners in Nordic citie
 
 This is the same ambition behind a [people's branch](/concepts/peoples-branch/) and [democratising finance](/concepts/democratising-finance/) — building a *system* (with its own governance, agenda-setting and follow-up bodies), not a one-off. It's also why [advisory-only assemblies risk "participation washing"](/concepts/binding-vs-advisory/), and why [building the people matters more than the artifact](/concepts/cargo-cult-democracy/).
 
+## Four routes into a parliament
+
+A 2026 Carnegie UK report by Oliver Escobar and Stephen Elstub sets out four concrete **blueprints** for embedding citizen mini-publics in a parliament, from lightest touch to deepest reform:
+
+- **On demand** — a mini-public convened whenever parliamentarians request one, backed by standing rules and staff. Minimal culture change.
+- **By public petition** — an e-petition that crosses a threshold triggers a mini-public, tying citizen-set agendas to deliberation.
+- **A standing citizen council** — a permanent 24-member body chosen by [lot](/concepts/sortition/) that commissions and oversees issue-specific mini-publics across the parliamentary cycle (the [Ostbelgien model](/run-reports/ostbelgien-citizens-council/) in parliamentary form).
+- **A lottery-based second chamber** — a deliberative chamber selected by lot, complementing or replacing an elected upper house. The most far-reaching, and closest to a [people's branch](/concepts/peoples-branch/).
+
+Each is grounded in a real precedent: Ireland's permanent Citizens' Assembly (2016), Ostbelgien, the Brussels Parliament's mixed citizen-politician committees (2019), and the Bundestag's ad hoc assemblies. Demos's Miriam Levin frames the same shift from the other end in *Everyday Democracy* (2026): make "participation, deliberation and shared governance a normal part of public life" rather than leaning on one-off consultations — her answer to a "democratic doom loop" in which low trust and weak government feed each other.
+
 ## Sources
 
 - Paolo Spada & Marco Giovanni, "Putting Back the Action into the Deliberative System Debate" — Participedia paper discussion, 2024: [youtube.com/watch?v=tEhpNXYXxZo](https://www.youtube.com/watch?v=tEhpNXYXxZo)
 - Nicholas Gruen, "How citizens can take back power" — Nesta, 2024: [youtube.com/watch?v=j7i72bJSBZE](https://www.youtube.com/watch?v=j7i72bJSBZE)
+- Oliver Escobar & Stephen Elstub, "Blueprints for Democratic Wellbeing" — Carnegie UK, 2026: [carnegieuk.org](https://carnegieuk.org/publication/blueprints-for-democratic-wellbeing/)
+- Miriam Levin, "Everyday Democracy: A new democratic operating model" — Demos, 2026: [demos.co.uk](https://demos.co.uk/research/everyday-democracy-a-new-democratic-operating-model-to-rebuild-trust-between-state-and-citizen/)
