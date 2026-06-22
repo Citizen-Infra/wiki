@@ -17,6 +17,11 @@ There's a useful heuristic here. A practice should be able to work **completely 
 
 The advice to builders: don't start from a single tool or feature. Go big, meta, and comprehensive first — understand the literacy you're trying to grow — and only then get specific about tools. It's a close cousin of the lesson that [the hard part of civic tech isn't the tech](/concepts/ai-for-participation/).
 
+## A worked example: citizens who build evals
+
+One vivid version of "education first" comes from the Stanford political economist Andy Hall, who argues that the answer to AI in the classroom isn't to ban it but to make it an **object of study**. In his teaching, students don't just use AI; they build their own *evals* — small tests that probe what a model actually does: where it lands on a moral dilemma, whether it can predict an election, how it handles a sensitive data scenario. Building the test is the literacy. A student who has written an eval understands a model's limits in a way no amount of using it conveys — and, Hall's civic point, is now equipped to hold a system to account against their own values rather than take its outputs on trust. It's the offline test in a new key: the capacity (knowing what to measure, and why) comes first; the tool only amplifies it. Scaled up, it's a route to the kind of broadly-distributed AI literacy that lets a public, not just a lab, judge whether a system is [worthy](/concepts/does-ai-weaken-institutions/) of trust.
+
 ## Sources
 
 - Cecile Green & Seth Frey on the Commoning Standard — Democracy Innovators Podcast (2026): [youtube.com/watch?v=0ekd-5YuHHE](https://www.youtube.com/watch?v=0ekd-5YuHHE)
+- Andy Hall, "An army of citizens building evals" — Free Systems, 2026: [freesystems.substack.com](https://freesystems.substack.com/p/an-army-of-citizens-building-evals)

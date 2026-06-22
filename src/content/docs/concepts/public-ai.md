@@ -20,6 +20,8 @@ This connects public AI to the wider argument that [knowledge is a commons](/con
 
 As models get small enough to run on a laptop or phone, why build a shared utility at all? The honest answer is that *most people won't* self-host, just as most people don't run a web server from their phone even though they could. So a genuinely public, non-terrible option has to exist — and stay public — or the default falls back to corporate control. Public AI is meant as a counterbalance: infrastructure whose direction is set by [democratic governance](/concepts/democratising-ai/), not only by an expansionist market logic.
 
+"Public" can also mean ownership rather than infrastructure: holding governing equity in the big private labs through democratic institutions, the route One Project's [Global AI Assembly](/concepts/democratising-ai/) proposal takes. The two senses converge — a public option you can use, and a public stake in the systems you can't avoid.
+
 For the case that this counterbalance is urgent — that the current design of AI actively [weakens democratic institutions](/concepts/does-ai-weaken-institutions/) — see the critique. For the different things "democratising AI" can mean, see [democratising AI](/concepts/democratising-ai/).
 
 ## Sources

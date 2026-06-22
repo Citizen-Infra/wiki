@@ -25,6 +25,10 @@ Not everyone on the critical side goes as far. Angela Oduor Longe ([Ushahidi](/e
 
 Yoshua Bengio adds the structural worry that ties it together: AI concentrates power in private hands, and democracy is about *sharing* power — so the two are in tension well before any science-fiction scenario arrives.
 
+## A subtler erosion: government that acts before you ask
+
+The arguments above are about AI in society at large; a quieter version shows up inside the state. Gustavo Maia's forthcoming book *Zero-Click Government* makes the optimistic case for **anticipatory governance** — public institutions using administrative data and AI to act *before* citizens ask, delivering a benefit or catching a need without the forms. In an afterword, Beth Simone Noveck (who has spent a career on open government) grants the appeal but names what it risks losing. A benefit application or a complaint was never only friction: it was a **feedback signal**, a moment where a citizen told the state what they needed and the state had to answer. Act on *inferred* demand instead, and that signal — along with the chance to contest a decision you never knew was being made — can quietly disappear. Her response isn't to refuse the tools but to insist that anticipatory systems be co-designed with the communities they serve, kept transparent and contestable, and treated as a place where participation has to be built in rather than engineered out. It's the bespoke-over-general rule again: efficiency is not the only thing a public institution is *for*.
+
 The honest position sits between the poles: be precautionary about where AI enters public life, insist on [democratic governance of the stack](/concepts/democratising-ai/), and judge each deployment by whether it strengthens or hollows out human agency. See also [why civic tech projects fail](/concepts/why-civic-tech-fails/) and [synthetic participation](/concepts/synthetic-participation/).
 
 ## Sources
@@ -32,3 +36,4 @@ The honest position sits between the poles: be precautionary about where AI ente
 - Woodrow Hartzog & Jessica Silbey, "How AI Destroys Institutions," 2025: [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623) · [scholarship.law.bu.edu](https://scholarship.law.bu.edu/faculty_scholarship/4179/)
 - Mozilla Foundation, "AI for democracy or democracy for AI?" panel (Nabiha Syed, Angela Oduor Longe, Arnau Monterde, Woody Hartzog, Claudia Chwalisz), 2025: [youtube.com/watch?v=bIGWZY-fCk0](https://www.youtube.com/watch?v=bIGWZY-fCk0)
 - Yoshua Bengio, remarks — Collective Intelligence Project "Democratic AI" panel, 2024: [youtube.com/watch?v=OQxMGMB5kL8](https://www.youtube.com/watch?v=OQxMGMB5kL8)
+- Beth Simone Noveck, "Zero-Click Government: Omakase or Loss of Agency?" — Reboot Democracy, 2026 (afterword to Gustavo Maia's *Zero-Click Government*): [rebootdemocracy.ai](https://rebootdemocracy.ai/blog/zero-click-government-response)
