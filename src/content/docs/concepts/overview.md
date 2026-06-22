@@ -7,27 +7,36 @@ Citizen infrastructure comes with its own vocabulary — *sortition*, *deliberat
 
 It's a living reference that grows over time. Where a concept has real-world examples, it links out to the [Run Reports](/run-reports/overview/) and [Stories](/stories/overview/); where it connects to something you can use, it links to [the toolkit](/toolkit/overview/).
 
-## Deliberative democracy
+## The case for deliberation
 
 - [Open democracy](/concepts/open-democracy/) — a democracy built on citizens governing by lot, not by election
-- [What is a citizens' assembly](/concepts/citizens-assembly/) — the format behind most of our Run Reports
-- [How a citizens' assembly is run](/concepts/running-a-citizens-assembly/) — the practical craft, from setting the question to caring for members afterwards
-- [Deliberative polling](/concepts/deliberative-polling/) — what a population thinks once it's actually informed, and how to measure the change
 - [The epistemic case for democracy](/concepts/epistemic-democracy/) — why diverse groups can be wiser than experts
+- [Civic love](/concepts/civic-love/) — the relational bond that makes deliberation work, and precedes its wisdom
 - [Pre-bunking](/concepts/pre-bunking/) — inoculating against a lie before it spreads, with a shared point nobody argues with
+
+## Sortition & government by lot
+
 - [The electoral imperative](/concepts/the-electoral-imperative/) — why the need to win and keep office structurally distorts the agenda, policy, and deliberation — the diagnosis sortition answers
 - [Sortition (representation by lot)](/concepts/sortition/) — choosing decision-makers at random
 - [A people's branch of government](/concepts/peoples-branch/) — a permanent chamber chosen by lot, as a check on the elected ones
 - [Multi-body sortition](/concepts/multi-body-sortition/) — what a whole legislature run on the lot could look like: Bouricius's reference design of several specialised random bodies
 - [Objections to sortition](/concepts/objections-to-sortition/) — the serious criticisms (competence, accountability, mobs, legitimacy) and the best answers to each
+- [Sortition in organisations](/concepts/sortition-in-organisations/) — random selection in workplaces, universities, unions and clubs, not just government
+- [Investor assemblies](/concepts/investor-assemblies/) — extending sortition beyond the state to the economy
+- [Democratising finance](/concepts/democratising-finance/) — sortition mandates for public banks and pension funds, and "Democracy on Fridays"
+
+## Citizens' assemblies
+
+- [What is a citizens' assembly](/concepts/citizens-assembly/) — the format behind most of our Run Reports
+- [How a citizens' assembly is run](/concepts/running-a-citizens-assembly/) — the practical craft, from setting the question to caring for members afterwards
+- [Deliberative polling](/concepts/deliberative-polling/) — what a population thinks once it's actually informed, and how to measure the change
 - [Letting citizens govern the assembly](/concepts/citizen-governance-of-assemblies/) — handing real procedural control to the participants, not just experts
-- [Civic love](/concepts/civic-love/) — the relational bond that makes deliberation work, and precedes its wisdom
 - [Binding or advisory?](/concepts/binding-vs-advisory/) — why advisory-only assemblies risk "participation washing," and how a few got real power
 - [Institutionalising deliberation](/concepts/institutionalising-deliberation/) — making assemblies permanent, and why some embed while others quietly die
 - [Scaling catalysts](/concepts/scaling-catalysts/) — the organisations whose job is to make democratic innovation take root, and what makes them work
-- [Investor assemblies](/concepts/investor-assemblies/) — extending sortition beyond the state to the economy
-- [Democratising finance](/concepts/democratising-finance/) — sortition mandates for public banks and pension funds, and "Democracy on Fridays"
-- [Sortition in organisations](/concepts/sortition-in-organisations/) — random selection in workplaces, universities, unions and clubs, not just government
+
+## Who gets to deliberate
+
 - [Children & young people's assemblies](/concepts/children-and-youth-assemblies/) — bringing under-18s into deliberation, by right
 - [Intergenerational deliberation](/concepts/intergenerational-deliberation/) — 7-to-70 in one room, and stewarding decisions across generations
 - [Deliberation as enfranchisement](/concepts/deliberation-and-enfranchisement/) — giving a say to those the vote excludes
@@ -58,23 +67,29 @@ It's a living reference that grows over time. Where a concept has real-world exa
 - [Protocol](/concepts/protocol/) — an ancient, neglected form of organising without a central ruler
 - [Bridging & pro-social media](/concepts/bridging-and-pro-social-media/) — ranking feeds by what builds understanding across communities, not by what hooks you
 
-## Civic AI
+## The case for civic AI
 
-- [Plurality](/concepts/plurality/) — Audrey Tang's answer to the AI "singularity": spread capability sideways, steered by communities, turning difference into energy
 - [Civic AI](/concepts/civic-ai/) — AI applied to democracy and civic life, and how the field is mapped
+- [Plurality](/concepts/plurality/) — Audrey Tang's answer to the AI "singularity": spread capability sideways, steered by communities, turning difference into energy
 - [Democratising AI](/concepts/democratising-ai/) — four things people mean by the phrase — use, development, profits, governance — and which one actually shares power
 - [Public AI](/concepts/public-ai/) — AI built and governed as public infrastructure, like libraries or the power grid
 - [Does AI weaken democratic institutions?](/concepts/does-ai-weaken-institutions/) — the strongest critique, and the case for using AI judiciously
+
+## Scaling deliberation with AI
+
 - [AI for participation](/concepts/ai-for-participation/) — how AI is actually showing up in participation tools
-- [Synthetic participation](/concepts/synthetic-participation/) — the risk of AI-generated stand-ins for real citizens
 - [Can AI scale deliberation?](/concepts/ai-and-deliberation/) — what's gained and lost when you automate the work of deliberating
 - [Five dimensions of scaling deliberation](/concepts/scaling-deliberation/) — out, up, across, deep, in — and why headcount is the wrong thing to optimise
 - [AI mediation & the Habermas Machine](/concepts/habermas-machine/) — can an AI draft a consensus statement a divided group prefers to a human mediator's?
-- [AI reflectors](/concepts/ai-reflectors/) — why "the collective will" can't simply be computed, and a humbler role for AI as a mirror
-- [Argument mapping](/concepts/argument-mapping/) — making the full shape of a contested debate legible, every claim and counter-claim
+- [Synthetic participation](/concepts/synthetic-participation/) — the risk of AI-generated stand-ins for real citizens
+
+## Sensemaking at scale
+
 - [Civic listening](/concepts/civic-listening/) — hearing a whole community at scale through small-group story-sharing
 - [Conversation networks](/concepts/conversation-networks/) — the media shape that replaces broadcasting: many small conversations with AI in the background
+- [Argument mapping](/concepts/argument-mapping/) — making the full shape of a contested debate legible, every claim and counter-claim
 - [Uncommon ground](/concepts/uncommon-ground/) — not the bland agreement everyone shares, but the rare point that surprises both sides
+- [AI reflectors](/concepts/ai-reflectors/) — why "the collective will" can't simply be computed, and a humbler role for AI as a mirror
 
 ## The civic tech field
 
