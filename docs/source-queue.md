@@ -195,7 +195,7 @@ Substantive sources surfaced in past @citizen_infra link digests (articles/repor
 - [ ] https://rebootdemocracy.ai/blog/zero-click-government-response — RebootDemocracy (essay): Zero-Click Government — Omakase or Loss of Agency? [Tier 1, civic-AI]
 - [ ] https://freesystems.substack.com/p/an-army-of-citizens-building-evals — Free Systems (essay): An army of citizens building evals [Tier 1, civic-AI]
 - [ ] https://www.radicalxchange.org/updates/blog/the-plural-stack/ — RadicalxChange (essay): The Plural Stack — Europe needs protocols nobody can capture [Tier 1/2, plurality]
-- [ ] https://healthydemocracy.org/home/projects/losangeles/ — Healthy Democracy: 2026 Los Angeles City Charter Assembly (dated deliberation → run-report) [Tier 1]
+- [x] https://healthydemocracy.org/home/projects/losangeles/ — Healthy Democracy: 2026 Los Angeles City Charter Assembly → run-reports/la-city-charter-assembly [Tier 1]
 - [ ] https://open.substack.com/pub/hughpope/p/of-civic-love-and-the-beauty-of-the — Hugh Pope (essay): Of Civic Love and the Beauty of the Lot (sortition) [Tier 1]
 - [ ] https://www.futures4europe.eu/post/the-use-of-digital-tools-and-ai-to-promote-citizenparticipation-in-eu-policymaking-8evld — Futures4Europe: use of digital tools & AI to promote citizen participation in EU policymaking [Tier 1]
 - [ ] https://garden3d.substack.com/p/how-we-shaped-12-civic-tech-recommendations — garden3d: How We Shaped 12 Civic Tech Recommendations for Mamdani (100 New Yorkers on Polis) [Tier 1]

@@ -128,6 +128,7 @@ export default defineConfig({
             { slug: 'run-reports/birmingham-museums-jury' },
             { slug: 'run-reports/global-assembly-2021' },
             { slug: 'run-reports/connecticut-property-taxes' },
+            { slug: 'run-reports/la-city-charter-assembly' },
           ]},
           { label: 'Constitutional & electoral reform', collapsed: true, items: [
             { slug: 'run-reports/iceland-2010-constitution' },

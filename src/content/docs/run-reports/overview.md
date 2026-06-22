@@ -33,6 +33,7 @@ works — along with its limits, which we try to report honestly.
 - [Birmingham Museums Citizens' Jury (2024)](/run-reports/birmingham-museums-jury/)
 - [The Global Assembly on the Climate and Ecological Crisis (2021)](/run-reports/global-assembly-2021/)
 - [Connecticut Citizens' Assembly on Property Taxes (2026, in progress)](/run-reports/connecticut-property-taxes/)
+- [Los Angeles City Charter Civic Assembly (2026)](/run-reports/la-city-charter-assembly/)
 
 ### Constitutional & electoral reform
 
