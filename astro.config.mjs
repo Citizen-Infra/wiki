@@ -129,6 +129,8 @@ export default defineConfig({
             { slug: 'run-reports/global-assembly-2021' },
             { slug: 'run-reports/connecticut-property-taxes' },
             { slug: 'run-reports/la-city-charter-assembly' },
+            { slug: 'run-reports/lexington-civic-assembly' },
+            { slug: 'run-reports/ukraine-wartime-assemblies' },
           ]},
           { label: 'Constitutional & electoral reform', collapsed: true, items: [
             { slug: 'run-reports/iceland-2010-constitution' },
