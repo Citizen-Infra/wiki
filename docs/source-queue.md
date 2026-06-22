@@ -190,6 +190,20 @@ Substantive sources surfaced in past @citizen_infra link digests (articles/repor
 - [ ] https://risk.darkmatterlabs.org/ — Dark Matter Labs: RiskSense — citizen-led infrastructure for systemic risk governance [Tier 2, DML]
 - [ ] https://indyjohar.substack.com/p/beyond-dunbar-civilization-was-right — Indy Johar (essay): "Beyond Dunbar" — civilisation beyond the village [Tier 2, DML]
 - [ ] https://open.substack.com/pub/cosmosinstitute/p/when-decentralization-fails — Cosmos Institute (essay): When Decentralization Fails [Tier 2]
+- [ ] https://ssir.org/articles/entry/artificial-intelligence-solidarity-ecosystem — SSIR (essay): Artificial Intelligence & the Solidarity Ecosystem [Tier 1, civic-AI]
+- [ ] https://oneproject.org/how-to-make-ai-serve-the-public/ — One Project (essay): How to Make AI Serve the Public [Tier 1, civic-AI]
+- [ ] https://rebootdemocracy.ai/blog/zero-click-government-response — RebootDemocracy (essay): Zero-Click Government — Omakase or Loss of Agency? [Tier 1, civic-AI]
+- [ ] https://freesystems.substack.com/p/an-army-of-citizens-building-evals — Free Systems (essay): An army of citizens building evals [Tier 1, civic-AI]
+- [ ] https://www.radicalxchange.org/updates/blog/the-plural-stack/ — RadicalxChange (essay): The Plural Stack — Europe needs protocols nobody can capture [Tier 1/2, plurality]
+- [ ] https://healthydemocracy.org/home/projects/losangeles/ — Healthy Democracy: 2026 Los Angeles City Charter Assembly (dated deliberation → run-report) [Tier 1]
+- [ ] https://open.substack.com/pub/hughpope/p/of-civic-love-and-the-beauty-of-the — Hugh Pope (essay): Of Civic Love and the Beauty of the Lot (sortition) [Tier 1]
+- [ ] https://www.futures4europe.eu/post/the-use-of-digital-tools-and-ai-to-promote-citizenparticipation-in-eu-policymaking-8evld — Futures4Europe: use of digital tools & AI to promote citizen participation in EU policymaking [Tier 1]
+- [ ] https://garden3d.substack.com/p/how-we-shaped-12-civic-tech-recommendations — garden3d: How We Shaped 12 Civic Tech Recommendations for Mamdani (100 New Yorkers on Polis) [Tier 1]
+- [ ] https://nathanschneider.info/2026/02/constitutional-agents-for-online-governance/ — Nathan Schneider (essay): Constitutional Agents for Online Governance [Tier 2, protocol]
+- [ ] https://www.weareopus.org/blog/why-we-cant-tackle-sheffields-most-urgent-problems-without-talking-about-neighbourhoods — Opus (essay): why neighbourhoods are central to Sheffield's challenges [Tier 2, neighbourhood]
+- [ ] https://demnext.substack.com/p/politics-without-politicians-a-conversation — DemocracyNext (Chwalisz × Landemore): Politics Without Politicians [Tier 1 — theme already in wiki via Landemore; cite-or-skip]
+- [ ] https://www.euractiv.com/opinion/fixing-digital-democracy-from-fragmented-tools-to-a-vibrant-european-civic-tech-hub/ — Euractiv (Sitra op-ed): fixing digital democracy → a European civic-tech hub [Tier 1 — overlaps mySociety + Sitra entries; lower priority]
+- [ ] https://www.noemamag.com/the-architecture-of-cooperation — Noema: How Reverse Game Theory Could Solve the Housing Shortage [Tier 3 — lower priority]
 
 ## Processed
 
