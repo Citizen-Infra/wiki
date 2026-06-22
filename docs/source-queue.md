@@ -205,6 +205,15 @@ Substantive sources surfaced in past @citizen_infra link digests (articles/repor
 - [ ] https://www.euractiv.com/opinion/fixing-digital-democracy-from-fragmented-tools-to-a-vibrant-european-civic-tech-hub/ — Euractiv (Sitra op-ed): fixing digital democracy → a European civic-tech hub [Tier 1 — overlaps mySociety + Sitra entries; lower priority]
 - [ ] https://www.noemamag.com/the-architecture-of-cooperation — Noema: How Reverse Game Theory Could Solve the Housing Shortage [Tier 3 — lower priority]
 
+### Shared directly (not via digest)
+
+Sources handed in directly (never posted to the @citizen_infra group). Same routing as the rest.
+
+- [ ] https://www.coe.int/en/web/kyiv/-/a-historic-milestone-for-deliberative-democracy-ukraine-s-first-ever-citizens-assembly-successfully-launched — Council of Europe: Ukraine's first citizens' assembly (Zvyahel, wartime, urban development) → run-report. Primary reports: https://rm.coe.int/report-citizens-assembly-4-2025-web/1680b58e0f + https://rm.coe.int/report-citizens-assembly-slavutych-4-2025-/1680b58e0e ; programme: https://www.coe.int/en/web/congress/-/deliberative-democracy-in-ukraine-congress-to-support-three-citizens-assemblies-in-2025-2026 [Tier 1]
+- [ ] https://futurepolis.substack.com/p/the-lexington-experiment-part-i — Futurepolis (Gideon Lichfield): The Lexington Experiment, I & II — CivicLex's first Lexington KY civic assembly on council pay + charter reform → run-report. Part II: https://futurepolis.substack.com/p/the-lexington-experiment-part-ii [Tier 1]
+- [ ] https://www.buergerrat.de/en/background/good-examples-of-citizens-assemblies/ — Mehr Demokratie (Bürgerrat.de): curated "good examples" of citizens' assemblies + their political impact → ecosystem (Mehr Demokratie) + library reference [Tier 1]
+- [ ] https://democracyrd.org/annual-report-2/ — Democracy R&D: annual "Year in Deliberation" report (global network of deliberative-democracy orgs; trends + 16 case studies) → ecosystem (Democracy R&D) + library [Tier 1]
+
 ## Processed
 
 - [x] #12 — Relational Technology Project (Metagov seminar) · `HbH_cYgUCWA` · 2026-06-11
