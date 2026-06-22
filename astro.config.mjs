@@ -35,6 +35,7 @@ export default defineConfig({
             { slug: 'concepts/deliberative-polling' },
             { slug: 'concepts/epistemic-democracy' },
             { slug: 'concepts/pre-bunking' },
+            { slug: 'concepts/the-electoral-imperative' },
             { slug: 'concepts/sortition' },
             { slug: 'concepts/peoples-branch' },
             { slug: 'concepts/multi-body-sortition' },

@@ -15,6 +15,7 @@ It's a living reference that grows over time. Where a concept has real-world exa
 - [Deliberative polling](/concepts/deliberative-polling/) — what a population thinks once it's actually informed, and how to measure the change
 - [The epistemic case for democracy](/concepts/epistemic-democracy/) — why diverse groups can be wiser than experts
 - [Pre-bunking](/concepts/pre-bunking/) — inoculating against a lie before it spreads, with a shared point nobody argues with
+- [The electoral imperative](/concepts/the-electoral-imperative/) — why the need to win and keep office structurally distorts the agenda, policy, and deliberation — the diagnosis sortition answers
 - [Sortition (representation by lot)](/concepts/sortition/) — choosing decision-makers at random
 - [A people's branch of government](/concepts/peoples-branch/) — a permanent chamber chosen by lot, as a check on the elected ones
 - [Multi-body sortition](/concepts/multi-body-sortition/) — what a whole legislature run on the lot could look like: Bouricius's reference design of several specialised random bodies
