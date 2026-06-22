@@ -6,7 +6,7 @@ Each is processed via the `/process-source` flow -> wiki pages + a per-source
 ingestion history in memory (`project_cibc_wiki.md`).
 
 **How to use:** work top-down (Tier 1 first); skip any freely. When one is done,
-move it to **Processed** with its date and issue number. 119 queued, ~99 remaining (Tang/plurality + Civic-AI clusters done).
+move it to **Processed** with its date and issue number. 119 queued, ~97 remaining (Tang/plurality + Civic-AI clusters done).
 
 ## Queue
 
@@ -213,8 +213,8 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 - [x] https://futurepolis.substack.com/p/the-lexington-experiment-part-i — Futurepolis (Gideon Lichfield): The Lexington Experiment, I & II — CivicLex's first Lexington KY civic assembly → run-reports/lexington-civic-assembly [Tier 1]
 - [ ] https://www.buergerrat.de/en/background/good-examples-of-citizens-assemblies/ — Mehr Demokratie (Bürgerrat.de): curated "good examples" of citizens' assemblies + their political impact → ecosystem (Mehr Demokratie) + library reference [Tier 1]
 - [ ] https://democracyrd.org/annual-report-2/ — Democracy R&D: annual "Year in Deliberation" report (global network of deliberative-democracy orgs; trends + 16 case studies) → ecosystem (Democracy R&D) + library [Tier 1]
-- [ ] https://report.whatcouldbgbe.com/ — "What Could BG Be?": Bowling Green / Warren County KY 2050 vision; Innovation Engine + Google Jigsaw + Computational Democracy Project, ideas gathered via Polis (Feb–Mar 2025), categorised by Sensemaker/Gemini → run-reports/ (Bowling Green) — PAIR with the Jigsaw article below as primary source [Tier 1]
-- [ ] https://medium.com/jigsaw/how-one-of-the-fastest-growing-cities-in-kentucky-used-ai-to-plan-for-the-next-25-years-3b70c4fd1412 — Jigsaw (Google): the Bowling Green case told by Jigsaw → same Bowling Green run-report (secondary source; PAIR with the report above) [Tier 1]
+- [x] https://report.whatcouldbgbe.com/ — "What Could BG Be?": Bowling Green / Warren County KY 2050 vision; Innovation Engine + Google Jigsaw + Computational Democracy Project, ideas gathered via Polis (Feb–Mar 2025), categorised by Sensemaker/Gemini → run-reports/bowling-green-what-could-bg-be (primary source) [Tier 1]
+- [x] https://medium.com/jigsaw/how-one-of-the-fastest-growing-cities-in-kentucky-used-ai-to-plan-for-the-next-25-years-3b70c4fd1412 — Jigsaw (Google): the Bowling Green case told by Jigsaw → run-reports/bowling-green-what-could-bg-be (secondary source) [Tier 1]
 - [ ] https://medium.com/jigsaw/making-sense-of-large-scale-online-conversations-b153340bda55 — Jigsaw (Google): making sense of large-scale online conversations with Sensemaker → concepts/civic-listening + scaling-deliberation, ecosystem (Jigsaw) [Tier 1, civic-AI]
 - [ ] https://www.peoplepowered.org/digital-guide-home — People Powered: "Guide to Digital Participation Platforms" — when to use, how to choose, implementation tips (w/ UNDP, updated Sept 2025) → toolkit/decide-together + ecosystem (People Powered) [Tier 1]
 - [ ] https://www.betterpolitics.foundation/democratic-innovation-organizations — Better Politics Foundation: "Pioneering Practitioners" — curated, filterable directory of ~40 democratic-innovation orgs worldwide → ecosystem (cross-reference / fill gaps) + library reference [Tier 2]

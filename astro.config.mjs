@@ -149,6 +149,7 @@ export default defineConfig({
             { slug: 'run-reports/vtaiwan-uber' },
             { slug: 'run-reports/taiwan-alignment-assemblies' },
             { slug: 'run-reports/engaged-california' },
+            { slug: 'run-reports/bowling-green-what-could-bg-be' },
             { slug: 'run-reports/anno-tokyo-2024' },
           ]},
         ]},
