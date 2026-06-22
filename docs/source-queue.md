@@ -40,7 +40,7 @@ move it to **Processed** with its date and issue number. 111 queued, ~91 remaini
 - [ ] https://www.youtube.com/watch?v=HNpd5Fa-ze8 — Supporting Participation: Building an effective European civic tech hub (59m)
 - [ ] https://www.youtube.com/watch?v=M3H-w4Osajk — TICTeC 25: Liset Hamming (SPOON, Netherlands) (25m)
 - [ ] https://www.youtube.com/watch?v=kvJVCgBprwY — Beyond websites: How pro-democracy projects reach their audiences (47m)
-- [ ] https://www.youtube.com/watch?v=Wm_nuJ2xEoE — TICTeC 25: Putting the humans back in - Manchester People’s Panel for AI (18m)
+- [x] https://www.youtube.com/watch?v=Wm_nuJ2xEoE — TICTeC 25: Putting the humans back in - Manchester People’s Panel for AI (18m) → run-reports/manchester-peoples-panel-ai
 - [ ] https://www.youtube.com/watch?v=ucKz_EmO-c0 — Go Vocal webinar | Building a culture of engagement (55m)
 - [ ] https://www.youtube.com/watch?v=_OVZJtw-xkA — Go Vocal Webinar | Rethinking public engagement – Designing a methods mix that works (45m)
 - [ ] https://www.youtube.com/watch?v=jlOnf8wmhYc — Go Vocal Webinar | How Allen, TX engaged more residents and shaped a better Comprehensive Plan (46m)

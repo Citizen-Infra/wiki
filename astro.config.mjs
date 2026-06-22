@@ -131,6 +131,7 @@ export default defineConfig({
             { slug: 'run-reports/la-city-charter-assembly' },
             { slug: 'run-reports/lexington-civic-assembly' },
             { slug: 'run-reports/ukraine-wartime-assemblies' },
+            { slug: 'run-reports/manchester-peoples-panel-ai' },
           ]},
           { label: 'Constitutional & electoral reform', collapsed: true, items: [
             { slug: 'run-reports/iceland-2010-constitution' },

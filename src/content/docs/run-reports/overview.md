@@ -36,6 +36,7 @@ works — along with its limits, which we try to report honestly.
 - [Los Angeles City Charter Civic Assembly (2026)](/run-reports/la-city-charter-assembly/)
 - [Lexington Civic Assembly (2026)](/run-reports/lexington-civic-assembly/)
 - [Ukraine's First Citizens' Assemblies (2024)](/run-reports/ukraine-wartime-assemblies/)
+- [Manchester People's Panel for AI (2022–2025)](/run-reports/manchester-peoples-panel-ai/)
 
 ### Constitutional & electoral reform
 
