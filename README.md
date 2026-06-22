@@ -25,12 +25,15 @@ npm run preview   # preview the built site
 
 ## Contributing
 
-Suggestions and corrections are welcome.
+Suggestions and corrections are welcome — anyone with repo access can add or edit pages, and a merged PR goes live automatically.
 
 - **Small fixes** — use the **"Edit page"** link at the bottom of any page to propose a change directly on GitHub.
-- **New or larger changes** — content lives in `src/content/docs/<section>/`. Add a Markdown file with `title` and `description` frontmatter, then register it in the `sidebar` in `astro.config.mjs` so it appears in navigation. Open a pull request.
+- **New content** — pages are written by *decomposing external sources* (talks, papers, articles) into the right sections, following this workflow:
+  1. **Pick a source.** Take one from the backlog in [`docs/source-queue.md`](./docs/source-queue.md) (or add one), and claim it by opening an issue titled `Process: <title>` labelled **`processing`** so two people don't do the same one. New here? Look for **`good first source`**.
+  2. **Process it.** Verify every name and figure against a primary source (omit what you can't verify), route each item to its section via the content map, and write pages from [`docs/templates/`](./docs/templates/). Claude Code users can run the in-repo command **`/process-source <url>`** (in `.claude/commands/`), which walks the whole flow; by hand, follow the same sequence. Content lives in `src/content/docs/<section>/` — register each new page's `{ slug }` in the `sidebar` in `astro.config.mjs` and on its section overview page (adding a file alone won't add it to navigation).
+  3. **Ship it.** Branch, run `npm run build` (the gate — must pass), open a PR, and self-merge once the build check is green. Netlify deploys `main` automatically.
 
-Pages cite their sources, and figures should trace to a public source. Working with Claude Code or another AI assistant? See [`CLAUDE.md`](./CLAUDE.md) for the repo's conventions.
+Pages cite their sources, and figures trace to a public source. **Full step-by-step guide → [`CONTRIBUTING.md`](./CONTRIBUTING.md)**; routing map + editorial discipline → [`CLAUDE.md`](./CLAUDE.md).
 
 ## License
 
