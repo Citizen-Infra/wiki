@@ -6,7 +6,7 @@ Each is processed via the `/process-source` flow -> wiki pages + a per-source
 ingestion history in memory (`project_cibc_wiki.md`).
 
 **How to use:** work top-down (Tier 1 first); skip any freely. When one is done,
-move it to **Processed** with its date and issue number. 119 queued, ~97 remaining (Tang/plurality + Civic-AI clusters done).
+move it to **Processed** with its date and issue number. 119 queued, ~93 remaining (Tang/plurality + Civic-AI clusters done).
 
 ## Queue
 
@@ -215,12 +215,12 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 - [ ] https://democracyrd.org/annual-report-2/ — Democracy R&D: annual "Year in Deliberation" report (global network of deliberative-democracy orgs; trends + 16 case studies) → ecosystem (Democracy R&D) + library [Tier 1]
 - [x] https://report.whatcouldbgbe.com/ — "What Could BG Be?": Bowling Green / Warren County KY 2050 vision; Innovation Engine + Google Jigsaw + Computational Democracy Project, ideas gathered via Polis (Feb–Mar 2025), categorised by Sensemaker/Gemini → run-reports/bowling-green-what-could-bg-be (primary source) [Tier 1]
 - [x] https://medium.com/jigsaw/how-one-of-the-fastest-growing-cities-in-kentucky-used-ai-to-plan-for-the-next-25-years-3b70c4fd1412 — Jigsaw (Google): the Bowling Green case told by Jigsaw → run-reports/bowling-green-what-could-bg-be (secondary source) [Tier 1]
-- [ ] https://medium.com/jigsaw/making-sense-of-large-scale-online-conversations-b153340bda55 — Jigsaw (Google): making sense of large-scale online conversations with Sensemaker → concepts/civic-listening + scaling-deliberation, ecosystem (Jigsaw) [Tier 1, civic-AI]
-- [ ] https://www.peoplepowered.org/digital-guide-home — People Powered: "Guide to Digital Participation Platforms" — when to use, how to choose, implementation tips (w/ UNDP, updated Sept 2025) → toolkit/decide-together + ecosystem (People Powered) [Tier 1]
+- [x] https://medium.com/jigsaw/making-sense-of-large-scale-online-conversations-b153340bda55 — Jigsaw (Google): Sensemaker → concepts/civic-listening ("machine-led variant" section) + library; ecosystem (Jigsaw) line updated [Tier 1, civic-AI]
+- [x] https://www.peoplepowered.org/digital-guide-home — People Powered: "Guide to Digital Participation Platforms" → already in library (Civic AI) + ecosystem (People Powered); no new page needed [Tier 1]
 - [ ] https://www.betterpolitics.foundation/democratic-innovation-organizations — Better Politics Foundation: "Pioneering Practitioners" — curated, filterable directory of ~40 democratic-innovation orgs worldwide → ecosystem (cross-reference / fill gaps) + library reference [Tier 2]
 - [ ] https://www.ncdd.org/ — National Coalition for Dialogue & Deliberation (NCDD): US network + resource library for dialogue & deliberation practice → ecosystem (NCDD) [Tier 2]
-- [ ] https://www.linkedin.com/posts/adnanjaber_report-on-mapping-llm-tools-for-public-discouse-ugcPost-7390116189798162432-H1L3 — Adnan Jaber: report mapping LLM tools for public discourse (map: https://airtable.com/appdDLNeIEBFUZiQG/shrgEVfEwv7OoiTcJ/tblvpYsR8oOFvepkO) → library reference + ecosystem [Tier 1, civic-AI]
-- [ ] https://www.linkedin.com/pulse/sortition-goes-back-further-brussels-than-many-people-hugh-pope-73rmf — Hugh Pope (essay): "Sortition goes back further in Brussels than many people think" — the deep history of sortition → concepts/sortition (enrich) + library; second Hugh Pope sortition piece (cf. "Of Civic Love" above) [Tier 1]
+- [x] https://www.linkedin.com/posts/adnanjaber_report-on-mapping-llm-tools-for-public-discouse-ugcPost-7390116189798162432-H1L3 — Adnan Jaber: report mapping LLM tools for public discourse (map: https://airtable.com/appdDLNeIEBFUZiQG/shrgEVfEwv7OoiTcJ/tblvpYsR8oOFvepkO) → library/reading-and-sources (Civic AI) [Tier 1, civic-AI]
+- [x] https://www.linkedin.com/pulse/sortition-goes-back-further-brussels-than-many-people-hugh-pope-73rmf — Hugh Pope (essay): "Sortition goes back further in Brussels than many people think" → concepts/sortition ("Not only ancient" section) + library [Tier 1]
 
 ## Processed
 
