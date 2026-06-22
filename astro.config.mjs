@@ -38,6 +38,7 @@ export default defineConfig({
             { slug: 'concepts/sortition' },
             { slug: 'concepts/peoples-branch' },
             { slug: 'concepts/multi-body-sortition' },
+            { slug: 'concepts/objections-to-sortition' },
             { slug: 'concepts/citizen-governance-of-assemblies' },
             { slug: 'concepts/civic-love' },
             { slug: 'concepts/binding-vs-advisory' },

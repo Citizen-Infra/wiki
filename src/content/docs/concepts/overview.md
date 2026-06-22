@@ -18,6 +18,7 @@ It's a living reference that grows over time. Where a concept has real-world exa
 - [Sortition (representation by lot)](/concepts/sortition/) — choosing decision-makers at random
 - [A people's branch of government](/concepts/peoples-branch/) — a permanent chamber chosen by lot, as a check on the elected ones
 - [Multi-body sortition](/concepts/multi-body-sortition/) — what a whole legislature run on the lot could look like: Bouricius's reference design of several specialised random bodies
+- [Objections to sortition](/concepts/objections-to-sortition/) — the serious criticisms (competence, accountability, mobs, legitimacy) and the best answers to each
 - [Letting citizens govern the assembly](/concepts/citizen-governance-of-assemblies/) — handing real procedural control to the participants, not just experts
 - [Civic love](/concepts/civic-love/) — the relational bond that makes deliberation work, and precedes its wisdom
 - [Binding or advisory?](/concepts/binding-vs-advisory/) — why advisory-only assemblies risk "participation washing," and how a few got real power
