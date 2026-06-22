@@ -22,7 +22,7 @@ Node **≥22.12** (Netlify pins `NODE_VERSION=22`). Always `npm run build` befor
 
 Deploys are **automatic** — Netlify is git-connected and builds every push to `main`, so **merge = live** at citizen-infra.netlify.app. Don't run a manual `netlify deploy`; just merge a green PR. `netlify.toml` sets the build command (`npm run build`), publish dir (`dist`), and Node 22. A clean `npm run build` is still the local gate before you push.
 
-`main` is protected: a PR's `build` check must pass before it can merge. Vetted collaborators **self-merge** their own green PRs (no review required); admins can still push directly. See **`CONTRIBUTING.md`** for the full branch → PR → self-merge flow.
+`main` is protected: a PR needs a green `build` check **and one approving review** from a [`wiki-editors`](https://github.com/orgs/Citizen-Infra/teams/wiki-editors) maintainer before it can merge; owners can still push directly for maintenance. See **`GOVERNANCE.md`** for roles and the review model and **`CONTRIBUTING.md`** for the branch → PR flow.
 
 ## Architecture
 
