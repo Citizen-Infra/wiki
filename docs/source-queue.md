@@ -166,6 +166,23 @@ move it to **Processed** with its date and issue number. 111 queued, ~91 remaini
 - [ ] https://www.youtube.com/watch?v=dnIOrPYgszk — Small City Governance with Bartek Starodaj (50m)
 - [ ] https://www.youtube.com/watch?v=HRO4JGUYnt8 — Metagov Seminar - Understanding Early Large-Scale Collectives (55m)
 
+
+### From past digests
+
+Substantive sources surfaced in past @citizen_infra link digests (articles/reports/books, not the talks above). Re-tier or process freely; Tier hints are a starting point.
+
+- [ ] https://carnegieuk.org/publication/blueprints-for-democratic-wellbeing/ — Carnegie UK (Oliver Escobar): four ways to embed citizens' mini-publics in parliaments [Tier 1]
+- [ ] https://demos.co.uk/research/everyday-democracy-a-new-democratic-operating-model-to-rebuild-trust-between-state-and-citizen/ — Demos (Miriam Levin): "Everyday Democracy" — continuous participation to rebuild state–citizen trust [Tier 1]
+- [ ] https://democracywithoutpoliticians.org/ — Terry Bouricius (book): the case for sortition / citizen juries over elections [Tier 1]
+- [ ] https://mitpress.mit.edu/9780262049948/rewiring-democracy/ — Schneier & Sanders (MIT Press, book): "Rewiring Democracy" — AI across the democratic process [Tier 1, civic-AI]
+- [ ] https://research.mysociety.org/html/supporting-participation/ — mySociety: 14 recommendations for a European civic-tech hub (grow demand / strengthen supply / fix procurement) [Tier 1]
+- [ ] https://www.sitra.fi/en/publication/european-civic-technology-and-citizen-participation-in-the-age-of-ai/ — Sitra: European civic technology & citizen participation in the age of AI (report) [Tier 1]
+- [ ] https://www.sitra.fi/en/blogs/three-changes-needed-to-strengthen-digital-citizen-participation/ — Sitra (Antti Lehtinen): three changes to strengthen digital citizen participation [Tier 1]
+- [ ] https://www.cambridge.org/core/journals/american-political-science-review/article/how-deliberation-happens-enabling-deliberative-reason/6558F69855ADA8B15BF2EC2E5D403E71 — APSR paper: How Deliberation Happens — enabling deliberative reason [Tier 1]
+- [ ] https://www.cambridge.org/core/journals/european-political-science/article/democratic-innovations-in-the-uk-reflections-on-historical-trajectories-across-space-and-time/BC977AEAD3BDD9C2D46E601B1555853F — Cambridge/EPS: democratic innovations in the UK — historical trajectories across space and time [Tier 1]
+- [ ] https://efi.ed.ac.uk/reviving-the-commons-a-scoping-review-of-urban-and-digital-commoning/ — Edinburgh Futures (Henderson & Escobar): scoping review of urban + digital commoning [Tier 2]
+- [ ] https://thinklikeacommoner.com/second-edition/read-it/ — David Bollier (book, 2nd ed): "Think Like a Commoner" — a short introduction to the commons [Tier 2]
+
 ## Processed
 
 - [x] #12 — Relational Technology Project (Metagov seminar) · `HbH_cYgUCWA` · 2026-06-11
