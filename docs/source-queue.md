@@ -182,6 +182,14 @@ Substantive sources surfaced in past @citizen_infra link digests (articles/repor
 - [ ] https://www.cambridge.org/core/journals/european-political-science/article/democratic-innovations-in-the-uk-reflections-on-historical-trajectories-across-space-and-time/BC977AEAD3BDD9C2D46E601B1555853F — Cambridge/EPS: democratic innovations in the UK — historical trajectories across space and time [Tier 1]
 - [ ] https://efi.ed.ac.uk/reviving-the-commons-a-scoping-review-of-urban-and-digital-commoning/ — Edinburgh Futures (Henderson & Escobar): scoping review of urban + digital commoning [Tier 2]
 - [ ] https://thinklikeacommoner.com/second-edition/read-it/ — David Bollier (book, 2nd ed): "Think Like a Commoner" — a short introduction to the commons [Tier 2]
+- [ ] https://knightcolumbia.org/content/ai-as-social-technology — Knight First Amendment Institute (essay): AI as Social Technology [Tier 1, civic-AI]
+- [ ] https://open.substack.com/pub/audreyt/p/software-freedom-as-civic-care — Audrey Tang (essay): "Software Freedom as Civic Care" [Tier 2, plurality]
+- [ ] https://connectedplaces.online/the-purpose-of-protocols/ — Connected Places (essay): The Purpose of Protocols [Tier 2, protocol]
+- [ ] https://open.substack.com/pub/protocolized/p/introducing-the-protocol-institute — Protocolized: Introducing the Protocol Institute (org/essay) [Tier 2, protocol]
+- [ ] https://www.jrf.org.uk/neighbourhoods-and-communities/why-social-infrastructure-matters-for-economic-security — JRF (report): why social infrastructure matters for economic security [Tier 2, neighbourhood]
+- [ ] https://risk.darkmatterlabs.org/ — Dark Matter Labs: RiskSense — citizen-led infrastructure for systemic risk governance [Tier 2, DML]
+- [ ] https://indyjohar.substack.com/p/beyond-dunbar-civilization-was-right — Indy Johar (essay): "Beyond Dunbar" — civilisation beyond the village [Tier 2, DML]
+- [ ] https://open.substack.com/pub/cosmosinstitute/p/when-decentralization-fails — Cosmos Institute (essay): When Decentralization Fails [Tier 2]
 
 ## Processed
 
