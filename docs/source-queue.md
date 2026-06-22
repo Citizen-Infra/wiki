@@ -6,7 +6,7 @@ Each is processed via the `/process-source` flow -> wiki pages + a per-source
 ingestion history in memory (`project_cibc_wiki.md`).
 
 **How to use:** work top-down (Tier 1 first); skip any freely. When one is done,
-move it to **Processed** with its date and issue number. 119 queued, ~89 remaining (Tang/plurality + Civic-AI clusters done).
+move it to **Processed** with its date and issue number. 119 queued, ~88 remaining (Tang/plurality + Civic-AI clusters done).
 
 ## Queue
 
@@ -212,7 +212,7 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 - [x] https://www.coe.int/en/web/kyiv/-/a-historic-milestone-for-deliberative-democracy-ukraine-s-first-ever-citizens-assembly-successfully-launched — Council of Europe: Ukraine's first citizens' assemblies (Zvyahel + Slavutych, wartime) → run-reports/ukraine-wartime-assemblies [Tier 1]
 - [x] https://futurepolis.substack.com/p/the-lexington-experiment-part-i — Futurepolis (Gideon Lichfield): The Lexington Experiment, I & II — CivicLex's first Lexington KY civic assembly → run-reports/lexington-civic-assembly [Tier 1]
 - [x] https://www.buergerrat.de/en/background/good-examples-of-citizens-assemblies/ — Mehr Demokratie: curated "good examples" of citizens' assemblies + their political impact → library + ecosystem (Mehr Demokratie) [Tier 1] (now redirects to mehr-demokratie.de)
-- [ ] https://democracyrd.org/annual-report-2/ — Democracy R&D: annual "Year in Deliberation" report (global network of deliberative-democracy orgs; trends + 16 case studies) → ecosystem (Democracy R&D) + library [Tier 1] (deferred 2026-06-22: site 403)
+- [x] https://democracyrd.org/annual-report-2/ — Democracy R&D: annual "Year in Deliberation" report (global network of deliberative-democracy orgs; trends + 16 case studies) → ecosystem (Democracy R&D) + library [Tier 1] (via Firecrawl)
 - [x] https://report.whatcouldbgbe.com/ — "What Could BG Be?": Bowling Green / Warren County KY 2050 vision; Innovation Engine + Google Jigsaw + Computational Democracy Project, ideas gathered via Polis (Feb–Mar 2025), categorised by Sensemaker/Gemini → run-reports/bowling-green-what-could-bg-be (primary source) [Tier 1]
 - [x] https://medium.com/jigsaw/how-one-of-the-fastest-growing-cities-in-kentucky-used-ai-to-plan-for-the-next-25-years-3b70c4fd1412 — Jigsaw (Google): the Bowling Green case told by Jigsaw → run-reports/bowling-green-what-could-bg-be (secondary source) [Tier 1]
 - [x] https://medium.com/jigsaw/making-sense-of-large-scale-online-conversations-b153340bda55 — Jigsaw (Google): Sensemaker → concepts/civic-listening ("machine-led variant" section) + library; ecosystem (Jigsaw) line updated [Tier 1, civic-AI]

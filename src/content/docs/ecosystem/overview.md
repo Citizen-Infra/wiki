@@ -65,6 +65,7 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 ## Networks & communities
 
 - **[People Powered](https://www.peoplepowered.org/)** — a global hub for participatory democracy, helping organisations and governments expand people's power to shape public policy around the world.
+- **[Democracy R&D](https://democracyrd.org/)** — a global network of organisations and practitioners advancing deliberative democracy and citizens' assemblies (co-founded by sortition advocate Terry Bouricius); publishes the annual *Year in Deliberation* review and "living guidebooks" on institutionalisation, the Global South, and difficult issues.
 - **[Mehr Demokratie](https://www.mehr-demokratie.de/en/)** — Germany's leading direct- and participatory-democracy NGO; its LOSLAND project (with the RIFS sustainability institute) brings citizens' assemblies to municipalities, and it curates a public catalogue of good-example assemblies and their real policy outcomes.
 - **[OpenCivics](https://www.opencivics.co/)** — a community of practice and solidarity for open civic innovation, providing scaffolding for civic innovators to coordinate, align, and find funding. Its **Civic Innovator Sessions** spotlight emerging projects across the open-civic ecosystem.
 - **[Newspeak House](https://newspeak.house/)** — the London College of Political Technologists: a community and residency supporting civic technologists and the tech-and-politics community in London.
