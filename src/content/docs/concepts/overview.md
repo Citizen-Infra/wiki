@@ -91,6 +91,7 @@ It's a living reference that grows over time. Where a concept has real-world exa
 ## Sensemaking at scale
 
 - [Civic listening](/concepts/civic-listening/) — hearing a whole community at scale through small-group story-sharing
+- [AI sensemaking](/concepts/ai-sensemaking/) — clustering and summarising mass civic input to surface where people agree and split
 - [Conversation networks](/concepts/conversation-networks/) — the media shape that replaces broadcasting: many small conversations with AI in the background
 - [Argument mapping](/concepts/argument-mapping/) — making the full shape of a contested debate legible, every claim and counter-claim
 - [Uncommon ground](/concepts/uncommon-ground/) — not the bland agreement everyone shares, but the rare point that surprises both sides
@@ -106,6 +107,8 @@ It's a living reference that grows over time. Where a concept has real-world exa
 - [Civic intelligence infrastructure](/concepts/civic-intelligence-infrastructure/) — connective tissue that makes scattered civic work legible
 - [Relational tech](/concepts/relational-tech/) — technology built *with* a community to deepen care and trust, not optimise attention
 - [Locality-to-locality spreading](/concepts/locality-to-locality-spreading/) — how grassroots tools spread by being remixed, one neighbourhood at a time
+- [Durable civic infrastructure](/concepts/durable-civic-infrastructure/) — why standing local capacity matters more than the one-off assembly: scale down, not up
+- [Consequence scanning](/concepts/consequence-scanning/) — a structured exercise for surfacing a technology's unintended effects before it ships
 
 ## The bigger picture
 

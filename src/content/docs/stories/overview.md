@@ -18,5 +18,6 @@ This section collects those stories: bottom-up, real-world examples of citizens 
 - [Interspecies money: gorillas with bank accounts](/stories/interspecies-money/)
 - [The Outer Sunset: a neighborhood builds its own tech](/stories/outer-sunset/)
 - [Community Supplies: a sharing app that spread to 200 neighborhoods](/stories/community-supplies/)
+- [On the Table: a city plans itself over dinner (Lexington)](/stories/on-the-table/)
 
 More stories will be added over time. Have one that belongs here? Use the "Edit page" link below.

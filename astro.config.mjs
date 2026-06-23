@@ -102,6 +102,7 @@ export default defineConfig({
           ]},
           { label: 'Sensemaking at scale', collapsed: true, items: [
             { slug: 'concepts/civic-listening' },
+            { slug: 'concepts/ai-sensemaking' },
             { slug: 'concepts/conversation-networks' },
             { slug: 'concepts/argument-mapping' },
             { slug: 'concepts/uncommon-ground' },
@@ -116,6 +117,8 @@ export default defineConfig({
             { slug: 'concepts/civic-intelligence-infrastructure' },
             { slug: 'concepts/relational-tech' },
             { slug: 'concepts/locality-to-locality-spreading' },
+            { slug: 'concepts/durable-civic-infrastructure' },
+            { slug: 'concepts/consequence-scanning' },
           ]},
           { label: 'The bigger picture', collapsed: true, items: [
             { slug: 'concepts/metacrisis' },
@@ -184,6 +187,7 @@ export default defineConfig({
           { slug: 'stories/interspecies-money' },
           { slug: 'stories/outer-sunset' },
           { slug: 'stories/community-supplies' },
+          { slug: 'stories/on-the-table' },
         ]},
         { label: 'Ecosystem', items: [
           { slug: 'ecosystem/overview' },
