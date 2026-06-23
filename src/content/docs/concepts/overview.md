@@ -13,6 +13,7 @@ It's a living reference that grows over time. Where a concept has real-world exa
 - [The epistemic case for democracy](/concepts/epistemic-democracy/) — why diverse groups can be wiser than experts
 - [Civic love](/concepts/civic-love/) — the relational bond that makes deliberation work, and precedes its wisdom
 - [Pre-bunking](/concepts/pre-bunking/) — inoculating against a lie before it spreads, with a shared point nobody argues with
+- [Breaking the gridlock](/concepts/breaking-the-gridlock/) — the UN's diagnosis of why we can't act on shared problems, and why deliberation is part of the cure
 
 ## Sortition & government by lot
 
@@ -29,10 +30,12 @@ It's a living reference that grows over time. Where a concept has real-world exa
 
 - [What is a citizens' assembly](/concepts/citizens-assembly/) — the format behind most of our Run Reports
 - [How a citizens' assembly is run](/concepts/running-a-citizens-assembly/) — the practical craft, from setting the question to caring for members afterwards
+- [Spaces for deliberation](/concepts/spaces-for-deliberation/) — the eight spatial qualities of the room itself, and why they quietly shape the work
 - [Deliberative polling](/concepts/deliberative-polling/) — what a population thinks once it's actually informed, and how to measure the change
 - [Letting citizens govern the assembly](/concepts/citizen-governance-of-assemblies/) — handing real procedural control to the participants, not just experts
 - [Binding or advisory?](/concepts/binding-vs-advisory/) — why advisory-only assemblies risk "participation washing," and how a few got real power
 - [Institutionalising deliberation](/concepts/institutionalising-deliberation/) — making assemblies permanent, and why some embed while others quietly die
+- [Participatory policymaking](/concepts/participatory-policymaking/) — bringing the public into the everyday work of government, not just the set-piece assembly
 - [Scaling catalysts](/concepts/scaling-catalysts/) — the organisations whose job is to make democratic innovation take root, and what makes them work
 
 ## Who gets to deliberate
@@ -50,6 +53,8 @@ It's a living reference that grows over time. Where a concept has real-world exa
 - [Funding the commons](/concepts/funding-the-commons/) — how citizen infrastructure gets paid for without being captured
 - [Plural mechanisms: quadratic voting, funding & Harberger taxes](/concepts/plural-mechanisms/) — market-inspired tools that capture how *strongly* people care, and share property more fairly
 - [Network societies (not network states)](/concepts/network-societies/) — keeping communities connected, instead of exiting to found new ones
+- [Movements, not arguments](/concepts/movements-not-arguments/) — why power is shared under pressure, not persuasion, and what that means for democratic innovation
+- [Deep democracy](/concepts/deep-democracy/) — a facilitation philosophy that finds a group's wisdom in the voice nobody wants to hear
 
 ## The commons
 

@@ -6,19 +6,19 @@ Each is processed via the `/process-source` flow -> wiki pages + a per-source
 ingestion history in memory (`project_cibc_wiki.md`).
 
 **How to use:** work top-down (Tier 1 first); skip any freely. When one is done,
-move it to **Processed** with its date and issue number. 119 queued, ~83 remaining (Tang/plurality + Civic-AI clusters + civic-AI essays done).
+move it to **Processed** with its date and issue number. 119 queued, ~78 remaining (Tang/plurality + Civic-AI clusters + CA-cluster waves A–D + civic-AI essays done).
 
 ## Queue
 
 
 ### Tier 1 — core fit (process first)
 
-**Citizens' assemblies, sortition & deliberation** — IN PROGRESS (2026-06-18): waves A–C done (10 processed, 2 skipped); wave D + Latin America remain
+**Citizens' assemblies, sortition & deliberation** — IN PROGRESS (2026-06-23): waves A–D done (15 processed, 2 skipped); only Latin America book launch remains
 
 - [~] https://www.youtube.com/watch?v=ttAFeJM-3x8 — Hélène Landemore (Yale): Politics without Politicians (63m) → SKIPPED: no captions available (theme already covered by sgFUtZCgAqI)
 - [x] https://www.youtube.com/watch?v=XCBEuSp_heI — Michael McCarthy, The Master's Tools: An interview with Claudia Chwalisz (57m) → concepts/democratising-finance, library
 - [~] https://www.youtube.com/watch?v=BYYvIckMVak — Citizens' Assemblies: A Democratic Response to Authoritarianism in Central & Eastern Europe (61m) → SKIPPED: no captions available (genuine gap — revisit if transcript appears)
-- [ ] https://www.youtube.com/watch?v=2D4gHP5nsgk — Spaces for deliberation: Eight spatial qualities for designing deliberative assemblies (74m) — WAVE D
+- [x] https://www.youtube.com/watch?v=2D4gHP5nsgk — Spaces for deliberation: Eight spatial qualities for designing deliberative assemblies (74m) → concepts/spaces-for-deliberation, ecosystem (MASS LBP, MosaicLab, DemoLab), library
 - [x] https://www.youtube.com/watch?v=POLwnybqUrY — Stories from behind the scenes of the UK’s first citizens’ assembly in a museum (86m) → run-reports/birmingham-museums-jury, ecosystem (Shared Future)
 - [x] https://www.youtube.com/watch?v=_J4WxRRY2RQ — Scaling democratic innovations: Features of effective catalyst organisations and future frontiers (90m) → concepts/scaling-catalysts, run-reports/deschutes-youth-homelessness, ecosystem (Involve, Healthy Democracy, Central Oregon CAP)
 - [x] https://www.youtube.com/watch?v=dBHUCdoTMKE — An interview with Josh Burgess, co-founder of Central Oregon Civic Action Project (19m) → folded into run-reports/deschutes-youth-homelessness
@@ -29,10 +29,10 @@ move it to **Processed** with its date and issue number. 119 queued, ~83 remaini
 - [x] https://www.youtube.com/watch?v=cd0eJqV_XPk — The Role of Sortition in Organizations (64m) → concepts/sortition-in-organisations, ecosystem (INSA, Democracy Without Elections)
 - [x] https://www.youtube.com/watch?v=3CTJXS9WA1E — Deliberative Polling: Changing the Tides of Democracy | Alice Siu | TEDxStanford (16m) → concepts/deliberative-polling, run-reports/america-in-one-room
 - [x] https://www.youtube.com/watch?v=RtgvyXRttw4 — Nordic Deliberation Learning Call: Paths towards institutionalization in local governments (38m) → concepts/institutionalising-deliberation (municipal), ecosystem (Nordic Deliberation Network)
-- [ ] https://www.youtube.com/watch?v=aofZqy8y8RA — Webinar | Deliberative Democracy for Breaking the Gridlock: Exploring insights from HDR 2023/24 (86m) — WAVE D
-- [ ] https://www.youtube.com/watch?v=eAkcea8rO7E — The Citizen’s White Paper and the Civil Service: Participatory policy making in action (90m) — WAVE D
-- [ ] https://www.youtube.com/watch?v=cmHHZ1_cyeY — Tiago Peixoto about the role of collective action in reforming democratic systems (66m) — WAVE D
-- [ ] https://www.youtube.com/watch?v=7ZZ3xmEwkos — Deep Democracy   Light The Fire And Build Trust With Leen Schelfhout (57m) — WAVE D
+- [x] https://www.youtube.com/watch?v=aofZqy8y8RA — Webinar | Deliberative Democracy for Breaking the Gridlock: Exploring insights from HDR 2023/24 (86m) → concepts/breaking-the-gridlock, institutionalising-deliberation (Curato 5 ways), run-reports/malawi-cdf-citizens-juries, ecosystem (UNDEF, newDemocracy, Delibera Brasil), library
+- [x] https://www.youtube.com/watch?v=eAkcea8rO7E — The Citizen’s White Paper and the Civil Service: Participatory policy making in action (90m) → concepts/participatory-policymaking, run-reports/nhs-10-year-plan, ecosystem (Demos, UK Policy Lab), library
+- [x] https://www.youtube.com/watch?v=cmHHZ1_cyeY — Tiago Peixoto about the role of collective action in reforming democratic systems (66m) → concepts/movements-not-arguments, library
+- [x] https://www.youtube.com/watch?v=7ZZ3xmEwkos — Deep Democracy   Light The Fire And Build Trust With Leen Schelfhout (57m) → concepts/deep-democracy, ecosystem (Lewis Deep Democracy), library
 - [x] https://www.youtube.com/watch?v=j7i72bJSBZE — How citizens can take back power (91m) → concepts/peoples-branch, institutionalising-deliberation, ecosystem (Iswe, Nesta), library (Wolf)
 
 **Civic-tech platforms & participation practice**

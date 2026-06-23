@@ -33,6 +33,7 @@ export default defineConfig({
             { slug: 'concepts/epistemic-democracy' },
             { slug: 'concepts/civic-love' },
             { slug: 'concepts/pre-bunking' },
+            { slug: 'concepts/breaking-the-gridlock' },
           ]},
           { label: 'Sortition & government by lot', collapsed: true, items: [
             { slug: 'concepts/the-electoral-imperative' },
@@ -47,10 +48,12 @@ export default defineConfig({
           { label: "Citizens' assemblies", collapsed: true, items: [
             { slug: 'concepts/citizens-assembly' },
             { slug: 'concepts/running-a-citizens-assembly' },
+            { slug: 'concepts/spaces-for-deliberation' },
             { slug: 'concepts/deliberative-polling' },
             { slug: 'concepts/citizen-governance-of-assemblies' },
             { slug: 'concepts/binding-vs-advisory' },
             { slug: 'concepts/institutionalising-deliberation' },
+            { slug: 'concepts/participatory-policymaking' },
             { slug: 'concepts/scaling-catalysts' },
           ]},
           { label: 'Who gets to deliberate', collapsed: true, items: [
@@ -66,6 +69,8 @@ export default defineConfig({
             { slug: 'concepts/funding-the-commons' },
             { slug: 'concepts/plural-mechanisms' },
             { slug: 'concepts/network-societies' },
+            { slug: 'concepts/movements-not-arguments' },
+            { slug: 'concepts/deep-democracy' },
           ]},
           { label: 'The commons', collapsed: true, items: [
             { slug: 'concepts/the-commons' },
@@ -145,6 +150,8 @@ export default defineConfig({
             { slug: 'run-reports/lexington-civic-assembly' },
             { slug: 'run-reports/ukraine-wartime-assemblies' },
             { slug: 'run-reports/manchester-peoples-panel-ai' },
+            { slug: 'run-reports/malawi-cdf-citizens-juries' },
+            { slug: 'run-reports/nhs-10-year-plan' },
           ]},
           { label: 'Constitutional & electoral reform', collapsed: true, items: [
             { slug: 'run-reports/iceland-2010-constitution' },

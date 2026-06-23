@@ -37,6 +37,8 @@ works — along with its limits, which we try to report honestly.
 - [Lexington Civic Assembly (2026)](/run-reports/lexington-civic-assembly/)
 - [Ukraine's First Citizens' Assemblies (2024)](/run-reports/ukraine-wartime-assemblies/)
 - [Manchester People's Panel for AI (2022–2025)](/run-reports/manchester-peoples-panel-ai/)
+- [Malawi's Citizens' Juries on the Constituency Development Fund (2020)](/run-reports/malawi-cdf-citizens-juries/)
+- [The NHS 10-Year Health Plan engagement (2024–2025)](/run-reports/nhs-10-year-plan/)
 
 ### Constitutional & electoral reform
 
