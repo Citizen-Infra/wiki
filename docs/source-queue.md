@@ -6,7 +6,7 @@ Each is processed via the `/process-source` flow -> wiki pages + a per-source
 ingestion history in memory (`project_cibc_wiki.md`).
 
 **How to use:** work top-down (Tier 1 first); skip any freely. When one is done,
-move it to **Processed** with its date and issue number. 119 queued, ~78 remaining (Tang/plurality + Civic-AI clusters + CA-cluster waves A–D + civic-AI essays done).
+move it to **Processed** with its date and issue number. 119 queued, ~59 remaining (Tang/plurality + Civic-AI clusters + CA-cluster waves A–D done; Tier-1 waves 3–4 papers/essays processed + Go Vocal/Decidim vendor webinars folded per #26).
 
 ## Queue
 
@@ -41,15 +41,15 @@ move it to **Processed** with its date and issue number. 119 queued, ~78 remaini
 - [ ] https://www.youtube.com/watch?v=M3H-w4Osajk — TICTeC 25: Liset Hamming (SPOON, Netherlands) (25m)
 - [ ] https://www.youtube.com/watch?v=kvJVCgBprwY — Beyond websites: How pro-democracy projects reach their audiences (47m)
 - [x] https://www.youtube.com/watch?v=Wm_nuJ2xEoE — TICTeC 25: Putting the humans back in - Manchester People’s Panel for AI (18m) → run-reports/manchester-peoples-panel-ai
-- [ ] https://www.youtube.com/watch?v=ucKz_EmO-c0 — Go Vocal webinar | Building a culture of engagement (55m)
-- [ ] https://www.youtube.com/watch?v=_OVZJtw-xkA — Go Vocal Webinar | Rethinking public engagement – Designing a methods mix that works (45m)
-- [ ] https://www.youtube.com/watch?v=jlOnf8wmhYc — Go Vocal Webinar | How Allen, TX engaged more residents and shaped a better Comprehensive Plan (46m)
-- [ ] https://www.youtube.com/watch?v=R-JVbHzQa5I — Go Vocal Webinar | Growing impact and engagement culture through digital engagement (48m)
-- [ ] https://www.youtube.com/watch?v=N3MOfLBnYBI — Go Vocal Webinar | Implementing proposals successfully: Insights from practitioners (62m)
-- [ ] https://www.youtube.com/watch?v=YmBwy6OYIVo — How Copenhagen used bottom-up proposals to engage 12,000 residents in just 4 months – Episode 7 (42m)
-- [ ] https://www.youtube.com/watch?v=GJrkdf-Aytc — Partnering with residents on budget priorities in St Louis, with Yusuf Daneshyar – Episode 8 (31m)
-- [ ] https://www.youtube.com/watch?v=y9Jna4svs90 — #DecidimFest23. Decidim Stories: Use Cases Beyond Cities (EN) (88m)
-- [ ] https://www.youtube.com/watch?v=-WS15nbBG0M — #DecidimFest23. Artificial Intelligence for Citizen Participation (EN) (77m)
+- [~] https://www.youtube.com/watch?v=ucKz_EmO-c0 — Go Vocal webinar | Building a culture of engagement (55m) → FOLDED into Go Vocal toolkit entry (vendor webinar)
+- [~] https://www.youtube.com/watch?v=_OVZJtw-xkA — Go Vocal Webinar | Rethinking public engagement – Designing a methods mix that works (45m) → FOLDED into Go Vocal toolkit entry
+- [~] https://www.youtube.com/watch?v=jlOnf8wmhYc — Go Vocal Webinar | How Allen, TX engaged more residents and shaped a better Comprehensive Plan (46m) → FOLDED into Go Vocal toolkit entry
+- [~] https://www.youtube.com/watch?v=R-JVbHzQa5I — Go Vocal Webinar | Growing impact and engagement culture through digital engagement (48m) → FOLDED into Go Vocal toolkit entry
+- [~] https://www.youtube.com/watch?v=N3MOfLBnYBI — Go Vocal Webinar | Implementing proposals successfully: Insights from practitioners (62m) → FOLDED into Go Vocal toolkit entry
+- [~] https://www.youtube.com/watch?v=YmBwy6OYIVo — How Copenhagen used bottom-up proposals to engage 12,000 residents in just 4 months – Episode 7 (42m) → FOLDED into Go Vocal toolkit entry
+- [~] https://www.youtube.com/watch?v=GJrkdf-Aytc — Partnering with residents on budget priorities in St Louis, with Yusuf Daneshyar – Episode 8 (31m) → FOLDED into Go Vocal toolkit entry
+- [~] https://www.youtube.com/watch?v=y9Jna4svs90 — #DecidimFest23. Decidim Stories: Use Cases Beyond Cities (EN) (88m) → FOLDED into Decidim toolkit entry (DecidimFest)
+- [~] https://www.youtube.com/watch?v=-WS15nbBG0M — #DecidimFest23. Artificial Intelligence for Citizen Participation (EN) (77m) → FOLDED into Decidim toolkit entry (DecidimFest)
 - [ ] https://www.youtube.com/watch?v=YRQLybWlPJk — The Participation Playbook launch: An Interactive guide for participatory program planning! (58m)
 - [ ] https://www.youtube.com/watch?v=TVNWBE4XwTw — How can collective intelligence empower our democracy? (51m)
 - [ ] https://www.youtube.com/watch?v=1qLhm7iRyGY — Translating Community Voices into Actionable Insights with AI (53m)
@@ -176,10 +176,10 @@ Substantive sources surfaced in past @citizen_infra link digests (articles/repor
 - [x] https://democracywithoutpoliticians.org/ — Terry Bouricius (book, Routledge 2026): the case for sortition over elections + the multi-body design → concepts/multi-body-sortition + library [Tier 1] (processed from epub)
 - [ ] https://mitpress.mit.edu/9780262049948/rewiring-democracy/ — Schneier & Sanders (MIT Press, book): "Rewiring Democracy" — AI across the democratic process [Tier 1, civic-AI]
 - [ ] https://research.mysociety.org/html/supporting-participation/ — mySociety: 14 recommendations for a European civic-tech hub (grow demand / strengthen supply / fix procurement) [Tier 1]
-- [ ] https://www.sitra.fi/en/publication/european-civic-technology-and-citizen-participation-in-the-age-of-ai/ — Sitra: European civic technology & citizen participation in the age of AI (report) [Tier 1]
-- [ ] https://www.sitra.fi/en/blogs/three-changes-needed-to-strengthen-digital-citizen-participation/ — Sitra (Antti Lehtinen): three changes to strengthen digital citizen participation [Tier 1]
-- [ ] https://www.cambridge.org/core/journals/american-political-science-review/article/how-deliberation-happens-enabling-deliberative-reason/6558F69855ADA8B15BF2EC2E5D403E71 — APSR paper: How Deliberation Happens — enabling deliberative reason [Tier 1]
-- [ ] https://www.cambridge.org/core/journals/european-political-science/article/democratic-innovations-in-the-uk-reflections-on-historical-trajectories-across-space-and-time/BC977AEAD3BDD9C2D46E601B1555853F — Cambridge/EPS: democratic innovations in the UK — historical trajectories across space and time [Tier 1]
+- [x] https://www.sitra.fi/en/publication/european-civic-technology-and-citizen-participation-in-the-age-of-ai/ — Sitra: European civic technology & citizen participation in the age of AI (report) → why-civic-tech-fails + library [Tier 1]
+- [x] https://www.sitra.fi/en/blogs/three-changes-needed-to-strengthen-digital-citizen-participation/ — Sitra (Antti Lehtinen): three changes to strengthen digital citizen participation → why-civic-tech-fails + library [Tier 1]
+- [x] https://www.cambridge.org/core/journals/american-political-science-review/article/how-deliberation-happens-enabling-deliberative-reason/6558F69855ADA8B15BF2EC2E5D403E71 — APSR (Niemeyer/Veri/Dryzek/Bächtiger): How Deliberation Happens — enabling deliberative reason → epistemic-democracy + civic-love + library [Tier 1]
+- [x] https://www.cambridge.org/core/journals/european-political-science/article/democratic-innovations-in-the-uk-reflections-on-historical-trajectories-across-space-and-time/BC977AEAD3BDD9C2D46E601B1555853F — Cambridge/EPS (Elstub & Escobar): democratic innovations in the UK → institutionalising-deliberation + library [Tier 1]
 - [ ] https://efi.ed.ac.uk/reviving-the-commons-a-scoping-review-of-urban-and-digital-commoning/ — Edinburgh Futures (Henderson & Escobar): scoping review of urban + digital commoning [Tier 2]
 - [ ] https://thinklikeacommoner.com/second-edition/read-it/ — David Bollier (book, 2nd ed): "Think Like a Commoner" — a short introduction to the commons [Tier 2]
 - [x] https://knightcolumbia.org/content/ai-as-social-technology — Knight First Amendment Institute (Farrell & Shalizi): AI as Social Technology → concepts/civic-ai + does-ai-weaken-institutions + library [Tier 1, civic-AI]
@@ -194,15 +194,15 @@ Substantive sources surfaced in past @citizen_infra link digests (articles/repor
 - [x] https://oneproject.org/how-to-make-ai-serve-the-public/ — One Project (Rosenstein): How to Make AI Serve the Public → concepts/democratising-ai (GAIA) + public-ai + ecosystem (One Project) + library [Tier 1, civic-AI]
 - [x] https://rebootdemocracy.ai/blog/zero-click-government-response — RebootDemocracy (Noveck): Zero-Click Government — Omakase or Loss of Agency? → concepts/does-ai-weaken-institutions + ecosystem (The GovLab) + library [Tier 1, civic-AI]
 - [x] https://freesystems.substack.com/p/an-army-of-citizens-building-evals — Free Systems (Andy Hall): An army of citizens building evals → concepts/tech-place-is-education + library [Tier 1, civic-AI]
-- [ ] https://www.radicalxchange.org/updates/blog/the-plural-stack/ — RadicalxChange (essay): The Plural Stack — Europe needs protocols nobody can capture [Tier 1/2, plurality]
+- [x] https://www.radicalxchange.org/updates/blog/the-plural-stack/ — RadicalxChange (essay): The Plural Stack — Europe needs protocols nobody can capture → interoperability-and-standards + library [Tier 1/2, plurality]
 - [x] https://healthydemocracy.org/home/projects/losangeles/ — Healthy Democracy: 2026 Los Angeles City Charter Assembly → run-reports/la-city-charter-assembly [Tier 1]
-- [ ] https://open.substack.com/pub/hughpope/p/of-civic-love-and-the-beauty-of-the — Hugh Pope (essay): Of Civic Love and the Beauty of the Lot (sortition) [Tier 1]
-- [ ] https://www.futures4europe.eu/post/the-use-of-digital-tools-and-ai-to-promote-citizenparticipation-in-eu-policymaking-8evld — Futures4Europe: use of digital tools & AI to promote citizen participation in EU policymaking [Tier 1]
-- [ ] https://garden3d.substack.com/p/how-we-shaped-12-civic-tech-recommendations — garden3d: How We Shaped 12 Civic Tech Recommendations for Mamdani (100 New Yorkers on Polis) [Tier 1]
+- [x] https://open.substack.com/pub/hughpope/p/of-civic-love-and-the-beauty-of-the — Hugh Pope (essay): Of Civic Love and the Beauty of the Lot (sortition) → civic-love + library [Tier 1]
+- [x] https://www.futures4europe.eu/post/the-use-of-digital-tools-and-ai-to-promote-citizenparticipation-in-eu-policymaking-8evld — Futures4Europe (EP STOA): use of digital tools & AI to promote citizen participation in EU policymaking → why-civic-tech-fails + library [Tier 1]
+- [x] https://garden3d.substack.com/p/how-we-shaped-12-civic-tech-recommendations — garden3d: How We Shaped 12 Civic Tech Recommendations for Mamdani (100 New Yorkers on Polis) → ecosystem (garden3d) + library [Tier 1]
 - [ ] https://nathanschneider.info/2026/02/constitutional-agents-for-online-governance/ — Nathan Schneider (essay): Constitutional Agents for Online Governance [Tier 2, protocol]
 - [ ] https://www.weareopus.org/blog/why-we-cant-tackle-sheffields-most-urgent-problems-without-talking-about-neighbourhoods — Opus (essay): why neighbourhoods are central to Sheffield's challenges [Tier 2, neighbourhood]
-- [ ] https://demnext.substack.com/p/politics-without-politicians-a-conversation — DemocracyNext (Chwalisz × Landemore): Politics Without Politicians [Tier 1 — theme already in wiki via Landemore; cite-or-skip]
-- [ ] https://www.euractiv.com/opinion/fixing-digital-democracy-from-fragmented-tools-to-a-vibrant-european-civic-tech-hub/ — Euractiv (Sitra op-ed): fixing digital democracy → a European civic-tech hub [Tier 1 — overlaps mySociety + Sitra entries; lower priority]
+- [~] https://demnext.substack.com/p/politics-without-politicians-a-conversation — DemocracyNext (Chwalisz × Landemore): Politics Without Politicians → SKIPPED: theme already covered by Landemore cluster (library + civic-love + open-democracy)
+- [~] https://www.euractiv.com/opinion/fixing-digital-democracy-from-fragmented-tools-to-a-vibrant-european-civic-tech-hub/ — Euractiv (Sitra op-ed): fixing digital democracy → SKIPPED: overlaps the now-processed Sitra report/blog + mySociety entries
 - [ ] https://www.noemamag.com/the-architecture-of-cooperation — Noema: How Reverse Game Theory Could Solve the Housing Shortage [Tier 3 — lower priority]
 
 ### Shared directly (not via digest)

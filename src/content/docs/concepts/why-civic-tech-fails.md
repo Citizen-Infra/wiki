@@ -18,6 +18,10 @@ People build technology to improve democracy all the time. Most of it doesn't la
 - **Fix the plumbing.** Helping government *buy* technology better — from smaller, more agile companies, including open source — unlocks more than any single app.
 - **Build to last.** Stempeck's guide survived for a decade partly by being "too cheap to fail." He's sharply critical of funders (the EU especially) whose projects vanish "two years and one day after the grant" — the domain lapses and even the collected knowledge disappears. Citizen infrastructure is only infrastructure if it's still there next year.
 
+## It's the politics, not the tech
+
+A run of 2025–26 European studies keeps reaching the same verdict from outside the Field Guide. A European Parliament STOA foresight study reviewed **94 digital participation tools** and 11 case studies and concluded that success depends far more on the **political framework than on the technology**: tools work when they carry a clear mandate and give participants *visible feedback*, and AI's upside is swamped by its risks (bias, opacity) wherever legitimacy is already thin. Finland's [Sitra](/ecosystem/overview/) lands in the same place from the practitioner side, naming three changes needed to make digital participation stick: **convince decision-makers** (close the leadership gap with well-documented best practice), **link platforms to actual decisions** (build them into how government decides, rather than bolting them on), and **streamline procurement** so public bodies can actually buy open-source participation tools. The throughline with Stempeck's "fix the plumbing": what decides whether a tool matters is the [interoperability](/concepts/interoperability-and-standards/), procurement, and political will around it, not its feature list.
+
 ## The one piece of advice
 
 > "Talk to your intended users sooner, and spend as much time with them as possible before building the thing."
@@ -30,3 +34,5 @@ This connects to how platforms touch democracy at all — see [civic products, e
 
 - Matt Stempeck — Democracy Innovators Podcast (2026): [youtube.com/watch?v=jQ-PZUNkNfg](https://www.youtube.com/watch?v=jQ-PZUNkNfg).
 - [Civic Tech Field Guide](https://civictech.guide/) — the directory behind these observations.
+- "The Use of Digital Tools and AI to Promote Citizen Participation in EU Policymaking" — European Parliament STOA study, 2026: [futures4europe.eu](https://www.futures4europe.eu/post/the-use-of-digital-tools-and-ai-to-promote-citizenparticipation-in-eu-policymaking-8evld)
+- Antti Lehtinen, "Three changes needed to strengthen digital citizen participation" — Sitra, 2026: [sitra.fi](https://www.sitra.fi/en/blogs/three-changes-needed-to-strengthen-digital-citizen-participation/) (and the report "European civic technology and citizen participation in the age of AI")

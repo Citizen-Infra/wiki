@@ -24,3 +24,5 @@ It also helps to remove the layer of *identity* people usually carry into politi
 ## Sources
 
 - Hélène Landemore — DemocracyNext (2026): [youtube.com/watch?v=sgFUtZCgAqI](https://www.youtube.com/watch?v=sgFUtZCgAqI). See also her *Politics Without Politicians* (2026), ch. 7.
+- Simon Niemeyer, Francesco Veri, John S. Dryzek & André Bächtiger, "How Deliberation Happens: Enabling Deliberative Reason," *American Political Science Review* (2024) — the empirical source for **group building** as the key enabler of a group's reasoning under complexity: [doi.org/10.1017/S0003055423000023](https://doi.org/10.1017/S0003055423000023)
+- Hugh Pope, "Of Civic Love and the Beauty of the Lot" (2026) — a review of Landemore's *Politics without Politicians* that foregrounds the bonds formed in sortition assemblies: [hughpope.substack.com](https://hughpope.substack.com/p/of-civic-love-and-the-beauty-of-the)
