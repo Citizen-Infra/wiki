@@ -121,6 +121,7 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 - **[Relational Technology Project](https://relationaltechproject.org/)** — a nonprofit (Deborah Tien, Josh Nesbit, Sadev Parikh) supporting builders of "relational tech": small, village-scale tools that help neighbours care for each other and build trust. It stewards a commons of hundreds of neighbouring projects plus open tools — a chat-driven "Studio" for remixing them, an MCP server, and neighbour-gathering microgrants — and helps them spread "locality to locality."
 - **[New_ Public](https://newpublic.org/)** — a nonprofit product studio reimagining community and conversation online, building digital public spaces where people can thrive and connect.
 - **[Folk Technology](https://folktechnology.org/)** — a movement to build technology designed for regular folks, not "users" or "consumers."
+- **[Citizen Infrastructure Builders Club (CIBC)](https://cibc.notion.site/)** — the collective of people building technology for collective action that stewards this wiki; the public body of knowledge lives here, the club itself lives elsewhere. See the [about page](/about/).
 
 ---
 
