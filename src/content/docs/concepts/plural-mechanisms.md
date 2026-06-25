@@ -11,7 +11,7 @@ You get a budget of "voice credits" to spend across many issues. The twist: vote
 
 ## Quadratic funding
 
-Apply the same idea to money for public goods: donations act as votes, and a matching pool amplifies projects backed by *many small* contributors over those backed by a few large ones. A project that 100 people each give £1 to can beat one that a single donor gives £100 to — the breadth of support counts, not just the size. Gitcoin Grants has distributed many millions of dollars this way, and Taiwan's presidential hackathon uses quadratic voting to pick which civic projects get backed.
+Apply the same idea to money for public goods: donations act as votes, and a matching pool amplifies projects backed by *many small* contributors over those backed by a few large ones. A project that 100 people each give £1 to can beat one that a single donor gives £100 to — the breadth of support counts, not just the size. Quadratic-funding rounds have distributed many millions of dollars to public goods this way, and Taiwan's presidential hackathon uses quadratic voting to pick which civic projects get backed.
 
 ## Harberger taxes & SALSA (sharing property)
 

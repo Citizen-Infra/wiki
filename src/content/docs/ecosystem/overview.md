@@ -101,7 +101,6 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 - **[Manchester City Council "Doing Digital Together"](https://manchesterdigitalstrategy.com/)** — the council digital-strategy team that adopted the [People's Panel for AI](/run-reports/manchester-peoples-panel-ai/) at city scale, centring residents most at risk of digital exclusion.
 - **[RadicalxChange](https://www.radicalxchange.org/)** — a global movement and non-profit (inspired by *Radical Markets* by Glen Weyl and Eric Posner) advancing mechanisms like quadratic voting and funding, plural property, and the [plurality](/concepts/plurality/) agenda; Audrey Tang is among its leaders.
 - **[Project Liberty](https://www.projectliberty.io/)** — Frank McCourt's initiative (and the Project Liberty Institute) building a more responsible internet: a people-owned data architecture and a high-profile bid for TikTok's US operations to run on a [pro-social](/concepts/bridging-and-pro-social-media/) model.
-- **[Gitcoin](https://www.gitcoin.co/)** — a platform that has distributed many millions of dollars to open-source and public-goods projects using [quadratic funding](/concepts/plural-mechanisms/), the largest real-world deployment of that mechanism.
 - **[Code for All](https://codeforall.org/)** — a global network connecting local civic-tech organisations so they can share ideas, tools, and impact across borders.
 - **[Collaborative Technology Alliance](https://www.collaborative.tech/)** — an alliance of decentralized- and collaborative-tech projects committed to interoperability across their platforms; incubator of the OpenHaven protocol navigator.
 - **[Life Itself](https://lifeitself.org/)** — an organisation exploring new cultural, social, and economic paradigms, working toward a wiser, weller world.
@@ -122,7 +121,6 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 - **[Relational Technology Project](https://relationaltechproject.org/)** — a nonprofit (Deborah Tien, Josh Nesbit, Sadev Parikh) supporting builders of "relational tech": small, village-scale tools that help neighbours care for each other and build trust. It stewards a commons of hundreds of neighbouring projects plus open tools — a chat-driven "Studio" for remixing them, an MCP server, and neighbour-gathering microgrants — and helps them spread "locality to locality."
 - **[New_ Public](https://newpublic.org/)** — a nonprofit product studio reimagining community and conversation online, building digital public spaces where people can thrive and connect.
 - **[Folk Technology](https://folktechnology.org/)** — a movement to build technology designed for regular folks, not "users" or "consumers."
-- **[Harmonica](https://harmonica.chat/)** — an open-core, AI-facilitated sensemaking tool for groups; it runs structured asynchronous conversations and turns many individual voices into a shared summary, aiming to augment human facilitators rather than replace them. See [the toolkit](/toolkit/decide-together/).
 
 ---
 
