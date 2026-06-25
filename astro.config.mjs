@@ -1,11 +1,13 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import starlightLinksValidator from 'starlight-links-validator';
 
 export default defineConfig({
   site: 'https://citizen-infra.netlify.app',
   integrations: [
     starlight({
+      plugins: [starlightLinksValidator()],
       title: 'Citizen Infrastructure',
       description:
         'A free, public resource for citizens: what citizen infrastructure is, and a practical toolkit of things citizens can use to act together.',
