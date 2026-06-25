@@ -7,17 +7,10 @@ export default defineConfig({
   site: 'https://citizen-infra.netlify.app',
   integrations: [
     starlight({
-      plugins: [
-        starlightLinksValidator({
-          // Workaround: starlight-links-validator 0.24.1 does not register non-root
-          // .mdx pages as valid link targets, so it false-flags inbound links to the
-          // card-grid overview pages (which must be .mdx to use <CardGrid>/<LinkCard>).
-          // Exclude just those two stable nav targets until fixed upstream
-          // (https://github.com/HiDeoo/starlight-links-validator/issues). Every other
-          // internal link is still validated.
-          exclude: ['/concepts/overview/', '/run-reports/overview/'],
-        }),
-      ],
+      // starlight-links-validator is pinned to 0.24.0: 0.24.1 has a regression that
+      // false-flags inbound links to non-root .mdx pages (our card-grid overviews) as
+      // invalid (upstream issue #166). Unpin once that lands fixed.
+      plugins: [starlightLinksValidator()],
       title: 'Citizen Infrastructure',
       description:
         'A free, public resource for citizens: what citizen infrastructure is, and a practical toolkit of things citizens can use to act together.',
