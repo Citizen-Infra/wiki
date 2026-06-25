@@ -14,19 +14,47 @@ hero:
       variant: minimal
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { LinkCard, CardGrid } from '@astrojs/starlight/components';
 
 <CardGrid>
-  <Card title="The idea" icon="open-book">
-    What citizen infrastructure is, and the manifesto behind it — from subjects to consumers to citizens.
-  </Card>
-  <Card title="The toolkit" icon="puzzle">
-    Tools citizens can use, grouped by what you want to do — connect with neighbors, coordinate a community, decide together.
-  </Card>
-  <Card title="Library" icon="document">
-    The deeper thinking — white papers and a growing shelf of sources worth reading.
-  </Card>
-  <Card title="About" icon="information">
-    A free resource stewarded by the Citizen Infrastructure Builders Club.
-  </Card>
+  <LinkCard
+    title="The idea"
+    href="/idea/technology-for-collective-action/"
+    description="What citizen infrastructure is, and the manifesto behind it — from subjects to consumers to citizens."
+  />
+  <LinkCard
+    title="Concepts"
+    href="/concepts/overview/"
+    description="Plain-language explainers of the methods and ideas — sortition, deliberation, the commons, civic AI, and more."
+  />
+  <LinkCard
+    title="The toolkit"
+    href="/toolkit/overview/"
+    description="Tools citizens can use, grouped by what you want to do — connect with neighbours, coordinate, decide together."
+  />
+  <LinkCard
+    title="Run reports"
+    href="/run-reports/overview/"
+    description="Write-ups of real deliberations — who took part, what came of it, and the sources behind every figure."
+  />
+  <LinkCard
+    title="Stories"
+    href="/stories/overview/"
+    description="Bottom-up examples of citizen infrastructure in the wild — ordinary people building resilience with everyday tools."
+  />
+  <LinkCard
+    title="Ecosystem"
+    href="/ecosystem/overview/"
+    description="The wider movement — the organisations, communities, and networks building citizen infrastructure."
+  />
+  <LinkCard
+    title="Library"
+    href="/library/reading-and-sources/"
+    description="A growing, annotated shelf of the talks, papers, and writing behind citizen infrastructure."
+  />
+  <LinkCard
+    title="About"
+    href="/about/"
+    description="A free resource stewarded by the Citizen Infrastructure Builders Club."
+  />
 </CardGrid>
