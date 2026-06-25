@@ -13,7 +13,9 @@ Faking public input isn't new — long before ChatGPT, "astroturf" campaigns flo
 
 There's a meaningful distinction. A **person-owned, person-controlled digital twin** — one you tune to argue for *your* views, that you send into the world and remain responsible for — is a different proposition from an institution modelling a whole constituency without anyone's consent. The first keeps a human accountable for what they "hit submit" on; the second replaces people with a guess about them.
 
-The takeaway from the field is a principle worth holding onto: use AI to **support** participation, not to simulate the public. Where AI helps people express and understand one another, it strengthens democracy; where it manufactures a synthetic public, it hollows it out.
+:::tip[The principle to hold]
+Use AI to **support** participation, not to simulate the public. Where AI helps people express and understand one another, it strengthens democracy; where it manufactures a synthetic public, it hollows it out.
+:::
 
 ## Source
 

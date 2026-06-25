@@ -24,7 +24,11 @@ The pay-off is speed and scale: what once took weeks of manual coding can run in
 
 ## The catch
 
-AI sensemaking buys scale at the cost of the small-group, story-first *texture* that [civic listening](/concepts/civic-listening/) preserves, and it inherits every weakness of the model doing the summarising: it can flatten nuance, miss a minority framing, or assert a consensus that isn't there. That is why even Sensemaker's designers keep a [human in the loop](/concepts/ai-and-deliberation/) to check and correct the output before it travels, and why grounding every summary in citations matters: it lets people audit the machine rather than trust it. Treated that way — as scaffolding for human judgement, not a replacement for it — it is one of the few realistic answers to [hearing a whole community at once](/concepts/scaling-deliberation/). The risk to watch is [synthetic participation](/concepts/synthetic-participation/): summarising real input is sensemaking; *generating* opinions people never held is not.
+AI sensemaking buys scale at the cost of the small-group, story-first *texture* that [civic listening](/concepts/civic-listening/) preserves, and it inherits every weakness of the model doing the summarising: it can flatten nuance, miss a minority framing, or assert a consensus that isn't there. That is why even Sensemaker's designers keep a [human in the loop](/concepts/ai-and-deliberation/) to check and correct the output before it travels, and why grounding every summary in citations matters: it lets people audit the machine rather than trust it. Treated that way — as scaffolding for human judgement, not a replacement for it — it is one of the few realistic answers to [hearing a whole community at once](/concepts/scaling-deliberation/).
+
+:::caution[The line not to cross]
+The risk to watch is [synthetic participation](/concepts/synthetic-participation/): summarising real input is sensemaking; *generating* opinions people never held is not.
+:::
 
 ## Sources
 

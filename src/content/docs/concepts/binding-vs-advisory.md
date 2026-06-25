@@ -18,7 +18,11 @@ Binding citizen power isn't hypothetical:
 
 ## The frontier
 
-Going from advisory to binding means institutionalising assemblies with real power — which immediately runs into resistance from elected officials (who question their legitimacy) and into constitutional barriers. It's a hard step. But it's the only way out of participation washing, and the work of legitimising and embedding these bodies is where much of the field's energy is now going. The risk on the other side is [cargo cult democracy](/concepts/cargo-cult-democracy/) — building the *appearance* of citizen power without the substance.
+Going from advisory to binding means institutionalising assemblies with real power — which immediately runs into resistance from elected officials (who question their legitimacy) and into constitutional barriers. It's a hard step. But it's the only way out of participation washing, and the work of legitimising and embedding these bodies is where much of the field's energy is now going.
+
+:::caution
+The risk on the other side is [cargo cult democracy](/concepts/cargo-cult-democracy/): building the *appearance* of citizen power without the substance.
+:::
 
 ## Sources
 

@@ -13,7 +13,13 @@ The corrective is blunt: **it was the people we had to build.** Procedures, plat
 
 ## Why it matters here
 
-For anyone building civic infrastructure, this is a warning label. It's tempting to ship the mechanism — the deliberation platform, the governance template — and assume capable participation will appear. Often it won't, because the hard part was never the artifact. (The companion point about where technology *does* help: [technology's place is education](/concepts/tech-place-is-education/).)
+For anyone building civic infrastructure, this is a warning label.
+
+:::caution[The hard part was never the artifact]
+It's tempting to ship the mechanism — the deliberation platform, the governance template — and assume capable participation will appear. Often it won't.
+:::
+
+The companion point about where technology *does* help: [technology's place is education](/concepts/tech-place-is-education/).
 
 ## Sources
 
