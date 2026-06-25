@@ -5,6 +5,8 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
+    "check-sidebar": "node scripts/check-sidebar.mjs",
+    "prebuild": "node scripts/check-sidebar.mjs",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"

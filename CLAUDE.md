@@ -16,7 +16,7 @@ npm run build     # production build → dist/ (also builds the Pagefind search 
 npm run preview   # serve the built dist/ locally
 ```
 
-Node **≥22.12** (Netlify pins `NODE_VERSION=22`). Always `npm run build` before deploying — a clean build is the gate. The **`starlight-links-validator`** plugin fails the build on any broken internal link or heading anchor (so dead `[x](/section/slug/)` links can no longer ship silently), and Starlight errors on sidebar `slug`s that have no page. The one gap it does *not* catch: a page that exists but was never wired into the sidebar still builds silently (the orphan case — tracked in issue #31).
+Node **≥22.12** (Netlify pins `NODE_VERSION=22`). Always `npm run build` before deploying — a clean build is the gate. The **`starlight-links-validator`** plugin fails the build on any broken internal link or heading anchor (so dead `[x](/section/slug/)` links can no longer ship silently), and Starlight errors on sidebar `slug`s that have no page. The orphan case — a page that exists but was never wired into the sidebar — is caught by a `prebuild` check (`scripts/check-sidebar.mjs`, run automatically before every `npm run build`): it fails the build and names any `.md`/`.mdx` with no sidebar `slug`. So the three failure modes (broken link, missing page, orphan page) are all now build-gated.
 
 ## Deploy
 
