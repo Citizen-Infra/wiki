@@ -11,7 +11,11 @@ Landemore came to this work as a self-described hyper-rationalist, trained to br
 
 ## The strong claim
 
-This isn't a sentimental footnote. Landemore's claim is that the bonding is the **precondition** for everything else: you only get the collective-intelligence benefits *if you trigger the relational connection first*. Trust is the bond that opens minds and hearts enough for genuine reasoning to happen.
+This isn't a sentimental footnote.
+
+:::note
+Landemore's claim is that the bonding is the **precondition** for everything else: you only get the collective-intelligence benefits *if you trigger the relational connection first*. Trust is the bond that opens minds and hearts enough for genuine reasoning to happen.
+:::
 
 Several things follow:
 

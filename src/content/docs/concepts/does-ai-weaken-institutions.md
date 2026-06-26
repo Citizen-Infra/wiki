@@ -13,7 +13,11 @@ Legal scholars **Woodrow Hartzog and Jessica Silbey** (Boston University) make a
 - **It short-circuits decision-making** — collapsing the deliberation, friction, and contestation that good institutional decisions require.
 - **It isolates people** — weakening the human bonds and shared purpose that democratic participation is built on.
 
-Their counterintuitive conclusion: *efficiency is not the primary goal* of institutions like courts or universities. They need friction, points of human contestation, and deference to human expertise in order to thrive. So AI should be let in **judiciously** — bespoke over general, only where it genuinely serves the organisation and the institution it belongs to. "The more bespoke the better; the more generalised the more dangerous."
+Their counterintuitive conclusion: *efficiency is not the primary goal* of institutions like courts or universities. They need friction, points of human contestation, and deference to human expertise in order to thrive. So AI should be let in **judiciously** — bespoke over general, only where it genuinely serves the organisation and the institution it belongs to.
+
+:::caution[Bespoke over general]
+"The more bespoke the better; the more generalised the more dangerous."
+:::
 
 ## A reframe: worthy, not trustworthy
 

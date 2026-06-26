@@ -24,7 +24,9 @@ A run of 2025–26 European studies keeps reaching the same verdict from outside
 
 ## The one piece of advice
 
-> "Talk to your intended users sooner, and spend as much time with them as possible before building the thing."
+:::tip
+"Talk to your intended users sooner, and spend as much time with them as possible before building the thing."
+:::
 
 It's the most-repeated lesson in technology and still the most-ignored. For citizen infrastructure the stakes are higher than usual: a tool nobody uses isn't neutral, it's a community's wasted time and trust.
 

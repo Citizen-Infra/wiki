@@ -9,7 +9,11 @@ Think about almost any online space you belong to — a group chat, a Facebook g
 
 Implicit feudalism isn't just a social habit — it's **built into the software**. The platforms our social lives run on ship with "admin controls everything" as the default, going right back to the earliest online communities. Left alone, online groups tend to drift toward this centralised control: a large data study of thousands of Minecraft servers (by Seth Frey) found them sliding into oligarchy almost by default, even when their operators had democratic instincts.
 
-The point is that this is a **design choice we inherited**, not a fact of nature. Offline, a neighbourhood garden club routinely has bylaws, officers, and a way to remove a bad one. Most online communities — even huge ones — have none of that. As Schneider puts it, the challenge is for online spaces to "catch up to my mother's garden club."
+:::note
+This is a **design choice we inherited**, not a fact of nature.
+:::
+
+Offline, a neighbourhood garden club routinely has bylaws, officers, and a way to remove a bad one. Most online communities — even huge ones — have none of that. As Schneider puts it, the challenge is for online spaces to "catch up to my mother's garden club."
 
 ## Why it matters
 

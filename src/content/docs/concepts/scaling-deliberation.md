@@ -17,9 +17,12 @@ Manon Revel (Meta FAIR / MIT) proposed a sixth — **scaling within** — for th
 
 ## The warning: headcount can hollow it out
 
-Most of the field's energy goes to **scaling out** by headcount — mass online platforms and AI facilitators. McKinney and Chwalisz caution that this can *hollow out* the very thing that makes deliberation transformative: the slow, relational work of building trust, owning the agenda, and bonding between sessions (the conversations over coffee, the walk between venues). Their core claims:
+Most of the field's energy goes to **scaling out** by headcount — mass online platforms and AI facilitators. McKinney and Chwalisz caution that this can *hollow out* the very thing that makes deliberation transformative: the slow, relational work of building trust, owning the agenda, and bonding between sessions (the conversations over coffee, the walk between venues). :::caution[Scale is not legitimacy]
+Numbers are only one source of legitimacy, alongside fairness, being well-informed, and [sortition](/concepts/sortition/). Equating "more people" with "more legitimate" is an inheritance from electoral thinking, not a law of nature.
+:::
 
-- **Scale is not legitimacy.** Numbers are only one source of legitimacy, alongside fairness, being well-informed, and [sortition](/concepts/sortition/). Equating "more people" with "more legitimate" is an inheritance from electoral thinking, not a law of nature.
+Two more claims follow:
+
 - **"Cheaper" often hides a cost.** AI deliberation is frequently only cheaper because participants aren't paid and deliberate for far less time.
 - **No single dimension is free.** Push hard on one and you trade off against another, so a *holistic* view of scale should guide which tools to build.
 

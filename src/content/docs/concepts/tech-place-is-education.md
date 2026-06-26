@@ -13,7 +13,11 @@ Seen this way, even AI looks different: not an engine that generates good decisi
 
 ## The offline test
 
-There's a useful heuristic here. A practice should be able to work **completely offline** before you embed technology in it. If it passes that test, technology can then amplify it and do real good. If it only works *because* of the tech, you've probably built the mechanism before building the capacity — and you're back to [cargo cult democracy](/concepts/cargo-cult-democracy/).
+There's a useful heuristic here.
+
+:::tip
+A practice should be able to work **completely offline** before you embed technology in it. If it passes that test, technology can then amplify it and do real good. If it only works *because* of the tech, you've probably built the mechanism before building the capacity — and you're back to [cargo cult democracy](/concepts/cargo-cult-democracy/).
+:::
 
 The advice to builders: don't start from a single tool or feature. Go big, meta, and comprehensive first — understand the literacy you're trying to grow — and only then get specific about tools. It's a close cousin of the lesson that [the hard part of civic tech isn't the tech](/concepts/ai-for-participation/).
 
