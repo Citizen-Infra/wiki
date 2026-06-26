@@ -27,10 +27,6 @@ export default defineConfig({
           { slug: 'start/what-is-citizen-infrastructure' },
           { slug: 'start/how-to-use-this-resource' },
         ]},
-        { label: 'The idea', items: [
-          { slug: 'idea/technology-for-collective-action' },
-          { slug: 'idea/digital-pitchforks' },
-        ]},
         { label: 'Concepts', items: [
           { slug: 'concepts/overview' },
           { label: 'The case for deliberation', collapsed: true, items: [

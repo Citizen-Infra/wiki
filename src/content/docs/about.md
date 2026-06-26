@@ -3,10 +3,21 @@ title: About this resource
 description: A free, public resource stewarded by the Citizen Infrastructure Builders Club.
 ---
 
-This is a free, public resource about **citizen infrastructure** — the idea that
-citizens can build and use technology to act together on shared problems, and a
-growing toolkit of things you can actually use. You don't need to be a member of
-anything to read it or use it.
+This is a free, public resource about **citizen infrastructure** — technology that
+citizens build and use to act together on shared problems — and a growing toolkit of
+things you can actually use. You don't need to be a member of anything to read it or
+use it.
+
+## The idea behind it
+
+Most of the technology we use is built to make us more efficient as individuals.
+Citizen infrastructure starts from a different question: what would technology look
+like if its purpose were to help people *act together*? The north star is **technology
+for collective action** — where technology, democracy, and solidarity meet — and a
+citizen who is agentic and artisan, with a hand in shaping the tools their community
+runs on, rather than only using what the big platforms hand down.
+
+→ More in [what citizen infrastructure is](/start/what-is-citizen-infrastructure/).
 
 ## Who stewards it
 

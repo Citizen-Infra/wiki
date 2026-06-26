@@ -7,7 +7,7 @@ This is a **free, public resource**. You don't need to join anything or sign up 
 
 ## What's here
 
-- **[The idea](/idea/technology-for-collective-action/)** — what citizen infrastructure is and the thinking behind it, including the *Digital Pitchforks* manifesto.
+- **[What citizen infrastructure is](/start/what-is-citizen-infrastructure/)** — the idea and the thinking behind it.
 - **[The toolkit](/toolkit/overview/)** — tools grouped by what you want to do: connect with neighbours, coordinate a community, decide together, and more. *(Being filled in — more tools land here over time.)*
 - **[Library](/library/reading-and-sources/)** — the deeper reading: white papers and sources worth your time. *(Also growing.)*
 
