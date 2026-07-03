@@ -215,6 +215,8 @@ Substantive sources surfaced in past @citizen_infra link digests (articles/repor
 - [ ] https://cobot.murmurations.network/ — Murmurations (tool): CoBot — searchable directory of 20,000+ co-ops, commons and community organisations across 130+ countries [Tier 2, toolkit]
 - [ ] https://www.ideasforchange.org/ — Ideas for Change (tool/platform): residents share and vote on local ideas → community dialogues → proposals to city leaders [Tier 2, toolkit]
 - [ ] https://medium.com/jigsaw/one-year-on-the-momentum-behind-jigsaws-sensemaking-ai-b340e89ed516 — Jigsaw (Google): One Year On — Jigsaw's Sensemaking AI, now open-sourced, after runs in Kentucky, Oklahoma and Chattanooga [Tier 1, civic-AI]
+- [ ] https://arxiv.org/abs/2605.24413 — Habermolt (Low, Duys, Formanek, Bakker, Hammond; arXiv 2026, cs.CY): "Delegating Deliberation to AI Representatives" — coins "AI-delegated deliberation" (AI agents deliberate on a user's behalf, not just mediate between humans), studied via a public platform along representation / aggregation / revision; Bakker co-authored the Habermas Machine [Tier 1, civic-AI]
+- [ ] https://gemot.dev/ — Gemot (Justin Stimatze, Apache-2.0): open-source MCP server for multi-agent deliberation — agents submit positions + vote, it surfaces the cruxes that divide them (qualified −2 to +2, not summaries) with anti-sycophancy checks; builds synthetic agents from real published positions (e.g. 38 AI-policy manifestos → 27 agents) [Tier 2, civic-AI / toolkit]
 
 ### Shared directly (not via digest)
 
