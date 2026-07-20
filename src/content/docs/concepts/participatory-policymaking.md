@@ -31,7 +31,7 @@ The white paper's nine recommendations are less about set-piece assemblies than 
 
 Two cautions from senior civil servants sharpen the picture. The Department for Education's permanent secretary argued the field should *"kill off the traditional government consultation document"* — a costly ritual that attracts only the usual suspects, adds little, and makes people cynical, and instead match the *method to the problem* (form follows function). And the recurring risk is **producer capture**: talking to the lawyers, not the court users; the teachers, not the pupils; and to a standing panel that quietly fills up with people unusually keen to talk to government. The fix is to design *for* the voices the system normally misses, and to push participation down to the right level of government rather than hoovering local concerns up to the centre. The [NHS 10-Year Health Plan engagement](/run-reports/nhs-10-year-plan/) is the largest live test of these ideas.
 
-This is the everyday-government end of the same project as [institutionalising deliberation](/concepts/institutionalising-deliberation/): making participation, as Demos puts it, "a normal part of public life."
+This is the everyday-government end of the same project as [institutionalising deliberation](/concepts/institutionalising-deliberation/): making participation, as Demos puts it, "a normal part of public life." For the practical *how* — choosing the right method and designing the process — [People Powered](/ecosystem/overview/)'s interactive **Participation Playbook** distils lessons from participatory programmes across more than 30 countries into a step-by-step planning guide.
 
 ## Sources
 

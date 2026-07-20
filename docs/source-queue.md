@@ -6,7 +6,7 @@ Each is processed via the `/process-source` flow -> wiki pages + a per-source
 ingestion history in memory (`project_cibc_wiki.md`).
 
 **How to use:** work top-down (Tier 1 first); skip any freely. When one is done,
-move it to **Processed** with its date and issue number. 119 queued, ~50 remaining (Tang/plurality + Civic-AI clusters + CA-cluster waves A–D done; Tier-1 waves 3–4 papers/essays processed + Go Vocal/Decidim vendor webinars folded per #26; civic-AI sensemaking wave — Jigsaw One-Year-On, 6-Pack of Care, Gemot, Convoca, Cortico webinar — done 2026-07-20; civic-AI papers wave — EU JRC four-futures, FAccT connective-tissue, Habermolt, Schirch/Goldberg — done 2026-07-20). Tier-1 text remaining: Rewiring Democracy + Reboot (books), mySociety report, OECD Ukraine; Tier-1 videos: European civic-tech-hub cluster (HNpd5Fa/M3H/kvJVCgBprwY/YRQLybWlPJk/TVNWBE4XwTw) + ZN1XDn Latin America; Connecticut deferred (assembly ongoing Jul–Sep 2026).
+move it to **Processed** with its date and issue number. 119 queued, ~44 remaining (Tang/plurality + Civic-AI clusters + CA-cluster waves A–D done; Tier-1 waves 3–4 papers/essays processed + Go Vocal/Decidim vendor webinars folded per #26; civic-AI sensemaking wave — Jigsaw One-Year-On, 6-Pack of Care, Gemot, Convoca, Cortico webinar — done 2026-07-20; civic-AI papers wave — EU JRC four-futures, FAccT connective-tissue, Habermolt, Schirch/Goldberg — done 2026-07-20). Tier-1 text remaining: Rewiring Democracy + Reboot (books), mySociety report, OECD Ukraine; Tier-1 videos: ZN1XDn Latin America (European civic-tech-hub cluster HNpd5Fa/M3H/kvJVCgBprwY/YRQLybWlPJk done 2026-07-20, TVNWBE4XwTw skipped); Connecticut deferred (assembly ongoing Jul–Sep 2026).
 
 ## Queue
 
@@ -37,9 +37,9 @@ move it to **Processed** with its date and issue number. 119 queued, ~50 remaini
 
 **Civic-tech platforms & participation practice**
 
-- [ ] https://www.youtube.com/watch?v=HNpd5Fa-ze8 — Supporting Participation: Building an effective European civic tech hub (59m)
-- [ ] https://www.youtube.com/watch?v=M3H-w4Osajk — TICTeC 25: Liset Hamming (SPOON, Netherlands) (25m)
-- [ ] https://www.youtube.com/watch?v=kvJVCgBprwY — Beyond websites: How pro-democracy projects reach their audiences (47m)
+- [x] https://www.youtube.com/watch?v=HNpd5Fa-ze8 — Supporting Participation: Building an effective European civic tech hub (59m) → folded with the mySociety report into concepts/growing-the-civic-tech-field (NEW) — the launch panel added the government-side view (leadership gap, control fears) [Tier 1] (2026-07-20)
+- [x] https://www.youtube.com/watch?v=M3H-w4Osajk — TICTeC 25: Liset Hamming (SPOON, Netherlands) (25m) → ecosystem (SPOON, Dutch FOI/Alaveteli transparency non-profit) [Tier 1] (2026-07-20)
+- [x] https://www.youtube.com/watch?v=kvJVCgBprwY — Beyond websites: How pro-democracy projects reach their audiences (47m) → concepts/the-distribution-problem (NEW; Georgia/Nigeria/Uganda reach cases) + library [Tier 1] (2026-07-20)
 - [x] https://www.youtube.com/watch?v=Wm_nuJ2xEoE — TICTeC 25: Putting the humans back in - Manchester People’s Panel for AI (18m) → run-reports/manchester-peoples-panel-ai
 - [~] https://www.youtube.com/watch?v=ucKz_EmO-c0 — Go Vocal webinar | Building a culture of engagement (55m) → FOLDED into Go Vocal toolkit entry (vendor webinar)
 - [~] https://www.youtube.com/watch?v=_OVZJtw-xkA — Go Vocal Webinar | Rethinking public engagement – Designing a methods mix that works (45m) → FOLDED into Go Vocal toolkit entry
@@ -50,8 +50,8 @@ move it to **Processed** with its date and issue number. 119 queued, ~50 remaini
 - [~] https://www.youtube.com/watch?v=GJrkdf-Aytc — Partnering with residents on budget priorities in St Louis, with Yusuf Daneshyar – Episode 8 (31m) → FOLDED into Go Vocal toolkit entry
 - [~] https://www.youtube.com/watch?v=y9Jna4svs90 — #DecidimFest23. Decidim Stories: Use Cases Beyond Cities (EN) (88m) → FOLDED into Decidim toolkit entry (DecidimFest)
 - [~] https://www.youtube.com/watch?v=-WS15nbBG0M — #DecidimFest23. Artificial Intelligence for Citizen Participation (EN) (77m) → FOLDED into Decidim toolkit entry (DecidimFest)
-- [ ] https://www.youtube.com/watch?v=YRQLybWlPJk — The Participation Playbook launch: An Interactive guide for participatory program planning! (58m)
-- [ ] https://www.youtube.com/watch?v=TVNWBE4XwTw — How can collective intelligence empower our democracy? (51m)
+- [x] https://www.youtube.com/watch?v=YRQLybWlPJk — The Participation Playbook launch: An Interactive guide for participatory program planning! (58m) → library + concepts/participatory-policymaking (enriched; People Powered planning guide) [Tier 1] (2026-07-20)
+- [~] https://www.youtube.com/watch?v=TVNWBE4XwTw — How can collective intelligence empower our democracy? (51m) → SKIPPED: Antiparties/Bella Roberts production (user's standing skip) + confirmatory (SAFE framework / meditation+deliberation already covered by civic-listening, plurality, ai-and-deliberation). Novel-but-tangential: an Electoral Commission LLM chatbot pilot — not ingested. (2026-07-20)
 - [x] https://www.youtube.com/watch?v=1qLhm7iRyGY — Translating Community Voices into Actionable Insights with AI (53m) → concepts/civic-listening (Cortico's AI code-suggestion workflow + ~70% human-accept), library. **Boston Blue Hill Ave case NOT written**: the webinar's "$40M community-driven redesign" failed verification (real cost ~$44M city / $80M federal; the project is contested, with residents saying they were not heard) — folded only the generic method per editorial discipline.
 
 **Civic AI & deliberation-at-scale** — CLUSTER COMPLETE (2026-06-18)
@@ -175,7 +175,7 @@ Substantive sources surfaced in past @citizen_infra link digests (articles/repor
 - [x] https://demos.co.uk/research/everyday-democracy-a-new-democratic-operating-model-to-rebuild-trust-between-state-and-citizen/ — Demos (Miriam Levin): "Everyday Democracy" — continuous participation to rebuild state–citizen trust → concepts/institutionalising-deliberation + library [Tier 1]
 - [x] https://democracywithoutpoliticians.org/ — Terry Bouricius (book, Routledge 2026): the case for sortition over elections + the multi-body design → concepts/multi-body-sortition + library [Tier 1] (processed from epub)
 - [ ] https://mitpress.mit.edu/9780262049948/rewiring-democracy/ — Schneier & Sanders (MIT Press, book): "Rewiring Democracy" — AI across the democratic process [Tier 1, civic-AI]
-- [ ] https://research.mysociety.org/html/supporting-participation/ — mySociety: 14 recommendations for a European civic-tech hub (grow demand / strengthen supply / fix procurement) [Tier 1]
+- [x] https://research.mysociety.org/html/supporting-participation/ — mySociety (for Sitra): 14 recommendations for a European civic-tech hub (grow demand / strengthen supply / fix procurement) → concepts/growing-the-civic-tech-field (NEW, anchor) + library [Tier 1] (2026-07-20)
 - [x] https://www.sitra.fi/en/publication/european-civic-technology-and-citizen-participation-in-the-age-of-ai/ — Sitra: European civic technology & citizen participation in the age of AI (report) → why-civic-tech-fails + library [Tier 1]
 - [x] https://www.sitra.fi/en/blogs/three-changes-needed-to-strengthen-digital-citizen-participation/ — Sitra (Antti Lehtinen): three changes to strengthen digital citizen participation → why-civic-tech-fails + library [Tier 1]
 - [x] https://www.cambridge.org/core/journals/american-political-science-review/article/how-deliberation-happens-enabling-deliberative-reason/6558F69855ADA8B15BF2EC2E5D403E71 — APSR (Niemeyer/Veri/Dryzek/Bächtiger): How Deliberation Happens — enabling deliberative reason → epistemic-democracy + civic-love + library [Tier 1]

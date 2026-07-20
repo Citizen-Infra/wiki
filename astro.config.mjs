@@ -116,6 +116,8 @@ export default defineConfig({
           ]},
           { label: 'The civic tech field', collapsed: true, items: [
             { slug: 'concepts/why-civic-tech-fails' },
+            { slug: 'concepts/growing-the-civic-tech-field' },
+            { slug: 'concepts/the-distribution-problem' },
             { slug: 'concepts/civic-products-and-features' },
             { slug: 'concepts/interoperability-and-standards' },
             { slug: 'concepts/organizer-kit' },
