@@ -95,6 +95,7 @@ export default defineConfig({
             { slug: 'concepts/does-ai-weaken-institutions' },
             { slug: 'concepts/six-pack-of-care' },
             { slug: 'concepts/who-builds-civic-ai' },
+            { slug: 'concepts/four-futures-for-ai-and-democracy' },
           ]},
           { label: 'Scaling deliberation with AI', collapsed: true, items: [
             { slug: 'concepts/ai-for-participation' },
@@ -102,6 +103,7 @@ export default defineConfig({
             { slug: 'concepts/scaling-deliberation' },
             { slug: 'concepts/habermas-machine' },
             { slug: 'concepts/synthetic-participation' },
+            { slug: 'concepts/ai-delegated-deliberation' },
           ]},
           { label: 'Sensemaking at scale', collapsed: true, items: [
             { slug: 'concepts/civic-listening' },
@@ -110,6 +112,7 @@ export default defineConfig({
             { slug: 'concepts/argument-mapping' },
             { slug: 'concepts/uncommon-ground' },
             { slug: 'concepts/ai-reflectors' },
+            { slug: 'concepts/how-we-picture-disagreement' },
           ]},
           { label: 'The civic tech field', collapsed: true, items: [
             { slug: 'concepts/why-civic-tech-fails' },
@@ -176,6 +179,7 @@ export default defineConfig({
             { slug: 'run-reports/taiwan-alignment-assemblies' },
             { slug: 'run-reports/engaged-california' },
             { slug: 'run-reports/bowling-green-what-could-bg-be' },
+            { slug: 'run-reports/we-the-people' },
             { slug: 'run-reports/anno-tokyo-2024' },
           ]},
         ]},
