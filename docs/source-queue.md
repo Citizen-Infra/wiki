@@ -241,6 +241,7 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 - [ ] https://www.ncdd.org/ — National Coalition for Dialogue & Deliberation (NCDD): US network + resource library for dialogue & deliberation practice → ecosystem (NCDD) [Tier 2]
 - [x] https://www.linkedin.com/posts/adnanjaber_report-on-mapping-llm-tools-for-public-discouse-ugcPost-7390116189798162432-H1L3 — Adnan Jaber: report mapping LLM tools for public discourse (map: https://airtable.com/appdDLNeIEBFUZiQG/shrgEVfEwv7OoiTcJ/tblvpYsR8oOFvepkO) → library/reading-and-sources (Civic AI) [Tier 1, civic-AI]
 - [x] https://www.linkedin.com/pulse/sortition-goes-back-further-brussels-than-many-people-hugh-pope-73rmf — Hugh Pope (essay): "Sortition goes back further in Brussels than many people think" → concepts/sortition ("Not only ancient" section) + library [Tier 1]
+- [x] https://www.cambridge.org/core/journals/data-and-policy/article/ai-and-citizen-participation-a-political-economy-lens/2A4CC7AAA4F24F5C10CFC9D606EE5E5B — Davies & Devine (*Data & Policy* 8, 2026, e33; CC BY): "AI and citizen participation: a political economy lens" — who builds, funds, and adopts civic-AI tools shapes which ever reach citizens; structural forces favour incumbents (seven builder archetypes / three funding models / four adopters) → concepts/who-builds-civic-ai (NEW page) + library [Tier 1, civic-AI] (2026-07-20)
 
 ## Processed
 

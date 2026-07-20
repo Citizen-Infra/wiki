@@ -94,6 +94,7 @@ export default defineConfig({
             { slug: 'concepts/public-ai' },
             { slug: 'concepts/does-ai-weaken-institutions' },
             { slug: 'concepts/six-pack-of-care' },
+            { slug: 'concepts/who-builds-civic-ai' },
           ]},
           { label: 'Scaling deliberation with AI', collapsed: true, items: [
             { slug: 'concepts/ai-for-participation' },
