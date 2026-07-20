@@ -17,7 +17,7 @@ Money is not a neutral fuel. Three funding models pull tools in different direct
 
 - **Public funding** is patient but tied to erratic procurement cycles and research agendas that rarely convert into a scalable product.
 - **Philanthropy** can seed public-interest work (Cortico received a $2 million Knight Foundation grant for its [civic-listening](/concepts/civic-listening/) platform) but leaves organisations "financially fragile and reactive to shifting donor agendas."
-- **Market finance** — venture capital, loans — rewards rapid growth and paying customers, which can pull a tool away from politically sensitive or unprofitable public work. Remesh, for instance, raised tens of millions in venture capital in part by pitching itself to the market-research industry, not the town hall.
+- **Market finance** — venture capital, loans — rewards rapid growth and paying customers, which can pull a tool away from politically sensitive or unprofitable public work. Remesh, for instance, has raised over $40 million in venture capital and pitched its $10 million Series A explicitly at the roughly $71 billion market-research industry, not the town hall.
 
 Crucially, the authors argue funding is *epistemically constitutive*: it does not simply select which projects survive, but shapes "what questions get asked, what counts as a good answer, and what the object of study is taken to be."
 
