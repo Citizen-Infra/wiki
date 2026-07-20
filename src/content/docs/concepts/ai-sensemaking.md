@@ -18,7 +18,8 @@ The pay-off is speed and scale: what once took weeks of manual coding can run in
 
 ## Where it shows up
 
-- **[Jigsaw](/ecosystem/overview/)'s Sensemaker** (open-source, 2024) takes the statements and votes from a [Polis](/toolkit/decide-together/)-style conversation and uses Google's Gemini to find the topics, file every statement, and write cited summaries flagging agreement and disagreement. It was the engine behind Bowling Green, Kentucky's [25-year planning consultation](/run-reports/bowling-green-what-could-bg-be/), turning more than a million votes into twelve themes.
+- **[Jigsaw](/ecosystem/overview/)'s Sensemaker** takes the statements and votes from a [Polis](/toolkit/decide-together/)-style conversation and uses Google's Gemini to find the topics, file every statement, and write cited summaries flagging agreement and disagreement. It was the engine behind Bowling Green, Kentucky's [25-year planning consultation](/run-reports/bowling-green-what-could-bg-be/), turning more than a million votes into twelve themes, and Jigsaw has since run it at state level (a 1,000-resident statewide survey in Oklahoma) and nationally (the *We the People* deliberation, which by Jigsaw's account distilled 2,400 Americans across all 435 congressional districts into 26 summary statements). In 2026 Jigsaw open-sourced the full developer library — its categorisation, predictive-agreement, quote-ranking, and recursive-summarisation pipelines — so civil-society groups can run the method on their own infrastructure.
+- **[Convoca](/toolkit/decide-together/)** adds an accountability layer to the same pattern: human-led AI sensemaking wired to tools that **close the loop** — making traceable who was heard, who wasn't, and what changed — so a synthesis leads somewhere a resident can check rather than vanishing between planning cycles. Built by an MIT Media Lab team and used by New York City's planners.
 - **Polis** itself does a lighter, statistical version: its opinion-group maps already surface the statements that win support *across* clusters — the [uncommon ground](/concepts/uncommon-ground/) — before any LLM is involved.
 - Open tools in the same family (such as Talk to the City) apply the pattern to free-text and interview transcripts rather than vote matrices.
 
@@ -33,4 +34,6 @@ The risk to watch is [synthetic participation](/concepts/synthetic-participation
 ## Sources
 
 - "Making sense of large-scale online conversations" — Jigsaw (Google, 2024): [medium.com/jigsaw](https://medium.com/jigsaw/making-sense-of-large-scale-online-conversations-b153340bda55)
+- "One year on: the momentum behind Jigsaw's Sensemaking AI" — Jigsaw (Google, 2026), on open-sourcing the library and the Oklahoma and *We the People* deployments: [medium.com/jigsaw](https://medium.com/jigsaw/one-year-on-the-momentum-behind-jigsaws-sensemaking-ai-b340e89ed516)
+- [Convoca](https://convoca.org/) — community-listening and sensemaking infrastructure, from an MIT Media Lab team
 - The Computational Democracy Project, on [Polis](https://pol.is/) and its opinion-mapping method

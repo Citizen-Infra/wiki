@@ -8,7 +8,7 @@ How do you actually hear what a whole neighbourhood, school, or country thinks �
 ## The three steps
 
 - **Talk.** People meet in *small groups* — ideally face-to-face, in a quiet space around a recording device (though video calls and a mobile app work too), led by a trained community facilitator. The conversation guides deliberately steer people toward *personal stories and experiences* rather than opinions — which turns out to be a powerful way to find connection between people who assumed they had little in common. With everyone's permission, it's recorded.
-- **Understand.** Across many recorded conversations — over different places and times — a *community-led* sensemaking process surfaces the themes that emerge, revealing the bigger picture. AI tools assist here, but to *support, not replace,* human insight.
+- **Understand.** Across many recorded conversations — over different places and times — a *community-led* sensemaking process surfaces the themes that emerge, revealing the bigger picture. AI tools assist here, but to *support, not replace,* human insight. In practice that looks like a **thematic codebook** the community builds, against which the software only *suggests* which themes a given highlight belongs to; a person reviews and accepts or rejects each suggestion (in one Cortico deployment, reviewers kept roughly 70% of them), and the tool will not tag a whole batch on its own. The AI lightens the reading load; it does not decide what was said.
 - **Share.** The result becomes shareable media: **voice medleys** (collages of real voices) and **conversation maps** (clickable themes you can drill into and listen to). It's shared back with the participants, and often published — bringing authentic, unheard voices into the public sphere.
 
 ## Listening as community leadership
@@ -33,4 +33,5 @@ Cortico keeps people at the centre and uses AI lightly. A more automated cousin 
 
 - The American Conversation Project, with Deb Roy (Cortico) — National Conference on Citizenship (2025): [youtube.com/watch?v=Zm3w5PkbVPo](https://www.youtube.com/watch?v=Zm3w5PkbVPo).
 - "From Division to Dialogue: How AI Can Save Democracy" — Deb Roy on *Life with Machines* w/ Baratunde Thurston (2025): [youtube.com/watch?v=qKTS0mfXRCk](https://www.youtube.com/watch?v=qKTS0mfXRCk).
+- "Translating Community Voices into Actionable Insights with AI" — Ethan Walker (Cortico), UK Democracy Network webinar (2026): [youtube.com/watch?v=1qLhm7iRyGY](https://www.youtube.com/watch?v=1qLhm7iRyGY). The source for the code-suggestion workflow above.
 - "Making sense of large-scale online conversations" — Jigsaw (Google, 2024), on the Sensemaker method: [medium.com/jigsaw](https://medium.com/jigsaw/making-sense-of-large-scale-online-conversations-b153340bda55).

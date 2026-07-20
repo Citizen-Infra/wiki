@@ -17,6 +17,11 @@ There's a meaningful distinction. A **person-owned, person-controlled digital tw
 Use AI to **support** participation, not to simulate the public. Where AI helps people express and understand one another, it strengthens democracy; where it manufactures a synthetic public, it hollows it out.
 :::
 
-## Source
+## A harder case: agents built from real positions
+
+Between the two poles sits a subtler use. Tools like [Gemot](/toolkit/decide-together/) build synthetic agents from people's *own published positions* — each grounded in direct quotes — and have those agents deliberate to surface the cruxes that divide a debate, with anti-sycophancy checks that reject a revision when it drifts from what the source actually said. That is more honest than modelling a whole constituency from thin air: it stays anchored to real, attributable views and can be audited against them. But it is still a **map of a debate, not a substitute for the people in it**. The safe use is the same as any [argument map](/concepts/argument-mapping/) — to understand the shape of a disagreement before real people deliberate, never to let the agents' "agreement" stand in for a public that was never asked.
+
+## Sources
 
 - Matt Stempeck, with audience discussion (including the person-owned-twin counterpoint), "Civic AI" — Metagov seminar, 2025: [youtube.com/watch?v=SonfdR0_h2w](https://www.youtube.com/watch?v=SonfdR0_h2w)
+- [Gemot](https://gemot.dev/) — an open-source multi-agent deliberation tool that builds agents from published positions and surfaces cruxes rather than summaries
