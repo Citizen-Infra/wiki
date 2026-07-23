@@ -55,6 +55,7 @@ export default defineConfig({
             { slug: 'concepts/binding-vs-advisory' },
             { slug: 'concepts/institutionalising-deliberation' },
             { slug: 'concepts/participatory-policymaking' },
+            { slug: 'concepts/participation-as-means-not-end' },
             { slug: 'concepts/scaling-catalysts' },
           ]},
           { label: 'Who gets to deliberate', collapsed: true, items: [
