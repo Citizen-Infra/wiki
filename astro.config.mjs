@@ -48,6 +48,7 @@ export default defineConfig({
           ]},
           { label: "Citizens' assemblies", collapsed: true, items: [
             { slug: 'concepts/citizens-assembly' },
+            { slug: 'concepts/citizens-assembly-impact-taxonomy' },
             { slug: 'concepts/running-a-citizens-assembly' },
             { slug: 'concepts/spaces-for-deliberation' },
             { slug: 'concepts/deliberative-polling' },
@@ -160,6 +161,7 @@ export default defineConfig({
             { slug: 'run-reports/connecticut-property-taxes' },
             { slug: 'run-reports/la-city-charter-assembly' },
             { slug: 'run-reports/lexington-civic-assembly' },
+            { slug: 'run-reports/victoria-saanich-citizens-assembly' },
             { slug: 'run-reports/ukraine-wartime-assemblies' },
             { slug: 'run-reports/manchester-peoples-panel-ai' },
             { slug: 'run-reports/malawi-cdf-citizens-juries' },

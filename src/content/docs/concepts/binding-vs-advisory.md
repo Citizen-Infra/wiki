@@ -7,7 +7,7 @@ When a citizens' assembly finishes, what happens to its recommendations? In almo
 
 ## The trouble with advisory-only
 
-A purely advisory assembly is structurally weak. It's toothless by design, easy to ignore, and — worse — prone to **participation washing**: the appearance of empowering people without giving them any real control. It lets a government claim it "consulted the citizens" while keeping every actual decision. The more assemblies stay advisory, Landemore argues, the more they're prone to capture and to creating an *illusion* of voice.
+A purely advisory assembly is structurally weak. It's toothless by design, easy to ignore, and — worse — prone to **participation washing** (sometimes called **deliberation washing** when it's specifically an assembly being used this way): the appearance of empowering people without giving them any real control. It lets a government claim it "consulted the citizens" while keeping every actual decision. The more assemblies stay advisory, Landemore argues, the more they're prone to capture and to creating an *illusion* of voice.
 
 ## It can be binding — it already has been
 
@@ -23,6 +23,10 @@ Going from advisory to binding means institutionalising assemblies with real pow
 :::caution
 The risk on the other side is [cargo cult democracy](/concepts/cargo-cult-democracy/): building the *appearance* of citizen power without the substance.
 :::
+
+## An honest open question
+
+There is a specific route where the binding-vs-advisory line goes soft, and the field's evidence on it is thin: **when an assembly's recommendations go to public referendum and the referendum rejects them**. What does that failure do to the community — to the participants, to the wider public that watched? Do the [personal- and spillover-level impacts](/concepts/citizens-assembly-impact-taxonomy/) hold even when the institutional path collapses? FIDE North America names this as one of the field's open research gaps. Any commissioner deciding to make an assembly's output binding-via-referendum should be honest about not yet knowing the answer.
 
 ## Sources
 

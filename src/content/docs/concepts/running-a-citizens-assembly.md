@@ -17,8 +17,8 @@ The groundwork determines everything:
 
 ## During the assembly
 
-- **Welcoming and orientation** — members arrive nervous and unsure they belong; the first job is to make the space genuinely theirs.
-- **Facilitating learning and deliberation** — skilled facilitation is what lets a diverse group weigh evidence, hear each other, and surface common ground rather than the loudest voices winning.
+- **Welcoming and orientation** — members arrive nervous and unsure they belong; the first job is to make the space genuinely theirs. The strongest designs open with a relational act *before* anything topical: a Lexington participant recalls the very first thing her assembly did was ask each member to draw what the city meant to them and share why — so that trust existed before any dissent did.
+- **Facilitating learning and deliberation** — skilled facilitation is what lets a diverse group weigh evidence, hear each other, and surface common ground rather than the loudest voices winning. The best-evidenced amplifier of an assembly's [personal impact](/concepts/citizens-assembly-impact-taxonomy/) is *structured* learning: expert briefings, Q&A with genuine time for reflection, and small-group discussion of what was heard — not a firehose of slides. And facilitation doesn't only happen in the room. In the long-form Canadian tradition (see the [Victoria-Saanich Citizens' Assembly](/run-reports/victoria-saanich-citizens-assembly/)), members get calls between sessions to check they feel heard, and small gestures — tablecloths on the tables, shared meals — signal that this room and the people in it are worth care.
 - **Drafting recommendations and voting** — members write their own recommendations, adopted by a [super-majority](/concepts/citizens-assembly/) so the output reflects broad agreement, not a bare 51%.
 - **Delivering recommendations** — handing the output to decision-makers, ideally face to face.
 

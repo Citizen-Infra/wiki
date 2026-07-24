@@ -9,7 +9,7 @@ description: Choosing decision-makers at random instead of by election — an ol
 
 It sounds counter-intuitive, but the case is strong:
 
-- **Representativeness.** A randomly selected, stratified group actually mirrors the population — unlike elected bodies, which tend to over-represent the wealthy, educated, and well-connected.
+- **Representativeness.** A randomly selected, stratified group actually mirrors the population — unlike elected bodies, which tend to over-represent the wealthy, educated, and well-connected. There is a real ceiling on this, though: a lottery can only be representative of the pool that *accepts* the invitation, and self-selection weighs against those who can least afford the time — a limit that recruitment outreach and weighted-probability sortition help with but cannot fully close.
 - **Equality.** Everyone has an equal chance to serve; you don't need money, connections, or a taste for campaigning. As Hélène Landemore notes, both elections *and* self-selection skew toward the same advantaged few; the lottery doesn't.
 - **Independence.** People chosen by lot owe nothing to donors, parties, or re-election, freeing them to weigh the common good.
 

@@ -26,6 +26,14 @@ They landed on three recommendations. On **pay**: raise council salaries from ab
 
 Two things make Lexington worth recording. First, asked to fix the charter once, the assembly chose to **bake its own method into the constitution** — a recurring sortition commission to keep the charter current — an instinct toward [institutionalising deliberation](/concepts/institutionalising-deliberation/) that mirrors the [Los Angeles City Charter assembly](/run-reports/la-city-charter-assembly/) the same year. Second, it comes with an unusually honest post-mortem: CivicLex's Richard Young, a former skeptic, came away convinced assemblies are "an excellent tool for a hard, sticky decision" but not a fix-all, and argues the real prize is **durable, local civic infrastructure** — things a community can engage with for years — rather than expensive one-off assemblies (theirs cost $275,000 for 36 people; some run to $2 million). See [sortition](/concepts/sortition/) and [citizens' assemblies](/concepts/citizens-assembly/) for the method, and [institutionalising deliberation](/concepts/institutionalising-deliberation/) for why making it permanent is the hard part.
 
+## A participant's view
+
+At the [People Powered × FIDE × GloCAN webinar](https://www.peoplepowered.org/events-content/1000-citizens-assemblies-later-whats-changed) months later, a Lexington participant reflected on the experience. Two threads stood out.
+
+On **process legitimacy over personal agreement** — she disagreed with parts of the assembly's unanimous recommendations but felt the room had worked exactly as it should: *"You're not going to agree on everything. This assembly worked exactly the way it was intended to work."* That is a working definition of a legitimate deliberative process — one whose output you can respect even when it isn't the answer you would have written alone.
+
+On the **durable social ties** the room created — months on, she was still in regular contact with three fellow members. One got her a seasonal job at Keeneland racetrack; another couple have dinner with her and her husband. That is the [personal-impact level](/concepts/citizens-assembly-impact-taxonomy/) of the evidence base — usually reported as figures on political efficacy — showing up as ordinary life.
+
 ## Sources
 
 - Gideon Lichfield, "The Lexington Experiment, part I" (interview with Richard Young, CivicLex) — Futurepolis: [futurepolis.substack.com/p/the-lexington-experiment-part-i](https://futurepolis.substack.com/p/the-lexington-experiment-part-i)

@@ -6,14 +6,16 @@ Each is processed via the `/process-source` flow -> wiki pages + a per-source
 ingestion history in memory (`project_cibc_wiki.md`).
 
 **How to use:** work top-down (Tier 1 first); skip any freely. When one is done,
-move it to **Processed** with its date and issue number. 126 queued, ~40 remaining. **Tier 1 essentially cleared** (Connecticut deferred until its assembly concludes Sep 2026). Done 2026-07-20: Tang/plurality + Civic-AI clusters + CA-cluster waves A–D; Tier-1 waves 3–4 papers/essays + Go Vocal/Decidim vendor webinars folded per #26; civic-AI sensemaking wave (Jigsaw One-Year-On, 6-Pack of Care, Gemot, Convoca, Cortico webinar); civic-AI papers wave (EU JRC four-futures, FAccT connective-tissue, Habermolt, Schirch/Goldberg); European civic-tech-hub wave (mySociety report, hub launch panel, SPOON, Beyond-websites, Participation Playbook — TVNWBE4XwTw skipped); final Tier-1 wave (Rewiring Democracy, Reboot, OECD Ukraine, Pogrebinschi/Latin America).
+move it to **Processed** with its date and issue number. 127 queued, ~39 remaining. **Tier 1 essentially cleared** (Connecticut deferred until its assembly concludes Sep 2026). Done 2026-07-20: Tang/plurality + Civic-AI clusters + CA-cluster waves A–D; Tier-1 waves 3–4 papers/essays + Go Vocal/Decidim vendor webinars folded per #26; civic-AI sensemaking wave (Jigsaw One-Year-On, 6-Pack of Care, Gemot, Convoca, Cortico webinar); civic-AI papers wave (EU JRC four-futures, FAccT connective-tissue, Habermolt, Schirch/Goldberg); European civic-tech-hub wave (mySociety report, hub launch panel, SPOON, Beyond-websites, Participation Playbook — TVNWBE4XwTw skipped); final Tier-1 wave (Rewiring Democracy, Reboot, OECD Ukraine, Pogrebinschi/Latin America). Done 2026-07-24: People Powered × FIDE × GloCAN "1,000 Citizens' Assemblies Later" webinar (Milosh impact taxonomy + Victoria-Saanich case) → 2 new concept/run-report pages, 6 enrichments, ecosystem +2 (FIDE North America, GloCAN).
 
 ## Queue
 
 
 ### Tier 1 — core fit (process first)
 
-**Citizens' assemblies, sortition & deliberation** — IN PROGRESS (2026-06-23): waves A–D done (15 processed, 2 skipped); only Latin America book launch remains
+**Citizens' assemblies, sortition & deliberation** — IN PROGRESS (2026-06-23): waves A–D done (15 processed, 2 skipped); Latin America book launch done 2026-07-20; People Powered × FIDE × GloCAN 1,000-CAs webinar done 2026-07-24
+
+- [x] https://www.peoplepowered.org/events-content/1000-citizens-assemblies-later-whats-changed — People Powered × FIDE × GloCAN, "1,000 Citizens' Assemblies Later, What's Changed?" webinar (63m) — Maria Milosh (U. Chicago), Ryan Gem (People Powered), Miles Brackenbury (FIDE North America), Melisa Ross (GloCAN), plus a Lexington participant. Fireflies transcript 01KXZNEXRY1EZ6WK7EVM6TPH37 (semi-private, cited without hyperlink). → concepts/citizens-assembly-impact-taxonomy (NEW; Milosh 3-level taxonomy, 66-study brief), run-reports/victoria-saanich-citizens-assembly (NEW; concierge-service facilitation, neighbour-effect), enrichments (citizens-assembly + FIDE-7 section, sortition self-selection ceiling, running-a-CA icebreaker + between-session care, binding-vs-advisory referendum-rejection gap, lexington-civic-assembly participant testimonial), ecosystem +2 (FIDE North America, GloCAN), library. [Tier 1] (2026-07-24)
 
 - [~] https://www.youtube.com/watch?v=ttAFeJM-3x8 — Hélène Landemore (Yale): Politics without Politicians (63m) → SKIPPED: no captions available (theme already covered by sgFUtZCgAqI)
 - [x] https://www.youtube.com/watch?v=XCBEuSp_heI — Michael McCarthy, The Master's Tools: An interview with Claudia Chwalisz (57m) → concepts/democratising-finance, library
