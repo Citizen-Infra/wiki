@@ -48,35 +48,42 @@
 # GoDaddy's HTTP-only forwarding, which refuses HTTPS and therefore does not
 # fire for most visitors.
 #
-# MOVE THIS to Citizen-Infra/cibc-website when that site ships. It is a
-# redirect, so moving it costs nothing: no OAuth grants, no Search Console
-# verification, none of the migration cost behind the never-move-twice rule in
-# cibc-brain/decisions/2026-08-02-citizeninfra-domain-map.md.
+# These rules point at the WIKI, not at the citizeninfra.org apex, and that is
+# a deliberate stopgap. The apex still serves a GoDaddy Website Builder parking
+# page, so sending the hyphenated domain there delivers visitors reliably to a
+# page that says nothing. The wiki is the only real CIBC content on the web
+# today, so it is the honest destination until the landing page ships.
+#
+# WHEN Citizen-Infra/cibc-website#1 SHIPS: repoint these four rules at
+# https://citizeninfra.org/ and move the whole block into that repo's
+# netlify.toml. Moving a redirect costs nothing — no OAuth grants, no Search
+# Console verification, none of the migration cost behind the never-move-twice
+# rule in cibc-brain/decisions/2026-08-02-citizeninfra-domain-map.md.
 #
 # No :splat here, unlike the wiki rules above. Paths on the hyphenated apex
 # have never resolved to anything, so there are no deep links worth preserving,
-# and forwarding an arbitrary path to a site that has not launched would produce
-# 404s instead of a landing page.
+# and forwarding an arbitrary path onto the wiki would produce 404s instead of
+# a usable page.
 [[redirects]]
   from = "https://citizen-infra.org/*"
-  to = "https://citizeninfra.org/"
+  to = "https://wiki.citizeninfra.org/"
   status = 301
   force = true
 
 [[redirects]]
   from = "http://citizen-infra.org/*"
-  to = "https://citizeninfra.org/"
+  to = "https://wiki.citizeninfra.org/"
   status = 301
   force = true
 
 [[redirects]]
   from = "https://www.citizen-infra.org/*"
-  to = "https://citizeninfra.org/"
+  to = "https://wiki.citizeninfra.org/"
   status = 301
   force = true
 
 [[redirects]]
   from = "http://www.citizen-infra.org/*"
-  to = "https://citizeninfra.org/"
+  to = "https://wiki.citizeninfra.org/"
   status = 301
   force = true
