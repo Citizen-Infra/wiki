@@ -40,3 +40,43 @@
   to = "https://wiki.citizeninfra.org/:splat"
   status = 301
   force = true
+
+# The apex of the hyphenated domain also lands here, which is odd on the face
+# of it: this is the wiki's site, and citizen-infra.org should end up pointing
+# at the CIBC landing page. It is here because the wiki site is the only CIBC
+# Netlify site that exists today, and the alternative was leaving the apex on
+# GoDaddy's HTTP-only forwarding, which refuses HTTPS and therefore does not
+# fire for most visitors.
+#
+# MOVE THIS to Citizen-Infra/cibc-website when that site ships. It is a
+# redirect, so moving it costs nothing: no OAuth grants, no Search Console
+# verification, none of the migration cost behind the never-move-twice rule in
+# cibc-brain/decisions/2026-08-02-citizeninfra-domain-map.md.
+#
+# No :splat here, unlike the wiki rules above. Paths on the hyphenated apex
+# have never resolved to anything, so there are no deep links worth preserving,
+# and forwarding an arbitrary path to a site that has not launched would produce
+# 404s instead of a landing page.
+[[redirects]]
+  from = "https://citizen-infra.org/*"
+  to = "https://citizeninfra.org/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://citizen-infra.org/*"
+  to = "https://citizeninfra.org/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.citizen-infra.org/*"
+  to = "https://citizeninfra.org/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.citizen-infra.org/*"
+  to = "https://citizeninfra.org/"
+  status = 301
+  force = true
