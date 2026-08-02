@@ -2,7 +2,7 @@
 
 A free, public, plain-language resource **for citizens** about *citizen infrastructure* — the tools, methods, and real-world experiments that help people act together: deliberation and citizens' assemblies, civic tech, the commons, and notable run reports of participation in practice.
 
-**Live site → [citizen-infra.netlify.app](https://citizen-infra.netlify.app)**
+**Live site → [wiki.citizeninfra.org](https://wiki.citizeninfra.org)**
 
 It's organised into sections you can browse from the sidebar: the idea behind citizen infrastructure, plain-language **Concepts**, a practical **toolkit** grouped by what you're trying to do, **Run Reports** on specific deliberations, **Stories** of grassroots action, the wider **ecosystem** of organisations, and a **library** of sources.
 

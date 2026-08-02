@@ -29,7 +29,7 @@ Every change to `main` goes through a pull request; there are no direct pushes
 3. **Resolved review conversations.**
 
 A maintainer then squash-merges, and Netlify publishes `main` automatically —
-**merge = live** at [citizen-infra.netlify.app](https://citizen-infra.netlify.app).
+**merge = live** at [wiki.citizeninfra.org](https://wiki.citizeninfra.org).
 
 - **Contributors** (no merge rights) propose via a PR from a fork; a maintainer
   reviews and merges it.
