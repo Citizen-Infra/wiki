@@ -16,7 +16,7 @@
   "projects": [{
     "guid": "citizen-infra-wiki",
     "name": "Citizen Infrastructure Wiki",
-    "description": "A free, public knowledge resource for citizens - concepts, a toolkit of civic tools, run reports of notable deliberations, stories, and an ecosystem library. Live: https://citizen-infra.netlify.app/",
+    "description": "A free, public knowledge resource for citizens - concepts, a toolkit of civic tools, run reports of notable deliberations, stories, and an ecosystem library. Live: https://wiki.citizeninfra.org/",
     "webpageUrl": {
       "url": "https://github.com/Citizen-Infra/wiki",
       "wellKnown": ""

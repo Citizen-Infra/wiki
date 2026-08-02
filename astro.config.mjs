@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 import starlightLinksValidator from 'starlight-links-validator';
 
 export default defineConfig({
-  site: 'https://citizen-infra.netlify.app',
+  site: 'https://wiki.citizeninfra.org',
   integrations: [
     starlight({
       // starlight-links-validator is pinned to 0.24.0: 0.24.1 has a regression that

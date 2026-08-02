@@ -1,7 +1,7 @@
 # Contributing to the Citizen Infrastructure wiki
 
 Thanks for helping build this! Anyone with repo access can add and edit pages.
-Publishing is automatic: a merged PR goes live at citizen-infra.netlify.app.
+Publishing is automatic: a merged PR goes live at wiki.citizeninfra.org.
 
 ## Setup
 

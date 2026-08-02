@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-The public **Citizen Infrastructure** wiki — a free, plain-language resource **for citizens** about citizen infrastructure (deliberation, civic tech, the commons, real-world run reports). Built with **Astro 6 + Starlight**, deployed to **citizen-infra.netlify.app**.
+The public **Citizen Infrastructure** wiki — a free, plain-language resource **for citizens** about citizen infrastructure (deliberation, civic tech, the commons, real-world run reports). Built with **Astro 6 + Starlight**, deployed to **wiki.citizeninfra.org**.
 
 The audience is the **citizen**, not a CIBC member. CIBC is the *steward/publisher*, not the subject — anything about membership, governance, or joining the collective lives in Notion (cibc.notion.site) and is only linked from here, never described as the wiki's topic. The reader-facing positioning is on the `about` page.
 
@@ -20,7 +20,7 @@ Node **≥22.12** (Netlify pins `NODE_VERSION=22`). Always `npm run build` befor
 
 ## Deploy
 
-Deploys are **automatic** — Netlify is git-connected and builds every push to `main`, so **merge = live** at citizen-infra.netlify.app. Don't run a manual `netlify deploy`; just merge a green PR. `netlify.toml` sets the build command (`npm run build`), publish dir (`dist`), and Node 22. A clean `npm run build` is still the local gate before you push.
+Deploys are **automatic** — Netlify is git-connected and builds every push to `main`, so **merge = live** at wiki.citizeninfra.org. Don't run a manual `netlify deploy`; just merge a green PR. `netlify.toml` sets the build command (`npm run build`), publish dir (`dist`), and Node 22. A clean `npm run build` is still the local gate before you push.
 
 `main` is protected: a PR needs a green `build` check **and one approving review** from a [`wiki-editors`](https://github.com/orgs/Citizen-Infra/teams/wiki-editors) maintainer before it can merge; owners can still push directly for maintenance. See **`GOVERNANCE.md`** for roles and the review model and **`CONTRIBUTING.md`** for the branch → PR flow.
 
