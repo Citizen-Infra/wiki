@@ -5,3 +5,17 @@
 [build.environment]
   # Astro 6 requires Node >=22.12; "22" resolves to the latest 22.x on Netlify.
   NODE_VERSION = "22"
+
+# The wiki moved to wiki.citizeninfra.org on 2026-08-02. Setting a primary
+# custom domain in Netlify does NOT redirect the .netlify.app subdomain to it
+# — both hosts kept serving 200 — so the redirect has to be declared here.
+#
+# force = true is required: without it this rule loses to the static file that
+# exists at every path on the site, and the redirect silently never fires.
+# :splat preserves the path, so deep links survive rather than all landing on
+# the homepage.
+[[redirects]]
+  from = "https://citizen-infra.netlify.app/*"
+  to = "https://wiki.citizeninfra.org/:splat"
+  status = 301
+  force = true
