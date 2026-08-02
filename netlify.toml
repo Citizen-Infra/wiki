@@ -19,3 +19,24 @@
   to = "https://wiki.citizeninfra.org/:splat"
   status = 301
   force = true
+
+# The hyphenated domain exists because the GitHub org is Citizen-Infra and the
+# old host was citizen-infra.netlify.app, so anyone who knows CIBC will type the
+# hyphen. It is a redirect-only domain and must never serve content.
+#
+# This host is a Netlify domain alias on this site rather than a GoDaddy
+# forward, and that is deliberate: GoDaddy's forwarding is HTTP-only, and every
+# current browser tries HTTPS first, so an HTTP-only forward mostly never fires.
+# Netlify issues a real certificate for the alias, so the redirect works on the
+# scheme people actually arrive on.
+[[redirects]]
+  from = "https://wiki.citizen-infra.org/*"
+  to = "https://wiki.citizeninfra.org/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://wiki.citizen-infra.org/*"
+  to = "https://wiki.citizeninfra.org/:splat"
+  status = 301
+  force = true
