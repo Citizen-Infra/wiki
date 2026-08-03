@@ -41,49 +41,22 @@
   status = 301
   force = true
 
-# The apex of the hyphenated domain also lands here, which is odd on the face
-# of it: this is the wiki's site, and citizen-infra.org should end up pointing
-# at the CIBC landing page. It is here because the wiki site is the only CIBC
-# Netlify site that exists today, and the alternative was leaving the apex on
-# GoDaddy's HTTP-only forwarding, which refuses HTTPS and therefore does not
-# fire for most visitors.
+# The hyphenated apex used to be handled here — four rules sending
+# citizen-infra.org and www.citizen-infra.org to the wiki. That was an explicit
+# stopgap: the citizeninfra.org apex was a GoDaddy parking page, the wiki was
+# the only real CIBC content on the web, and GoDaddy's own forwarding is
+# HTTP-only so it mostly never fired.
 #
-# These rules point at the WIKI, not at the citizeninfra.org apex, and that is
-# a deliberate stopgap. The apex still serves a GoDaddy Website Builder parking
-# page, so sending the hyphenated domain there delivers visitors reliably to a
-# page that says nothing. The wiki is the only real CIBC content on the web
-# today, so it is the honest destination until the landing page ships.
+# The apex shipped on 2026-08-04 (Citizen-Infra/cibc-website), so those rules
+# moved to that repo's netlify.toml, repointed at https://citizeninfra.org/ and
+# with :splat added — the destination is now this domain's mirror, so a
+# forwarded path reaches the matching page instead of 404ing on the wiki.
 #
-# WHEN Citizen-Infra/cibc-website#1 SHIPS: repoint these four rules at
-# https://citizeninfra.org/ and move the whole block into that repo's
-# netlify.toml. Moving a redirect costs nothing — no OAuth grants, no Search
-# Console verification, none of the migration cost behind the never-move-twice
-# rule in cibc-brain/decisions/2026-08-02-citizeninfra-domain-map.md.
+# The Netlify domain aliases moved with them, and that is the part worth
+# remembering: a redirect only fires on the site that RECEIVES the request. A
+# hostname can be claimed by one Netlify site at a time, so the rules and the
+# aliases have to move together or the domain goes dark. Rules were deployed on
+# the destination first, then the aliases released here and claimed there.
 #
-# No :splat here, unlike the wiki rules above. Paths on the hyphenated apex
-# have never resolved to anything, so there are no deep links worth preserving,
-# and forwarding an arbitrary path onto the wiki would produce 404s instead of
-# a usable page.
-[[redirects]]
-  from = "https://citizen-infra.org/*"
-  to = "https://wiki.citizeninfra.org/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "http://citizen-infra.org/*"
-  to = "https://wiki.citizeninfra.org/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "https://www.citizen-infra.org/*"
-  to = "https://wiki.citizeninfra.org/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "http://www.citizen-infra.org/*"
-  to = "https://wiki.citizeninfra.org/"
-  status = 301
-  force = true
+# wiki.citizen-infra.org stays (the two rules above) — that one is the wiki's
+# own hyphenated host and still belongs to this site.
