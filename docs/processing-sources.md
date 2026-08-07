@@ -63,7 +63,9 @@ A hit in the Processed list, an extraction file, or a published page means
 
 ### 3. Fetch the full source
 
-- **YouTube** — `python -m yt_dlp --write-auto-sub --sub-lang en --skip-download -o "%(title)s" "<URL>"`, then read the `.vtt` and delete it. Do **not** pipe yt-dlp through `head` or any truncating filter: the early pipe close kills each download mid-fragment and leaves 0-byte `.vtt.part` files. Check file sizes afterwards.
+- **YouTube** — `python -m yt_dlp --write-auto-sub --sub-lang en --skip-download -o "%(title)s" "<URL>"`. Do **not** pipe yt-dlp through `head` or any truncating filter: the early pipe close kills each download mid-fragment and leaves 0-byte `.vtt.part` files. Check file sizes afterwards.
+  - **Dedupe the `.vtt` before you read it.** Auto-captions scroll, so most lines repeat two or three times; stripping timestamps, tags and consecutive duplicates typically cuts the file by ~90% (374 KB to 41 KB on a 47-minute talk). Reading the raw file wastes most of your context on the same sentences.
+  - Also worth pulling `--print "%(description)s"`: the publisher's own description usually names the speakers and their organisations, which is the cheapest check available against the garbled forms in the captions.
 - **Articles and pages** — Firecrawl.
 - **Paywalled or Cloudflare-blocked papers** — don't fight the wall. Resolve the DOI through the OpenAlex API for an open-access location (usually arXiv or a repository) and fetch that instead.
 - **Comment threads are part of the source.** On Substack, HN, LessWrong and GitHub discussions the sharpest material is often below the article, because that's where practitioners say what they actually built. Extract comments as named items with attribution.
@@ -79,6 +81,45 @@ notes without re-watching. A summary is not an extraction.
 
 Write the full extraction to `docs/research/YYYY-MM-DD-<source>.md`. That
 directory is **gitignored on purpose** — see "Never published" below.
+
+Three things belong in every extraction, because a reviewer needs them and
+because they are how a page gets written honestly:
+
+**A name table.** Auto-transcripts mangle every proper noun. Put the garbled
+form, the verified form, and the evidence side by side, so a reader can see
+what was checked rather than trusting that it was:
+
+```
+| Transcript garble | Verified | Evidence |
+|---|---|---|
+| "Zara" / "Yara" | Yara Dowani, Rawa | video description; rawa.ps |
+```
+
+**A mark on every claim** saying whether it is corroborated by a public source
+or appears only in the source itself. A talk-only figure is publishable when
+attributed to the talk and misleading when stated flat; you cannot make that
+call later if the extraction did not record which it was.
+
+**An omissions list** — everything you could not verify and therefore left out,
+with the reason. This is the part a reviewer reads first.
+
+#### The extraction is the reviewer's evidence, not only your notes
+
+If you cite a page as proof of a name or a figure, **the saved copy of that page
+must actually contain the passage**. Quote the sentence into the extraction, or
+save the scrape that holds it.
+
+This is not pedantry about filing. A verification nobody else can re-run is
+indistinguishable from a verification that never happened, and the two need to
+be distinguishable — because one of them is a fabricated citation, and that is
+the single worst thing this wiki could publish.
+
+It has already happened once here, benignly: an extraction resolved a
+moderator's surname correctly, citing an organisation's own staff page against
+a conflicting video description. The reasoning was right and the answer was
+right, but the scrape saved alongside it contained neither spelling, so the
+claim could not be confirmed without fetching the page again. On a name nobody
+thought to re-check, that gap is exactly where a wrong one would survive.
 
 ### 5. Route each item to its container
 
