@@ -70,6 +70,7 @@ export default defineConfig({
             { slug: 'concepts/cargo-cult-democracy' },
             { slug: 'concepts/tech-place-is-education' },
             { slug: 'concepts/funding-the-commons' },
+            { slug: 'concepts/participatory-grantmaking' },
             { slug: 'concepts/plural-mechanisms' },
             { slug: 'concepts/network-societies' },
             { slug: 'concepts/movements-not-arguments' },

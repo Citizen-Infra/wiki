@@ -93,7 +93,7 @@ move it to **Processed** with its date and issue number. 127 queued, ~39 remaini
 - [ ] https://www.youtube.com/watch?v=fqDyGfjJZJI — #6- Distributed/Decentralized/Polycentric - Primavera De Filippi, Michel Bauwens, Weaver Weinbaum (60m)
 - [ ] https://www.youtube.com/watch?v=vqOsCgSs0e8 — P2P Ecosystems Where they’ve been, and where they're going with Michel Bauwens (72m)
 - [ ] https://www.youtube.com/watch?v=zQLWBnQYd4M — Commoning as a Constructive Disruption of the Climate Impasse with Dr. David Bollier (65m)
-- [ ] https://www.youtube.com/watch?v=8OS0knZwh28 — Participatory Grantmaking During Polycrisis (47m)
+- [x] https://www.youtube.com/watch?v=8OS0knZwh28 — Participatory Grantmaking During Polycrisis (47m) — Nino Ugrekhelidze (Dalan Fund), Yara Dowani (Rawa), Ruby Johnson (Global Resilience Fund), moderated by Coco Jervis (Mama Cash) → concepts/participatory-grantmaking (NEW), ecosystem +8 (Rawa, Dalan Fund, Global Resilience Fund, Purposeful, Women Win, MADRE, Mama Cash, PGM Community), library. Backlog = issue #37. [Tier 2] (2026-08-07)
 - [ ] https://www.youtube.com/watch?v=xSFCmLOBG9g — Civic Community Fund and Ecosystem, Korea & Japan (Fireside Chat) - Tokyo 2024 (20m)
 - [ ] https://www.youtube.com/watch?v=kURvQJQpt8M — Tackling East Asia’s Population Decline Issues with Local Coop’s Subsystem - Tokyo 2024 (24m)
 
