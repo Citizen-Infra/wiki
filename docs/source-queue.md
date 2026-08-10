@@ -252,6 +252,15 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 - [x] https://www.linkedin.com/pulse/sortition-goes-back-further-brussels-than-many-people-hugh-pope-73rmf — Hugh Pope (essay): "Sortition goes back further in Brussels than many people think" → concepts/sortition ("Not only ancient" section) + library [Tier 1]
 - [x] https://www.cambridge.org/core/journals/data-and-policy/article/ai-and-citizen-participation-a-political-economy-lens/2A4CC7AAA4F24F5C10CFC9D606EE5E5B — Davies & Devine (*Data & Policy* 8, 2026, e33; CC BY): "AI and citizen participation: a political economy lens" — who builds, funds, and adopts civic-AI tools shapes which ever reach citizens; structural forces favour incumbents (seven builder archetypes / three funding models / four adopters) → concepts/who-builds-civic-ai (NEW page) + library [Tier 1, civic-AI] (2026-07-20)
 
+### From the Telegram digest
+
+- [ ] https://dialogue.publicai.ch/ — Swiss National AI Dialogue: a live public input channel for Switzerland's Apertus AI initiative, with anonymous participation and a promised open report.
+- [ ] https://martijndewaal.nl/a/3mrx3d67o5h23-root-systems-towards-a-decentralized-internet-at-dweb-camp — Martijn de Waal, "Root Systems: towards a decentralized internet at DWeb Camp": a report from the Sustaining Infrastructure track on concentration drift, public product organisations, and democratic skill.
+- [ ] https://medium.com/fito-network/what-does-a-network-know-16aedc3645ed — Brendon Johnson, "What Does a Network Know?": the Fito Network's account of its network-weaving research, data, and Network Weaving Game.
+- [ ] https://humanistreview.ai/issue-1/tang-ai-democracy-optimization/ — Audrey Tang, "AI and democracy: the right to resist optimization": an essay on institutions rewarding machine-legible behaviour and bounded, interruptible AI as a temporary prosthesis.
+- [ ] https://www.researchgate.net/publication/410918872_A_Case_Study_on_AI-Assisted_Scalable_Deliberation — Mark Klein, "A Case Study on AI-Assisted Scalable Deliberation": an AIdeator case study describing a deliberation harness tested with utility-company employees.
+- [ ] https://delibdemjournal.org/article/id/1625 — John Rountree and John Gastil, "The Case for Using Generative AI to Run Deliberation Simulations": an argument that AI simulations should support rather than replace human judgment, illustrated by a GPT-4o K-12 mental-health example.
+
 ## Processed
 
 - [x] #12 — Relational Technology Project (Metagov seminar) · `HbH_cYgUCWA` · 2026-06-11
