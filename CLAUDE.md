@@ -24,6 +24,12 @@ Deploys are **automatic** — Netlify is git-connected and builds every push to 
 
 `main` is protected: a PR needs a green `build` check **and one approving review** from a [`wiki-editors`](https://github.com/orgs/Citizen-Infra/teams/wiki-editors) maintainer before it can merge; owners can still push directly for maintenance. See **`GOVERNANCE.md`** for roles and the review model and **`CONTRIBUTING.md`** for the branch → PR flow.
 
+### Queue-only maintenance exception
+
+The normal branch → PR rule applies to published pages and source-processing work. An approved CIBC digest handoff that only appends to `docs/source-queue.md` is queue maintenance and may be committed directly to `main` after deduplication against both the Queue and Processed sections and explicit user approval. Add entries under `### From the Telegram digest` with a plain commit message such as `queue: add N sources from the YYYY-MM-DD cibc digest`.
+
+This exception does not cover research extractions, content-backlog issues, wiki pages, sidebar or overview changes, or any other published content. Queue-only changes do not require the full build gate because they do not alter published pages; all other changes still require `npm run build` before shipping.
+
 ## Architecture
 
 A standard Starlight docs site with one critical convention:
