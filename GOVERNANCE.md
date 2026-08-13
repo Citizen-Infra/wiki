@@ -37,6 +37,29 @@ A maintainer then squash-merges, and Netlify publishes `main` automatically —
   owner — nobody self-merges unreviewed work.
 - **Owners** retain a direct path to `main` for maintenance only.
 
+### What counts as maintenance
+
+"Maintenance" is deliberately narrow. One case is defined so far:
+
+- **Queue-only appends.** Adding approved sources to `docs/source-queue.md` — in
+  practice the handoff at the end of a CIBC links digest — may be committed
+  straight to `main` by an owner, after the candidates have been deduplicated
+  against both the Queue and Processed sections and explicitly approved. Use a
+  plain imperative message, e.g. `queue: add 6 sources from the 2026-08-10 cibc
+  digest`.
+
+  The `build` check is not required for these, and that is a statement about
+  scope rather than a shortcut: Starlight publishes from `src/content/docs/`,
+  while `docs/` is an ordinary repository folder, so a queue append cannot
+  change a published page or a sidebar entry.
+
+This exception does **not** cover research extractions, content-backlog issues,
+wiki pages, sidebar or overview edits, or anything else that reaches a reader.
+Those follow the pull-request path above, build check and review included.
+
+Anything else an owner wants to treat as maintenance needs a clause here first.
+Adding one is itself a reviewed change.
+
 ## What gets accepted
 
 The editorial standards a review checks against — verify every name and figure

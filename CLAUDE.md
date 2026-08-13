@@ -26,9 +26,7 @@ Deploys are **automatic** — Netlify is git-connected and builds every push to 
 
 ### Queue-only maintenance exception
 
-The normal branch → PR rule applies to published pages and source-processing work. An approved CIBC digest handoff that only appends to `docs/source-queue.md` is queue maintenance and may be committed directly to `main` after deduplication against both the Queue and Processed sections and explicit user approval. Add entries under `### From the Telegram digest` with a plain commit message such as `queue: add N sources from the YYYY-MM-DD cibc digest`.
-
-This exception does not cover research extractions, content-backlog issues, wiki pages, sidebar or overview changes, or any other published content. Queue-only changes do not require the full build gate because they do not alter published pages; all other changes still require `npm run build` before shipping.
+An approved CIBC digest handoff that only appends to `docs/source-queue.md` may be committed directly to `main`, under `### From the Telegram digest`. **`GOVERNANCE.md` → "What counts as maintenance" is the definition** — its conditions (dedup against both Queue and Processed, explicit approval) and its exclusions are binding, so read it there rather than working from this summary. Everything else, including research extractions and any page or sidebar edit, takes the branch → PR path with a green `npm run build`.
 
 ## Architecture
 
