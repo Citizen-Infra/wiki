@@ -260,6 +260,17 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 - [ ] https://humanistreview.ai/issue-1/tang-ai-democracy-optimization/ — Audrey Tang, "AI and democracy: the right to resist optimization": an essay on institutions rewarding machine-legible behaviour and bounded, interruptible AI as a temporary prosthesis.
 - [ ] https://www.researchgate.net/publication/410918872_A_Case_Study_on_AI-Assisted_Scalable_Deliberation — Mark Klein, "A Case Study on AI-Assisted Scalable Deliberation": an AIdeator case study describing a deliberation harness tested with utility-company employees.
 - [ ] https://delibdemjournal.org/article/id/1625 — John Rountree and John Gastil, "The Case for Using Generative AI to Run Deliberation Simulations": an argument that AI simulations should support rather than replace human judgment, illustrated by a GPT-4o K-12 mental-health example.
+- [ ] https://dl.acm.org/doi/10.1145/3788077 — Hughes et al. (MIT + NYC Dept of City Planning), "Voice to Vision": a CSCW paper on a sociotechnical system linking community input to planning outputs, with a five-month design process and a 24-person field evaluation.
+- [ ] https://toda.org/publications/policy-briefs-and-reports/framing-questions-for-dialogue-and-deliberation/ — Catherine Barnes (Toda Peace Institute, Report 312): how to design guiding questions across the dialogue, deliberation, and collaborative decision-making phases.
+- [ ] https://identitywoman.net/how-open-protocols-are-a-key-part-of-regenerative-technology/ — Kaliya Young: an argument that regenerative-tech intentions only survive on an open-protocol substrate, responding to the Regenerative Tech Project's three-layer framework.
+- [ ] https://beautifultrouble.org/toolbox/bsol — Beautiful Solutions (co-edited by Nathan Schneider), now a free online toolbox of solidarity-economy stories and principles hosted by Beautiful Trouble.
+- [ ] https://www.oecd.org/en/publications/artificial-intelligence-and-the-future-of-citizen-participation_a1ee2e0a-en.html — OECD + Bertelsmann Stiftung: a report mapping nine uses of AI in citizen participation across 50 use cases from 22 countries, with the risks including simulating public opinion instead of consulting it.
+- [ ] https://www.youtube.com/watch?v=F1HPjE6YKGo — Democracy Innovators Podcast (Carlo Michaelis): Ryan Koch of the Civic Tech Chat podcast on civic innovation and effective use of AI.
+- [ ] https://www.youtube.com/watch?v=jpUzEpXYDkc — Democracy Innovators Podcast: Simon Horton on negotiation, conflict resolution, and how AI can help end war.
+- [ ] https://www.youtube.com/watch?v=4A9zymQfiMo — Democracy Innovators Podcast: Gianluca Misuraca (Inspiring Futures) on AI in the public sector.
+- [ ] https://www.youtube.com/watch?v=EOruN8vaVao — Democracy Innovators Podcast: Anthony Zacharzewski (Democratic Society) on democratic infrastructure, participation and power.
+- [ ] https://www.youtube.com/watch?v=awAFuA7saXg — Democracy Innovators Podcast: Alvaro Oleart on the instrumentalisation of EU participation processes and the limits of AI for democracy.
+- [ ] https://www.youtube.com/watch?v=gfdMqfOcNZw — Democracy Innovators Podcast: Alberto Fernandez Gibaja (International IDEA) on technology and democracy.
 
 ## Processed
 
