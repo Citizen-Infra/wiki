@@ -271,6 +271,15 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 - [ ] https://www.youtube.com/watch?v=EOruN8vaVao — Democracy Innovators Podcast: Anthony Zacharzewski (Democratic Society) on democratic infrastructure, participation and power.
 - [ ] https://www.youtube.com/watch?v=awAFuA7saXg — Democracy Innovators Podcast: Alvaro Oleart on the instrumentalisation of EU participation processes and the limits of AI for democracy.
 - [ ] https://www.youtube.com/watch?v=gfdMqfOcNZw — Democracy Innovators Podcast: Alberto Fernandez Gibaja (International IDEA) on technology and democracy.
+- [ ] https://informationaldemocracy.substack.com/p/democracy-as-a-social-technology — Georg Diez and Felix Beer (Informational Democracy, Max Planck Institute for Political and Social Science): democracy treated as a social technology, the working group's framing piece.
+- [ ] https://informationaldemocracy.substack.com/p/infrastructural-transformation-public — Georg Diez and Felix Beer: Habermas read against Palantir's Alex Karp, asking who owns the architecture that decides which patterns count.
+- [ ] https://informationaldemocracy.substack.com/p/democracys-compression-problem — Beth Simone Noveck: five tests for any system that compresses public input — fidelity, plurality, traceability, contestability, consequence.
+- [ ] https://networknations.substack.com/p/network-nations-a-primer — Felix Beer, Primavera De Filippi and Lovisa Björna: translocal self-governance defined against the Network State, through functional sovereignty, commons governance and entanglement.
+- [ ] https://fermonge.substack.com/p/we-need-semantic-alignment-on-ai — Simone Maria Parazzoli and Fernando Monge: three dimensions separating "citizen agents" (ownership, autonomy, specialization), with the World Bank-led RADAR benchmark across 166 countries.
+- [ ] https://creativebureaucracy.org/creative-bureaucracy-festival-award-2026-audrey-tang-trust-and-democracy — Audrey Tang's Creative Bureaucracy Festival Award transcript: the 111-line text to 200,000 numbers, a 447-person mini-public, and the scam-ad law that followed.
+- [ ] https://schemalabs.gr/ — Schema Labs: Greek nonprofit on the citizen/local-government gap, structured as a nonprofit wholly owning a for-profit subsidiary under steward ownership.
+- [ ] https://opencouncil.gr/ — OpenCouncil (Schema Labs): transcribes and analyses city council meetings into summaries, short-form video, and per-neighbourhood WhatsApp updates.
+- [ ] https://www.youtube.com/watch?v=yiBaevPeuCY — Democracy Innovators Podcast: Olivier Schulbaum (Platoniq) on starting assemblies with those most affected, and GRID, an AI agent carrying a legislative-theatre "joker".
 
 ## Processed
 
