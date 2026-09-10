@@ -33,7 +33,7 @@ Pénigaud anticipates the obvious reply: "I'd rather have my employer listen to 
 
 Chatbots can talk, so surely they can justify what they said? Pénigaud answers with an analogy. A friend challenges advice you gave her. Instead of answering yourself, you hire a **super-lawyer** — someone who knows everything and can argue anything — to construct the most convincing version of what you might have meant. Most of us would find that objectionable: you'd be dodging the test of having to stand behind your own words.
 
-Asking a chatbot to justify an answer does exactly this. The question goes to a fresh run of the same system, which produces the most plausible explanation of what was said. That is a new prediction, not a report of how the first answer came about. And because chatbots are partly trained on whether people find their answers convincing, they are very good at producing it.
+Asking a chatbot to justify an answer does exactly this. The question goes to a fresh run of the same system, which produces the most plausible explanation of what was said. That is a new prediction, not a report of how the first answer came about. And because chatbots are partly trained on whether people find their answers convincing, they are very good at producing it. In Pénigaud's terms, the chatbot breaks the **principle of commitment** — standing behind what you said — which is what makes a person, and some organisations too, "conversable" and "accountable".
 
 :::caution[A better advocate is not an answer]
 "A super-lawyer can rationalize my position better than I can. But that would actually reduce my answerability rather than improve it."
@@ -56,7 +56,7 @@ A reader raised the obvious comparison. People have long outsourced their politi
 
 Pénigaud's reply sharpens the argument:
 
-- **Being a person isn't what makes something accountable.** Corporations, associations, states and media organisations can all be called to account and argued with, as the philosophers Pettit and List have shown. Chatbots, so far, can't.
+- **Being a person isn't what makes something accountable.** Corporations, associations, states and media organisations can all be "conversable" agents — called to account and argued with — as the philosophers Pettit and List have argued. Chatbots, so far, are not, because they don't commit to what they said.
 - **A market doesn't reach the problem.** The harm falls on third parties, not on the user choosing between providers.
 - **The influence works differently.** People mostly pick a news channel that fits views they already hold. Someone asking a chatbot doesn't know in advance what nudges they'll get, and the conversation is personal and hard to inspect.
 
