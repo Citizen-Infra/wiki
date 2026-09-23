@@ -40,5 +40,6 @@ vTaiwan showed that **asynchronous, software-mediated deliberation** could settl
 ## Sources
 
 - vTaiwan process: [info.vtaiwan.tw](https://info.vtaiwan.tw/).
+- [*Plurality* — Book Power MCP companion](https://bookpower.org/plurality/) — makes vTaiwan and related democratic-technology cases, design moves, and source passages queryable from an AI agent.
 - "How Pro-Social Technology Is Saving Democracy from 'Big Tech'" — Audrey Tang, TGS 169 (2025): [youtube.com/watch?v=aXgne-9F7uU](https://www.youtube.com/watch?v=aXgne-9F7uU).
 - *Good Enough Ancestor* release conversation — Audrey Tang with Matt Prewitt (RadicalxChange), 2025: [youtube.com/watch?v=RbvrMnv5g6w](https://www.youtube.com/watch?v=RbvrMnv5g6w).

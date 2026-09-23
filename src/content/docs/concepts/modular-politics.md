@@ -19,3 +19,4 @@ Modular politics reframes the question from "what's the right way to govern an o
 
 - Nathan Schneider — Democracy Innovators Podcast (2026): [youtube.com/watch?v=jlyfhmUWX04](https://www.youtube.com/watch?v=jlyfhmUWX04)
 - "Modular Politics: Toward a Governance Layer for Online Communities" — Metagov (Frey, Schneider, et al., 2021).
+- [*Governable Spaces* — Book Power MCP companion](https://bookpower.org/governable-spaces/) — explores modular politics alongside other governance forms and the failure modes they are meant to counter.

@@ -26,4 +26,4 @@ These tools are powerful but, as a 2024 *Plurality in Practice* study found, eas
 - "Collective Decision Making with Matt Prewitt" — Green Pill #25 (2022): [youtube.com/watch?v=9UYjLiKvx68](https://www.youtube.com/watch?v=9UYjLiKvx68).
 - "Salon IV: Plurality in Practice" — Protocol Symposium (2024): [youtube.com/watch?v=snnk_8q1w_4](https://www.youtube.com/watch?v=snnk_8q1w_4).
 - Eric A. Posner & E. Glen Weyl, *Radical Markets: Uprooting Capitalism and Democracy for a Just Society* (Princeton, 2018).
-- *Plurality: The Future of Collaborative Technology and Democracy*: [plurality.net](https://www.plurality.net/).
+- *Plurality: The Future of Collaborative Technology and Democracy*: [plurality.net](https://www.plurality.net/). The [Book Power MCP companion](https://bookpower.org/plurality/) makes its plural-voting and social-market design moves queryable from an AI agent.

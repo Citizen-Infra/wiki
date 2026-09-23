@@ -19,4 +19,5 @@ This is [the commons](/concepts/the-commons/) in one of its most contemporary fo
 ## Sources
 
 - David Bollier — on Team Human w/ Douglas Rushkoff (2025): [youtube.com/watch?v=5NrkkC8tQGQ](https://www.youtube.com/watch?v=5NrkkC8tQGQ).
+- [*Think Like a Commoner* — Book Power MCP companion](https://bookpower.org/think-like-a-commoner/) — connects open-source and digital commons cases to Bollier's commoning practices and enclosure warnings.
 - [The Nightscout Project](http://www.nightscout.info/) — "We Are Not Waiting."

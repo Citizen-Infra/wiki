@@ -25,4 +25,5 @@ Sortition didn't vanish between Athens and the modern revival. Medieval and Rena
 
 - Hélène Landemore — Democracy Innovators Podcast (2026): [youtube.com/watch?v=QizItYVPA1E](https://www.youtube.com/watch?v=QizItYVPA1E)
 - Hugh Pope, "Sortition goes back further in Brussels than many people think" — the medieval Brussels history: [linkedin.com/pulse](https://www.linkedin.com/pulse/sortition-goes-back-further-brussels-than-many-people-hugh-pope-73rmf)
+- Terry Bouricius, *Democracy Without Politicians* — its [Book Power MCP companion](https://bookpower.org/democracy-without-politicians/) searches and returns Bouricius's verbatim passages on sortition, real assemblies, and the multi-body design.
 - See [what a citizens' assembly is](/concepts/citizens-assembly/) for sortition in practice.

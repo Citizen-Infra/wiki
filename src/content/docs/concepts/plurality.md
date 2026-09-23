@@ -31,7 +31,7 @@ Plurality is set out at length in the open book *Plurality: The Future of Collab
 
 ## Sources
 
-- *Plurality: The Future of Collaborative Technology and Democracy* — Audrey Tang, E. Glen Weyl & the Plurality community: [plurality.net](https://www.plurality.net/).
+- *Plurality: The Future of Collaborative Technology and Democracy* — Audrey Tang, E. Glen Weyl & the Plurality community: [plurality.net](https://www.plurality.net/). The [Book Power MCP companion](https://bookpower.org/plurality/) lets an AI agent examine a civic system through the book's cases, failure modes, design moves, and policy strategies.
 - "Designing for Plurality" — Audrey Tang & Glen Weyl, Tokyo (2024): [youtube.com/watch?v=CjwyCt9LZvI](https://www.youtube.com/watch?v=CjwyCt9LZvI).
 - "How Pro-Social Technology Is Saving Democracy from 'Big Tech'" — Audrey Tang on *The Great Simplification* with Nate Hagens (TGS 169, 2025): [youtube.com/watch?v=aXgne-9F7uU](https://www.youtube.com/watch?v=aXgne-9F7uU).
 - *Good Enough Ancestor* release conversation — Audrey Tang with Matt Prewitt (RadicalxChange), 2025: [youtube.com/watch?v=RbvrMnv5g6w](https://www.youtube.com/watch?v=RbvrMnv5g6w).

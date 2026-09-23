@@ -36,4 +36,4 @@ His alternative is the **peeling strategy**: rather than contest the same bills,
 
 ## Sources
 
-- Terrill Bouricius, *Democracy Without Politicians* (Routledge, 2026) — the multi-body "reference design" (ch. 16), the accountability argument (ch. 13), and the "peeling" transition strategy (ch. 17).
+- Terrill Bouricius, *Democracy Without Politicians* (Routledge, 2026) — the multi-body "reference design" (ch. 16), the accountability argument (ch. 13), and the "peeling" transition strategy (ch. 17). The [Book Power MCP companion](https://bookpower.org/democracy-without-politicians/) can retrieve the relevant passages in Bouricius's own words.

@@ -40,4 +40,4 @@ Can a government chosen by lot be *legitimate*? The argument is that electoral "
 
 ## Sources
 
-- Terry Bouricius, *Democracy Without Politicians* (Routledge, 2026), ch. 12 ("Objections to Sortition") and ch. 13 ("Accountability and Legitimacy"). Studies cited there include Woolley et al. on collective intelligence (*Science*, 2010), Fishkin's deliberative polling, the British Columbia Citizens' Assembly, and Jane Mansbridge on models of accountability.
+- Terry Bouricius, *Democracy Without Politicians* (Routledge, 2026), ch. 12 ("Objections to Sortition") and ch. 13 ("Accountability and Legitimacy"). Studies cited there include Woolley et al. on collective intelligence (*Science*, 2010), Fishkin's deliberative polling, the British Columbia Citizens' Assembly, and Jane Mansbridge on models of accountability. The [Book Power MCP companion](https://bookpower.org/democracy-without-politicians/) can retrieve Bouricius's answers as verbatim passages.

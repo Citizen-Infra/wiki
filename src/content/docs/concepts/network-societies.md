@@ -20,4 +20,4 @@ The same point shows up in money. Drawing on the anthropologist David Graeber, W
 ## Sources
 
 - "Network Societies, Civic Tech & Democracy" — Glen Weyl & Timour Kosters, Edge City Austin (2025): [youtube.com/watch?v=B9RQlwyeYCY](https://www.youtube.com/watch?v=B9RQlwyeYCY).
-- *Plurality: The Future of Collaborative Technology and Democracy*: [plurality.net](https://www.plurality.net/).
+- *Plurality: The Future of Collaborative Technology and Democracy*: [plurality.net](https://www.plurality.net/). Its [Book Power MCP companion](https://bookpower.org/plurality/) can retrieve the book's framing and related cases for a network-society analysis.

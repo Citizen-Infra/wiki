@@ -20,3 +20,4 @@ This is the inner companion to the outer practice of commoning — and it underw
 ## Sources
 
 - David Bollier & Silke Helfrich — *Free, Fair and Alive* (the OntoShift); Bollier on Team Human w/ Douglas Rushkoff (2025): [youtube.com/watch?v=5NrkkC8tQGQ](https://www.youtube.com/watch?v=5NrkkC8tQGQ).
+- [*Think Like a Commoner* — Book Power MCP companion](https://bookpower.org/think-like-a-commoner/) — provides a guided `apply_ontoshift` tool alongside Bollier's commons cases and glossary.

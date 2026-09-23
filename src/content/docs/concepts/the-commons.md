@@ -21,4 +21,4 @@ This is the foundation under the rest of the commons concepts here: [enclosure](
 
 ## Sources
 
-- David Bollier — *Think Like a Commoner* (2nd ed.); on Team Human w/ Douglas Rushkoff (2025): [youtube.com/watch?v=5NrkkC8tQGQ](https://www.youtube.com/watch?v=5NrkkC8tQGQ).
+- David Bollier — *Think Like a Commoner* (2nd ed.); on Team Human w/ Douglas Rushkoff (2025): [youtube.com/watch?v=5NrkkC8tQGQ](https://www.youtube.com/watch?v=5NrkkC8tQGQ). The [Book Power MCP companion](https://bookpower.org/think-like-a-commoner/) lets an AI agent work with Bollier's commons cases, enclosure patterns, and Ostrom-based assessment questions.
