@@ -196,9 +196,10 @@ A clean build is the gate. Do not push without one.
 
 ### 9. Open a PR
 
-`main` is protected. A PR needs a green `build` check **and one approving review**
-from a `wiki-editors` maintainer. See `CONTRIBUTING.md` for the branch flow and
-`GOVERNANCE.md` for roles.
+`main` is protected. A PR needs a green `build` check, resolved review
+conversations, and one approving review from a `wiki-editors` maintainer.
+Repository owners may self-merge their own green PRs after reviewing the final
+diff. See `CONTRIBUTING.md` for the branch flow and `GOVERNANCE.md` for roles.
 
 Match the existing commit style: clean and imperative. **No AI attribution** in
 commit trailers or in published content on this repo.

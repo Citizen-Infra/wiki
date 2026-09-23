@@ -52,7 +52,9 @@ git add -A && git commit -m "Add <topic> (source: <title>)"
 git push -u origin <slug>
 gh pr create --fill
 ```
-When the `build` check is green, **self-merge** (squash). Netlify auto-deploys.
+When the `build` check is green and review conversations are resolved, repository
+owners may **self-merge** (squash) after reviewing the final diff. Other authors
+wait for one approving maintainer review. Netlify auto-deploys.
 
 ## 8. Record
 - Edit the source's issue: add the unwritten-items checklist, swap label

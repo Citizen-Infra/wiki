@@ -22,10 +22,13 @@ one invite, no per-page or per-repo setup. Owners manage that team.
 Every change to `main` goes through a pull request; there are no direct pushes
 (owners excepted, for maintenance). To merge, a PR needs:
 
-1. **A green `build` check** — `npm run build` must pass. It catches broken internal
-   links and pages that aren't wired into the sidebar. This is the same gate you run
-   locally before pushing.
-2. **One approving review** from a maintainer or owner.
+1. **A green `build` workflow** — for any site-affecting or unknown path, it runs
+   `npm run build` and catches broken internal links and pages that aren't wired into
+   the sidebar. When every changed path is explicitly allowlisted as repository-only
+   governance or workflow documentation, it records a successful no-build result
+   instead. Run the full build locally before pushing only when the site can change.
+2. **One approving review** from a maintainer or owner, unless the PR author is a
+   repository owner using the owner exception below.
 3. **Resolved review conversations.**
 
 A maintainer then squash-merges, and Netlify publishes `main` automatically —
@@ -33,8 +36,10 @@ A maintainer then squash-merges, and Netlify publishes `main` automatically —
 
 - **Contributors** (no merge rights) propose via a PR from a fork; a maintainer
   reviews and merges it.
-- **Maintainers'** own PRs still need one approving review from another maintainer or
-  owner — nobody self-merges unreviewed work.
+- **Maintainers'** own PRs need one approving review from another maintainer or
+  owner.
+- **Owners** may self-merge their own green PRs after reviewing the final diff and
+  resolving every conversation. A second review is welcome but not required.
 - **Owners** retain a direct path to `main` for maintenance only.
 
 ### What counts as maintenance
@@ -58,7 +63,7 @@ wiki pages, sidebar or overview edits, or anything else that reaches a reader.
 Those follow the pull-request path above, build check and review included.
 
 Anything else an owner wants to treat as maintenance needs a clause here first.
-Adding one is itself a reviewed change.
+Adding one follows the standard PR and green-build path above.
 
 ## What gets accepted
 

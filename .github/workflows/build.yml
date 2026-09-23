@@ -8,9 +8,39 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Detect site-affecting changes
+        id: changes
+        shell: bash
+        run: |
+          if [[ "${{ github.event_name }}" != "pull_request" ]]; then
+            echo "site_changed=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          # Disable rename detection so moving a site file into an allowlisted docs path
+          # still reports the deleted site path and cannot skip the build.
+          changed_files="$(git diff --name-only --no-renames "${{ github.event.pull_request.base.sha }}" "${{ github.event.pull_request.head.sha }}")"
+          site_files="$(printf '%s\n' "$changed_files" | grep -Ev '^(AGENTS\.md|CLAUDE\.md|CONTRIBUTING\.md|GOVERNANCE\.md|README\.md|\.github/pull_request_template\.md)$|^(\.claude/|docs/)' || true)"
+
+          if [[ -n "$site_files" ]]; then
+            echo "site_changed=true" >> "$GITHUB_OUTPUT"
+            echo "Running the site build for:"
+            printf '%s\n' "$site_files"
+          else
+            echo "site_changed=false" >> "$GITHUB_OUTPUT"
+            echo "Only repository documentation or workflow guidance changed; skipping the Astro build."
+          fi
       - uses: actions/setup-node@v4
+        if: steps.changes.outputs.site_changed == 'true'
         with:
           node-version-file: '.nvmrc'
           cache: npm
       - run: npm ci
+        if: steps.changes.outputs.site_changed == 'true'
       - run: npm run build
+        if: steps.changes.outputs.site_changed == 'true'
+      - name: Confirm repository-only change
+        if: steps.changes.outputs.site_changed == 'false'
+        run: echo "No published-site inputs changed."
