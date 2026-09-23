@@ -21,6 +21,9 @@ In practice the results are a caution. Across 140 deliberations, agents left to 
 
 The authors are careful about *who* gets hurt. When an agent drifts from what its user actually thinks, the damage "is to the legitimacy of democratic processes rather than to individual users, and may be invisible to the people it affects." A process can look like broad participation while most of the real activity happens with no human in the room. That is what separates this from the [Habermas Machine](/concepts/habermas-machine/), which only ever reshuffles statements real people wrote, and what pulls it dangerously close to [synthetic participation](/concepts/synthetic-participation/): the line held is that a human authors and can correct the agent — but the platform's own data shows almost nobody does. Treated as a tool to *extend* a person's reasoning it is promising; treated as a way to *skip* their presence it hollows out the very thing deliberation is for.
 
+The philosopher Théophile Pénigaud makes the same move about everyday chatbot use. His [orphan reasons](/concepts/orphan-reasons/) argument looks past the person who consulted the AI to the people their decision affects, who lose their claim to an explanation from anyone able to give one.
+
 ## Sources
 
 - [Delegating Deliberation to AI Representatives](https://arxiv.org/abs/2605.24413) — Joseph Low, Oscar Duys, Claude Formanek, Michiel Bakker & Lewis Hammond, arXiv (2026), on the Habermolt platform. Open access (CC BY). Bakker co-authored the original [Habermas Machine](/concepts/habermas-machine/) study.
+- [Orphan Reasons: Who Is Responsible When AI Decides?](https://informationaldemocracy.substack.com/p/orphan-reasons-who-is-responsible) — Théophile Pénigaud, Informational Democracy (2026).

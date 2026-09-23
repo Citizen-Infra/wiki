@@ -292,6 +292,7 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 ## Processed
 
 - [x] #45 — Lisa Schirch, “Scaling Future Peacemaking through AI-Powered Public Deliberation” · 2026-09-23 · updated AI deliberation, scaling, disagreement, AI reflectors, deliberation tools, ecosystem, and sources
+- [x] #42 — Théophile Pénigaud, “Orphan Reasons: Who Is Responsible When AI Decides?” · 2026-09-10 · added orphan reasons; updated democratising AI, democratic institutions, delegated deliberation, ecosystem, and sources
 - [x] #12 — Relational Technology Project (Metagov seminar) · `HbH_cYgUCWA` · 2026-06-11
 - [x] #11 — The Planetary Compendium (Berggruen x Dark Matter Labs) · `hhTyUhc8Rm8` · 2026-06-11
 - [x] #10 — American Conversation Project / Cortico (civic listening) · `Zm3w5PkbVPo` · 2026-06-10
