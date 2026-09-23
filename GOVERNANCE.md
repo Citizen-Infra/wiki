@@ -31,7 +31,7 @@ Every change to `main` goes through a pull request; there are no direct pushes
    repository owner using the owner exception below.
 3. **Resolved review conversations.**
 
-A maintainer then squash-merges, and Netlify publishes `main` automatically —
+A maintainer or owner then squash-merges, and Netlify publishes `main` automatically —
 **merge = live** at [wiki.citizeninfra.org](https://wiki.citizeninfra.org).
 
 - **Contributors** (no merge rights) propose via a PR from a fork; a maintainer
