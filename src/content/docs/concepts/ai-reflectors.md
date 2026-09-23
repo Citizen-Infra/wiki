@@ -30,9 +30,16 @@ So they reframe these tools as **AI reflectors**: a mirror that helps a communit
 - **Reflective elicitation** — you write open-ended thoughts privately, and the AI offers counterpoints, testimonies, or contradictory facts *on request*, so you reconsider your view in light of others before any group decision (the introspective "deliberation within" moment).
 - **Synthesis** — generating an inclusive picture of where the group actually stands, without burying the individual reasons underneath.
 
+## Group ideas first; do not invent people's positions
+
+Collective-response systems perform two different kinds of grouping. First they can recognise that several differently worded statements concern the same position. Then, once people have explicitly reacted, they can ask which response patterns those people share. The first operation supplies a common coordinate system for the second; it does not fill in anyone's missing reactions.
+
+That distinction matters when participation is sparse. If one person agrees with one formulation and another agrees with a close paraphrase, their two real reactions may be compared on a shared idea. But semantic similarity alone cannot say how either person would have reacted to a statement they never saw. Nor should two opposing propositions be merged merely because they discuss the same subject. A reflector should preserve that uncertainty — and decline to draw a people map when too little comparable signal exists.
+
 This is the same instinct as the [complementary-vs-competitive test](/concepts/ai-and-deliberation/): build tools that strengthen collective sense-making, and keep the binding decisions human. See also [synthetic participation](/concepts/synthetic-participation/) for the failure mode of skipping the humans entirely.
 
 ## Sources
 
 - Manon Revel & Philippe Pénigaud, "AI-Facilitated Collective Judgements" / "AI-Enhanced Deliberative Democracy and the Future of Collective Will," 2025: [arxiv.org/abs/2503.05830](https://arxiv.org/abs/2503.05830)
 - Manon Revel, talk to the Cooperative AI seminar series, 2025: [youtube.com/watch?v=u_azC4tgpRU](https://www.youtube.com/watch?v=u_azC4tgpRU)
+- Lisa Schirch, [“Scaling Future Peacemaking through AI-Powered Public Deliberation”](https://warpreventioninitiative.org/peace-science-digest/scaling-future-peacemaking-ai/), *Peace Science Digest* (2026).

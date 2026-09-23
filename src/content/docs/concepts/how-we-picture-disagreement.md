@@ -13,6 +13,12 @@ Now that AI can read thousands of open-ended answers at once, there is an altern
 
 The case rests on a run of studies where changing only the visual shifted perception: colouring an electoral map purple rather than red-and-blue reduced perceived division; party-labelled polls pull respondents toward their "team"; repeated exposure to the range of opposing views lowered extremity; and a 25-treatment megastudy found that correcting the perception gap reduced partisan animosity. The clearest working example is the [We the People](/run-reports/we-the-people/) deliberation: rendered as an opinion landscape rather than two opposing camps, three in four of a nationally representative group reported understanding opposing views better after under an hour online.
 
+## The map must earn its groups
+
+A plural map can mislead in the other direction too. If participants reacted to mostly different statements, an algorithm may have too little shared evidence to say that they form distinct groups — or one united group. Similar wording can help place differently phrased ideas on a shared coordinate, but similarity is not itself a reaction, and opposing claims often use nearly identical language. A trustworthy landscape therefore keeps agree and disagree intact, uses only reactions people actually cast, and says “not enough shared signal yet” when the comparison is weak.
+
+This separates two jobs that are easy to blur: grouping related **ideas**, then grouping **people** from their explicit responses to those ideas. The number of groups should emerge from the evidence; it is not a target to force.
+
 :::tip[The whole argument in one line]
 "If we change how we look at the data, we might just change how we look at each other."
 :::
@@ -24,3 +30,4 @@ This is the visual side of [bridging](/concepts/bridging-and-pro-social-media/) 
 ## Sources
 
 - [Visualizing "We the People": Bridging the Perception Gap through Pluralistic Data Storytelling](https://arxiv.org/abs/2606.24635) — Lisa Schirch (University of Notre Dame) & Beth Goldberg (Jigsaw), arXiv (2026). Open access (CC BY).
+- Lisa Schirch, [“Scaling Future Peacemaking through AI-Powered Public Deliberation”](https://warpreventioninitiative.org/peace-science-digest/scaling-future-peacemaking-ai/), *Peace Science Digest* (2026).
