@@ -251,7 +251,6 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 - [x] https://www.linkedin.com/posts/adnanjaber_report-on-mapping-llm-tools-for-public-discouse-ugcPost-7390116189798162432-H1L3 — Adnan Jaber: report mapping LLM tools for public discourse (map: https://airtable.com/appdDLNeIEBFUZiQG/shrgEVfEwv7OoiTcJ/tblvpYsR8oOFvepkO) → library/reading-and-sources (Civic AI) [Tier 1, civic-AI]
 - [x] https://www.linkedin.com/pulse/sortition-goes-back-further-brussels-than-many-people-hugh-pope-73rmf — Hugh Pope (essay): "Sortition goes back further in Brussels than many people think" → concepts/sortition ("Not only ancient" section) + library [Tier 1]
 - [x] https://www.cambridge.org/core/journals/data-and-policy/article/ai-and-citizen-participation-a-political-economy-lens/2A4CC7AAA4F24F5C10CFC9D606EE5E5B — Davies & Devine (*Data & Policy* 8, 2026, e33; CC BY): "AI and citizen participation: a political economy lens" — who builds, funds, and adopts civic-AI tools shapes which ever reach citizens; structural forces favour incumbents (seven builder archetypes / three funding models / four adopters) → concepts/who-builds-civic-ai (NEW page) + library [Tier 1, civic-AI] (2026-07-20)
-- [x] https://informationaldemocracy.substack.com/p/orphan-reasons-who-is-responsible — Théophile Pénigaud (Informational Democracy, 2026-09-01): "Orphan Reasons: Who Is Responsible When AI Decides?", essay 1 of 3 + comment thread → new concepts/orphan-reasons; enriched democratising-ai, does-ai-weaken-institutions, ai-delegated-deliberation; ecosystem (Informational Democracy, Democratic Commons); library ×2 · #42 · 2026-09-10
 
 ### From the Telegram digest
 
@@ -293,6 +292,7 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 ## Processed
 
 - [x] #45 — Lisa Schirch, “Scaling Future Peacemaking through AI-Powered Public Deliberation” · 2026-09-23 · updated AI deliberation, scaling, disagreement, AI reflectors, deliberation tools, ecosystem, and sources
+- [x] #42 — Théophile Pénigaud, “Orphan Reasons: Who Is Responsible When AI Decides?” · 2026-09-10 · added orphan reasons; updated democratising AI, democratic institutions, delegated deliberation, ecosystem, and sources
 - [x] #12 — Relational Technology Project (Metagov seminar) · `HbH_cYgUCWA` · 2026-06-11
 - [x] #11 — The Planetary Compendium (Berggruen x Dark Matter Labs) · `hhTyUhc8Rm8` · 2026-06-11
 - [x] #10 — American Conversation Project / Cortico (civic listening) · `Zm3w5PkbVPo` · 2026-06-10
