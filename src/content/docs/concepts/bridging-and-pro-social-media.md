@@ -24,5 +24,5 @@ It rests on a deeper swap: from **dopamine** (the addictive hit of individualise
 ## Sources
 
 - "How Pro-Social Technology Is Saving Democracy from 'Big Tech'" — Audrey Tang on *The Great Simplification* (TGS 169, 2025): [youtube.com/watch?v=aXgne-9F7uU](https://www.youtube.com/watch?v=aXgne-9F7uU).
-- *Plurality: The Future of Collaborative Technology and Democracy*: [plurality.net](https://www.plurality.net/).
+- *Plurality: The Future of Collaborative Technology and Democracy*: [plurality.net](https://www.plurality.net/). Its [Book Power MCP companion](https://bookpower.org/plurality/) makes the book's cases, governance forms, and source passages available to AI agents.
 - Project Liberty Institute: [projectliberty.io](https://www.projectliberty.io/).

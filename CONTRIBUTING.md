@@ -62,7 +62,9 @@ git push -u origin <short-topic>
 gh pr create --fill
 ```
 
-When the **build** check is green, a **maintainer reviews and approves**, then the
-PR is squash-merged. Netlify deploys `main` automatically — merge = live. Match the
-existing clean, imperative commit style. See [`GOVERNANCE.md`](./GOVERNANCE.md) for
-roles and the full review model.
+When the **build** check is green, review conversations are resolved, and a maintainer
+has approved, the PR may be squash-merged. Repository owners may self-merge their own
+green PRs after reviewing the final diff; a second review is welcome but not required
+for them. Netlify deploys `main` automatically — merge = live. Match the existing
+clean, imperative commit style. See [`GOVERNANCE.md`](./GOVERNANCE.md) for roles and
+the full merge model.

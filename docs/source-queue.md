@@ -281,9 +281,18 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 - [ ] https://schemalabs.gr/ — Schema Labs: Greek nonprofit on the citizen/local-government gap, structured as a nonprofit wholly owning a for-profit subsidiary under steward ownership.
 - [ ] https://opencouncil.gr/ — OpenCouncil (Schema Labs): transcribes and analyses city council meetings into summaries, short-form video, and per-neighbourhood WhatsApp updates.
 - [ ] https://www.youtube.com/watch?v=yiBaevPeuCY — Democracy Innovators Podcast: Olivier Schulbaum (Platoniq) on starting assemblies with those most affected, and GRID, an AI agent carrying a legislative-theatre "joker".
+- [ ] https://menders.kinship.works/ — Kinship Works, "Meet the menders": maps 15 civic-renewal disciplines and proposes a network of locally rooted Civic Colleges.
+- [ ] https://all-in.now/article/reporting-back-from-the-european-movement-strategy-conference/ — All In: European Movement Strategy Conference report covering movement proposals on digital infrastructure, worker power over technology, and resistance to data centres.
+- [ ] https://www.youtube.com/watch?v=E9v_mHQ_yaQ — Democracy Innovators Podcast: Thomas Lorenz on Brief nach Berlin, which uses handwritten letters as a lower-barrier connection between citizens and politicians.
+- [ ] https://www.youtube.com/watch?v=eDdUyT8DUYM — Democracy Innovators Podcast: Malik Lakoubay (Dark Matter Labs) on financing civic infrastructure and democratic innovation.
+- [ ] https://www.newdemocracy.com.au/2026/09/14/democracy-beyond-elections-a-handbook-on-citizens-assemblies/ — newDemocracy, UNDP, UNDEF, and Democracy R&D: practical handbook on designing and running Citizens' Assemblies.
+- [ ] https://www.newlocal.org.uk/publications/putting-the-neighbourhood-back-into-neighbourhood-health/ — Cormac Russell and Lisa McNally: neighbourhood-health provocation with four role-specific guides for community-led health.
+- [ ] https://medium.com/jigsaw/helping-civic-leaders-hear-every-voice-5704646900d6 — Jigsaw: Sensemaking AI Partner Program scaling to 30 cities, states, and countries, starting with eight municipalities and five US states while keeping the core code open source.
+- [ ] https://www.youtube.com/watch?v=KskMVkG6VJ0 — Democracy Innovators Podcast: Terry Bouricius explains multi-body sortition for democratic lawmaking; potential enrichment for the existing concept page beyond its book source.
 
 ## Processed
 
+- [x] #45 — Lisa Schirch, “Scaling Future Peacemaking through AI-Powered Public Deliberation” · 2026-09-23 · updated AI deliberation, scaling, disagreement, AI reflectors, deliberation tools, ecosystem, and sources
 - [x] #12 — Relational Technology Project (Metagov seminar) · `HbH_cYgUCWA` · 2026-06-11
 - [x] #11 — The Planetary Compendium (Berggruen x Dark Matter Labs) · `hhTyUhc8Rm8` · 2026-06-11
 - [x] #10 — American Conversation Project / Cortico (civic listening) · `Zm3w5PkbVPo` · 2026-06-10

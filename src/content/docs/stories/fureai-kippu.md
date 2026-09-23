@@ -16,4 +16,5 @@ Fureai Kippu turns care into [care-wealth](/concepts/the-commons/): a shared res
 ## Sources
 
 - David Bollier — on Team Human w/ Douglas Rushkoff (2025): [youtube.com/watch?v=5NrkkC8tQGQ](https://www.youtube.com/watch?v=5NrkkC8tQGQ).
+- [*Think Like a Commoner* — Book Power MCP companion](https://bookpower.org/think-like-a-commoner/) — includes time banking among its precedent commons and connects cases to commoning protocols.
 - *Japan's Fureai Kippu Time-banking in Elderly Care* — International Journal of Community Currency Research.

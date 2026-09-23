@@ -35,3 +35,4 @@ The guide exists in English, Spanish, Basque, and Japanese with downloadable tem
 ## Sources
 
 - Ieva Česnulaitytė & Claudia Chwalisz, *Assembling an Assembly: A how-to guide* — DemocracyNext, 2023: [assemblyguide.demnext.org](https://assemblyguide.demnext.org/)
+- Kimbra White, Nicole Hunter & Keith Greaves, *Facilitating Deliberation: A Practical Guide* — its [private Book Power MCP companion](https://bookpower.org/facilitating-deliberation/) provides process-design templates, readiness checks, activities, and facilitation guidance; access is available by request.

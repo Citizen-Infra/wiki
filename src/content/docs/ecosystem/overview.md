@@ -127,6 +127,8 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 ## Bridging & community building
 
 - **[Braver Angels](https://braverangels.org/)** — a citizens' organisation uniting "red" and "blue" Americans in a working alliance to bridge the partisan divide and depolarise the country.
+- **[Search for Common Ground](https://www.sfcg.org/what-we-do/digital-peacebuilding/)** — an international peacebuilding organisation using digital tools with civil society, researchers, technologists, and young people to build trust and collaboration in conflict-affected settings.
+- **[Build Up](https://howtobuildup.org/)** — a peacebuilding organisation combining participatory methods, digital technology, and conflict expertise; its work includes inclusive political processes, digital-conflict analysis, AI-supported public consultation, and hybrid online/offline engagement.
 - **[Better Together America](https://www.bettertogetheramerica.org/)** — a nationwide, nonpartisan network of local and state "civic hubs" building community resilience and problem-solving, incubated by the Mediators Foundation; the intended beta partner for the Civic Intelligence Infrastructure initiative.
 - **[The Harwood Institute](https://theharwoodinstitute.org/)** — equips communities to "turn outward" and become a collective force for change.
 - **[National Conference on Citizenship (NCoC)](https://ncoc.org/)** — a long-running US civic-life organisation (founded after WWII) that convenes leaders and groups around active citizenship; behind the American Conversation Project.

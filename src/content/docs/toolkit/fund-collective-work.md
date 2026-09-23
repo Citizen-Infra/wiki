@@ -23,6 +23,10 @@ Shared work needs shared resources. These tools help a community raise and manag
 - **Community land trusts (CLTs)** — a non-profit holds land in trust for lasting community benefit, taking it permanently out of the speculative market so housing or farmland stays affordable and locally governed. A practical form of [relational property](/concepts/relational-property/).
 - **Community-supported agriculture (CSA)** — members pay a local farm up front for a season's share, sharing the risk and keeping the farm viable: patronage and a shared stake instead of pure market exchange.
 
+## Explore models before choosing one
+
+- **[Beautiful Solutions MCP](https://bookpower.org/beautiful-solutions/)** — searches 85 values, principles, questions, solutions, and stories from the solidarity-economy toolbox, then helps an AI agent compare models or prepare a discussion without treating one community's example as a universal answer.
+
 Two patterns worth knowing as you grow — **capped returns** (investors earn up to a ceiling, then the venture reinvests all surplus in its mission) and **open value accounting** (tracking and rewarding everyone who contributes, not just founders) — are explained in [Funding the commons](/concepts/funding-the-commons/).
 
 *More tools will be added here over time. Know one that belongs? Use the "Edit page" link below.*

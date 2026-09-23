@@ -22,4 +22,4 @@ If hierarchy is the default, then more democratic online life isn't just a matte
 ## Sources
 
 - Nathan Schneider — Democracy Innovators Podcast (2026): [youtube.com/watch?v=jlyfhmUWX04](https://www.youtube.com/watch?v=jlyfhmUWX04)
-- Nathan Schneider, *Governable Spaces: Democratic Design for Online Life* (University of California Press, 2024).
+- Nathan Schneider, *Governable Spaces: Democratic Design for Online Life* (University of California Press, 2024). The [Book Power MCP companion](https://bookpower.org/governable-spaces/) can diagnose implicit feudalism in a real online community and connect the diagnosis to governance alternatives from the book.

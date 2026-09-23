@@ -135,6 +135,13 @@ single page about the source.
 | A grassroots, non-deliberation case | `stories/` |
 | A book, paper, talk or article | `library/reading-and-sources.md` |
 
+If a Book Power MCP has been built from a book or toolbox that materially
+underpins the page, link its `bookpower.org/<slug>/` catalog page in `## Sources`.
+If the MCP also helps a citizen do the job covered by a Toolkit page, list it
+there as a usable tool. Use the catalog page, not the raw MCP endpoint, because
+the catalog carries the current access, licence, and installation details.
+Passing mentions of an author or adjacent topic are not enough.
+
 There is deliberately **no People section** — route a thinker's argument to
 Concepts, their organisation to Ecosystem, their works to Library.
 
@@ -189,9 +196,10 @@ A clean build is the gate. Do not push without one.
 
 ### 9. Open a PR
 
-`main` is protected. A PR needs a green `build` check **and one approving review**
-from a `wiki-editors` maintainer. See `CONTRIBUTING.md` for the branch flow and
-`GOVERNANCE.md` for roles.
+`main` is protected. A PR needs a green `build` check, resolved review
+conversations, and one approving review from a `wiki-editors` maintainer.
+Repository owners may self-merge their own green PRs after reviewing the final
+diff. See `CONTRIBUTING.md` for the branch flow and `GOVERNANCE.md` for roles.
 
 Match the existing commit style: clean and imperative. **No AI attribution** in
 commit trailers or in published content on this repo.
