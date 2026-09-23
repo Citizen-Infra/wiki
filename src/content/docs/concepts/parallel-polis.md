@@ -24,3 +24,4 @@ Taiwan's **[g0v](/run-reports/vtaiwan-uber/)** ("gov-zero") is a digital version
 ## Sources
 
 - David Bollier — on Team Human w/ Douglas Rushkoff (2025), citing Václav Havel: [youtube.com/watch?v=5NrkkC8tQGQ](https://www.youtube.com/watch?v=5NrkkC8tQGQ).
+- [*Think Like a Commoner* — Book Power MCP companion](https://bookpower.org/think-like-a-commoner/) — includes the parallel polis among Bollier's response strategies and connects it to precedent commons.

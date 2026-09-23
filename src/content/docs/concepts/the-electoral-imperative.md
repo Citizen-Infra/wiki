@@ -29,4 +29,4 @@ The electoral imperative is the load-bearing premise beneath the whole sortition
 
 ## Sources
 
-- Terry Bouricius, *Democracy Without Politicians* (Routledge, 2026), ch. 3 ("Electoral Imperatives"). Quotes and examples drawn from Tom Coburn (*The Debt Bomb*), Lawrence Lessig (*Republic Lost*), Yuval Noah Harari, Joe Manchin, and Mary Parker Follett (*Creative Experience*, 1924), as cited there.
+- Terry Bouricius, *Democracy Without Politicians* (Routledge, 2026), ch. 3 ("Electoral Imperatives"). Quotes and examples drawn from Tom Coburn (*The Debt Bomb*), Lawrence Lessig (*Republic Lost*), Yuval Noah Harari, Joe Manchin, and Mary Parker Follett (*Creative Experience*, 1924), as cited there. The [Book Power MCP companion](https://bookpower.org/democracy-without-politicians/) can search and return the chapter's argument in Bouricius's own words.

@@ -56,6 +56,7 @@ Per-source backlog (items not yet written) is tracked as **GitHub Issues labelle
 
 - **Verify names and figures against primary sources before publishing.** Auto-transcribed talks garble names (e.g. an interviewee's org or a platform). Cite every figure to a public source; mark unknowns or ongoing processes as pending; omit anything you can't verify rather than guess.
 - **Cite, don't republish, semi-private sources.** When a source was shared in a group thread or as a link-shared doc (HackMD, Google Drive), attribute the ideas in the page's `## Sources` by title/author **without** a hyperlink. Only genuinely-public URLs (published articles, product sites, videos) go in the Library.
+- **Link relevant Book Power companions.** When a Book Power MCP is built from a book or toolbox that materially underpins a page, add a contextual link in `## Sources`; when the MCP is itself a useful tool for the page's job, include it in the relevant Toolkit page too. Link to the public `bookpower.org/<slug>/` catalog page rather than the raw MCP endpoint so readers get the current access, licence, and installation details. Do not attach these links to passing mentions of an author or topic.
 - **No AI-generated brand assets and no AI attribution** in published content or commit trailers on this public repo. Match the existing clean, imperative commit style.
 
 ## Local-only directories (gitignored — do not publish their contents)

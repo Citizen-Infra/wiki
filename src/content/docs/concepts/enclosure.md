@@ -22,3 +22,4 @@ The defence isn't a property wall. Bollier borrows from biology: a commons needs
 ## Sources
 
 - David Bollier — on Team Human w/ Douglas Rushkoff (2025): [youtube.com/watch?v=5NrkkC8tQGQ](https://www.youtube.com/watch?v=5NrkkC8tQGQ).
+- [*Think Like a Commoner* — Book Power MCP companion](https://bookpower.org/think-like-a-commoner/) — helps an AI agent identify enclosure patterns, find related commons, and trace response strategies grounded in Bollier's book.
