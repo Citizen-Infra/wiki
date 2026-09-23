@@ -30,6 +30,8 @@ Two more claims follow:
 
 Their second contribution: scaling deliberation **is not susceptible to a technological fix**. It needs **civic infrastructure** — the relational, time-intensive work of connecting assemblies to power and building the networks that sustain them. Their leading example is **[Arantzazulab](/ecosystem/overview/)**, a democracy-innovation lab in Spain's Basque Country (launched 2020): five years ago the region had no assemblies; today it has them at local and provincial levels, and Arantzazulab is even bringing sortition into the Mondragon cooperative.
 
+Peacemaking shows why the dimensions have to work together. Elite negotiations offer depth but often miss the wider information environment in which a conflict now unfolds. Large-scale digital dialogue can widen participation and reveal several strands of opinion at once, but it cannot automate trust-building. The practical shape is hybrid: use technology for breadth, translation, and collective sense-making while people retain responsibility for relationships, interpretation, and consequential decisions.
+
 A related provocation from discussant Oliver Escobar (Edinburgh): build deliberative principles *into* the AI itself. We tend to treat AI as an **oracle** we ask for answers; a **deliberative AI** would behave more like a facilitator — asking as many questions as it answers, helping make connections, eliciting friction when a shallow consensus is forming. For the deeper tool-by-tool test, see [can AI scale deliberation?](/concepts/ai-and-deliberation/); for the risk of fake stand-ins, [synthetic participation](/concepts/synthetic-participation/).
 
 ## Sources
@@ -37,3 +39,4 @@ A related provocation from discussant Oliver Escobar (Edinburgh): build delibera
 - Sammy McKinney & Claudia Chwalisz, "Five Dimensions of Scaling Democratic Deliberation: With and Beyond AI," DemocracyNext, June 2025: [demnext.org](https://www.demnext.org/action/five-dimensions-of-scaling-democratic-deliberation-with-and-beyond-ai)
 - Paper-launch webinar (with Oliver Escobar, Kyle Redman, Manon Revel; Office of Eric Schmidt), 2025: [youtube.com/watch?v=mOfvIfg2XlE](https://www.youtube.com/watch?v=mOfvIfg2XlE)
 - Sammy McKinney, "Integrating artificial intelligence into citizens' assemblies," *Journal of Deliberative Democracy*, 2024.
+- Lisa Schirch, [“Scaling Future Peacemaking through AI-Powered Public Deliberation”](https://warpreventioninitiative.org/peace-science-digest/scaling-future-peacemaking-ai/), *Peace Science Digest* (2026).

@@ -286,12 +286,12 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 - [ ] https://www.youtube.com/watch?v=eDdUyT8DUYM — Democracy Innovators Podcast: Malik Lakoubay (Dark Matter Labs) on financing civic infrastructure and democratic innovation.
 - [ ] https://www.newdemocracy.com.au/2026/09/14/democracy-beyond-elections-a-handbook-on-citizens-assemblies/ — newDemocracy, UNDP, UNDEF, and Democracy R&D: practical handbook on designing and running Citizens' Assemblies.
 - [ ] https://www.newlocal.org.uk/publications/putting-the-neighbourhood-back-into-neighbourhood-health/ — Cormac Russell and Lisa McNally: neighbourhood-health provocation with four role-specific guides for community-led health.
-- [ ] https://warpreventioninitiative.org/peace-science-digest/scaling-future-peacemaking-ai/ — Lisa Schirch: seven design choices for AI-supported public deliberation in peacemaking.
 - [ ] https://medium.com/jigsaw/helping-civic-leaders-hear-every-voice-5704646900d6 — Jigsaw: Sensemaking AI Partner Program scaling to 30 cities, states, and countries, starting with eight municipalities and five US states while keeping the core code open source.
 - [ ] https://www.youtube.com/watch?v=KskMVkG6VJ0 — Democracy Innovators Podcast: Terry Bouricius explains multi-body sortition for democratic lawmaking; potential enrichment for the existing concept page beyond its book source.
 
 ## Processed
 
+- [x] #45 — Lisa Schirch, “Scaling Future Peacemaking through AI-Powered Public Deliberation” · 2026-09-23 · updated AI deliberation, scaling, disagreement, AI reflectors, deliberation tools, ecosystem, and sources
 - [x] #12 — Relational Technology Project (Metagov seminar) · `HbH_cYgUCWA` · 2026-06-11
 - [x] #11 — The Planetary Compendium (Berggruen x Dark Matter Labs) · `hhTyUhc8Rm8` · 2026-06-11
 - [x] #10 — American Conversation Project / Cortico (civic listening) · `Zm3w5PkbVPo` · 2026-06-10
