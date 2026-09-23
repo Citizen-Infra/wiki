@@ -280,6 +280,13 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 - [ ] https://schemalabs.gr/ — Schema Labs: Greek nonprofit on the citizen/local-government gap, structured as a nonprofit wholly owning a for-profit subsidiary under steward ownership.
 - [ ] https://opencouncil.gr/ — OpenCouncil (Schema Labs): transcribes and analyses city council meetings into summaries, short-form video, and per-neighbourhood WhatsApp updates.
 - [ ] https://www.youtube.com/watch?v=yiBaevPeuCY — Democracy Innovators Podcast: Olivier Schulbaum (Platoniq) on starting assemblies with those most affected, and GRID, an AI agent carrying a legislative-theatre "joker".
+- [ ] https://menders.kinship.works/ — Kinship Works, "Meet the menders": maps 15 civic-renewal disciplines and proposes a network of locally rooted Civic Colleges.
+- [ ] https://all-in.now/article/reporting-back-from-the-european-movement-strategy-conference/ — All In: European Movement Strategy Conference report covering movement proposals on digital infrastructure, worker power over technology, and resistance to data centres.
+- [ ] https://www.youtube.com/watch?v=E9v_mHQ_yaQ — Democracy Innovators Podcast: Thomas Lorenz on Brief nach Berlin, which uses handwritten letters as a lower-barrier connection between citizens and politicians.
+- [ ] https://www.youtube.com/watch?v=eDdUyT8DUYM — Democracy Innovators Podcast: Malik Lakoubay (Dark Matter Labs) on financing civic infrastructure and democratic innovation.
+- [ ] https://www.newdemocracy.com.au/2026/09/14/democracy-beyond-elections-a-handbook-on-citizens-assemblies/ — newDemocracy, UNDP, UNDEF, and Democracy R&D: practical handbook on designing and running Citizens' Assemblies.
+- [ ] https://www.newlocal.org.uk/publications/putting-the-neighbourhood-back-into-neighbourhood-health/ — Cormac Russell and Lisa McNally: neighbourhood-health provocation with four role-specific guides for community-led health.
+- [ ] https://warpreventioninitiative.org/peace-science-digest/scaling-future-peacemaking-ai/ — Lisa Schirch: seven design choices for AI-supported public deliberation in peacemaking.
 
 ## Processed
 
