@@ -3,7 +3,7 @@ title: AI reflectors
 description: Can an AI compute what a community "really wants"? A critique of the idea that the collective will is a hidden quantity waiting to be calculated, and a humbler role for AI as a mirror.
 ---
 
-As AI gets better at processing free-form text, it's tempting to point it at a population and ask it to output *what the people want*. Manon Revel (now at Google DeepMind) and political philosopher Philippe Pénigaud argue that this temptation rests on a flawed assumption, and propose a more modest and more useful role: the **AI reflector**.
+As AI gets better at processing free-form text, it's tempting to point it at a population and ask it to output *what the people want*. Manon Revel (now at Google DeepMind) and political philosopher Théophile Pénigaud argue that this temptation rests on a flawed assumption, and propose a more modest and more useful role: the **AI reflector**.
 
 ## Three stages of inferring the collective will
 
@@ -40,6 +40,6 @@ This is the same instinct as the [complementary-vs-competitive test](/concepts/a
 
 ## Sources
 
-- Manon Revel & Philippe Pénigaud, "AI-Facilitated Collective Judgements" / "AI-Enhanced Deliberative Democracy and the Future of Collective Will," 2025: [arxiv.org/abs/2503.05830](https://arxiv.org/abs/2503.05830)
+- Manon Revel & Théophile Pénigaud, "AI-Facilitated Collective Judgements" / "AI-Enhanced Deliberative Democracy and the Future of the Collective Will," 2025: [arxiv.org/abs/2503.05830](https://arxiv.org/abs/2503.05830)
 - Manon Revel, talk to the Cooperative AI seminar series, 2025: [youtube.com/watch?v=u_azC4tgpRU](https://www.youtube.com/watch?v=u_azC4tgpRU)
 - Lisa Schirch, [“Scaling Future Peacemaking through AI-Powered Public Deliberation”](https://warpreventioninitiative.org/peace-science-digest/scaling-future-peacemaking-ai/), *Peace Science Digest* (2026).
