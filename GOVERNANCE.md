@@ -44,7 +44,7 @@ A maintainer or owner then squash-merges, and Netlify publishes `main` automatic
 
 ### What counts as maintenance
 
-"Maintenance" is deliberately narrow. One case is defined so far:
+"Maintenance" is deliberately narrow. Two cases are defined so far:
 
 - **Queue-only appends.** Adding approved sources to `docs/source-queue.md` — in
   practice the handoff at the end of a CIBC links digest — may be committed
@@ -58,8 +58,23 @@ A maintainer or owner then squash-merges, and Netlify publishes `main` automatic
   while `docs/` is an ordinary repository folder, so a queue append cannot
   change a published page or a sidebar entry.
 
-This exception does **not** cover research extractions, content-backlog issues,
-wiki pages, sidebar or overview edits, or anything else that reaches a reader.
+- **Small corrections.** Fixing a verified error inside existing text on a
+  published page may be committed straight to `main` by an owner. That covers a
+  misspelt name, a wrong date or figure, a typo, a broken external link, or a
+  wrong title for a cited work. All of these must hold:
+  - **No structural change**: no new or removed pages, sections or headings, no
+    new internal links, and no sidebar or overview edits.
+  - **Checked against a primary source**, named in the commit message, e.g.
+    `fix: Pénigaud's first name on ai-reflectors (arxiv.org/abs/2503.05830)`.
+  - **`npm run build` passes locally before the push.** Unlike a queue append,
+    a correction changes a published page, so the build is the only check it
+    gets.
+
+  A correction that changes what a page argues or claims is not a small
+  correction, even if it is one word; it takes the pull-request path.
+
+Beyond small corrections, this exception does **not** cover research extractions,
+content-backlog issues, wiki pages, sidebar or overview edits, or anything else that reaches a reader.
 Those follow the pull-request path above, build check and review included.
 
 Anything else an owner wants to treat as maintenance needs a clause here first.
