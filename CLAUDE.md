@@ -24,9 +24,9 @@ Deploys are **automatic** — Netlify is git-connected and builds every push to 
 
 `main` is protected: a PR needs a green `build` check, one approving review from a [`wiki-editors`](https://github.com/orgs/Citizen-Infra/teams/wiki-editors) maintainer or owner, and resolved review conversations. Repository owners are the exception: they may self-merge their own green PRs after reviewing the final diff. Owners can still push directly for maintenance. See **`GOVERNANCE.md`** for roles and the merge model and **`CONTRIBUTING.md`** for the branch → PR flow.
 
-### Queue-only maintenance exception
+### Maintenance exceptions
 
-An approved CIBC digest handoff that only appends to `docs/source-queue.md` may be committed directly to `main`, under `### From the Telegram digest`. **`GOVERNANCE.md` → "What counts as maintenance" is the definition** — its conditions (dedup against both Queue and Processed, explicit approval) and its exclusions are binding, so read it there rather than working from this summary. Everything else, including research extractions and any page or sidebar edit, takes the branch → PR path with a green `npm run build`.
+An approved CIBC digest handoff that only appends to `docs/source-queue.md` may be committed directly to `main`, under `### From the Telegram digest`. **`GOVERNANCE.md` → "What counts as maintenance" is the definition** — its conditions (dedup against both Queue and Processed, explicit approval) and its exclusions are binding, so read it there rather than working from this summary. An owner may also push a **small correction** (a verified name, date, figure, typo or broken-link fix inside existing text, no structural change, primary source in the commit message, local `npm run build` green) straight to `main` under the same section. Everything else, including research extractions and any other page or sidebar edit, takes the branch → PR path with a green `npm run build`.
 
 ## Architecture
 
