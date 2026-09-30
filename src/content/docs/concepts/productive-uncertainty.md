@@ -52,6 +52,8 @@ Delacroix writes about doctors and teachers because the capacity at stake, notic
 
 She also argues that keeping a full record of every conversation, one common answer to AI that closes things down, cannot fix this. A record can recover what was said and set aside. It cannot recover what was never said because attention had been steered elsewhere. "A complete record of a thinner deliberation is still thin."
 
+There is survey evidence for the direction of travel. In the Collective Intelligence Project's *Global Dialogues* index for February 2026, 44.5% of people said AI makes them more certain about important beliefs, and only 4.8% said it makes them doubt, against 13.9% for social media. Andrew Sorota builds on the same figures in the same series; see [recursive representation](/concepts/recursive-representation/).
+
 ## What would have to change
 
 Delacroix leaves solutions to her next essay, but names the shift: from designing for **one user and one system** to designing for **a community that keeps refining how its tools express doubt** as its practice changes. There is no single correct way to express uncertainty that can't be put in numbers, so the way a system does it has to be adjustable in use, by the people who use it.
@@ -68,3 +70,4 @@ Much of this wiki is about tools that help people deliberate, and many of them s
 - **We are building conversational infrastructure that cannot hold the kind of uncertainty democracy runs on** — the provocation the essay develops, Sylvie Delacroix, Informational Democracy (2026): [informationaldemocracy.substack.com](https://informationaldemocracy.substack.com/p/provocation-delacroix)
 - **Habitual Ethics?** — Sylvie Delacroix, Hart Publishing (2022), where the idea of in-between spaces comes from: [doi.org/10.5040/9781509920440](https://doi.org/10.5040/9781509920440)
 - **How a computer algorithm caused a grading crisis in British schools** — CNBC (2020), for the 2020 A-level figure: [cnbc.com](https://www.cnbc.com/2020/08/21/computer-algorithm-caused-a-grading-crisis-in-british-schools.html)
+- **Global Dialogues, February 2026** — Collective Intelligence Project, for the AI certainty figures: [globaldialogues.ai](https://globaldialogues.ai/cadence/february-2026)

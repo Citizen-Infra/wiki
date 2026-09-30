@@ -23,6 +23,8 @@ The authors are careful about *who* gets hurt. When an agent drifts from what it
 
 The philosopher Théophile Pénigaud makes the same move about everyday chatbot use. His [orphan reasons](/concepts/orphan-reasons/) argument looks past the person who consulted the AI to the people their decision affects, who lose their claim to an explanation from anyone able to give one.
 
+The political theorist Andrew Sorota offers a design answer to the drift problem. Under [recursive representation](/concepts/recursive-representation/), an agent that speaks for you should be two-faced on purpose: in private it challenges you with the strongest views you don't hold, and in public it represents what you concluded with complete faithfulness, never its own opinion. An agent that only mirrors your starting views, he argues, leaves you less able to judge for yourself.
+
 ## Sources
 
 - [Delegating Deliberation to AI Representatives](https://arxiv.org/abs/2605.24413) — Joseph Low, Oscar Duys, Claude Formanek, Michiel Bakker & Lewis Hammond, arXiv (2026), on the Habermolt platform. Open access (CC BY). Bakker co-authored the original [Habermas Machine](/concepts/habermas-machine/) study.

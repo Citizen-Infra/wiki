@@ -98,6 +98,7 @@ export default defineConfig({
             { slug: 'concepts/does-ai-weaken-institutions' },
             { slug: 'concepts/orphan-reasons' },
             { slug: 'concepts/productive-uncertainty' },
+            { slug: 'concepts/recursive-representation' },
             { slug: 'concepts/six-pack-of-care' },
             { slug: 'concepts/who-builds-civic-ai' },
             { slug: 'concepts/four-futures-for-ai-and-democracy' },
