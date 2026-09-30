@@ -30,6 +30,19 @@ For a more systematic version of the same instinct, Sammy McKinney's study of AI
 
 Landemore's deeper worry is a legitimacy one: a democracy's laws are fully legitimate only if they could have issued from inclusive deliberation among everyone, yet real deliberation breaks down past a few hundred people. Her wager is that AI might let us *approximate* mass deliberation well enough to count. She floats two models: **mass online deliberation** (a single shared space, à la Wikipedia, where an algorithm clusters everyone's proposals into a manageable bird's-eye view — proposed by engineer Cyril Velikanov), and **many rotating mini-publics** (enrol the whole population in randomly-selected assemblies and rotate them until, in effect, everyone has deliberated with everyone). Neither needs *all* citizens: she speculates that enrolling 10–15% — still millions of people, and representative if truly random — might be a "good enough" threshold for legitimacy. France's [Great National Debate](/run-reports/french-great-national-debate/) was a low-tech gesture in this direction. For the fuller map of what "scaling" can mean, see [five dimensions of scaling deliberation](/concepts/scaling-deliberation/).
 
+## What the field is building
+
+In 2025 about seventy researchers and technologists mapped the LLM tools being built for public discourse, and published the result as a report and an open database. They sorted each tool by **when** it acts (before people engage, while they engage, or after), **where** (social media, deliberative platforms, or elsewhere), **what for** (grouped as helping people feel welcome, connect, learn, and act), and **how** (summarising, moderating, facilitating, tailoring participation to each person, or checking facts).
+
+A few patterns stand out in their account:
+
+- **On social media, most tools clean up after the fact.** Moderation and safety is the most common job, and few tools act *before* people engage. Most are third-party add-ons that users have to go out of their way to install, which limits their reach to people who were already careful.
+- **On deliberative platforms, "consensus" is usually soft**: shared values, common themes, or ranked ideas, not a vote threshold. Nearly all the tools keep people in charge of the outcome, and most still need a human somewhere in the loop, for example to check translations on sensitive political topics.
+- **The report's own open question** is that "facilitation" is too broad a label: nobody has yet mapped what the many smaller jobs inside it are.
+- **Named risks:** a summary can quietly drop unpopular views, people may not be able to see how an outcome was reached, and a persuasive tool can steer the people who chose to use it.
+
+A worked example of several tools used together: after Kenya's 2024 "Gen-Z" protests, the peacebuilding group Build Up, with the youth NGO Siasa Place and the radio programme *The Situation Room*, spent four months building a space called zKE. It joined in-person youth assemblies and the radio show to a WhatsApp bot, Talk to the City for voice notes, [Polis](/toolkit/decide-together/) to find the most widely shared proposals, and a Remesh session to bring it together. Its aim was not to remove the conflict but, in Build Up's words, to "turn it from destructive to constructive."
+
 This is the practical, tool-level companion to [AI for participation](/concepts/ai-for-participation/) and [synthetic participation](/concepts/synthetic-participation/). For platforms in this space, see [Decide & make sense together](/toolkit/decide-together/).
 
 ## Sources
@@ -37,4 +50,6 @@ This is the practical, tool-level companion to [AI for participation](/concepts/
 - Hélène Landemore — DemocracyNext (2026): [youtube.com/watch?v=sgFUtZCgAqI](https://www.youtube.com/watch?v=sgFUtZCgAqI).
 - David Krakauer — on complementary vs competitive cognitive artifacts.
 - Lisa Schirch, [“Scaling Future Peacemaking through AI-Powered Public Deliberation”](https://warpreventioninitiative.org/peace-science-digest/scaling-future-peacemaking-ai/), *Peace Science Digest* (2026).
+- DeVerna, Grüning, Hickey, Jaber, Kamin, Miller, Mirza, Pei & Stanski, [*Mapping LLM Tools for Public Discourse, Pluralism & Social Cohesion*](https://www.prosocialdesign.org/blog/report-mapping-llm-tools-for-public-discourse-pluralism-social-cohesion), Prosocial Design Network, Plurality Institute and Council on Technology & Social Cohesion (2025).
+- Build Up, ["From social media polarization to online deliberation"](https://howtobuildup.medium.com/from-social-media-polarization-to-online-deliberation-a89d1851e135) (2025).
 - Martin Wählisch & Benedikt Kufus, [“Leveraging AI in peace processes: A framework for digital dialogues”](https://doi.org/10.1017/dap.2025.10031), *Data & Policy* (2025).

@@ -291,6 +291,7 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 
 ## Processed
 
+- [x] #52 — "Mapping LLM Tools for Public Discourse, Pluralism & Social Cohesion" (Prosocial Design Network et al., 2025), full report, + Lisa Schirch's Deliberative Tech Hub deck · 2026-09-30 · updated AI deliberation (what the field is building, zKE), ecosystem (Council on Technology and Social Cohesion, Prosocial Design Network), library; backlog on #52
 - [x] #48 — Sylvie Delacroix, provocation + “In-Between Spaces” (Informational Democracy) · 2026-09-24 · added productive uncertainty; updated orphan reasons, ecosystem (Centre for Data Futures, Informational Democracy), and sources
 - [x] #45 — Lisa Schirch, “Scaling Future Peacemaking through AI-Powered Public Deliberation” · 2026-09-23 · updated AI deliberation, scaling, disagreement, AI reflectors, deliberation tools, ecosystem, and sources
 - [x] #42 — Théophile Pénigaud, “Orphan Reasons: Who Is Responsible When AI Decides?” · 2026-09-10 · added orphan reasons; updated democratising AI, democratic institutions, delegated deliberation, ecosystem, and sources
