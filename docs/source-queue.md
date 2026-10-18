@@ -8,7 +8,7 @@ ingestion history in memory (`project_cibc_wiki.md`).
 **How to use:** work top-down (Tier 1 first); skip any freely. When one is done,
 move it to **Processed** with its date and issue number.
 
-**Queue status (2026-10-18):** 126 unchecked source entries: **102 ingestion
+**Queue status (2026-10-18):** 124 unchecked source entries: **100 ingestion
 candidates** and **24 Tier 4 citation-only references**. Tier 4 is not ingestion
 work. These are entry counts, not a deduplicated count of sources or a count of
 pages to write.
@@ -278,8 +278,6 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 - [ ] https://www.youtube.com/watch?v=EOruN8vaVao — Democracy Innovators Podcast: Anthony Zacharzewski (Democratic Society) on democratic infrastructure, participation and power.
 - [ ] https://www.youtube.com/watch?v=awAFuA7saXg — Democracy Innovators Podcast: Alvaro Oleart on the instrumentalisation of EU participation processes and the limits of AI for democracy.
 - [ ] https://www.youtube.com/watch?v=gfdMqfOcNZw — Democracy Innovators Podcast: Alberto Fernandez Gibaja (International IDEA) on technology and democracy.
-- [ ] https://informationaldemocracy.substack.com/p/democracy-as-a-social-technology — Georg Diez and Felix Beer (Informational Democracy, Max Planck Institute for Political and Social Science): democracy treated as a social technology, the working group's framing piece.
-- [ ] https://informationaldemocracy.substack.com/p/infrastructural-transformation-public — Georg Diez and Felix Beer: Habermas read against Palantir's Alex Karp, asking who owns the architecture that decides which patterns count.
 - [ ] https://networknations.substack.com/p/network-nations-a-primer — Felix Beer, Primavera De Filippi and Lovisa Björna: translocal self-governance defined against the Network State, through functional sovereignty, commons governance and entanglement.
 - [ ] https://fermonge.substack.com/p/we-need-semantic-alignment-on-ai — Simone Maria Parazzoli and Fernando Monge: three dimensions separating "citizen agents" (ownership, autonomy, specialization), with the World Bank-led RADAR benchmark across 166 countries.
 - [ ] https://creativebureaucracy.org/creative-bureaucracy-festival-award-2026-audrey-tang-trust-and-democracy — Audrey Tang's Creative Bureaucracy Festival Award transcript: the 111-line text to 200,000 numbers, a 447-person mini-public, and the scam-ad law that followed.
@@ -304,6 +302,7 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 
 ## Processed
 
+- [x] #72 — Georg Diez and Felix Beer, [Democracy as a Social Technology](https://informationaldemocracy.substack.com/p/democracy-as-a-social-technology) and [The Infrastructural Transformation of the Public](https://informationaldemocracy.substack.com/p/infrastructural-transformation-public), Informational Democracy · 2026-10-18 · civic-AI institutional-design argument with its limits; public-AI architecture/governance/ownership distinction and attributed supplier-exit comment; library. Corporate/legal cases, cited works and the representation discussion remain on #72.
 - [x] #70 — Beth Simone Noveck, [Democracy's Compression Problem](https://informationaldemocracy.substack.com/p/democracys-compression-problem) and [provocation](https://informationaldemocracy.substack.com/p/provocation-noveck), Informational Democracy · 2026-10-18 · five listening-system tests and public infrastructure argument on AI sensemaking; authorised receiver on Binding or advisory; library. Case/course verification, cited works and future essays remain on #70.
 - [x] #68 — Petter Törnberg, [Do We Need a Distributive Politics of Attention?](https://informationaldemocracy.substack.com/p/distributive-politics-of-attention), [After Social Media](https://informationaldemocracy.substack.com/p/after-social-media) and [provocation](https://informationaldemocracy.substack.com/p/provocation-tornberg), Informational Democracy · 2026-10-18 · new Attention & democratic power concept, bridging cross-link and library; empirical sources, named comment and unpublished third essay remain on #68.
 - [x] #66 — Audrey Tang, [Dismantling MaxOS for Democracy](https://informationaldemocracy.substack.com/p/dismantling-maxos-for-democracy), [Humane Radicalism](https://informationaldemocracy.substack.com/p/humane-radicalism) and [provocation](https://informationaldemocracy.substack.com/p/provocation-tang), Informational Democracy · 2026-10-18 · added MaxOS and community mandate-setting to civic AI; invitation, human sign-off, response chain and planned hand-back to the 6-Pack of Care; library. Essay III, secondary-case verification and other unwritten items remain on #66.

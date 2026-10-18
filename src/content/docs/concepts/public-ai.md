@@ -24,8 +24,23 @@ As models get small enough to run on a laptop or phone, why build a shared utili
 
 For the case that this counterbalance is urgent — that the current design of AI actively [weakens democratic institutions](/concepts/does-ai-weaken-institutions/) — see the critique. For the different things "democratising AI" can mean, see [democratising AI](/concepts/democratising-ai/).
 
+## Ownership, design and the ability to leave
+
+Georg Diez and Felix Beer argue that public ownership alone cannot make an information system democratic. Its categories, permissions and workflows also shape what officials can see and which decisions people can challenge. Moving the same architecture into public hands—or hosting it domestically—does not by itself change those choices.
+
+They distinguish three dimensions of public infrastructure:
+
+- **Architecture:** what becomes visible, which options appear and where people exercise discretion.
+- **Governance:** who sets the purpose, inspects or changes the system, answers for it and hears challenges.
+- **Ownership:** who holds the assets and rights, where dependencies form and whether alternatives and exit remain possible.
+
+Their proposed starting point is the democratic capacity people need: to know, deliberate, decide, act, contest and learn. Different jobs and institutions may need different designs. This is an argument for making alternatives possible and comparable, rather than a validated blueprint for one public-AI system.
+
+Supplier dependence is one practical question within that argument. In a comment on the essay, **Peter McCann Strain** proposes checking, before a contract is signed, whether an institution can export its records, reproduce past decisions, preserve appeal rights and keep a service running while changing suppliers. These are a reader's proposed tests, not evidence that a particular procurement meets them. Tang's [planned hand-back](/concepts/six-pack-of-care/#invite-it-hold-it-accountable-retire-it) applies a related principle at community scale.
+
 ## Sources
 
+- Georg Diez and Felix Beer, [*The Infrastructural Transformation of the Public*](https://informationaldemocracy.substack.com/p/infrastructural-transformation-public), Informational Democracy (22 August 2026), including [Peter McCann Strain's comment](https://informationaldemocracy.substack.com/p/infrastructural-transformation-public/comment/326944819).
 - Bruce Schneier, remarks on public AI and trust — Collective Intelligence Project "Democratic AI" panel, 2024: [youtube.com/watch?v=OQxMGMB5kL8](https://www.youtube.com/watch?v=OQxMGMB5kL8)
 - Public AI Inference Utility & Apertus community Q&A, 2025: [youtube.com/watch?v=vgFB9opxRKs](https://www.youtube.com/watch?v=vgFB9opxRKs)
 - "Apertus: a fully open, transparent, multilingual language model" — ETH Zurich / EPFL / CSCS, September 2025: [ethz.ch](https://ethz.ch/en/news-and-events/eth-news/news/2025/09/press-release-apertus-a-fully-open-transparent-multilingual-language-model.html)
