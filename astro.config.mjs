@@ -89,6 +89,7 @@ export default defineConfig({
             { slug: 'concepts/constitutional-agents' },
             { slug: 'concepts/protocol' },
             { slug: 'concepts/bridging-and-pro-social-media' },
+            { slug: 'concepts/attention-and-democratic-power' },
           ]},
           { label: 'The case for civic AI', collapsed: true, items: [
             { slug: 'concepts/civic-ai' },

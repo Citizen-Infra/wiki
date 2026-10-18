@@ -21,6 +21,8 @@ Everyone, across the political spectrum, says they're tired of peak polarisation
 
 It rests on a deeper swap: from **dopamine** (the addictive hit of individualised feeds) back to **oxytocin and serotonin** — the care-based chemistry of genuine community. See also [conversation networks](/concepts/conversation-networks/) and [relational tech](/concepts/relational-tech/).
 
+Ranking also raises a governance question: who decides what deserves visibility, and who can challenge the rules? See [attention & democratic power](/concepts/attention-and-democratic-power/) for Törnberg's argument about attention as a public resource, including the shift towards algorithmic broadcasting and private chatbot answers.
+
 ## Sources
 
 - "How Pro-Social Technology Is Saving Democracy from 'Big Tech'" — Audrey Tang on *The Great Simplification* (TGS 169, 2025): [youtube.com/watch?v=aXgne-9F7uU](https://www.youtube.com/watch?v=aXgne-9F7uU).
