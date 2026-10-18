@@ -15,7 +15,7 @@ The [OECD and Bertelsmann Stiftung's 2026 report](https://www.oecd.org/en/public
 | Sense-making | Group contributions, find themes and identify unusual views; see [AI sensemaking](/concepts/ai-sensemaking/). |
 | Translation | Read and contribute in different languages. |
 | Transcription | Turn speech into text, or make written information available as speech. |
-| Virtual assistance | Ask questions and find information about how to participate. |
+| Virtual assistance | Ask questions and find information about how to participate; see [Chatico in Bogotá](/run-reports/chatico-bogota-2024/). |
 | Moderation | Detect spam, abusive content and attempts to flood a consultation. |
 | Facilitation | Support live discussion and identify shared positions. |
 | Simulation | Explore policy options through scenarios and visualisations. |

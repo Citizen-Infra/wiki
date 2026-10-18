@@ -8,7 +8,7 @@ ingestion history in memory (`project_cibc_wiki.md`).
 **How to use:** work top-down (Tier 1 first); skip any freely. When one is done,
 move it to **Processed** with its date and issue number.
 
-**Queue status (2026-10-18):** 132 unchecked source entries: **108 ingestion
+**Queue status (2026-10-18):** 131 unchecked source entries: **107 ingestion
 candidates** and **24 Tier 4 citation-only references**. Tier 4 is not ingestion
 work. These are entry counts, not a deduplicated count of sources or a count of
 pages to write.
@@ -261,7 +261,6 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 - [ ] https://informationaldemocracy.substack.com/p/dismantling-maxos-for-democracy — Audrey Tang, "Dismantling MaxOS for Democracy" (Informational Democracy, 2026-08-18): essay I on the maximising operating system beneath the public sphere; read with her provocation, "From humans in the loop of AI to AI in the loop of humanity" (/p/provocation-tang).
 - [ ] https://informationaldemocracy.substack.com/p/distributive-politics-of-attention — Petter Törnberg, "Do We Need a Distributive Politics of Attention?" (Informational Democracy, 2026-09-08); read with his provocation, "We are at the end of social media. How do we shape what comes after?" (/p/provocation-tornberg).
 - [ ] https://informationaldemocracy.substack.com/p/after-social-media — Petter Törnberg, "After Social Media" (Informational Democracy, 2026-09-29): his second essay in the series.
-- [ ] https://www.peoplepowered.org/news-content/digital-participation-case-study-bogota — People Powered case study, "Chatico: Bogotá's AI chatbot for everyday participation": a WhatsApp chatbot built by the Mayor's Office of Bogotá, with generative AI added in 2025. Same workshop.
 - [ ] https://www.peoplepowered.org/news-content/wevis-supporting-participatory-democracy-in-thailand-through-locally-developed-digital-tools — People Powered case study, "WeVis: Supporting participatory democracy in Thailand through locally developed digital tools". Same workshop.
 - [ ] https://www.connective-cities.net/en/media-center/ai-based-visualisation-for-sustainable-affordable-housing/ — Connective Cities, "AI-based Visualisation for Sustainable & Affordable Housing": a hands-on session with CoPlan AI, an AI visualisation platform for planning. CoPlan AI was the fourth case at the same workshop; look for its own site or a fuller account before writing it up.
 
@@ -310,6 +309,7 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 
 ## Processed
 
+- [x] #62 — https://www.peoplepowered.org/news-content/digital-participation-case-study-bogota — People Powered, Chatico · 2026-10-18 · added a 2024 Bogotá development-plan consultation report using the dated official snapshot; added Chatico to the toolkit and the case to the library; linked virtual assistance from AI for participation. Other campaign metrics, assembly recruitment and policy-influence follow-ups remain on #62.
 - [x] #60 — https://www.peoplepowered.org/news-content/digital-participation-case-study-ireland — People Powered, Voice Matters · 2026-10-18 · added the 2025 Derry/Londonderry run report, Co-operation Ireland ecosystem entry and library source; linked participant review and accessible formats from AI for participation and the Dembrane toolkit entry. Policy-response and evaluation follow-ups on #60.
 - [x] #58 — https://www.oecd.org/en/publications/artificial-intelligence-and-the-future-of-citizen-participation_a1ee2e0a-en.html — OECD + Bertelsmann Stiftung, *Artificial Intelligence and the Future of Citizen Participation* · 2026-10-18 · added the nine-application typology, sample limits and practical safeguards to AI for participation; strengthened sourcing for synthetic participation; added the report to the library. Other cases, tools and deeper governance follow-ups remain on #58.
 - [x] #54 — Andrew Sorota, provocation + “The Mirror and the Loop” (Informational Democracy) · 2026-09-30 · added recursive representation; updated productive uncertainty, synthetic participation, AI-delegated deliberation, ecosystem (Informational Democracy), and sources
