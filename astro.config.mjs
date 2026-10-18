@@ -187,6 +187,7 @@ export default defineConfig({
             { slug: 'run-reports/vtaiwan-uber' },
             { slug: 'run-reports/taiwan-alignment-assemblies' },
             { slug: 'run-reports/zke-kenya' },
+            { slug: 'run-reports/voice-matters-derry-2025' },
             { slug: 'run-reports/engaged-california' },
             { slug: 'run-reports/bowling-green-what-could-bg-be' },
             { slug: 'run-reports/we-the-people' },

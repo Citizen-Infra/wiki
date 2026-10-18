@@ -40,6 +40,8 @@ For organisers, the report's [practical guidance](https://www.oecd.org/en/public
 
 Tools applying these ideas are starting to appear in [the toolkit](/toolkit/decide-together/).
 
+In [Voice Matters' 2025 People's Panel](/run-reports/voice-matters-derry-2025/), participants and facilitators checked draft summaries before finalising the record. Printed recaps, supplied devices and a human interpreter supported access alongside the digital tool.
+
 ## Sources
 
 - OECD and Bertelsmann Stiftung, [*Artificial Intelligence and the Future of Citizen Participation: Typology of Applications, Opportunities and Challenges for Democratic Innovation*](https://www.oecd.org/en/publications/artificial-intelligence-and-the-future-of-citizen-participation_a1ee2e0a-en.html) (2026).
