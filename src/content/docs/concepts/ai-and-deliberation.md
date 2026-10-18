@@ -43,6 +43,8 @@ A few patterns stand out in their account:
 
 A worked example of several tools used together: after Kenya's 2024 "Gen-Z" protests, the peacebuilding group Build Up, with the youth NGO Siasa Place and the radio programme *The Situation Room*, spent four months building a space called zKE. It joined in-person youth assemblies and the radio show to a WhatsApp bot, Talk to the City for voice notes, [Polis](/toolkit/decide-together/) to find the most widely shared proposals, and a Remesh session to bring it together. Its aim was not to remove the conflict but, in Build Up's words, to "turn it from destructive to constructive."
 
+The [zKE run report](/run-reports/zke-kenya/) follows those early consultations, with the organisers' participation figures and published findings.
+
 This is the practical, tool-level companion to [AI for participation](/concepts/ai-for-participation/) and [synthetic participation](/concepts/synthetic-participation/). For platforms in this space, see [Decide & make sense together](/toolkit/decide-together/).
 
 ## Sources
