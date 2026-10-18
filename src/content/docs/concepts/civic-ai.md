@@ -32,6 +32,12 @@ Before mapping where civic AI shows up, it helps to be clear about what AI *is* 
 
 Why this matters for civic AI: if AI is an agent on the verge of thinking for us, the civic task is to contain or align it. If it's a social technology that reorganises relationships, the task is the familiar democratic one — deciding *whose* relationships it reorganises, in whose interest, and under whose governance. It's the same instinct the solidarity-economy writers reach for when they reject "the notion of artificial intelligence, which implies a magical, autonomous force" and rename it collective intelligence (see [democratising AI](/concepts/democratising-ai/)), and the one behind Audrey Tang's [plurality](/concepts/plurality/). It also sets up the sharper fight over whether AI can stand in for the work bureaucracies and courts do — see [does AI weaken democratic institutions?](/concepts/does-ai-weaken-institutions/) For one worked-out answer to the *"under whose governance"* question — a test for AI a community can own, inspect, correct, and switch off — see the [6-Pack of Care](/concepts/six-pack-of-care/). For the panoramic version of the same argument, security technologist **Bruce Schneier** and data scientist **Nathan E. Sanders** — *Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship* (MIT Press, 2025) — walk the reader through how AI is likely to reshape every stratum of democracy (lawmaking, the executive, the courts, campaigning, journalism, citizenship) and argue that whether the net effect concentrates or distributes power is a decision the field still gets to make.
 
+## Institutions people can redesign
+
+Georg Diez and Felix Beer extend the social-technology lens to democracy itself. Elections, courts, parliaments and the press are historical arrangements for collective judgment, power and conflict; their design can be reconsidered as circumstances change. Their working note asks what infrastructure different democratic commitments need in order to function.
+
+The authors also name the limits of that lens. Treating democracy as technology can invite technocracy or the mistaken belief that better machinery guarantees better politics. Ownership, interests and power belong at the centre of the inquiry, and civic relationships and commitments cannot be replaced by an architecture. Their later essay distinguishes [ownership, governance and design](/concepts/public-ai/#ownership-design-and-the-ability-to-leave) as questions that must be considered together.
+
 ## Who sets the objective?
 
 Audrey Tang calls a particular design stance **MaxOS**: carrying optimisation into public life without an affected public authorising the objective or being able to stop the system. Her objection is to letting a score stand in for public judgment. A feed can reward a statement's reach while giving people no way to ask who stands behind it.
@@ -40,6 +46,7 @@ Her alternative puts AI inside a community's existing work of listening and deci
 
 ## Sources
 
+- Georg Diez and Felix Beer, [*Democracy as a Social Technology*](https://informationaldemocracy.substack.com/p/democracy-as-a-social-technology) (1 August 2026) and [*The Infrastructural Transformation of the Public*](https://informationaldemocracy.substack.com/p/infrastructural-transformation-public) (22 August), Informational Democracy.
 - Audrey Tang, [*Dismantling MaxOS for Democracy*](https://informationaldemocracy.substack.com/p/dismantling-maxos-for-democracy) and [*Humane Radicalism*](https://informationaldemocracy.substack.com/p/humane-radicalism), Informational Democracy (2026).
 - Matt Stempeck (Civic Tech Field Guide), "Civic AI" — Metagov seminar, 2025: [youtube.com/watch?v=SonfdR0_h2w](https://www.youtube.com/watch?v=SonfdR0_h2w)
 - Henry Farrell & Cosma Rohilla Shalizi, "AI as Social Technology" — Knight First Amendment Institute, 2026: [knightcolumbia.org](https://knightcolumbia.org/content/ai-as-social-technology). Builds on Farrell, Gopnik, Shalizi & Evans, "Large AI models are cultural and social technologies," *Science*, 2025.
