@@ -28,6 +28,18 @@ The framework draws openly on Joan Tronto's ethics of care, deliberative democra
 If a principle does not change *who can object, who must answer, what gets logged, or what happens after a failure*, it is decoration.
 :::
 
+## Invite it, hold it accountable, retire it
+
+In *Humane Radicalism*, Tang develops the same approach through three questions a community can ask before using AI:
+
+- **Who invited it?** Members choose the question and write an amendable charter for the tool. Using an app does not by itself authorise its owner to decide for a community.
+- **Who answers for it?** A named human checks and signs the machine's output, and can be asked to correct it. Tang compares this to a newspaper's byline, editor and corrections page. The record should show how dissent changed a decision, alongside the testimony and notes behind any summary; see [orphan reasons](/concepts/orphan-reasons/).
+- **Who can retire it?** Name someone within the community who can end its use. Plan and budget for that hand-back at the start, leaving records and tools in forms the community can use independently. Judge success partly by what people can do together after the machine leaves.
+
+Tang also asks for more than consent and exit: communities should be able to alter a local version, propose useful changes to the wider system, retune it and retire it. Her proposal for connecting these communities combines a shared floor of rights, portable memberships and records, and ways to see other communities' reasons. A local charter cannot lower that rights floor. This is a design argument, rather than evidence that every civic-AI deployment already meets these conditions.
+
+In her preceding essay, *Dismantling MaxOS for Democracy*, she describes the accountable route from participation to action: visible inputs, checkable synthesis, named human judgment, a way to contest it and a receiver with authority to act. A summary alone does not complete that route. In a comment, Jan Bunge adds that the record of influence and responsibility must survive a change of technology.
+
 ## Where it comes from
 
 The 6-Pack grew out of real deployments on "unusually prepared soil" — places with civic hackers, responsive institutions, and strong community life. Its case studies include Taiwan's [Alignment Assemblies](/run-reports/taiwan-alignment-assemblies/) (which used [Polis](/toolkit/decide-together/)-style sensemaking to respond to a wave of AI-enabled scam ads), Team Mirai in Japan, [Engaged California](/run-reports/engaged-california/), the Tibetan-language Monlam AI, and the ROOST federated safety network. The authors are careful that each is proof of a mechanism, not a plug-and-play template: in a new setting you start again by asking who is missing, who has standing, and who can stop the system.
@@ -36,5 +48,6 @@ Civic AI in this sense is less about smarter chatbots than stronger self-governm
 
 ## Sources
 
+- Audrey Tang, [*Humane Radicalism*](https://informationaldemocracy.substack.com/p/humane-radicalism) (6 October 2026) and [*Dismantling MaxOS for Democracy*](https://informationaldemocracy.substack.com/p/dismantling-maxos-for-democracy) (18 August 2026), Informational Democracy. Includes [Jan Bunge's comment](https://informationaldemocracy.substack.com/p/dismantling-maxos-for-democracy/comment/325771491) on preserving the record across technology changes.
 - [Civic AI: the 6-Pack of Care](https://civic.ai/) — Audrey Tang & Caroline Emmer De Albuquerque Green, Oxford Institute for Ethics in AI. Framework site with the manifesto and per-pack pages; the book follows from Wiley in February 2027. Presented at the Civic AI Conference, Rhodes House, Oxford, 25 March 2026.
 - ["AI and the Future of Digital Public Squares"](https://journals.sagepub.com/doi/10.1177/26339137261459441) — *Collective Intelligence* (2026): a peer-reviewed agenda, co-authored by Tang with Beth Goldberg and Hélène Landemore among others, that cites the 6-Pack of Care directly.
