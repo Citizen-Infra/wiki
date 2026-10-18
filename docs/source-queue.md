@@ -8,7 +8,7 @@ ingestion history in memory (`project_cibc_wiki.md`).
 **How to use:** work top-down (Tier 1 first); skip any freely. When one is done,
 move it to **Processed** with its date and issue number.
 
-**Queue status (2026-10-18):** 129 unchecked source entries: **105 ingestion
+**Queue status (2026-10-18):** 127 unchecked source entries: **103 ingestion
 candidates** and **24 Tier 4 citation-only references**. Tier 4 is not ingestion
 work. These are entry counts, not a deduplicated count of sources or a count of
 pages to write.
@@ -258,8 +258,6 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 - [x] https://www.linkedin.com/posts/adnanjaber_report-on-mapping-llm-tools-for-public-discouse-ugcPost-7390116189798162432-H1L3 — Adnan Jaber: report mapping LLM tools for public discourse (map: https://airtable.com/appdDLNeIEBFUZiQG/shrgEVfEwv7OoiTcJ/tblvpYsR8oOFvepkO) → library/reading-and-sources (Civic AI) [Tier 1, civic-AI]
 - [x] https://www.linkedin.com/pulse/sortition-goes-back-further-brussels-than-many-people-hugh-pope-73rmf — Hugh Pope (essay): "Sortition goes back further in Brussels than many people think" → concepts/sortition ("Not only ancient" section) + library [Tier 1]
 - [x] https://www.cambridge.org/core/journals/data-and-policy/article/ai-and-citizen-participation-a-political-economy-lens/2A4CC7AAA4F24F5C10CFC9D606EE5E5B — Davies & Devine (*Data & Policy* 8, 2026, e33; CC BY): "AI and citizen participation: a political economy lens" — who builds, funds, and adopts civic-AI tools shapes which ever reach citizens; structural forces favour incumbents (seven builder archetypes / three funding models / four adopters) → concepts/who-builds-civic-ai (NEW page) + library [Tier 1, civic-AI] (2026-07-20)
-- [ ] https://informationaldemocracy.substack.com/p/distributive-politics-of-attention — Petter Törnberg, "Do We Need a Distributive Politics of Attention?" (Informational Democracy, 2026-09-08); read with his provocation, "We are at the end of social media. How do we shape what comes after?" (/p/provocation-tornberg).
-- [ ] https://informationaldemocracy.substack.com/p/after-social-media — Petter Törnberg, "After Social Media" (Informational Democracy, 2026-09-29): his second essay in the series.
 - [ ] https://www.connective-cities.net/en/media-center/ai-based-visualisation-for-sustainable-affordable-housing/ — Connective Cities, "AI-based Visualisation for Sustainable & Affordable Housing": a hands-on session with CoPlan AI, an AI visualisation platform for planning. CoPlan AI was the fourth case at the same workshop; look for its own site or a fuller account before writing it up.
 
 ### From the Telegram digest
@@ -307,6 +305,7 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 
 ## Processed
 
+- [x] #68 — Petter Törnberg, [Do We Need a Distributive Politics of Attention?](https://informationaldemocracy.substack.com/p/distributive-politics-of-attention), [After Social Media](https://informationaldemocracy.substack.com/p/after-social-media) and [provocation](https://informationaldemocracy.substack.com/p/provocation-tornberg), Informational Democracy · 2026-10-18 · new Attention & democratic power concept, bridging cross-link and library; empirical sources, named comment and unpublished third essay remain on #68.
 - [x] #66 — Audrey Tang, [Dismantling MaxOS for Democracy](https://informationaldemocracy.substack.com/p/dismantling-maxos-for-democracy), [Humane Radicalism](https://informationaldemocracy.substack.com/p/humane-radicalism) and [provocation](https://informationaldemocracy.substack.com/p/provocation-tang), Informational Democracy · 2026-10-18 · added MaxOS and community mandate-setting to civic AI; invitation, human sign-off, response chain and planned hand-back to the 6-Pack of Care; library. Essay III, secondary-case verification and other unwritten items remain on #66.
 - [x] #64 — https://www.peoplepowered.org/news-content/wevis-supporting-participatory-democracy-in-thailand-through-locally-developed-digital-tools — People Powered, WeVis · 2026-10-18 · added a WeVis Story and public-decision toolkit page; linked DreamCon from the deliberation toolkit and argument mapping; added ecosystem/library entries. Marked the voting/pledge datasets' 2023 update dates; outcome, campaign and AI follow-ups remain on #64.
 - [x] #62 — https://www.peoplepowered.org/news-content/digital-participation-case-study-bogota — People Powered, Chatico · 2026-10-18 · added a 2024 Bogotá development-plan consultation report using the dated official snapshot; added Chatico to the toolkit and the case to the library; linked virtual assistance from AI for participation. Other campaign metrics, assembly recruitment and policy-influence follow-ups remain on #62.
