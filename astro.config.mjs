@@ -146,6 +146,7 @@ export default defineConfig({
           { slug: 'toolkit/connect-with-neighbors' },
           { slug: 'toolkit/coordinate-a-community' },
           { slug: 'toolkit/decide-together' },
+          { slug: 'toolkit/understand-public-decisions' },
           { slug: 'toolkit/share-culture-and-resources' },
           { slug: 'toolkit/fund-collective-work' },
         ]},
@@ -197,6 +198,7 @@ export default defineConfig({
         ]},
         { label: 'Stories', items: [
           { slug: 'stories/overview' },
+          { slug: 'stories/wevis-thailand' },
           { slug: 'stories/topanga-fire-mutual-aid' },
           { slug: 'stories/open-source-insulin' },
           { slug: 'stories/fureai-kippu' },

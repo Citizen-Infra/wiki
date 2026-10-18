@@ -18,6 +18,10 @@ The method rests on a few principles:
 
 Presentation isn't only trees, which most people won't read. *Society Library Papers* are interactive documents you can unpack from a one-page summary down to the evidence behind any single sentence.
 
+## A locally adapted example: DreamCon
+
+[WeVis's DreamCon](https://dreamcon.wevis.info/) organises ideas and arguments about constitutional design in Thailand. Its workflow connects online input with facilitated discussions and a structured record for future drafters. [The WeVis case](/stories/wevis-thailand/) describes the human work involved in turning open-ended conversations into usable arguments.
+
 ## Politicians as "outdated technology"
 
 Joyce's sharper provocation: a representative performs two functions a database could augment — **representation** (holding a population's preferences and arguments) and **deliberation** (weighing them through structured argument). A database can hold and *audit* a community's stated views more faithfully than the "black box" of one person's memory; an argument map pre-organises the reasoning a legislature is meant to do anyway. Not to *replace* politicians, she stresses, but to give them a far richer, auditable basis for decisions.
@@ -32,6 +36,7 @@ Argument mapping is a cousin of [Polis](/toolkit/decide-together/)-style opinion
 
 ## Sources
 
+- [WeVis — DreamCon: public project and workflow](https://dreamcon.wevis.info/)
 - Jamie Joyce (The Society Library) on the *Win-Win* podcast, 2025: [youtube.com/watch?v=HzxW3a9jAxE](https://www.youtube.com/watch?v=HzxW3a9jAxE)
 - [The Society Library](https://www.societylibrary.org/)
 - Democracy's Library — Internet Archive: [blog.archive.org](https://blog.archive.org/2023/05/12/declaring-democracys-library-u-s/)
