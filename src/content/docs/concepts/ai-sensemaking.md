@@ -31,8 +31,25 @@ AI sensemaking buys scale at the cost of the small-group, story-first *texture* 
 The risk to watch is [synthetic participation](/concepts/synthetic-participation/): summarising real input is sensemaking; *generating* opinions people never held is not.
 :::
 
+## Five tests for a public summary
+
+Beth Simone Noveck calls this **democracy's compression problem**: institutions need to reduce a mass of contributions to something people can use, and that reduction decides what remains visible. A short, accurate summary can still lose an unusual experience or a disagreement that matters. She proposes five qualities for the whole listening process:
+
+| Quality | What to check |
+|---|---|
+| Fidelity | Does the account represent contributors, rather than themes imposed by the model or prompt? |
+| Plurality | Do minority experiences, unusual observations, useful knowledge and meaningful disagreement survive? Frequency alone does not establish importance. |
+| Traceability | Can a decision-maker follow a theme back to the contributions and evidence behind it? |
+| Contestability | Can affected people question exclusions, categories or an account of what they said? |
+| Consequence | Is there a receiver with authority to act on what was learned? |
+
+The last test connects sensemaking to [binding or advisory participation](/concepts/binding-vs-advisory/). Say what influence people can exercise and who will respond before inviting them to contribute. A well-supported synthesis can inform a decision while leaving a conflict of values unresolved; see [productive uncertainty](/concepts/productive-uncertainty/).
+
+Noveck's standards cover the people who frame the question, recruit participants, choose categories, check outputs and make decisions, as well as the model. She argues for institutions retaining the ability to inspect, compare and change their listening systems. Different sources of knowledge—resident accounts, frontline experience, administrative records and representative deliberation—can illuminate different problems. They need not end in one authoritative summary.
+
 ## Sources
 
+- Beth Simone Noveck, [*Democracy's Compression Problem*](https://informationaldemocracy.substack.com/p/democracys-compression-problem), Informational Democracy (25 August 2026), with her [opening provocation](https://informationaldemocracy.substack.com/p/provocation-noveck).
 - "Making sense of large-scale online conversations" — Jigsaw (Google, 2024): [medium.com/jigsaw](https://medium.com/jigsaw/making-sense-of-large-scale-online-conversations-b153340bda55)
 - "One year on: the momentum behind Jigsaw's Sensemaking AI" — Jigsaw (Google, 2026), on open-sourcing the library and the Oklahoma and *We the People* deployments: [medium.com/jigsaw](https://medium.com/jigsaw/one-year-on-the-momentum-behind-jigsaws-sensemaking-ai-b340e89ed516)
 - [Convoca](https://convoca.org/) — community-listening and sensemaking infrastructure, from an MIT Media Lab team

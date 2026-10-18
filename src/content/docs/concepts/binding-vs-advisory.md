@@ -16,6 +16,10 @@ Binding citizen power isn't hypothetical:
 - The [Michigan Independent Citizens Redistricting Commission](/run-reports/michigan-redistricting-commission/) — randomly-selected citizens who drew their state's **binding** electoral maps, a power voters took from the legislature by constitutional amendment.
 - The [French climate convention](/run-reports/french-convention-climate/) functioned as *de-facto* citizen legislators: President Macron outsourced legislative initiative to it and promised to pass its proposals. The constitution didn't formally recognise the move — and, tellingly, the assembly itself *declined* the referendum that could have made its work binding, mistrusting a public that polling later showed largely agreed with it.
 
+## Give listening an authorised receiver
+
+An advisory process can still make its route to influence explicit. Beth Simone Noveck's [five tests for public synthesis](/concepts/ai-sensemaking/#five-tests-for-a-public-summary) include **consequence**: someone with authority must be able to act on what was learned. Organisers should state the influence participants can exercise, rather than promise shared power through a process that only offers consultation. A faithful summary and an institutional response are separate responsibilities.
+
 ## The frontier
 
 Going from advisory to binding means institutionalising assemblies with real power — which immediately runs into resistance from elected officials (who question their legitimacy) and into constitutional barriers. It's a hard step. But it's the only way out of participation washing, and the work of legitimising and embedding these bodies is where much of the field's energy is now going.
@@ -30,4 +34,5 @@ There is a specific route where the binding-vs-advisory line goes soft, and the 
 
 ## Sources
 
+- Beth Simone Noveck, [*Democracy's Compression Problem*](https://informationaldemocracy.substack.com/p/democracys-compression-problem), Informational Democracy (2026).
 - Hélène Landemore — DemocracyNext (2026): [youtube.com/watch?v=sgFUtZCgAqI](https://www.youtube.com/watch?v=sgFUtZCgAqI).
