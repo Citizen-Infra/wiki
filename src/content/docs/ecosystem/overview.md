@@ -140,6 +140,7 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 
 ## Relational & civic-tech projects
 
+- **[WeVis](https://wevis.info/)** — a Thai civic-tech group that curates and visualises public data and develops participation tools. Its projects include Bangkok Budgeting, DreamCon and historical politician/pledge trackers; see [the WeVis story](/stories/wevis-thailand/) and [public-decision tools](/toolkit/understand-public-decisions/).
 - **[Relational Technology Project](https://relationaltechproject.org/)** — a nonprofit (Deborah Tien, Josh Nesbit, Sadev Parikh) supporting builders of "relational tech": small, village-scale tools that help neighbours care for each other and build trust. It stewards a commons of hundreds of neighbouring projects plus open tools — a chat-driven "Studio" for remixing them, an MCP server, and neighbour-gathering microgrants — and helps them spread "locality to locality."
 - **[New_ Public](https://newpublic.org/)** — a nonprofit product studio reimagining community and conversation online, building digital public spaces where people can thrive and connect.
 - **[Folk Technology](https://folktechnology.org/)** — a movement to build technology designed for regular folks, not "users" or "consumers."

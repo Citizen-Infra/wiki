@@ -9,6 +9,7 @@ This section collects those stories: bottom-up, real-world examples of citizens 
 
 ## In this section
 
+- [WeVis: civic tools built around local participation (Thailand)](/stories/wevis-thailand/)
 - [Topanga: a WhatsApp group becomes fire infrastructure](/stories/topanga-fire-mutual-aid/)
 - [Open-source insulin: "We Are Not Waiting"](/stories/open-source-insulin/)
 - [Fureai Kippu: care as a commons (Japan)](/stories/fureai-kippu/)
