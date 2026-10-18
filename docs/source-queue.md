@@ -6,7 +6,14 @@ Each is processed via the `/process-source` flow -> wiki pages + a per-source
 ingestion history in memory (`project_cibc_wiki.md`).
 
 **How to use:** work top-down (Tier 1 first); skip any freely. When one is done,
-move it to **Processed** with its date and issue number. 127 queued, ~39 remaining. **Tier 1 essentially cleared** (Connecticut deferred until its assembly concludes Sep 2026). Done 2026-07-20: Tang/plurality + Civic-AI clusters + CA-cluster waves A–D; Tier-1 waves 3–4 papers/essays + Go Vocal/Decidim vendor webinars folded per #26; civic-AI sensemaking wave (Jigsaw One-Year-On, 6-Pack of Care, Gemot, Convoca, Cortico webinar); civic-AI papers wave (EU JRC four-futures, FAccT connective-tissue, Habermolt, Schirch/Goldberg); European civic-tech-hub wave (mySociety report, hub launch panel, SPOON, Beyond-websites, Participation Playbook — TVNWBE4XwTw skipped); final Tier-1 wave (Rewiring Democracy, Reboot, OECD Ukraine, Pogrebinschi/Latin America). Done 2026-07-24: People Powered × FIDE × GloCAN "1,000 Citizens' Assemblies Later" webinar (Milosh impact taxonomy + Victoria-Saanich case) → 2 new concept/run-report pages, 6 enrichments, ecosystem +2 (FIDE North America, GloCAN).
+move it to **Processed** with its date and issue number.
+
+**Queue status (2026-10-18):** 134 unchecked source entries: **110 ingestion
+candidates** and **24 Tier 4 citation-only references**. Tier 4 is not ingestion
+work. These are entry counts, not a deduplicated count of sources or a count of
+pages to write.
+
+**Earlier progress (July 2026):** **Tier 1 essentially cleared** (Connecticut deferred until its assembly concludes Sep 2026). Done 2026-07-20: Tang/plurality + Civic-AI clusters + CA-cluster waves A–D; Tier-1 waves 3–4 papers/essays + Go Vocal/Decidim vendor webinars folded per #26; civic-AI sensemaking wave (Jigsaw One-Year-On, 6-Pack of Care, Gemot, Convoca, Cortico webinar); civic-AI papers wave (EU JRC four-futures, FAccT connective-tissue, Habermolt, Schirch/Goldberg); European civic-tech-hub wave (mySociety report, hub launch panel, SPOON, Beyond-websites, Participation Playbook — TVNWBE4XwTw skipped); final Tier-1 wave (Rewiring Democracy, Reboot, OECD Ukraine, Pogrebinschi/Latin America). Done 2026-07-24: People Powered × FIDE × GloCAN "1,000 Citizens' Assemblies Later" webinar (Milosh impact taxonomy + Victoria-Saanich case) → 2 new concept/run-report pages, 6 enrichments, ecosystem +2 (FIDE North America, GloCAN).
 
 ## Queue
 
