@@ -15,6 +15,11 @@ The appeal is **accessibility**. With code, implementing a new governance practi
 
 Schneider is explicit about the risks: today's LLMs are "profit-driven, fundamentally extractive tools," and pure code-based systems (think DAOs) have shown how rule-by-code gets gamed by whoever's best at gaming it. He wouldn't hand an agent ultimate power. But as a way to make self-governance legible to ordinary members — and to detect the *spirit*, not just the letter, of the rules — it's a striking direction. It also rhymes with a broader shift: even AI labs (he points to Anthropic's "constitution" for its Claude models) increasingly govern models in human terms rather than pure code. See also [civic AI](/concepts/civic-ai/).
 
+## Where the rules come from
+
+An agent interpreting a constitution still leaves the question of who wrote it and how it changes. Evan Hadfield proposes linking public deliberation to shared governance principles that guide behaviour and become criteria for evaluating it. Participants should be able to inspect the synthesis and revisit principles as results emerge. This is a related institutional proposal, rather than a demonstrated feature of Schneider's agent; see [from public principles to an audit](/concepts/binding-vs-advisory/#from-public-principles-to-an-audit).
+
 ## Sources
 
+- Evan Hadfield, [*Voice without a pipeline is legitimacy theater*](https://informationaldemocracy.substack.com/p/provocation-hadfield), Informational Democracy (2026).
 - Nathan Schneider — Democracy Innovators Podcast (2026): [youtube.com/watch?v=jlyfhmUWX04](https://www.youtube.com/watch?v=jlyfhmUWX04)
