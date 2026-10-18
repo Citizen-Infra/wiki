@@ -186,6 +186,7 @@ export default defineConfig({
           { label: 'Digital & AI-facilitated deliberation', collapsed: true, items: [
             { slug: 'run-reports/vtaiwan-uber' },
             { slug: 'run-reports/taiwan-alignment-assemblies' },
+            { slug: 'run-reports/zke-kenya' },
             { slug: 'run-reports/engaged-california' },
             { slug: 'run-reports/bowling-green-what-could-bg-be' },
             { slug: 'run-reports/we-the-people' },
