@@ -8,7 +8,7 @@ ingestion history in memory (`project_cibc_wiki.md`).
 **How to use:** work top-down (Tier 1 first); skip any freely. When one is done,
 move it to **Processed** with its date and issue number.
 
-**Queue status (2026-10-18):** 134 unchecked source entries: **110 ingestion
+**Queue status (2026-10-18):** 133 unchecked source entries: **109 ingestion
 candidates** and **24 Tier 4 citation-only references**. Tier 4 is not ingestion
 work. These are entry counts, not a deduplicated count of sources or a count of
 pages to write.
@@ -278,7 +278,6 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 - [ ] https://toda.org/publications/policy-briefs-and-reports/framing-questions-for-dialogue-and-deliberation/ — Catherine Barnes (Toda Peace Institute, Report 312): how to design guiding questions across the dialogue, deliberation, and collaborative decision-making phases.
 - [ ] https://identitywoman.net/how-open-protocols-are-a-key-part-of-regenerative-technology/ — Kaliya Young: an argument that regenerative-tech intentions only survive on an open-protocol substrate, responding to the Regenerative Tech Project's three-layer framework.
 - [ ] https://beautifultrouble.org/toolbox/bsol — Beautiful Solutions (co-edited by Nathan Schneider), now a free online toolbox of solidarity-economy stories and principles hosted by Beautiful Trouble.
-- [ ] https://www.oecd.org/en/publications/artificial-intelligence-and-the-future-of-citizen-participation_a1ee2e0a-en.html — OECD + Bertelsmann Stiftung: a report mapping nine uses of AI in citizen participation across 50 use cases from 22 countries, with the risks including simulating public opinion instead of consulting it.
 - [ ] https://www.youtube.com/watch?v=F1HPjE6YKGo — Democracy Innovators Podcast (Carlo Michaelis): Ryan Koch of the Civic Tech Chat podcast on civic innovation and effective use of AI.
 - [ ] https://www.youtube.com/watch?v=jpUzEpXYDkc — Democracy Innovators Podcast: Simon Horton on negotiation, conflict resolution, and how AI can help end war.
 - [ ] https://www.youtube.com/watch?v=4A9zymQfiMo — Democracy Innovators Podcast: Gianluca Misuraca (Inspiring Futures) on AI in the public sector.
@@ -312,6 +311,7 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 
 ## Processed
 
+- [x] #58 — https://www.oecd.org/en/publications/artificial-intelligence-and-the-future-of-citizen-participation_a1ee2e0a-en.html — OECD + Bertelsmann Stiftung, *Artificial Intelligence and the Future of Citizen Participation* · 2026-10-18 · added the nine-application typology, sample limits and practical safeguards to AI for participation; strengthened sourcing for synthetic participation; added the report to the library. Other cases, tools and deeper governance follow-ups remain on #58.
 - [x] #54 — Andrew Sorota, provocation + “The Mirror and the Loop” (Informational Democracy) · 2026-09-30 · added recursive representation; updated productive uncertainty, synthetic participation, AI-delegated deliberation, ecosystem (Informational Democracy), and sources
 - [x] #52 — "Mapping LLM Tools for Public Discourse, Pluralism & Social Cohesion" (Prosocial Design Network et al., 2025), full report, + Lisa Schirch's Deliberative Tech Hub deck · 2026-09-30 · updated AI deliberation (what the field is building, zKE), ecosystem (Council on Technology and Social Cohesion, Prosocial Design Network), library; 2026-10-18 follow-up added a zKE Kenya run report and seven verified toolkit entries; remaining backlog on #52
 - [x] #48 — Sylvie Delacroix, provocation + “In-Between Spaces” (Informational Democracy) · 2026-09-24 · added productive uncertainty; updated orphan reasons, ecosystem (Centre for Data Futures, Informational Democracy), and sources
