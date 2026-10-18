@@ -25,5 +25,6 @@ There is also a technical reason agents can't stand in for people. A 2025 benchm
 
 ## Sources
 
+- OECD and Bertelsmann Stiftung, [“Replacing citizen participation with simulations”](https://www.oecd.org/en/publications/artificial-intelligence-and-the-future-of-citizen-participation_a1ee2e0a-en/full-report/mapping-the-risks-and-challenges-of-using-ai-for-citizen-participation_f3ffbba1.html#section-d1e8126-961b2d1764), in *Artificial Intelligence and the Future of Citizen Participation* (2026).
 - Matt Stempeck, with audience discussion (including the person-owned-twin counterpoint), "Civic AI" — Metagov seminar, 2025: [youtube.com/watch?v=SonfdR0_h2w](https://www.youtube.com/watch?v=SonfdR0_h2w)
 - [Gemot](https://gemot.dev/) — an open-source multi-agent deliberation tool that builds agents from published positions and surfaces cruxes rather than summaries
