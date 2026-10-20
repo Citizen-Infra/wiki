@@ -1,5 +1,5 @@
 ---
-title: Manchester People's Panel for AI (2022–2025)
+title: Manchester People's Panel for AI (2022–2026)
 description: "A recurring panel that trains residents from digitally-excluded communities to scrutinise how public services use AI — and sits the service leads across the table to answer for it."
 ---
 
@@ -9,12 +9,12 @@ description: "A recurring panel that trains residents from digitally-excluded co
 
 | | |
 |---|---|
-| **When** | MMU pilot July 2022 – March 2023; Manchester City Council phase 2024–2025 (ongoing) |
+| **When** | MMU pilot July 2022 – March 2023; council roadshows May–June 2024; further council panel sessions in January 2026 |
 | **Where** | Greater Manchester — Salford and Stockport (pilot), then the city of Manchester |
 | **Who** | Residents recruited from **digitally-excluded communities** via targeted "AI roadshows" — *not* random sortition. The MMU pilot seated 9 panellists; the council phase ran 5 roadshows reaching more than 40 residents |
 | **What they did** | Two days of training on AI, data, and ethics, then scrutiny of real AI use-cases: a service lead or business pitches a use-case and answers the panel's questions, using "consequence scanning" to surface ethical risks |
 | **Organisers** | Manchester Metropolitan University (Dr Annabel Latham, Prof Keeley Crockett), funded by the **Alan Turing Institute**; then Manchester City Council's digital-strategy team |
-| **Outcome** | Panel recommendations feed how participating services deploy AI; businesses reported changing design and ethics practices; a reusable Terms of Reference was published |
+| **Outcome** | Pilot businesses reported changing design and ethics practices; a reusable Terms of Reference was published. The council says January 2026 feedback will inform future service development |
 
 ## What happened
 
@@ -22,12 +22,19 @@ The People's Panel for AI began as a research project at **Manchester Metropolit
 
 **Manchester City Council** then adopted that model. As part of its "Doing Digital Together" digital strategy — with a stated goal of becoming a world-leading digital city by 2026 — the council ran the panel at city scale, deliberately centring residents most at risk of digital exclusion (Greater Manchester has an estimated 1.2 million residents at risk, 450,000 without internet access). Working from the **Digital Exclusion Risk Index**, it held **five free roadshows in community spaces across Manchester in May–June 2024**, reaching more than 40 residents from a deliberately diverse range of backgrounds; pre- and post-session surveys showed understanding of, trust in, and confidence around AI each rising by about 30%. Residents who wanted to go further joined the panel, took the two-day training, and then heard service leads pitch real AI use-cases — using **consequence scanning**, a structured technique for surfacing a technology's unintended effects — and pressed them with questions and concerns. Services including **Transport for Greater Manchester, Tech Enabled Care, and Citizens Advice** took part, and the panel's recommendations are meant to feed back into how those services deploy AI. The council has continued developing the panel through 2025.
 
+## Continued use in 2026
+
+The council's [16 February 2026 bulletin](https://content.govdelivery.com/accounts/UKMANCHESTER/bulletins/40a102b) reports two January panel sessions with its ICT and Resident and Business Digital Experience Programme teams, facilitated by Manchester Metropolitan University. Residents discussed an automated transcription pilot for social workers' meeting notes and early concepts for detecting fly-tipping automatically. They considered benefits and risks; the council said their feedback would inform future service development. This confirms that the panel continued beyond the original pilot, while leaving the resulting service changes to be documented.
+
+The scrutiny method, [consequence scanning](/concepts/consequence-scanning/), has its own explainer. The [ecosystem directory](/ecosystem/overview/) includes mySociety, Manchester Metropolitan University, the Alan Turing Institute and the council's Doing Digital Together team.
+
 ## Why it matters
 
 Most "AI and democracy" experiments use AI to help citizens deliberate. Manchester's panel inverts that: it uses deliberation to **hold AI to account** — residents, not algorithms, sit in judgement of how the public sector wants to use the technology. Two features make it worth recording. First, it deliberately recruits from **digitally-excluded communities** — the people most exposed to AI's harms and least represented in its design — rather than a random cross-section, treating inclusion as the point. Second, it pairs scrutiny with **capability-building**: residents are trained before they judge, so the panel doubles as digital-literacy infrastructure. As a recurring, reusable model with a public Terms of Reference, it is an early template for [civic oversight of public-sector AI](/concepts/civic-ai/) — closer to a standing [citizens' panel](/concepts/citizens-assembly/) for technology than a one-off assembly.
 
 ## Sources
 
+- [Manchester City Council digital-strategy bulletin, 16 February 2026](https://content.govdelivery.com/accounts/UKMANCHESTER/bulletins/40a102b) — January panel sessions and the council's stated next steps.
 - [Manchester City Council: People's Panel for AI — Local Government Association case study](https://www.local.gov.uk/case-studies/manchester-city-council-peoples-panel-ai-building-skills-confidence-and-residents)
 - [Greater Manchester People's Panel for AI — Manchester Metropolitan University](https://www.mmu.ac.uk/research/projects/gm-people-panel-ai)
 - [People's Panel for AI — Manchester Digital Strategy](https://manchesterdigitalstrategy.com/projects-1/peoples-panel-for-ai)
