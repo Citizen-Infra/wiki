@@ -11,6 +11,12 @@ Instead of baking one form of governance into the software, a modular platform o
 
 This isn't only theory. Where online governance has actually been built for real stakes — Barcelona's [Decidim](/toolkit/decide-together/) platform, or blockchain governance tools like Aragon and OpenZeppelin — projects have repeatedly **converged on something modular**, often after starting with a single rigid design and finding it too limiting.
 
+## Making governance legible
+
+Flexible governance also needs clear descriptions of the choices a community has made. **Governance Cards**, a related research prototype from Princeton's CROW project in collaboration with [Bonfire](/ecosystem/overview/), explore a structured way to document infrastructure, membership and rules. A rule-selection interface tested with Bonfire lets communities express qualifications as well as broad categories. For example, a prototype screenshot distinguishes allowing AI-generated media, prohibiting it, requiring labelling or requiring approval.
+
+The authors also identify a privacy problem: governance information can be sensitive. Their proposed JSON-LD format and different visibility levels are development directions, not an established interoperability or privacy guarantee. A card describes an arrangement; it does not establish that the arrangement is followed or gives members meaningful power. The [coordination toolkit](/toolkit/coordinate-a-community/#document-community-governance) records the project's prototype status.
+
 ## Why it matters
 
 Modular politics reframes the question from "what's the right way to govern an online community?" to "how do we build tools that let *every* community find its own?" It's a direct attempt to make flexible, creative self-governance a standard feature of online life. (Schneider's more recent work asks whether an AI agent reading a plain-language constitution could do this even more flexibly — see [constitutional agents](/concepts/constitutional-agents/).)
@@ -20,3 +26,4 @@ Modular politics reframes the question from "what's the right way to govern an o
 - Nathan Schneider — Democracy Innovators Podcast (2026): [youtube.com/watch?v=jlyfhmUWX04](https://www.youtube.com/watch?v=jlyfhmUWX04)
 - "Modular Politics: Toward a Governance Layer for Online Communities" — Metagov (Frey, Schneider, et al., 2021).
 - [*Governable Spaces* — Book Power MCP companion](https://bookpower.org/governable-spaces/) — explores modular politics alongside other governance forms and the failure modes they are meant to counter.
+- Sohyeon Hwang and Andrés Monroy-Hernández, [*Making Community Governance Legible: A Semester with Bonfire*](https://blog.citp.princeton.edu/2026/09/18/making-community-governance-legible-a-semester-with-bonfire/), Princeton CITP (18 September 2026), also [republished by Bonfire](https://bonfirenetworks.org/posts/making-community-governance-legible-a-semester-with-bonfire/).
