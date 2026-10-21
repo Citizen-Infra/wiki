@@ -28,12 +28,19 @@ In *After Social Media*, Törnberg distinguishes two directions for media power:
 
 These are his analysis of emerging media forms, rather than a claim that every platform has completed the transition. His warning is that centralised selection can persist while shared public experience weakens. A visible post can be disputed; a privately tailored answer is harder for others to inspect. This connects to [orphan reasons](/concepts/orphan-reasons/): who answers when a machine's words shape a consequential decision?
 
+## The right to step away
+
+Audrey Tang's *AI and democracy: the right to resist optimization* asks what happens when institutions reward people for becoming easier for machines to evaluate. A citizen can be pushed to speak and act in the forms a platform ranks most easily. Tang's concern is the pressure to conform to that measure, alongside the amount of content AI can generate.
+
+She argues for protecting silence, delay, privacy and rest as places where judgment can develop. Her design examples include slower defaults, fewer triggers and less stimulation. These are proposals for preserving reflective public life, not findings that a particular interface prevents polarisation. They connect the distribution of attention to the ability to refuse constant demands on it, and to [community control over AI's mandate](/concepts/six-pack-of-care/#bound-the-deployment-not-just-the-model).
+
 ## What remains open
 
 The essays set out a problem and questions for institutional design. They do not demonstrate that a particular allocation rule produces fairer politics. Törnberg's planned third essay addresses democratically governed attention infrastructure; as of 18 October 2026, it is not in the publisher's public archive.
 
 ## Sources
 
+- Audrey Tang, [*AI and democracy: the right to resist optimization*](https://humanistreview.ai/issue-1/tang-ai-democracy-optimization/), The Humanist Review of AI, issue 1.
 - Petter Törnberg, [*Do We Need a Distributive Politics of Attention?*](https://informationaldemocracy.substack.com/p/distributive-politics-of-attention) (8 September 2026).
 - Petter Törnberg, [*After Social Media*](https://informationaldemocracy.substack.com/p/after-social-media) (29 September 2026).
 - His opening provocation, [*We are at the end of social media. How do we shape what comes after?*](https://informationaldemocracy.substack.com/p/provocation-tornberg) (2 August 2026). All three appear in Informational Democracy.
