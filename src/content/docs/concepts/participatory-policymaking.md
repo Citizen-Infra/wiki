@@ -31,6 +31,8 @@ Before choosing a format, ask what the conversation is for. The [National Coalit
 
 This gives organisers a practical way to compare methods. Be clear about what participants can influence: a conversation organised to build understanding does not, by itself, give people [decision-making authority](/concepts/binding-vs-advisory/). The framework and other planning guides are linked from [the toolkit](/toolkit/decide-together/).
 
+Once the purpose is clear, [framing the guiding questions](/concepts/framing-questions/) helps people do the work intended: share experience, explore tensions or assess options. The wording should leave room for participants to surface concerns the organisers did not anticipate.
+
 ## Embedding it in the civil service
 
 The white paper's nine recommendations are less about set-piece assemblies than about wiring participation into routine government: a **standing citizens' pool** (a large, demographically managed panel departments can draw on cheaply), a **central hub of participatory-policymaking expertise**, citizens' panels alongside mission boards, training, departmental participation units and senior champions, citizen involvement in post-legislative scrutiny, and independent oversight to set standards.

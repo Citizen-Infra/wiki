@@ -41,6 +41,7 @@ Groups also use these platforms to discuss proposals and make decisions:
 
 ## Plan and facilitate a conversation
 
+- **[Framing questions](/concepts/framing-questions/)** — a practical guide, drawing on Catherine Barnes's [Toda report](https://toda.org/publications/policy-briefs-and-reports/framing-questions-for-dialogue-and-deliberation/), to choosing prompts for dialogue, deliberation and decisions. Includes phase-specific examples and checks for assumptions, participation and personal disclosure.
 - **[NCDD Resource Center](https://www.ncdd.org/rc.html)** — a collection of public-engagement methods, facilitation guides and assessment tools. Its [Beginner's Guide](https://www.ncdd.org/beginners-guide.html) is a starting point for people new to dialogue and deliberation.
 - **[NCDD Engagement Streams Framework](https://www.ncdd.org/streams.html)** — comparison charts for choosing an engagement method by its purpose, group size, meeting format and participant selection. See [participatory policymaking](/concepts/participatory-policymaking/) for its four purposes.
 
