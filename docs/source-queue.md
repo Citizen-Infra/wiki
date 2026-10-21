@@ -259,7 +259,6 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 
 ### From the Telegram digest
 
-- [ ] https://dialogue.publicai.ch/ — Swiss National AI Dialogue: a live public input channel for Switzerland's Apertus AI initiative, with anonymous participation and a promised open report.
 - [ ] https://martijndewaal.nl/a/3mrx3d67o5h23-root-systems-towards-a-decentralized-internet-at-dweb-camp — Martijn de Waal, "Root Systems: towards a decentralized internet at DWeb Camp": a report from the Sustaining Infrastructure track on concentration drift, public product organisations, and democratic skill.
 - [ ] https://medium.com/fito-network/what-does-a-network-know-16aedc3645ed — Brendon Johnson, "What Does a Network Know?": the Fito Network's account of its network-weaving research, data, and Network Weaving Game.
 - [ ] https://humanistreview.ai/issue-1/tang-ai-democracy-optimization/ — Audrey Tang, "AI and democracy: the right to resist optimization": an essay on institutions rewarding machine-legible behaviour and bounded, interruptible AI as a temporary prosthesis.
@@ -299,6 +298,7 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 
 ## Processed
 
+- [x] #84 — https://dialogue.publicai.ch/ — Swiss National AI Dialogue · 2026-10-21 · added the public-input example and privacy/authority limits on Public AI, a participation-channel toolkit entry, Swiss AI Initiative backlink and Library reference. Public report, documented influence, fuller method/FAQ reading and partner follow-ups remain on #84.
 - [x] #82 — https://www.connective-cities.net/en/media-center/ai-based-visualisation-for-sustainable-affordable-housing/ — Connective Cities, *AI-based Visualisation for Sustainable & Affordable Housing* · 2026-10-21 · fuller organiser account supports a bounded workshop example on AI for participation (Huye, Berlin, Nairobi, Hebron), plus Connective Cities ecosystem and Library entries. Not a resident-deliberation run report or evidence of implemented housing; product access and deeper methods/outcomes remain on #82.
 - [x] #80 — https://www.ncdd.org/ — National Coalition for Dialogue & Deliberation · 2026-10-21 · added network ecosystem entry, Resource Center and Engagement Streams toolkit links, the four-purpose method-selection distinction on Participatory policymaking and three Library resources. Deeper methods, guides and programme verification remain on #80.
 - [x] #78 — https://www.betterpolitics.foundation/democratic-innovation-organizations — Better Politics Foundation, *Pioneering Practitioners* · 2026-10-21 · cross-referenced all 36 directory entries; added 12 primary-verified ecosystem entries, Your Priorities / All Our Ideas / Policy Synth toolkit entries and the directory Library reference. Stale links, remaining verification gaps and deeper resource/case follow-ups remain on #78.

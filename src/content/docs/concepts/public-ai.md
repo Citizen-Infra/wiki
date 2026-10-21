@@ -16,6 +16,14 @@ This connects public AI to the wider argument that [knowledge is a commons](/con
 - **The Public AI Inference Utility** — a nonprofit platform that hosts public AI models behind a free chat front-end and a developer API, backed by donated compute from partners worldwide. The aim is an option that is publicly accessible, publicly accountable, and *permanent* — "a highway that can't disappear tomorrow." It's fiscally sponsored by [Metagov](/concepts/modular-politics/) and funded by Mozilla, the Future of Life Institute, and the Center for Cultural Innovation.
 - **Apertus**, built by the **Swiss AI Initiative** (EPFL, ETH Zurich, and the national supercomputing centre CSCS), is the flagship public model: fully open (weights, data, and training recipe), released under a permissive licence, at 8-billion and 70-billion-parameter sizes. It's deliberately multilingual, with effort spent on low-resource languages like Swiss German and Romansh, and trained only on permissively-licensed data — narrowing what its builders call the "compliance gap," the supposed quality cost of *not* training on copyrighted material.
 
+## Public input on Switzerland's AI
+
+The **[Swiss National AI Dialogue](https://dialogue.publicai.ch/)** invites people in Switzerland to share what they find useful or concerning about AI and what they want its builders to know. Its homepage connects that input to Apertus and promises an open public report. Change.org and Metagov, doing business as Public AI, operate the dialogue; its terms name the Swiss National AI Initiative, Collective Intelligence Project and Swiss {ai} Weeks as deliberation partners.
+
+Participation is open to adults aged 18 or over and does not require an account. The optional AI interviewer runs on Apertus. This is an experimental engagement exercise, not a government project or a binding vote: the [participation terms](https://dialogue.publicai.ch/swiss-national-ai-dialogue/terms) do not guarantee any governmental action. The promised report and any resulting changes to AI development should be assessed separately.
+
+The site's “anonymous” label needs a practical qualification. Submissions may be publicly visible with a participant's canton. The privacy notice describes browser identifiers, technical data, research-partner sharing and possible international processing. Avoid putting personal details into an answer, and read the notice before participating. The [toolkit](/toolkit/decide-together/) links to the dialogue.
+
 ## The bet, and the objection
 
 As models get small enough to run on a laptop or phone, why build a shared utility at all? The honest answer is that *most people won't* self-host, just as most people don't run a web server from their phone even though they could. So a genuinely public, non-terrible option has to exist — and stay public — or the default falls back to corporate control. Public AI is meant as a counterbalance: infrastructure whose direction is set by [democratic governance](/concepts/democratising-ai/), not only by an expansionist market logic.
@@ -45,3 +53,4 @@ Supplier dependence is one practical question within that argument. In a comment
 - Public AI Inference Utility & Apertus community Q&A, 2025: [youtube.com/watch?v=vgFB9opxRKs](https://www.youtube.com/watch?v=vgFB9opxRKs)
 - "Apertus: a fully open, transparent, multilingual language model" — ETH Zurich / EPFL / CSCS, September 2025: [ethz.ch](https://ethz.ch/en/news-and-events/eth-news/news/2025/09/press-release-apertus-a-fully-open-transparent-multilingual-language-model.html)
 - [publicai.co](https://publicai.co/)
+- [Swiss National AI Dialogue](https://dialogue.publicai.ch/) and its [Terms of Use and Privacy Notice](https://dialogue.publicai.ch/swiss-national-ai-dialogue/terms) — public input on AI in Switzerland; participation rules, data use and limits on official influence.
