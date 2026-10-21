@@ -30,6 +30,17 @@ Source: the report's [typology and examples](https://www.oecd.org/en/publication
 - **Sensemaking.** Helping people understand *what came out* of a process — and, crucially, where their own contribution landed. Done well, this addresses a deep weakness of representative systems: that you give up some immediate say for a collective outcome, and rarely get to see what it bought.
 - **Support at the individual level.** Assistants that help a participant flesh out an idea so others can understand it.
 
+## Making planning options visible
+
+AI-generated images can give people a concrete starting point for discussing a place. In a **22 January 2026 Connective Cities workshop**, city participants used **CoPlan AI** to generate and refine housing and public-space concepts while explaining their local constraints and priorities. The [organiser's account](https://www.connective-cities.net/en/media-center/ai-based-visualisation-for-sustainable-affordable-housing/) gives four examples:
+
+- **Huye, Rwanda:** upgrading an informal settlement with denser housing, a public plaza and neighbourhood services.
+- **Berlin, Germany:** exploring timber-based affordable housing with tram access, mixed uses and cycling infrastructure.
+- **Nairobi, Kenya:** combining low-rise housing, local transport and active ground floors along a busy street.
+- **Hebron, Palestine:** arranging housing around a park, with shade and paths following the terrain.
+
+These were visual concepts in a municipal peer-learning session. The organiser says the workshop focused on learning and exchange, not final design solutions. The account does not establish resident participation, technical feasibility, planning approval or construction. For a public process, those checks and a clear explanation of [what residents can influence](/concepts/binding-vs-advisory/) still matter. The [toolkit](/toolkit/decide-together/) includes other visualisation tools for exploring options together.
+
 ## Where to be careful
 
 AI here should augment a process, not run it. Sentiment estimation still isn't fully accurate, summaries can miss whole sections, and sensitive engagements need human review. The aim is to let institutions open up *more often* by lowering the cost — not to take people out of the loop. The sharpest caution is its own topic: see [synthetic participation](/concepts/synthetic-participation/).
@@ -47,3 +58,4 @@ In [Voice Matters' 2025 People's Panel](/run-reports/voice-matters-derry-2025/),
 - OECD and Bertelsmann Stiftung, [*Artificial Intelligence and the Future of Citizen Participation: Typology of Applications, Opportunities and Challenges for Democratic Innovation*](https://www.oecd.org/en/publications/artificial-intelligence-and-the-future-of-citizen-participation_a1ee2e0a-en.html) (2026).
 - Matt Stempeck, "Civic AI" — Metagov seminar, 2025: [youtube.com/watch?v=SonfdR0_h2w](https://www.youtube.com/watch?v=SonfdR0_h2w)
 - People Powered, *Guide to Digital Participation Platforms* — "Using AI": [peoplepowered.org/digital-guide-home](https://www.peoplepowered.org/digital-guide-home)
+- Connective Cities, [*AI-based Visualisation for Sustainable & Affordable Housing*](https://www.connective-cities.net/en/media-center/ai-based-visualisation-for-sustainable-affordable-housing/) (28 January 2026) — organiser's account of the 22 January peer-learning workshop.
