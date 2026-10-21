@@ -127,6 +127,7 @@ export default defineConfig({
             { slug: 'concepts/the-distribution-problem' },
             { slug: 'concepts/civic-products-and-features' },
             { slug: 'concepts/interoperability-and-standards' },
+            { slug: 'concepts/deliberative-tech-stack' },
             { slug: 'concepts/organizer-kit' },
             { slug: 'concepts/decentralized-landscape' },
             { slug: 'concepts/civic-intelligence-infrastructure' },
