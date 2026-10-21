@@ -41,6 +41,7 @@ Groups also use these platforms to discuss proposals and make decisions:
 
 ## Plan and facilitate a conversation
 
+- **[Democracy Beyond Elections handbook](https://www.newdemocracy.com.au/2026/09/14/democracy-beyond-elections-a-handbook-on-citizens-assemblies/)** — a free second-edition reference for people commissioning, planning, designing, delivering or facilitating a citizens' assembly. Start with the introduction and use our [role-based chapter map](/concepts/running-a-citizens-assembly/#reading-the-handbook-by-role) to choose where to read next.
 - **[Framing questions](/concepts/framing-questions/)** — a practical guide, drawing on Catherine Barnes's [Toda report](https://toda.org/publications/policy-briefs-and-reports/framing-questions-for-dialogue-and-deliberation/), to choosing prompts for dialogue, deliberation and decisions. Includes phase-specific examples and checks for assumptions, participation and personal disclosure.
 - **[NCDD Resource Center](https://www.ncdd.org/rc.html)** — a collection of public-engagement methods, facilitation guides and assessment tools. Its [Beginner's Guide](https://www.ncdd.org/beginners-guide.html) is a starting point for people new to dialogue and deliberation.
 - **[NCDD Engagement Streams Framework](https://www.ncdd.org/streams.html)** — comparison charts for choosing an engagement method by its purpose, group size, meeting format and participant selection. See [participatory policymaking](/concepts/participatory-policymaking/) for its four purposes.
