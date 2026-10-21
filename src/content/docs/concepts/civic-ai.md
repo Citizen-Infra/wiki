@@ -44,10 +44,15 @@ Audrey Tang calls a particular design stance **MaxOS**: carrying optimisation in
 
 Her alternative puts AI inside a community's existing work of listening and deciding. People choose its mandate, someone answers for its output, and the community can end its use. The [6-Pack of Care](/concepts/six-pack-of-care/#invite-it-hold-it-accountable-retire-it) describes what that means for charters, human sign-off and a planned hand-back. This also connects to [productive uncertainty](/concepts/productive-uncertainty/): useful assistance must leave room for people to form reasons and revise their judgment.
 
+In *AI and democracy: the right to resist optimization*, Tang separates **expression from obligation**. A model can help someone find words or prepare for a difficult conversation. The person still stands behind the promise, decision or response. Assistance with expression does not transfer responsibility to the tool.
+
+Her proposed test is what remains stronger after the tool steps back: people's ability to understand disagreement, exercise shared judgment and keep institutions correctable. This is an argument about the purpose of civic AI, not evidence that a particular system already achieves it.
+
 ## Sources
 
 - Georg Diez and Felix Beer, [*Democracy as a Social Technology*](https://informationaldemocracy.substack.com/p/democracy-as-a-social-technology) (1 August 2026) and [*The Infrastructural Transformation of the Public*](https://informationaldemocracy.substack.com/p/infrastructural-transformation-public) (22 August), Informational Democracy.
 - Audrey Tang, [*Dismantling MaxOS for Democracy*](https://informationaldemocracy.substack.com/p/dismantling-maxos-for-democracy) and [*Humane Radicalism*](https://informationaldemocracy.substack.com/p/humane-radicalism), Informational Democracy (2026).
+- Audrey Tang, [*AI and democracy: the right to resist optimization*](https://humanistreview.ai/issue-1/tang-ai-democracy-optimization/), The Humanist Review of AI, issue 1.
 - Matt Stempeck (Civic Tech Field Guide), "Civic AI" — Metagov seminar, 2025: [youtube.com/watch?v=SonfdR0_h2w](https://www.youtube.com/watch?v=SonfdR0_h2w)
 - Henry Farrell & Cosma Rohilla Shalizi, "AI as Social Technology" — Knight First Amendment Institute, 2026: [knightcolumbia.org](https://knightcolumbia.org/content/ai-as-social-technology). Builds on Farrell, Gopnik, Shalizi & Evans, "Large AI models are cultural and social technologies," *Science*, 2025.
 - [Civic Tech Field Guide](https://civictech.guide/)

@@ -40,6 +40,12 @@ Tang also asks for more than consent and exit: communities should be able to alt
 
 In her preceding essay, *Dismantling MaxOS for Democracy*, she describes the accountable route from participation to action: visible inputs, checkable synthesis, named human judgment, a way to contest it and a receiver with authority to act. A summary alone does not complete that route. In a comment, Jan Bunge adds that the record of influence and responsibility must survive a change of technology.
 
+## Bound the deployment, not just the model
+
+In *AI and democracy: the right to resist optimization*, Tang makes an important distinction: **boundedness is a property of deployment, not of capability**. A general-purpose foundation model can support a narrow, democratically defined task. The important questions are who sets that task, where its mandate ends and how the people affected can challenge its use.
+
+She calls for a named custodian, inspectable records, an appeal route and the ability to pause, override or retire the system. A translation aid should not quietly acquire a mandate to persuade people politically. Her alternative to a universal assistant is a federation of interoperable systems with local accountability. These are proposed governance conditions, not a claim that using a smaller model or hosting it locally supplies them automatically.
+
 ## Where it comes from
 
 The 6-Pack grew out of real deployments on "unusually prepared soil" — places with civic hackers, responsive institutions, and strong community life. Its case studies include Taiwan's [Alignment Assemblies](/run-reports/taiwan-alignment-assemblies/) (which used [Polis](/toolkit/decide-together/)-style sensemaking to respond to a wave of AI-enabled scam ads), Team Mirai in Japan, [Engaged California](/run-reports/engaged-california/), the Tibetan-language Monlam AI, and the ROOST federated safety network. The authors are careful that each is proof of a mechanism, not a plug-and-play template: in a new setting you start again by asking who is missing, who has standing, and who can stop the system.
@@ -48,6 +54,7 @@ Civic AI in this sense is less about smarter chatbots than stronger self-governm
 
 ## Sources
 
+- Audrey Tang, [*AI and democracy: the right to resist optimization*](https://humanistreview.ai/issue-1/tang-ai-democracy-optimization/), The Humanist Review of AI, issue 1 — scope, human responsibility and interruptibility.
 - Audrey Tang, [*Humane Radicalism*](https://informationaldemocracy.substack.com/p/humane-radicalism) (6 October 2026) and [*Dismantling MaxOS for Democracy*](https://informationaldemocracy.substack.com/p/dismantling-maxos-for-democracy) (18 August 2026), Informational Democracy. Includes [Jan Bunge's comment](https://informationaldemocracy.substack.com/p/dismantling-maxos-for-democracy/comment/325771491) on preserving the record across technology changes.
 - [Civic AI: the 6-Pack of Care](https://civic.ai/) — Audrey Tang & Caroline Emmer De Albuquerque Green, Oxford Institute for Ethics in AI. Framework site with the manifesto and per-pack pages; the book follows from Wiley in February 2027. Presented at the Civic AI Conference, Rhodes House, Oxford, 25 March 2026.
 - ["AI and the Future of Digital Public Squares"](https://journals.sagepub.com/doi/10.1177/26339137261459441) — *Collective Intelligence* (2026): a peer-reviewed agenda, co-authored by Tang with Beth Goldberg and Hélène Landemore among others, that cites the 6-Pack of Care directly.
