@@ -25,6 +25,12 @@ Whatever the format, the paper argues every good participatory process needs the
 
 Done well, the payoff is concrete: the Devon Climate Assembly turned a room of mostly anti-wind residents into 89% support for onshore wind once they could shape *how* it was done and where the benefits went; deliberation on Brexit moved both staunch leavers and staunch remainers toward the middle.
 
+## Match the method to the purpose
+
+Before choosing a format, ask what the conversation is for. The [National Coalition for Dialogue & Deliberation](/ecosystem/overview/)'s **Engagement Streams Framework** groups methods by four purposes: **exploration**, **conflict transformation**, **decision-making** and **collaborative action**. Its comparison charts also describe group size, meeting format and how participants are selected.
+
+This gives organisers a practical way to compare methods. Be clear about what participants can influence: a conversation organised to build understanding does not, by itself, give people [decision-making authority](/concepts/binding-vs-advisory/). The framework and other planning guides are linked from [the toolkit](/toolkit/decide-together/).
+
 ## Embedding it in the civil service
 
 The white paper's nine recommendations are less about set-piece assemblies than about wiring participation into routine government: a **standing citizens' pool** (a large, demographically managed panel departments can draw on cheaply), a **central hub of participatory-policymaking expertise**, citizens' panels alongside mission boards, training, departmental participation units and senior champions, citizen involvement in post-legislative scrutiny, and independent oversight to set standards.
@@ -37,3 +43,4 @@ This is the everyday-government end of the same project as [institutionalising d
 
 - "The Citizen's White Paper and the Civil Service" — Demos & Involve Collaborative Democracy Network event (Miriam Levin, Sarah Castell, with senior civil servants), 2024: [youtube.com/watch?v=eAkcea8rO7E](https://www.youtube.com/watch?v=eAkcea8rO7E)
 - Demos & Involve, *The Citizens' White Paper* (2024): [demos.co.uk](https://demos.co.uk/)
+- Sandy Heierbacher and the NCDD community, [*Engagement Streams Framework*](https://www.ncdd.org/streams.html) (first developed in 2005; linked guide updated in 2014).
