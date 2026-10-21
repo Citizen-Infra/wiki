@@ -32,7 +32,26 @@ The phase most often neglected, and the one that decides whether any of it matte
 
 The guide exists in English, Spanish, Basque, and Japanese with downloadable templates — part of the [scaling-catalyst](/concepts/scaling-catalysts/) work of turning a hard-won craft into something any community can pick up. For who should *govern* the process, see [letting citizens govern the assembly](/concepts/citizen-governance-of-assemblies/).
 
+## Reading the handbook by role
+
+The second edition of **[Democracy Beyond Elections: A Handbook on Citizens' Assemblies](https://www.newdemocracy.com.au/2026/09/14/democracy-beyond-elections-a-handbook-on-citizens-assemblies/)** is another practical reference. It is produced by newDemocracy in partnership with UNDP and UNDEF, drawing on experience from the Democracy R&D network. It is available as a [free PDF](https://www.newdemocracy.com.au/wp-content/uploads/2026/09/UNDEF_Handbook-2nd-Edition-Sept-2026.pdf).
+
+Its front matter recommends starting with the **Introduction, page 8**, then choosing chapters for your role. This reading map follows its contents; it is not a summary of the chapters.
+
+| What you need | Chapter | Printed start page |
+|---|---|---|
+| Foundations and basic concepts | 1 — Foundations of deliberative democracy | 14 |
+| Commissioning an assembly | 2 — For politicians and senior officials | 38 |
+| Planning and preparation | 3 — For senior officials | 66 |
+| Key design decisions | 4 — For project owners | 96 |
+| Delivery and operations | 5 — For project teams | 138 |
+| Facilitation | 6 — Facilitation | 166 |
+| Parliamentary and institutional models | 7 — Parliamentary and institutional models | 194 |
+
+These are the handbook's printed page numbers, not PDF page positions. Its preface presents the book as a reference for information and discussion; it does not imply UN endorsement of any particular methodology.
+
 ## Sources
 
 - Ieva Česnulaitytė & Claudia Chwalisz, *Assembling an Assembly: A how-to guide* — DemocracyNext, 2023: [assemblyguide.demnext.org](https://assemblyguide.demnext.org/)
 - Kimbra White, Nicole Hunter & Keith Greaves, *Facilitating Deliberation: A Practical Guide* — its [private Book Power MCP companion](https://bookpower.org/facilitating-deliberation/) provides process-design templates, readiness checks, activities, and facilitation guidance; access is available by request.
+- newDemocracy, in partnership with UNDP and UNDEF, [*Democracy Beyond Elections: A Handbook on Citizens' Assemblies*](https://www.newdemocracy.com.au/2026/09/14/democracy-beyond-elections-a-handbook-on-citizens-assemblies/), second edition — front matter and contents for the role-based reading map above.
