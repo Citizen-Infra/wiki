@@ -116,6 +116,7 @@ export default defineConfig({
             { slug: 'concepts/civic-listening' },
             { slug: 'concepts/ai-sensemaking' },
             { slug: 'concepts/conversation-networks' },
+            { slug: 'concepts/learning-across-a-network' },
             { slug: 'concepts/argument-mapping' },
             { slug: 'concepts/uncommon-ground' },
             { slug: 'concepts/ai-reflectors' },
