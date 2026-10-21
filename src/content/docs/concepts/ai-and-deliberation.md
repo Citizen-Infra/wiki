@@ -45,6 +45,8 @@ A worked example of several tools used together: after Kenya's 2024 "Gen-Z" prot
 
 The [zKE run report](/run-reports/zke-kenya/) follows those early consultations, with the organisers' participation figures and published findings.
 
+The [deliberative tech stack](/concepts/deliberative-tech-stack/) separates the jobs within a process like this, from humanizing and agenda setting to weighing scenarios and making decisions, with safety, privacy and recruitment as supporting foundations.
+
 This is the practical, tool-level companion to [AI for participation](/concepts/ai-for-participation/) and [synthetic participation](/concepts/synthetic-participation/). For platforms in this space, see [Decide & make sense together](/toolkit/decide-together/).
 
 ## Sources
