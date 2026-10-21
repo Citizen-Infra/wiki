@@ -29,9 +29,18 @@ Deb Roy calls the resulting pattern a **dialogue network**, and contrasts it wit
 
 Cortico keeps people at the centre and uses AI lightly. A more automated cousin runs the other way: hand an entire mass online conversation to an LLM and let it cluster the input, summarise it with citations, and surface where people converge and split. That method — [AI sensemaking](/concepts/ai-sensemaking/), the approach behind tools like [Jigsaw](/ecosystem/overview/)'s Sensemaker and the engine of Bowling Green's [25-year planning consultation](/run-reports/bowling-green-what-could-bg-be/) — trades the small-group, story-first texture for scale and speed, which is why its designers keep a [human in the loop](/concepts/ai-and-deliberation/). Two routes to the same hard problem of [hearing a whole community at once](/concepts/scaling-deliberation/).
 
+## Link feedback to planning proposals
+
+Returning people's voices is one part of the loop. The **Voice to Vision** research system explored another: making it possible to trace feedback into planning insights, goals and recommendations. It connected individual contributions to their source events and topics, showed which outputs cited them, and gave reasons for some contributions being uncited. In this implementation, planners supplied manually created tags and connections through spreadsheets; the study was not an evaluation of AI deciding which feedback counted.
+
+Hughes and colleagues evaluated planner and public-facing interfaces with seven planners and seventeen participants on the community-facing side, including council staff. Participants valued seeing community perspectives reflected, but also wanted concrete routes from feedback to action. A visible citation did not answer whether a proposal would be implemented.
+
+The study took place late in an existing planning process, after its vision and goals had largely been developed. Its samples were small and not representative, and some evaluators had helped design the system. It offers qualitative evidence about people's experiences and concerns, not proof that displaying links caused policy change. For organisers, the distinction matters: **a traceable proposal is not yet an implemented decision**, and transparency does not by itself give people [decision-making authority](/concepts/binding-vs-advisory/).
+
 ## Sources
 
 - The American Conversation Project, with Deb Roy (Cortico) — National Conference on Citizenship (2025): [youtube.com/watch?v=Zm3w5PkbVPo](https://www.youtube.com/watch?v=Zm3w5PkbVPo).
 - "From Division to Dialogue: How AI Can Save Democracy" — Deb Roy on *Life with Machines* w/ Baratunde Thurston (2025): [youtube.com/watch?v=qKTS0mfXRCk](https://www.youtube.com/watch?v=qKTS0mfXRCk).
 - "Translating Community Voices into Actionable Insights with AI" — Ethan Walker (Cortico), UK Democracy Network webinar (2026): [youtube.com/watch?v=1qLhm7iRyGY](https://www.youtube.com/watch?v=1qLhm7iRyGY). The source for the code-suggestion workflow above.
 - "Making sense of large-scale online conversations" — Jigsaw (Google, 2024), on the Sensemaker method: [medium.com/jigsaw](https://medium.com/jigsaw/making-sense-of-large-scale-online-conversations-b153340bda55).
+- Margaret Hughes, Cassandra Overney, Ashima Kamra, Jasmin Tepale, Elizabeth Hamby, Mahmood Jasim and Deb Roy, [*Voice to Vision: Enabling Shared Understanding in Civic Decision-Making through Participatory Data Infrastructure*](https://dl.acm.org/doi/10.1145/3788077), *Proceedings of the ACM on Human-Computer Interaction* (2026).
