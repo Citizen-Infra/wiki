@@ -77,6 +77,7 @@ A growing, annotated shelf of the talks, research, and writing we've found usefu
 
 ## Self-governance & democratic culture
 
+- **[What Does a Network Know? — Brendon Johnson, Fito Network](https://medium.com/fito-network/what-does-a-network-know-16aedc3645ed)** (30 July 2026) — a practitioner account of interpreting network data together, making learning tools, noticing emerging needs and mapping a funding ecosystem. The source for [learning across a network](/concepts/learning-across-a-network/); its proposed learning loop and research pilot are not presented as evaluated outcomes.
 - **[Cecile Green & Seth Frey on the Commoning Standard — Democracy Innovators Podcast (2026)](https://www.youtube.com/watch?v=0ekd-5YuHHE)** — a wide-ranging conversation on self-governance as a universal literacy, the forms of power, and where technology fits. The source behind our [Commoning Standard](/concepts/commoning-standard/) and related Concepts.
 - **Cecile Green, *Collaboration that Works: A Ruthlessly Practical Handbook for a Generative World*** — a practical handbook of power-sharing practices, summarising the research behind the Commoning Standard's "Collab."
 - **[Council of Europe — Reference Framework of Competences for Democratic Culture](https://www.coe.int/en/web/reference-framework-of-competences-for-democratic-culture)** — an official European framework of the values, attitudes, skills, and knowledge people need to take part in a democratic culture.
