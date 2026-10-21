@@ -92,6 +92,7 @@ A growing, annotated shelf of the talks, research, and writing we've found usefu
 
 ## Deliberative democracy & citizens' assemblies
 
+- **[Pioneering Practitioners: Democratic Innovation Organizations to Watch — Better Politics Foundation](https://www.betterpolitics.foundation/democratic-innovation-organizations)** — a directory, filterable by country or region, of organisations bringing democratic innovation to political leaders. A starting point for finding practitioners; check their own sites for current names, services and contact details. Several are included in [the ecosystem map](/ecosystem/overview/).
 - **[Hélène Landemore — Democracy Innovators Podcast (2026)](https://www.youtube.com/watch?v=QizItYVPA1E)** — the Yale theorist on open democracy, sortition, and what citizens' assemblies can (and can't) do. The source behind our [Deliberative democracy](/concepts/overview/) concepts.
 - **Hélène Landemore, *Open Democracy: Reinventing Popular Rule for the Twenty-First Century*** (Princeton, 2020) — the case for a democracy founded on lot rather than elections.
 - **Hélène Landemore, *Democratic Reason: Politics, Collective Intelligence, and the Rule of the Many*** (Princeton, 2013) — the epistemic argument: why inclusive, diverse groups make better decisions.
