@@ -12,7 +12,7 @@ The word *protocol* carries surprisingly deep meanings across very different wor
 - In many **indigenous** contexts, protocol names sovereign practices, rituals, and traditions — ways of knowing who you are even under colonisation — and also the **membrane between a community and the state** (in parts of Latin America and Canada, "protocol" is the word for the proper relationship between governments and indigenous communities).
 - There are **climate** protocols, **internet** protocols, and now protocols being written as **guardrails for AI**.
 
-What links them is that a protocol coordinates behaviour *without* a central ruler — it's a shared, repeatable pattern that lets independent parties act together. That makes it a powerful, under-appreciated alternative to top-down control, for organising both human communities and our relationship with our environment.
+What links them is a shared, repeatable pattern of interaction. A protocol can let independent parties act together *without* a central ruler, but protocols also operate inside hierarchies and state institutions. Their coordinating role does not, by itself, establish equal power or democratic control.
 
 ## Why it matters
 
@@ -53,6 +53,12 @@ Chi Ling Chan's [public-health-systems oral history](https://protocol.ecologies.
 
 Her emphasis on defaults raises questions for community governance: **whose objectives do the routines serve, who can revise them, and how can affected people question a change?** The interview offers a practitioner's perspective, not an evaluation of a health intervention or proof that faster decisions are more legitimate.
 
+## Coordination does not guarantee fairness
+
+In his [diplomatic-protocol oral history](https://protocol.ecologies.info/interviews/mannan-diplomatic_protocols/), Mosud Mannan describes formal understandings and the detailed routines of state visits. Shared expectations can make interactions more predictable, but he explicitly rejects the idea that protocol alone can create a fair world or prevent every war.
+
+For civic groups, that distinction matters: **following a procedure and sharing power fairly are different questions**. Ask who sets the rules, who can challenge them and what happens when powerful actors disregard them. See the [Power Matrix](/concepts/power-matrix/). Mannan's account is context for this distinction, not diplomatic training or evidence that a particular negotiation achieved justice.
+
 ## Sources
 
 - Nathan Schneider — Democracy Innovators Podcast (2026): [youtube.com/watch?v=jlyfhmUWX04](https://www.youtube.com/watch?v=jlyfhmUWX04) (from his forthcoming book on protocol).
@@ -61,4 +67,5 @@ Her emphasis on defaults raises questions for community governance: **whose obje
 - Rick Williams, [*Restorative justice*](https://protocol.ecologies.info/interviews/williams-restorative_justice/), interviewed by Nathan Schneider, Protocol Oral History Project (published 17 November 2025).
 - Michael Zargham, [*Ultimate frisbee*](https://protocol.ecologies.info/interviews/zargham-ultimate_frisbee/), interviewed by Nathan Schneider, Protocol Oral History Project (published 4 November 2024); [WFDF Rules of Ultimate 2025–2028](https://rules.wfdf.sport/wp-content/uploads/2024/12/WFDF-Rules-of-Ultimate-2025-2028.pdf), Section 1.
 - Chi Ling Chan, [*Public health systems*](https://protocol.ecologies.info/interviews/chan-public_health_systems/), interviewed by Nathan Schneider, Protocol Oral History Project (published 31 October 2025), used for the limited discussion of institutional defaults above.
+- Mosud Mannan, [*Diplomatic protocols*](https://protocol.ecologies.info/interviews/mannan-diplomatic_protocols/), interviewed by Nathan Schneider, Protocol Oral History Project (published 13 December 2024), used for the distinction between coordination and fairness above.
 - "Nathan Schneider: Contributions to a Glossary of Protocol" — Protocol Town Hall (2025): [youtube.com/watch?v=-5Lq2uaOgBw](https://www.youtube.com/watch?v=-5Lq2uaOgBw).
