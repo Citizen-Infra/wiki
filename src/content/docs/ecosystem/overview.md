@@ -92,6 +92,7 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 
 ## Commons & self-governance
 
+- **[Good Market](https://www.goodmarket.global/)** — describes itself as a digital commons connecting enterprises and networks that prioritise people and the planet. Its [published governance and curation arrangements](/concepts/the-commons/#make-the-boundary-and-the-review-process-visible) distinguish a shared baseline, participant proposals and additional network standards. Approval is not blanket independent certification of every product or claim.
 - **[Organization for Ethical Source](https://ethicalsource.dev/)** — a community focused on ethical outcomes in open-source and public-interest technologies. It stewards **Contributor Covenant**, whose [adaptation resources](/toolkit/coordinate-a-community/#set-expectations-and-a-way-to-address-harm) help digital communities describe conduct, reporting and enforcement. Its mission and stewardship do not establish the effectiveness of every community's policy or the legal enforceability of a software licence.
 - **[The Commoning Standard](https://www.roundskysolutions.com/commoning-standard/)** — a Round Sky Solutions initiative synthesising scattered research and practice into open standards for effective self-governance ("commoning"), treating self-governance as a universal literacy.
 - **[Ostrom Workshop](https://ostromworkshop.indiana.edu/)** — a world-leading research centre at Indiana University on the commons and commons governance, in the tradition of Elinor and Vincent Ostrom.
