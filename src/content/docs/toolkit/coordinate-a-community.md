@@ -16,6 +16,14 @@ Before a group can act together, it has to organise itself: agree on who decides
 
 - **[Community power in health](/concepts/community-power-in-health/)** — a resident-facing checklist and links to four question guides from Cormac Russell and Lisa McNally, hosted by New Local. Use them to discuss priorities, decision rights, funding, inclusion and reporting back with local health and public-service leaders. The guides come from a UK policy context and are discussion resources, not clinical advice or a validated programme score.
 
+## Set expectations and a way to address harm
+
+**[Contributor Covenant](https://www.contributor-covenant.org/)** is a code-of-conduct resource for digital communities, created by Coraline Ada Ehmke and stewarded by the Organization for Ethical Source. Its current [3.0 text](https://www.contributor-covenant.org/version/3/0/) covers expected behaviour, reporting and responses to harm. Use the [adaptation guide](https://www.contributor-covenant.org/adopt) to review it for your community; the static text still contains reporting placeholders that you must replace.
+
+Agree who receives reports, who can make enforcement decisions, what confidentiality means and how decisions can be questioned. The suggested consequence ladder is guidance, not an automatic punishment algorithm. The text also distinguishes ordinary conflict from a code violation. A policy on a website is not proof that people can report safely or receive a fair response; see [a covenant and its working process](/concepts/modular-politics/#a-covenant-needs-a-working-process).
+
+The source text uses **CC BY-SA 4.0**. Follow its reuse conditions if adapting it; this guide links the material rather than republishing a community's completed policy. No report, policy submission or download workflow was tested here.
+
 ## Consider who governs your host
 
 **[CoSocial](https://cosocial.ca/about)** is a cooperative-run social-media service for Canada using Mastodon. Its public description says members vote at meetings, elect directors and join working groups. Its [membership page](https://join.cosocial.ca/sign-up/) sets individual adult/Canadian eligibility and Canada-based organisation requirements, with membership fees and an invitation process. Registration and service delivery were not tested for this guide.
