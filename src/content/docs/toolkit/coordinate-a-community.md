@@ -16,6 +16,12 @@ Before a group can act together, it has to organise itself: agree on who decides
 
 - **[Community power in health](/concepts/community-power-in-health/)** — a resident-facing checklist and links to four question guides from Cormac Russell and Lisa McNally, hosted by New Local. Use them to discuss priorities, decision rights, funding, inclusion and reporting back with local health and public-service leaders. The guides come from a UK policy context and are discussion resources, not clinical advice or a validated programme score.
 
+## Consider who governs your host
+
+**[CoSocial](https://cosocial.ca/about)** is a cooperative-run social-media service for Canada using Mastodon. Its public description says members vote at meetings, elect directors and join working groups. Its [membership page](https://join.cosocial.ca/sign-up/) sets individual adult/Canadian eligibility and Canada-based organisation requirements, with membership fees and an invitation process. Registration and service delivery were not tested for this guide.
+
+It is an example to examine, not a claim that every federated server is member-run. When choosing a host, review who appoints administrators, makes moderation rules, hears appeals and pays ongoing costs. See [federation versus member control](/concepts/decentralized-landscape/#federation-and-member-control-are-different).
+
 ## Prepare for difficult conversations
 
 - **[Working with conflict](/concepts/working-with-conflict/)** — questions about purpose, roles, power, consent and confidentiality, grounded in Bernard Mayer's account of conflict engagement and professional mediation guidance. A starting point for choosing appropriate support, not a mediation qualification or a guarantee that dialogue is suitable or safe.
