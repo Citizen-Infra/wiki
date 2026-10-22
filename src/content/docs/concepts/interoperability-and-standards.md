@@ -57,6 +57,8 @@ But interoperability also needs continuity through change. The current [migratio
 
 ## A familiar idea, wearing work clothes
 
+In commerce, [open networks](/concepts/open-networks/) apply shared protocols to discovery and transactions across apps. The distinction between a common specification and a network's participation rules matters: technical connection is not the same as fair terms or a democratic say.
+
 Interoperability is the practical cousin of ideas already in this wiki: [protocol](/concepts/protocol/) (coordinating without a central ruler), [modular politics](/concepts/modular-politics/) (composing governance from interchangeable parts), and the [Commoning Standard](/concepts/commoning-standard/) (shared, reusable patterns for self-governance). Standards are how those ideas stop being philosophy and start being plumbing.
 
 ## Sources
