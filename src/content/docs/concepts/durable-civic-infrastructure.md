@@ -35,6 +35,12 @@ In his [union-negotiating oral history](https://protocol.ecologies.info/intervie
 
 For civic organisers, the relevant question is whether people have the time and resources to participate, not simply whether a meeting is open to them. Reddy's argument is not evidence that a shorter workweek necessarily increases civic participation or works identically in every workplace. [WorkFour](/ecosystem/overview/) campaigns for a four-day, thirty-two-hour week with full pay and benefits; that aim is not a statement of universal legal entitlement.
 
+## Steward public software beyond the prototype
+
+In Martijn de Waal's [DWeb Camp account](https://martijndewaal.nl/a/3mrx3d67o5h23-root-systems-towards-a-decentralized-internet-at-dweb-camp), Ben Cerveny proposes **Public Product Organisations** as vehicles for ongoing stewardship of shared public software. The aim is to maintain and develop a common product with participating institutions, while allowing adaptation to local needs, rather than treating a promising prototype as the end of the work.
+
+The [official session abstract](https://talx.dod.ngo/dwebcamp-2026/talk/ATLKXZ/) identifies this as a policy proposal. It raises concrete questions for a community relying on public software: who will maintain it, who pays after initial funding ends, and how do users and participating institutions influence its direction? The [Foundation for Public Code](/ecosystem/overview/) works on these stewardship questions; the proposal is not, by itself, proof of an enacted legal category or a particular product's long-term viability.
+
 ## Sources
 
 - Gideon Lichfield, "The Lexington Experiment" (Parts I & II) — Futurepolis, 2026, interviewing CivicLex director Richard Young: [futurepolis.substack.com](https://futurepolis.substack.com/p/the-lexington-experiment-part-i)
@@ -42,3 +48,4 @@ For civic organisers, the relevant question is whether people have the time and 
 - Camille Acey, [*Organizational closures*](https://protocol.ecologies.info/interviews/acey-organizational_closures/), interviewed by Nathan Schneider, Protocol Oral History Project (published 6 May 2025); The Wind Down's [self-assessment](https://wind-down.org/resources/the-self-assessment/) and [*Towards Your “Tombstone Site”*](https://www.wind-down.org/2024/10/22/towards-your-tombstone-site/) (22 October 2024).
 - Michael Zargham, [*Ultimate frisbee*](https://protocol.ecologies.info/interviews/zargham-ultimate_frisbee/), interviewed by Nathan Schneider, Protocol Oral History Project (published 4 November 2024).
 - Vishal Reddy, [*Union negotiating*](https://protocol.ecologies.info/interviews/reddy-union_negotiating/), interviewed by Nathan Schneider, Protocol Oral History Project (published 24 June 2026); [WorkFour's stated campaign](https://workfour.org/).
+- Martijn de Waal, [*Root Systems: towards a decentralized internet at Dweb Camp*](https://martijndewaal.nl/a/3mrx3d67o5h23-root-systems-towards-a-decentralized-internet-at-dweb-camp) (31 July 2026); Ben Cerveny's [*Making Things Public: the Public Product Organization as a Vehicle for Infrastructural Stewardship*](https://talx.dod.ngo/dwebcamp-2026/talk/ATLKXZ/), official DWeb Camp session abstract (9 July 2026).
