@@ -13,6 +13,12 @@ It also offers [neighbourhood updates](https://opencouncil.gr/en/notifications) 
 
 On the [inspected meeting page](https://opencouncil.gr/zografou/sep21_2026_2/subjects/cmu5lhjw104kb11hx0c294h97), summaries are labelled AI-generated and link to a timestamped transcript and recording. Use these as routes into the record. Check important claims against the recording and signed municipal minutes or decisions before concluding what was formally adopted. Access to a summary is not itself a way to submit a view or change a council decision.
 
+## Explore city datasets
+
+**[Analyze Boston](https://data.boston.gov/)** is Boston's official open-data hub, with datasets on subjects including budgets, permits and service requests. Start by finding the relevant dataset and checking its dates, geographic scope and field definitions.
+
+The portal also lists **[OpenContext (beta)](https://data.boston.gov/showcase/opencontext-democratizing-the-city-of-boston-s-open-data-currently-in-beta)** for asking questions about those datasets through an AI client. The official listing links connection guidance and a public repository. A connector session and answer accuracy were not tested for this guide. Follow that documentation for current access conditions; do not treat a generated answer as an official decision or assume the tool can submit service requests. See [the infrastructure and authority distinction](/concepts/interoperability-and-standards/#connect-public-data-without-handing-over-decisions).
+
 ## Budgets and community proposals
 
 **[Bangkok Budgeting](https://bangkokbudgeting.wevis.info/)**, by WeVis, lets people explore Bangkok's spending and community projects. Its [community-fund guide](https://bangkokbudgeting.wevis.info/communityfund/) explains how ideas move through community forums and proposal preparation to district review and procurement. The website also collects ideas for communities to consider; submitting an idea is one step in that wider process.
@@ -28,6 +34,7 @@ For the civic team behind these projects, see [the WeVis story](/stories/wevis-t
 
 ## Sources
 
+- [Analyze Boston](https://data.boston.gov/) and its [official OpenContext beta listing](https://data.boston.gov/showcase/opencontext-democratizing-the-city-of-boston-s-open-data-currently-in-beta).
 - [OpenCouncil — service overview, coverage and operator](https://opencouncil.gr/en/about)
 - [OpenCouncil — neighbourhood notifications](https://opencouncil.gr/en/notifications)
 - [OpenCouncil — inspected agenda item and linked transcript/recording](https://opencouncil.gr/zografou/sep21_2026_2/subjects/cmu5lhjw104kb11hx0c294h97)
