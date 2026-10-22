@@ -17,6 +17,12 @@ From pure gift to patient investment:
 - **Revenue & membership** — *freemium* that keeps the core commons free, recurring membership (**Liberapay**), the **Open Collective** model of fully transparent collective finances (a "fiscal host" handles the legal and banking side so a group with no legal entity can still receive money), cooperative revenue-share (the **Enspiral** model), and Community-Supported-X (the farm-share idea extended to media, culture, and land).
 - **Investment, adapted for the commons** — **capped returns**, where investors get a fair return up to a ceiling, after which the venture buys them out and reinvests all surplus in its mission; **purpose/patient capital** for long-horizon infrastructure; and **bioregional financing** for place-based work.
 
+## An income stream is not the whole mission
+
+In his [oral history of language teaching at CIDOC](https://protocol.ecologies.info/interviews/brito-language_learning/), Hermilo Brito recalls combining Spanish teaching with research, seminars and discussion. He describes language-teaching income as an important source of support for that wider work.
+
+It is a historical account, not a complete financial evaluation or a current school recommendation. For collective learning projects, it raises a practical question: **can an income-generating activity sustain the work without becoming the whole purpose?** The answer still depends on costs, access, labour and who sets priorities—not merely on finding something to sell.
+
 ## Transparency as infrastructure
 
 Two practices run through all of it. **Open value accounting** tracks and rewards distributed contribution, so the people who actually do the work are recognised — not just whoever signed the founding documents. And **open-book finances** build the trust that coordination depends on. Both are close kin of the [Commoning Standard](/concepts/commoning-standard/)'s view of self-governance as a shared, learnable practice.
@@ -25,4 +31,5 @@ For concrete platforms you can use today, see [Fund collective work](/toolkit/fu
 
 ## Sources
 
+- Hermilo Brito, [*Language learning*](https://protocol.ecologies.info/interviews/brito-language_learning/), interviewed by Nathan Schneider, Protocol Oral History Project (published 8 April 2026), used for the limited attributed financing account above.
 - Brandon Nørgaard — *Peerfunding and Commons-Based Finance* (2026), drawing on the [P2P Foundation](https://wiki.p2pfoundation.net/)'s work on peer production and transvestment.
