@@ -16,6 +16,14 @@ Before a group can act together, it has to organise itself: agree on who decides
 
 - **[Community power in health](/concepts/community-power-in-health/)** — a resident-facing checklist and links to four question guides from Cormac Russell and Lisa McNally, hosted by New Local. Use them to discuss priorities, decision rights, funding, inclusion and reporting back with local health and public-service leaders. The guides come from a UK policy context and are discussion resources, not clinical advice or a validated programme score.
 
+## Plan handovers, pauses and endings
+
+**[The Wind Down](https://www.wind-down.org/resources/)**, run by Camille E. Acey, offers resources for mission-driven groups considering or carrying out a closure. Its public [self-assessment](https://wind-down.org/resources/the-self-assessment/) combines reflection with practical questions about people, responsibilities and useful resources. It is non-exhaustive, not a score that tells you whether to close.
+
+Its [final-website guide](https://www.wind-down.org/2024/10/22/towards-your-tombstone-site/) covers clear closure messages, signposts to other support, useful archives and a plan for the website's future. Check that a suggested successor has capacity before directing people there. Decide what can safely be shared rather than making all organisational records public.
+
+Start the conversation before an emergency: who can authorise a pause or ending, who needs to hear, what commitments remain, and what could pass to another steward? These are planning resources, not legal dissolution, employment, financial or therapeutic advice. See [continuity without permanence](/concepts/durable-civic-infrastructure/#continuity-does-not-require-every-organisation-to-last-forever).
+
 ## Build coordination skills
 
 - **[Network Weaving Game](https://www.network-weaver-game.com/)** — a Fito Network reflection tool for people coordinating networks and communities. Its questions cover cultivating networks, collaborating systemically, learning together and embodying wellbeing, with follow-on resources for planning and practice. Use it to identify learning goals; the public pages do not establish a validated score of a network's effectiveness. See [learning across a network](/concepts/learning-across-a-network/).
