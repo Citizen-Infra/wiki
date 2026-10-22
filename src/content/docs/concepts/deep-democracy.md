@@ -28,6 +28,8 @@ Deep democracy uses a **consent-based** decision model close in spirit to [socio
 
 For citizen infrastructure, deep democracy is a facilitation craft, a way to [decide together](/toolkit/decide-together/) that builds the trust and authenticity a group needs before [civic love](/concepts/civic-love/) and good deliberation are even possible.
 
+For a different practitioner's account of conflict engagement, including the limits of quick agreement and the distinction between mediator and advocate, see [Working with conflict](/concepts/working-with-conflict/). It is not the same method as Lewis Deep Democracy.
+
 ## Sources
 
 - Leen Schelfhout, "Deep Democracy" introductory session, 2024: [youtube.com/watch?v=7ZZ3xmEwkos](https://www.youtube.com/watch?v=7ZZ3xmEwkos)

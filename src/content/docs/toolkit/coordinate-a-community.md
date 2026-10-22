@@ -16,6 +16,10 @@ Before a group can act together, it has to organise itself: agree on who decides
 
 - **[Community power in health](/concepts/community-power-in-health/)** — a resident-facing checklist and links to four question guides from Cormac Russell and Lisa McNally, hosted by New Local. Use them to discuss priorities, decision rights, funding, inclusion and reporting back with local health and public-service leaders. The guides come from a UK policy context and are discussion resources, not clinical advice or a validated programme score.
 
+## Prepare for difficult conversations
+
+- **[Working with conflict](/concepts/working-with-conflict/)** — questions about purpose, roles, power, consent and confidentiality, grounded in Bernard Mayer's account of conflict engagement and professional mediation guidance. A starting point for choosing appropriate support, not a mediation qualification or a guarantee that dialogue is suitable or safe.
+
 ## Plan handovers, pauses and endings
 
 **[The Wind Down](https://www.wind-down.org/resources/)**, run by Camille E. Acey, offers resources for mission-driven groups considering or carrying out a closure. Its public [self-assessment](https://wind-down.org/resources/the-self-assessment/) combines reflection with practical questions about people, responsibilities and useful resources. It is non-exhaustive, not a score that tells you whether to close.

@@ -68,6 +68,7 @@ export default defineConfig({
             { slug: 'concepts/commoning-standard' },
             { slug: 'concepts/community-power-in-health' },
             { slug: 'concepts/power-matrix' },
+            { slug: 'concepts/working-with-conflict' },
             { slug: 'concepts/cargo-cult-democracy' },
             { slug: 'concepts/tech-place-is-education' },
             { slug: 'concepts/funding-the-commons' },

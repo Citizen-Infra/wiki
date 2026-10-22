@@ -144,6 +144,7 @@ Citizen infrastructure isn't built by one group. It's a growing movement of orga
 
 ## Bridging & community building
 
+- **[CDR Associates](https://www.cdrassociates.org/)** — works on public engagement, facilitation and collaboration in areas including transportation, land management, disaster resilience and water resources. Founding partner Bernard Mayer's [conflict-engagement oral history](/concepts/working-with-conflict/) is a situated practitioner account, not an evaluation of the organisation's current services.
 - **[Toda Peace Institute](https://toda.org/)** — an independent, nonpartisan peace-research institute that publishes policy-oriented reports and convenes dialogue and problem-solving across divides. Its practical work includes Catherine Barnes's guidance on [framing questions](/concepts/framing-questions/).
 - **[Co-operation Ireland](https://cooperationireland.org/)** — a peacebuilding organisation whose Voice Matters programme brings residents together through local citizens' panels. The [2025 Derry/Londonderry panel](/run-reports/voice-matters-derry-2025/) combined human facilitation with participant checks on AI-assisted records.
 - **[Braver Angels](https://braverangels.org/)** — a citizens' organisation uniting "red" and "blue" Americans in a working alliance to bridge the partisan divide and depolarise the country.
