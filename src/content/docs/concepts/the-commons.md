@@ -19,6 +19,15 @@ There's no single blueprint. A commons varies with what's being stewarded — la
 
 This is the foundation under the rest of the commons concepts here: [enclosure](/concepts/enclosure/) (how commons get taken), [the OntoShift](/concepts/the-ontoshift/) (the mindset commoning requires), [relational property](/concepts/relational-property/), and the practical question of [funding the commons](/concepts/funding-the-commons/). It also sits alongside the [Commoning Standard](/concepts/commoning-standard/)'s view of self-governance as a learnable literacy.
 
+## Make the boundary and the review process visible
+
+Amanda Kiessel's [community-standards oral history](https://protocol.ecologies.info/interviews/kiessel-good_market/) describes **Good Market** as shared infrastructure for enterprises and networks that prioritise people and the planet. Its published [governance model](https://www.goodmarket.global/info/community-rules/governing-the-commons/) separates public access to information from participation by approved enterprises. Those enterprises can propose rule changes; networks can add their own criteria to a common baseline.
+
+Its [directory policy](https://www.goodmarket.global/info/community-rules/directory-policy/) also makes approval revisable. Application claims appear on profiles, people with evidence can flag false claims, and a curation team reviews them. Review may lead to corrections, other action or removal. A listing under the shared minimum standards is not the same thing as every additional certification a network may offer.
+
+This is a documented arrangement to examine, not an independent finding that every review is fair or every enterprise meets its claims. For a commons, the useful questions are concrete: **who can participate, who can change rules, what is visible, and what happens when someone challenges a claim?** The [coordination toolkit](/toolkit/coordinate-a-community/#find-groups-with-shared-standards) links the resource.
+
 ## Sources
 
 - David Bollier — *Think Like a Commoner* (2nd ed.); on Team Human w/ Douglas Rushkoff (2025): [youtube.com/watch?v=5NrkkC8tQGQ](https://www.youtube.com/watch?v=5NrkkC8tQGQ). The [Book Power MCP companion](https://bookpower.org/think-like-a-commoner/) lets an AI agent work with Bollier's commons cases, enclosure patterns, and Ostrom-based assessment questions.
+- Amanda Kiessel, [*Community standards*](https://protocol.ecologies.info/interviews/kiessel-good_market/), interviewed by Nathan Schneider, Protocol Oral History Project (published 29 October 2024); Good Market's [governance model](https://www.goodmarket.global/info/community-rules/governing-the-commons/) and [directory policy](https://www.goodmarket.global/info/community-rules/directory-policy/).

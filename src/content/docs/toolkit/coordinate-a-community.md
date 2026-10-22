@@ -24,6 +24,12 @@ Agree who receives reports, who can make enforcement decisions, what confidentia
 
 The source text uses **CC BY-SA 4.0**. Follow its reuse conditions if adapting it; this guide links the material rather than republishing a community's completed policy. No report, policy submission or download workflow was tested here.
 
+## Find groups with shared standards
+
+**[Good Market](https://www.goodmarket.global/)** is a directory and network platform for enterprises and initiatives working on social and environmental aims. Its [published directory policy](https://www.goodmarket.global/info/community-rules/directory-policy/) explains baseline approval, public claims and evidence-based review. Networks may have additional membership or certification requirements, so check what a particular listing or badge actually means.
+
+Use it as a discovery resource, not blanket assurance about a supplier, product or partner. Public documentation and the directory interface were inspected; applications, review outcomes and transactions were not tested. See [shared standards and revisable approval](/concepts/the-commons/#make-the-boundary-and-the-review-process-visible).
+
 ## Consider who governs your host
 
 **[CoSocial](https://cosocial.ca/about)** is a cooperative-run social-media service for Canada using Mastodon. Its public description says members vote at meetings, elect directors and join working groups. Its [membership page](https://join.cosocial.ca/sign-up/) sets individual adult/Canadian eligibility and Canada-based organisation requirements, with membership fees and an invitation process. Registration and service delivery were not tested for this guide.
