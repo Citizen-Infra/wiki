@@ -29,9 +29,16 @@ For civic infrastructure, the question is what capacity remains available to peo
 
 In his [ultimate-frisbee oral history](https://protocol.ecologies.info/interviews/zargham-ultimate_frisbee/), Michael Zargham describes newcomers learning from experienced players and student teams passing responsibilities between cohorts. His later volunteer roles involved disputes and the practical work of keeping leagues going, not simply designing a structure once. The lesson he draws is about sustained attention to norms and practices. It is a participant's account, not an evaluation showing that a sport's model will work for every civic organisation. See [procedures for disagreement](/concepts/protocol/#agree-what-happens-when-people-cannot-agree).
 
+## People need time as well as an invitation
+
+In his [union-negotiating oral history](https://protocol.ecologies.info/interviews/reddy-union_negotiating/), Vishal Reddy argues that shorter working time could make more room for family, community and other parts of life. His account also distinguishes changing a policy on paper from protecting the resulting time through expectations, communication and ongoing collective attention.
+
+For civic organisers, the relevant question is whether people have the time and resources to participate, not simply whether a meeting is open to them. Reddy's argument is not evidence that a shorter workweek necessarily increases civic participation or works identically in every workplace. [WorkFour](/ecosystem/overview/) campaigns for a four-day, thirty-two-hour week with full pay and benefits; that aim is not a statement of universal legal entitlement.
+
 ## Sources
 
 - Gideon Lichfield, "The Lexington Experiment" (Parts I & II) — Futurepolis, 2026, interviewing CivicLex director Richard Young: [futurepolis.substack.com](https://futurepolis.substack.com/p/the-lexington-experiment-part-i)
 - Cormac Russell and Lisa McNally, [*Putting the Neighbourhood Back into Neighbourhood Health*](https://www.newlocal.org.uk/publications/putting-the-neighbourhood-back-into-neighbourhood-health/), New Local (2026), and accompanying question guides.
 - Camille Acey, [*Organizational closures*](https://protocol.ecologies.info/interviews/acey-organizational_closures/), interviewed by Nathan Schneider, Protocol Oral History Project (published 6 May 2025); The Wind Down's [self-assessment](https://wind-down.org/resources/the-self-assessment/) and [*Towards Your “Tombstone Site”*](https://www.wind-down.org/2024/10/22/towards-your-tombstone-site/) (22 October 2024).
 - Michael Zargham, [*Ultimate frisbee*](https://protocol.ecologies.info/interviews/zargham-ultimate_frisbee/), interviewed by Nathan Schneider, Protocol Oral History Project (published 4 November 2024).
+- Vishal Reddy, [*Union negotiating*](https://protocol.ecologies.info/interviews/reddy-union_negotiating/), interviewed by Nathan Schneider, Protocol Oral History Project (published 24 June 2026); [WorkFour's stated campaign](https://workfour.org/).
