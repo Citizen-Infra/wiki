@@ -31,8 +31,13 @@ Schneider also argues protocols were the *dominant* form of human organisation l
 
 Protocols do not come only from elegant rules. Lisa Dusseault's [oral history of interoperability standards](https://protocol.ecologies.info/interviews/dusseault-interoperability/) describes the relationships, institutional interests and patient implementation work behind them. She warns that an open mailing list can still exclude people if hostile encounters drive them away. The point is not that openness fails, but that **access on paper and the ability to keep participating are different things**. See [standards, participation and implementation](/concepts/interoperability-and-standards/#standards-need-people-and-implementations).
 
+## Leaving and having a say are different
+
+Bryan Newbold's protocol-engineering oral history separates **credible exit** from decentralisation and democratic governance. A person may be able to change providers without having a vote over the shared rules. Whether that choice is practical also depends on independent providers, resources and usable migration tools. See [credible exit and its limits](/concepts/decentralized-landscape/#credible-exit-is-not-the-same-as-governance).
+
 ## Sources
 
 - Nathan Schneider — Democracy Innovators Podcast (2026): [youtube.com/watch?v=jlyfhmUWX04](https://www.youtube.com/watch?v=jlyfhmUWX04) (from his forthcoming book on protocol).
 - Lisa Dusseault, [*Interoperability standards*](https://protocol.ecologies.info/interviews/dusseault-interoperability/), interviewed by Nathan Schneider, Protocol Oral History Project (published 10 October 2025).
+- Bryan Newbold, [*Protocol engineering*](https://protocol.ecologies.info/interviews/newbold-protocol_engineering/), interviewed by Nathan Schneider, Protocol Oral History Project (published 12 August 2025).
 - "Nathan Schneider: Contributions to a Glossary of Protocol" — Protocol Town Hall (2025): [youtube.com/watch?v=-5Lq2uaOgBw](https://www.youtube.com/watch?v=-5Lq2uaOgBw).
