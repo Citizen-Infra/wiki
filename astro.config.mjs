@@ -66,6 +66,7 @@ export default defineConfig({
           ]},
           { label: 'Self-governance & power', collapsed: true, items: [
             { slug: 'concepts/commoning-standard' },
+            { slug: 'concepts/community-power-in-health' },
             { slug: 'concepts/power-matrix' },
             { slug: 'concepts/cargo-cult-democracy' },
             { slug: 'concepts/tech-place-is-education' },
