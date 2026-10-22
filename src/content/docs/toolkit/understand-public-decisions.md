@@ -13,6 +13,14 @@ It also offers [neighbourhood updates](https://opencouncil.gr/en/notifications) 
 
 On the [inspected meeting page](https://opencouncil.gr/zografou/sep21_2026_2/subjects/cmu5lhjw104kb11hx0c294h97), summaries are labelled AI-generated and link to a timestamped transcript and recording. Use these as routes into the record. Check important claims against the recording and signed municipal minutes or decisions before concluding what was formally adopted. Access to a summary is not itself a way to submit a view or change a council decision.
 
+## Search Dutch meeting documents
+
+**[OpenBesluitvorming](https://openbesluitvorming.nl/)** brings together public meeting information from participating Dutch municipalities, provinces and water boards: agendas, documents, motions, amendments and other decision-making records. Search for an issue or local organisation, then examine the meeting context and original document before concluding what was adopted. An agenda item or motion is not necessarily a decision that passed.
+
+The portal warns that imported records may be incomplete, incorrect or out of date. It also warns that material removed locally may remain in other copies for a time. Check dates and important details against the originating authority's records; a missing search result does not prove that nothing was discussed.
+
+For people reusing the data, use the current [API documentation](https://openbesluitvorming.nl/docs/api) and [migration guide](https://openbesluitvorming.nl/docs/migration-guide). The older linked-data interface described in Ontola's 2019 article is not the replacement API's contract; see [the historical and current distinction](/concepts/interoperability-and-standards/#make-meeting-records-reusable).
+
 ## Explore city datasets
 
 **[Analyze Boston](https://data.boston.gov/)** is Boston's official open-data hub, with datasets on subjects including budgets, permits and service requests. Start by finding the relevant dataset and checking its dates, geographic scope and field definitions.
@@ -34,6 +42,7 @@ For the civic team behind these projects, see [the WeVis story](/stories/wevis-t
 
 ## Sources
 
+- [OpenBesluitvorming — scope, participating organisations and data disclaimer](https://openbesluitvorming.nl/), with its [current migration guide](https://openbesluitvorming.nl/docs/migration-guide).
 - [Analyze Boston](https://data.boston.gov/) and its [official OpenContext beta listing](https://data.boston.gov/showcase/opencontext-democratizing-the-city-of-boston-s-open-data-currently-in-beta).
 - [OpenCouncil — service overview, coverage and operator](https://opencouncil.gr/en/about)
 - [OpenCouncil — neighbourhood notifications](https://opencouncil.gr/en/notifications)
