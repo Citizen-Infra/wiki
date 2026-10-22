@@ -31,12 +31,21 @@ Model Context Protocol (MCP) provides a common interface for connecting AI appli
 
 For residents, the practical starting point is the [official data catalogue and beta documentation](/toolkit/understand-public-decisions/#explore-city-datasets). Check the dataset's coverage, update date and definitions before relying on an answer. Boston's [data strategy](https://www.boston.gov/departments/analytics-team/our-city-wide-data-strategy) likewise treats documentation, lineage and trust as foundations for using AI, not optional extras.
 
+## Make meeting records reusable
+
+Public documents are not automatically a connected public record. In [*Publishing Dutch governmental meetings as linked data*](https://ontola.io/blog/publishing-dutch-governmental-meetings-as-linked-data/) (15 December 2019), Ontola describes bringing incompatible meeting systems together: extracting text from PDFs, mapping records into a common model, retaining source metadata and giving resources resolvable identifiers. The aim was to let different applications reuse meeting information rather than each rebuilding the same collection. Topic and location classifications were additional interpretations, not the original record itself.
+
+The practical lesson is to preserve relationships as well as text: **which document belongs to which agenda item and meeting, from which authority, and in which version?** This makes search results easier to understand and check. [OpenBesluitvorming](/toolkit/understand-public-decisions/#search-dutch-meeting-documents) provides a current route into Dutch local and regional records, built through collaboration involving Ontola, VNG and the Open State Foundation.
+
+But interoperability also needs continuity through change. The current [migration guide](https://openbesluitvorming.nl/docs/migration-guide) says the replacement search API does not support the old RDF resolver, JSON-LD or RDF content negotiation, and that old numeric identifiers cannot be looked up there. The 2019 article therefore explains an earlier architecture, not a guarantee about today's interface. VNG's [ORI standard documentation](https://vng-realisatie.github.io/ODS-Open-Raadsinformatie/) is a separate reference for the shared government-information model and interfaces. Check the version and actual implementation before assuming two systems connect.
+
 ## A familiar idea, wearing work clothes
 
 Interoperability is the practical cousin of ideas already in this wiki: [protocol](/concepts/protocol/) (coordinating without a central ruler), [modular politics](/concepts/modular-politics/) (composing governance from interchangeable parts), and the [Commoning Standard](/concepts/commoning-standard/) (shared, reusable patterns for self-governance). Standards are how those ideas stop being philosophy and start being plumbing.
 
 ## Sources
 
+- Ontola, [*Publishing Dutch governmental meetings as linked data*](https://ontola.io/blog/publishing-dutch-governmental-meetings-as-linked-data/) (15 December 2019), checked alongside [OpenBesluitvorming](https://openbesluitvorming.nl/), its current migration guide and VNG's standard documentation linked above.
 - [*Building an “Agentic Middleware” for the City Government: Boston’s Experiment with Model Context Protocol*](https://rebootdemocracy.ai/blog/boston-agentic-middleware), Reboot Democracy, interview with Santiago Garces (9 March 2026), checked alongside the official beta listing, repository, employee policy and data strategy linked above.
 - Matt Stempeck — Democracy Innovators Podcast (2026): [youtube.com/watch?v=jQ-PZUNkNfg](https://www.youtube.com/watch?v=jQ-PZUNkNfg).
 - [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) — Developers Italia metadata standard.
