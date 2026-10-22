@@ -25,7 +25,7 @@ Shared work needs shared resources. These tools help a community raise and manag
 
 ## Explore models before choosing one
 
-- **[Beautiful Solutions MCP](https://bookpower.org/beautiful-solutions/)** — searches 85 values, principles, questions, solutions, and stories from the solidarity-economy toolbox, then helps an AI agent compare models or prepare a discussion without treating one community's example as a universal answer.
+- **[Beautiful Solutions online toolbox](https://beautifultrouble.org/toolbox/bsol)** — freely readable values, principles, questions, solutions and stories for exploring solidarity-economy models. You can start with the [Community Land Trust entry](https://beautifultrouble.org/toolbox/tool/bsol-community-land-trust). An independent [Book Power MCP companion](https://bookpower.org/beautiful-solutions/) searches an 85-entry English snapshot and helps an AI agent compare models or prepare a discussion, keeping each example in its local context.
 
 Two patterns worth knowing as you grow — **capped returns** (investors earn up to a ceiling, then the venture reinvests all surplus in its mission) and **open value accounting** (tracking and rewarding everyone who contributes, not just founders) — are explained in [Funding the commons](/concepts/funding-the-commons/).
 
