@@ -41,6 +41,22 @@ AI-generated images can give people a concrete starting point for discussing a p
 
 These were visual concepts in a municipal peer-learning session. The organiser says the workshop focused on learning and exchange, not final design solutions. The account does not establish resident participation, technical feasibility, planning approval or construction. For a public process, those checks and a clear explanation of [what residents can influence](/concepts/binding-vs-advisory/) still matter. The [toolkit](/toolkit/decide-together/) includes other visualisation tools for exploring options together.
 
+## Structure idea generation without mistaking it for a decision
+
+Mark Klein's July 2026 [AIdeator preprint](https://www.researchgate.net/publication/410918872_A_Case_Study_on_AI-Assisted_Scalable_Deliberation) describes a research prototype for structured human–AI ideation. People and AI build a **deliberation tree** linking a mission to stakeholders, goals, barriers, causes and possible solutions. The method separates several jobs:
+
+- **Define the problem.** Identify whose goals matter and what prevents them from being achieved. AI proposes context questions and draft answers for people to check against their local knowledge.
+- **Explore alternatives.** Look for a similar problem in another field, then use its solutions as inspiration—not as proof that they will work here.
+- **Develop an idea.** Add improvements and follow-up questions about details and possible failures, rather than stopping at the first plausible suggestion.
+
+The paper reports a **January 2026 workshop with roughly 50 utility-company employees**, in five groups of about ten, exploring carbon-neutral electricity. Each group used one scribe and computer, spending an hour defining problems and an hour generating ideas. There were no dedicated workgroup facilitators; observers rotated between groups and feedback was gathered in facilitated plenaries and a later survey with **six responses**. This was a corporate workshop, not a citizens' assembly or representative public consultation.
+
+The author reports **50 solution nodes**, but the workshop did **not critique, filter or select solutions**. That count does not establish solution quality, implementation, emissions reductions or a public mandate. Nor does this case establish that the approach works at larger scales.
+
+The observations also show why human control needs more than an edit button: seeking consensus before the scribe entered each point became a bottleneck; context questions took substantial time; and participants experienced tension between structure and freedom. AI sometimes ignored the requested solution scope, produced familiar rather than novel ideas, and accepted assumptions without challenging them. Automatic rewriting of people's entries helped clarify ideas but left some feeling a lack of control. These concerns qualify the author's optimistic conclusion about retained agency.
+
+For a public process, distinguish **generating options** from [summarising what people actually said](/concepts/ai-sensemaking/) and from [having authority to decide](/concepts/binding-vs-advisory/). AIdeator is discussed here as a research example, not a verified available tool or a tested recipe for citizen deliberation.
+
 ## Where to be careful
 
 AI here should augment a process, not run it. Sentiment estimation still isn't fully accurate, summaries can miss whole sections, and sensitive engagements need human review. The aim is to let institutions open up *more often* by lowering the cost — not to take people out of the loop. The sharpest caution is its own topic: see [synthetic participation](/concepts/synthetic-participation/).
@@ -55,6 +71,7 @@ In [Voice Matters' 2025 People's Panel](/run-reports/voice-matters-derry-2025/),
 
 ## Sources
 
+- Mark Klein, [*A Case Study on AI-Assisted Scalable Deliberation*](https://www.researchgate.net/publication/410918872_A_Case_Study_on_AI-Assisted_Scalable_Deliberation) (July 2026), DOI 10.13140/RG.2.2.34792.64001 — preprint; method, workshop and feedback reported by the author, not an independent comparative evaluation.
 - OECD and Bertelsmann Stiftung, [*Artificial Intelligence and the Future of Citizen Participation: Typology of Applications, Opportunities and Challenges for Democratic Innovation*](https://www.oecd.org/en/publications/artificial-intelligence-and-the-future-of-citizen-participation_a1ee2e0a-en.html) (2026).
 - Matt Stempeck, "Civic AI" — Metagov seminar, 2025: [youtube.com/watch?v=SonfdR0_h2w](https://www.youtube.com/watch?v=SonfdR0_h2w)
 - People Powered, *Guide to Digital Participation Platforms* — "Using AI": [peoplepowered.org/digital-guide-home](https://www.peoplepowered.org/digital-guide-home)
