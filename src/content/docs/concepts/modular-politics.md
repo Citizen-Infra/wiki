@@ -17,12 +17,19 @@ Flexible governance also needs clear descriptions of the choices a community has
 
 The authors also identify a privacy problem: governance information can be sensitive. Their proposed JSON-LD format and different visibility levels are development directions, not an established interoperability or privacy guarantee. A card describes an arrangement; it does not establish that the arrangement is followed or gives members meaningful power. The [coordination toolkit](/toolkit/coordinate-a-community/#document-community-governance) records the project's prototype status.
 
+## A covenant needs a working process
+
+Coraline Ada Ehmke describes **Contributor Covenant** as making a community's values and expectations explicit. In her [oral history](https://protocol.ecologies.info/interviews/ehmke-contributor_covenant/), she also warns that routine adoption can weaken the signal that leaders have actively committed to those values. Maintaining the document and putting it into practice are continuing responsibilities.
+
+The current [Contributor Covenant 3.0](https://www.contributor-covenant.org/version/3/0/) asks communities to supply reporting details and review enforcement arrangements. Its suggested responses depend on human judgment; they are not a substitute for deciding who has authority, how conflicts of interest are handled or how people can challenge a decision. Nor does a shared code by itself transfer control from an administrator to members. The [coordination toolkit](/toolkit/coordinate-a-community/#set-expectations-and-a-way-to-address-harm) links the adaptation resources.
+
 ## Why it matters
 
 Modular politics reframes the question from "what's the right way to govern an online community?" to "how do we build tools that let *every* community find its own?" It's a direct attempt to make flexible, creative self-governance a standard feature of online life. (Schneider's more recent work asks whether an AI agent reading a plain-language constitution could do this even more flexibly — see [constitutional agents](/concepts/constitutional-agents/).)
 
 ## Sources
 
+- Coraline Ada Ehmke, [*Codes of conduct*](https://protocol.ecologies.info/interviews/ehmke-contributor_covenant/), interviewed by Nathan Schneider, Protocol Oral History Project (published 10 October 2024), checked alongside the current [Contributor Covenant text](https://www.contributor-covenant.org/version/3/0/) and [adoption guide](https://www.contributor-covenant.org/adopt).
 - Nathan Schneider — Democracy Innovators Podcast (2026): [youtube.com/watch?v=jlyfhmUWX04](https://www.youtube.com/watch?v=jlyfhmUWX04)
 - "Modular Politics: Toward a Governance Layer for Online Communities" — Metagov (Frey, Schneider, et al., 2021).
 - [*Governable Spaces* — Book Power MCP companion](https://bookpower.org/governable-spaces/) — explores modular politics alongside other governance forms and the failure modes they are meant to counter.
