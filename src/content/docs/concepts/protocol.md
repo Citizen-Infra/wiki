@@ -47,6 +47,12 @@ The **[WFDF Rules of Ultimate 2025–2028](https://rules.wfdf.sport/)** make res
 
 This is an example to think with, not a rule to transplant into every community. Sporting contexts have agreed boundaries, and competition formats vary. Their procedures do not establish how to protect rights, address abuse or resolve unequal power in civic life; see [Working with conflict](/concepts/working-with-conflict/).
 
+## Defaults can change, but change has costs
+
+Chi Ling Chan's [public-health-systems oral history](https://protocol.ecologies.info/interviews/chan-public_health_systems/) describes institutional protocols as people's routines and expectations, not just software. In her account, crisis conditions made rapid changes possible, but could also accelerate mistakes. She cautions against assuming arrangements developed in Singapore would transfer unchanged elsewhere.
+
+Her emphasis on defaults raises questions for community governance: **whose objectives do the routines serve, who can revise them, and how can affected people question a change?** The interview offers a practitioner's perspective, not an evaluation of a health intervention or proof that faster decisions are more legitimate.
+
 ## Sources
 
 - Nathan Schneider — Democracy Innovators Podcast (2026): [youtube.com/watch?v=jlyfhmUWX04](https://www.youtube.com/watch?v=jlyfhmUWX04) (from his forthcoming book on protocol).
@@ -54,4 +60,5 @@ This is an example to think with, not a rule to transplant into every community.
 - Bryan Newbold, [*Protocol engineering*](https://protocol.ecologies.info/interviews/newbold-protocol_engineering/), interviewed by Nathan Schneider, Protocol Oral History Project (published 12 August 2025).
 - Rick Williams, [*Restorative justice*](https://protocol.ecologies.info/interviews/williams-restorative_justice/), interviewed by Nathan Schneider, Protocol Oral History Project (published 17 November 2025).
 - Michael Zargham, [*Ultimate frisbee*](https://protocol.ecologies.info/interviews/zargham-ultimate_frisbee/), interviewed by Nathan Schneider, Protocol Oral History Project (published 4 November 2024); [WFDF Rules of Ultimate 2025–2028](https://rules.wfdf.sport/wp-content/uploads/2024/12/WFDF-Rules-of-Ultimate-2025-2028.pdf), Section 1.
+- Chi Ling Chan, [*Public health systems*](https://protocol.ecologies.info/interviews/chan-public_health_systems/), interviewed by Nathan Schneider, Protocol Oral History Project (published 31 October 2025), used for the limited discussion of institutional defaults above.
 - "Nathan Schneider: Contributions to a Glossary of Protocol" — Protocol Town Hall (2025): [youtube.com/watch?v=-5Lq2uaOgBw](https://www.youtube.com/watch?v=-5Lq2uaOgBw).
