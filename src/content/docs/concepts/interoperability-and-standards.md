@@ -21,6 +21,14 @@ After years of stagnation, a few things picked up momentum:
 - **Protocols nobody can capture.** [RadicalxChange](/ecosystem/overview/)'s *Plural Stack* argues Europe's answer to Big Tech isn't its own national champions or yet more regulation but **open, interoperable protocols** that no single actor can monopolise — grounded in diverse ecosystems, community-led standards, decentralisation, and user/creator value, and worked through technical, economic, and social layers. The same instinct as [protocol](/concepts/protocol/) and [plurality](/concepts/plurality/), aimed squarely at digital sovereignty.
 - **Honest comparison.** People Powered and the Field Guide reviewed around 30 participation platforms for which features they have, whether you can *export your data*, and what they interoperate with — the baseline that real interoperability has to clear.
 
+## Standards need people and implementations
+
+In her [oral history of interoperability work](https://protocol.ecologies.info/interviews/dusseault-interoperability/), Lisa Dusseault distinguishes agreeing on a data format from making services work together. Sending a calendar attachment is one task; letting a different application access and manage a calendar is another. She co-authored **CalDAV**, whose [published specification](https://www.rfc-editor.org/rfc/rfc4791) builds on WebDAV and iCalendar to define calendar access. A shared format is a useful foundation, not proof that every service supports the same workflow.
+
+Dusseault describes standards work as coalition-building as well as writing specifications. Reusing agreed components reduced the questions her collaborators had to reopen; involving implementers helped connect the design to software people could use. She argues for including contributors from large companies while remaining alert to their employers' interests. That is a practitioner's judgment about adoption, not a guarantee against capture.
+
+She also warns that formally open participation can lose voices when people are treated badly and leave. In her account, moderation is part of making participation possible, not simply a restriction on it. For a community choosing shared infrastructure, ask **who can contribute, who can afford the work, how harmful conduct is handled, and who actually implements the result**. These questions connect interoperability with [community governance](/concepts/modular-politics/), rather than treating it as plumbing alone.
+
 ## Connect public data without handing over decisions
 
 Boston's **OpenContext** illustrates a different connection: between an AI assistant and a city's public-data catalogue. In a [9 March 2026 interview](https://rebootdemocracy.ai/blog/boston-agentic-middleware), Santiago Garces, introduced there as Boston's CIO, describes finding datasets, generating SQL queries and moving computation into the data portal rather than asking the model to analyse large downloads itself. These are the interviewee's account of the approach, not independent accuracy results.
@@ -45,6 +53,7 @@ Interoperability is the practical cousin of ideas already in this wiki: [protoco
 
 ## Sources
 
+- Lisa Dusseault, [*Interoperability standards*](https://protocol.ecologies.info/interviews/dusseault-interoperability/), interviewed by Nathan Schneider, Protocol Oral History Project (published 10 October 2025); [RFC 4791: CalDAV](https://www.rfc-editor.org/rfc/rfc4791) verifies its authorship and scope.
 - Ontola, [*Publishing Dutch governmental meetings as linked data*](https://ontola.io/blog/publishing-dutch-governmental-meetings-as-linked-data/) (15 December 2019), checked alongside [OpenBesluitvorming](https://openbesluitvorming.nl/), its current migration guide and VNG's standard documentation linked above.
 - [*Building an “Agentic Middleware” for the City Government: Boston’s Experiment with Model Context Protocol*](https://rebootdemocracy.ai/blog/boston-agentic-middleware), Reboot Democracy, interview with Santiago Garces (9 March 2026), checked alongside the official beta listing, repository, employee policy and data strategy linked above.
 - Matt Stempeck — Democracy Innovators Podcast (2026): [youtube.com/watch?v=jQ-PZUNkNfg](https://www.youtube.com/watch?v=jQ-PZUNkNfg).
