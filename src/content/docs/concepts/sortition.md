@@ -21,9 +21,16 @@ Sortition isn't everyone deciding everything directly — someone still has to s
 
 Sortition didn't vanish between Athens and the modern revival. Medieval and Renaissance city-states used the lot to fill civic offices and check factional capture. Brussels is a striking case: as the writer Hugh Pope documents, from **1375** the city chose its governing aldermen by lot — eligible patricians drew marked balls from an urn to decide who would represent each lineage — and in **1421** it extended lottery selection to give the city's 49 craft guilds a share of power. The Italian republics of Venice and Florence ran comparable lottery-and-rotation schemes. Choosing by lot, in other words, is not an untested novelty but a practice with centuries behind it.
 
+## Random selection does not by itself establish representation
+
+Federico Ast's [decentralised-justice oral history](https://protocol.ecologies.info/interviews/ast-decentralized_justice/) describes **Kleros**, which uses juror selection in a blockchain-based dispute-resolution protocol. Its current [selection documentation](https://docs.kleros.io/concepts/sortition) says that, in the token-based mechanism, jurors are drawn from people staking PNK tokens, with probability proportional to stake. One juror may be drawn more than once and receive multiple votes.
+
+This is a lottery, but it is not the same arrangement as drawing a representative citizen panel with equally weighted participation. Ast also discusses other possible selection designs; their existence or proposed development is not proof of a representative public mandate. When evaluating any system labelled sortition, ask **who enters the pool, how chances and votes are weighted, who is missing, and what authority the resulting body has**.
+
 ## Sources
 
 - Hélène Landemore — Democracy Innovators Podcast (2026): [youtube.com/watch?v=QizItYVPA1E](https://www.youtube.com/watch?v=QizItYVPA1E)
+- Federico Ast, [*Decentralized justice*](https://protocol.ecologies.info/interviews/ast-decentralized_justice/), interviewed by Nathan Schneider, Protocol Oral History Project (published 31 January 2025); [Kleros's current selection documentation](https://docs.kleros.io/concepts/sortition).
 - Hugh Pope, "Sortition goes back further in Brussels than many people think" — the medieval Brussels history: [linkedin.com/pulse](https://www.linkedin.com/pulse/sortition-goes-back-further-brussels-than-many-people-hugh-pope-73rmf)
 - Terry Bouricius, *Democracy Without Politicians* — its [Book Power MCP companion](https://bookpower.org/democracy-without-politicians/) searches and returns Bouricius's verbatim passages on sortition, real assemblies, and the multi-body design.
 - See [what a citizens' assembly is](/concepts/citizens-assembly/) for sortition in practice.

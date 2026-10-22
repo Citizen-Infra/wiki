@@ -29,6 +29,12 @@ His criticism of neutrality is not a licence to manipulate people. The **2005 Mo
 
 These questions are a starting point, not mediation training. Violence, abuse or an inability to participate safely may require postponing or ending a process and seeking appropriate specialist help; a facilitator cannot guarantee safety or substitute for legal or clinical support.
 
+## A protocol ruling is not a mediated agreement
+
+Federico Ast's [decentralised-justice oral history](https://protocol.ecologies.info/interviews/ast-decentralized_justice/) describes another kind of process: **Kleros** selects jurors to evaluate evidence and deliver a ruling. Its [published mechanism](https://docs.kleros.io/concepts/dispute-resolution) uses token incentives and can return decisions to an application for execution. That differs from a mediator helping parties make their own agreement.
+
+Do not infer public court authority or universal legal enforceability from the name “court” or from a smart contract carrying out a decision. Consent, scope, cost, appeal and the relationship to applicable law remain separate questions. Nor do financial incentives or majority agreement by themselves establish that a ruling is correct or fair. This guide did not test a dispute, stake tokens or evaluate case outcomes. See also [what the selection pool represents](/concepts/sortition/#random-selection-does-not-by-itself-establish-representation).
+
 ## Connect it to community governance
 
 Groups can make room for disagreement in their [rules and roles](/concepts/modular-politics/) before a crisis. [Framing questions](/concepts/framing-questions/) can help prepare a conversation, while [Deep democracy](/concepts/deep-democracy/) describes a distinct approach to working with minority views and tension. They are related resources, not interchangeable methods.
@@ -37,6 +43,7 @@ The [coordination toolkit](/toolkit/coordinate-a-community/#prepare-for-difficul
 
 ## Sources
 
+- Federico Ast, [*Decentralized justice*](https://protocol.ecologies.info/interviews/ast-decentralized_justice/), interviewed by Nathan Schneider, Protocol Oral History Project (published 31 January 2025); Kleros documentation on [dispute resolution](https://docs.kleros.io/concepts/dispute-resolution).
 - Bernard Mayer, [*Mediation*](https://protocol.ecologies.info/interviews/mayer-mediation/), interviewed by Nathan Schneider, Protocol Oral History Project (published 7 February 2025).
 - Bernard Mayer and Jacqueline N. Font-Guzmán, [*From Disruption to Engagement*](https://ssir.org/books/excerpts/entry/from_disruption_to_engagement), a published excerpt from *The Neutrality Trap: Disrupting and Connecting for Social Change* (Wiley, 2022). The full book was not reviewed for this guide.
 - American Arbitration Association, American Bar Association and Association for Conflict Resolution, [*Model Standards of Conduct for Mediators*](https://icdr.org/sites/default/files/document_repository/Model_Standards_of_Conduct_for_Mediators.pdf) (September 2005), especially Standards I, II and VI.
