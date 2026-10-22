@@ -25,7 +25,14 @@ The advice to builders: don't start from a single tool or feature. Go big, meta,
 
 One vivid version of "education first" comes from the Stanford political economist Andy Hall, who argues that the answer to AI in the classroom isn't to ban it but to make it an **object of study**. In his teaching, students don't just use AI; they build their own *evals* — small tests that probe what a model actually does: where it lands on a moral dilemma, whether it can predict an election, how it handles a sensitive data scenario. Building the test is the literacy. A student who has written an eval understands a model's limits in a way no amount of using it conveys — and, Hall's civic point, is now equipped to hold a system to account against their own values rather than take its outputs on trust. It's the offline test in a new key: the capacity (knowing what to measure, and why) comes first; the tool only amplifies it. Scaled up, it's a route to the kind of broadly-distributed AI literacy that lets a public, not just a lab, judge whether a system is [worthy](/concepts/does-ai-weaken-institutions/) of trust.
 
+## Look at what people learn, not only what a tool produces
+
+In his [DWeb Camp report](https://martijndewaal.nl/a/3mrx3d67o5h23-root-systems-towards-a-decentralized-internet-at-dweb-camp), Martijn de Waal describes Seth Frey's distinction between a tool's **summative** result and its **formative** effects. A record of a meeting is one result; practising how to listen, reason and work through disagreement is another. Automating the first does not establish that people retain or develop the second.
+
+De Waal's own question is whether infrastructure can make people more capable of self-governance rather than govern on their behalf. For organisers, that suggests two separate checks: **what did the process produce, and what are participants better able to do afterwards?** This is a design argument, not evidence that every use of AI diminishes learning or that a particular tool builds democratic skills.
+
 ## Sources
 
 - Cecile Green & Seth Frey on the Commoning Standard — Democracy Innovators Podcast (2026): [youtube.com/watch?v=0ekd-5YuHHE](https://www.youtube.com/watch?v=0ekd-5YuHHE)
+- Martijn de Waal, [*Root Systems: towards a decentralized internet at Dweb Camp*](https://martijndewaal.nl/a/3mrx3d67o5h23-root-systems-towards-a-decentralized-internet-at-dweb-camp) (31 July 2026), reporting Frey's talk and developing his own question about formative infrastructure.
 - Andy Hall, "An army of citizens building evals" — Free Systems, 2026: [freesystems.substack.com](https://freesystems.substack.com/p/an-army-of-citizens-building-evals)

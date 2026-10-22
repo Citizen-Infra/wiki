@@ -33,6 +33,7 @@ This is a governance example, not a recommendation to join a specific scheme, ta
 
 ## Explore models before choosing one
 
+- **[Democratic Tech Fund](https://democratictech.fund/what-we-do/)** — describes a model linking community technology transitions, shared learning, local Funding Circles, crowdfunding and institutional match-funding. It is a resource for exploring collective support for community-controlled infrastructure, not a verified open grant round. Check current participation and funding conditions; no membership, application or funding delivery was tested for this guide.
 - **[Beautiful Solutions online toolbox](https://beautifultrouble.org/toolbox/bsol)** — freely readable values, principles, questions, solutions and stories for exploring solidarity-economy models. You can start with the [Community Land Trust entry](https://beautifultrouble.org/toolbox/tool/bsol-community-land-trust). An independent [Book Power MCP companion](https://bookpower.org/beautiful-solutions/) searches an 85-entry English snapshot and helps an AI agent compare models or prepare a discussion, keeping each example in its local context.
 
 Two patterns worth knowing as you grow — **capped returns** (investors earn up to a ceiling, then the venture reinvests all surplus in its mission) and **open value accounting** (tracking and rewarding everyone who contributes, not just founders) — are explained in [Funding the commons](/concepts/funding-the-commons/).
