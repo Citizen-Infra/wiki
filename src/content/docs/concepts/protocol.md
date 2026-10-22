@@ -39,10 +39,19 @@ Rick Williams's [oral history](https://protocol.ecologies.info/interviews/willia
 
 Bryan Newbold's protocol-engineering oral history separates **credible exit** from decentralisation and democratic governance. A person may be able to change providers without having a vote over the shared rules. Whether that choice is practical also depends on independent providers, resources and usable migration tools. See [credible exit and its limits](/concepts/decentralized-landscape/#credible-exit-is-not-the-same-as-governance).
 
+## Agree what happens when people cannot agree
+
+Michael Zargham's [ultimate-frisbee oral history](https://protocol.ecologies.info/interviews/zargham-ultimate_frisbee/) offers a bounded example of self-governance. He describes learning not just a rulebook, but how to make a call, hear a disagreement and keep playing. He also describes teaching newcomers, volunteer leadership and the work of handing roles on.
+
+The **[WFDF Rules of Ultimate 2025–2028](https://rules.wfdf.sport/)** make responsibilities explicit: players administer the rules, teams teach them, and experienced players help novices. Rule 1.12 supplies a fallback when discussion cannot establish what happened: return the disc to the last undisputed thrower. Shared norms do not remove the need for a defined procedure when interpretations differ.
+
+This is an example to think with, not a rule to transplant into every community. Sporting contexts have agreed boundaries, and competition formats vary. Their procedures do not establish how to protect rights, address abuse or resolve unequal power in civic life; see [Working with conflict](/concepts/working-with-conflict/).
+
 ## Sources
 
 - Nathan Schneider — Democracy Innovators Podcast (2026): [youtube.com/watch?v=jlyfhmUWX04](https://www.youtube.com/watch?v=jlyfhmUWX04) (from his forthcoming book on protocol).
 - Lisa Dusseault, [*Interoperability standards*](https://protocol.ecologies.info/interviews/dusseault-interoperability/), interviewed by Nathan Schneider, Protocol Oral History Project (published 10 October 2025).
 - Bryan Newbold, [*Protocol engineering*](https://protocol.ecologies.info/interviews/newbold-protocol_engineering/), interviewed by Nathan Schneider, Protocol Oral History Project (published 12 August 2025).
 - Rick Williams, [*Restorative justice*](https://protocol.ecologies.info/interviews/williams-restorative_justice/), interviewed by Nathan Schneider, Protocol Oral History Project (published 17 November 2025).
+- Michael Zargham, [*Ultimate frisbee*](https://protocol.ecologies.info/interviews/zargham-ultimate_frisbee/), interviewed by Nathan Schneider, Protocol Oral History Project (published 4 November 2024); [WFDF Rules of Ultimate 2025–2028](https://rules.wfdf.sport/wp-content/uploads/2024/12/WFDF-Rules-of-Ultimate-2025-2028.pdf), Section 1.
 - "Nathan Schneider: Contributions to a Glossary of Protocol" — Protocol Town Hall (2025): [youtube.com/watch?v=-5Lq2uaOgBw](https://www.youtube.com/watch?v=-5Lq2uaOgBw).
