@@ -21,12 +21,23 @@ After years of stagnation, a few things picked up momentum:
 - **Protocols nobody can capture.** [RadicalxChange](/ecosystem/overview/)'s *Plural Stack* argues Europe's answer to Big Tech isn't its own national champions or yet more regulation but **open, interoperable protocols** that no single actor can monopolise — grounded in diverse ecosystems, community-led standards, decentralisation, and user/creator value, and worked through technical, economic, and social layers. The same instinct as [protocol](/concepts/protocol/) and [plurality](/concepts/plurality/), aimed squarely at digital sovereignty.
 - **Honest comparison.** People Powered and the Field Guide reviewed around 30 participation platforms for which features they have, whether you can *export your data*, and what they interoperate with — the baseline that real interoperability has to clear.
 
+## Connect public data without handing over decisions
+
+Boston's **OpenContext** illustrates a different connection: between an AI assistant and a city's public-data catalogue. In a [9 March 2026 interview](https://rebootdemocracy.ai/blog/boston-agentic-middleware), Santiago Garces, introduced there as Boston's CIO, describes finding datasets, generating SQL queries and moving computation into the data portal rather than asking the model to analyse large downloads itself. These are the interviewee's account of the approach, not independent accuracy results.
+
+Boston's [official portal now lists OpenContext as a beta](https://data.boston.gov/showcase/opencontext-democratizing-the-city-of-boston-s-open-data-currently-in-beta) and links a public [CityOfBoston repository](https://github.com/CityOfBoston/OpenContext). The interview's proposed extensions to service requests, identity and payments should not be confused with verified functions of that beta.
+
+Model Context Protocol (MCP) provides a common interface for connecting AI applications to tools and data. It does not, by itself, guarantee correct answers, safe access or permission to act. Its [security principles](https://modelcontextprotocol.org/specification/2026-07-28) require implementers to build consent, access controls and data protections. Boston's [published employee policy](https://www.boston.gov/government/cabinets/innovation-and-technology/city-boston-generative-artificial-intelligence-gen-ai) separately prohibits using generative AI to determine eligibility for services or benefits. **Being able to query public records is not authority to decide someone's entitlement.**
+
+For residents, the practical starting point is the [official data catalogue and beta documentation](/toolkit/understand-public-decisions/#explore-city-datasets). Check the dataset's coverage, update date and definitions before relying on an answer. Boston's [data strategy](https://www.boston.gov/departments/analytics-team/our-city-wide-data-strategy) likewise treats documentation, lineage and trust as foundations for using AI, not optional extras.
+
 ## A familiar idea, wearing work clothes
 
 Interoperability is the practical cousin of ideas already in this wiki: [protocol](/concepts/protocol/) (coordinating without a central ruler), [modular politics](/concepts/modular-politics/) (composing governance from interchangeable parts), and the [Commoning Standard](/concepts/commoning-standard/) (shared, reusable patterns for self-governance). Standards are how those ideas stop being philosophy and start being plumbing.
 
 ## Sources
 
+- [*Building an “Agentic Middleware” for the City Government: Boston’s Experiment with Model Context Protocol*](https://rebootdemocracy.ai/blog/boston-agentic-middleware), Reboot Democracy, interview with Santiago Garces (9 March 2026), checked alongside the official beta listing, repository, employee policy and data strategy linked above.
 - Matt Stempeck — Democracy Innovators Podcast (2026): [youtube.com/watch?v=jQ-PZUNkNfg](https://www.youtube.com/watch?v=jQ-PZUNkNfg).
 - [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) — Developers Italia metadata standard.
 - "Europe Doesn't Need Its Own Big Tech. It Needs Protocols Nobody Can Capture" (The Plural Stack) — RadicalxChange, 2026: [radicalxchange.org](https://www.radicalxchange.org/updates/blog/the-plural-stack/)
