@@ -25,6 +25,10 @@ The current [account-migration guide](https://atproto.com/guides/account-migrati
 
 Newbold also cautions against answering people's concerns with “fork the code.” Individuals may lack the skills or funding to do that. He hopes civic groups and other institutions can make independent infrastructure practical. This connects the technical right to leave with the [resources and standing capacity](/concepts/durable-civic-infrastructure/) needed to exercise it, not just a licence to copy software.
 
+## Verifiable content is not the same as trustworthy governance
+
+Robin Berjon's [web-standards oral history](https://protocol.ecologies.info/interviews/berjon-web_standards/) explores separating identity, storage, feeds and search between different institutions. Content-addressed systems such as IPFS can help check that retrieved content matches its identifier. That is a check on the data's integrity, **not proof that a statement is true or a decision legitimate**. Nor does an identifier keep a file available: IPFS's [persistence documentation](https://docs.ipfs.tech/concepts/persistence/) says someone must continue storing it. Berjon presents institutional flexibility as a possibility to build on these mechanisms, not evidence that cryptography itself delivers democratic governance.
+
 ## The navigator problem
 
 The space is a confusing sea of overlapping protocols. **OpenHaven** (a prototype from the Collaborative Technology Alliance) is one attempt to map it — not as a list of tools, but by starting from what you're actually trying to do: pick a **use case** ("I care about identity and trust"), refine by the **capability** you need (sovereign identity, proof of personhood, contextual disclosure), and see which tools deliver it — including a view of the whole "stack" beneath an app.
@@ -35,6 +39,7 @@ The sharpest idea here: not everything labelled "decentralized" or "empowering" 
 
 ## Sources
 
+- Robin Berjon, [*Web standards*](https://protocol.ecologies.info/interviews/berjon-web_standards/), interviewed by Nathan Schneider, Protocol Oral History Project (published 1 August 2025); IPFS documentation on [content identifiers](https://docs.ipfs.tech/concepts/content-addressing/) and [persistence](https://docs.ipfs.tech/concepts/persistence/).
 - Bryan Newbold, [*Protocol engineering*](https://protocol.ecologies.info/interviews/newbold-protocol_engineering/), interviewed by Nathan Schneider, Protocol Oral History Project (published 12 August 2025); checked alongside the current [AT Protocol account-migration guide](https://atproto.com/guides/account-migration).
 - Brandon Nørgaard — "OpenHaven & Civic Intelligence Infrastructure," OpenCivics Civic Innovator Session (2026): [youtu.be/Umpu1AmTuy8](https://youtu.be/Umpu1AmTuy8).
 - [OpenHaven](https://openhaven.net/) — a convergence navigator for the peer-to-peer and decentralized protocol landscape (Collaborative Technology Alliance).

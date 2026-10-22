@@ -29,6 +29,14 @@ Dusseault describes standards work as coalition-building as well as writing spec
 
 She also warns that formally open participation can lose voices when people are treated badly and leave. In her account, moderation is part of making participation possible, not simply a restriction on it. For a community choosing shared infrastructure, ask **who can contribute, who can afford the work, how harmful conduct is handled, and who actually implements the result**. These questions connect interoperability with [community governance](/concepts/modular-politics/), rather than treating it as plumbing alone.
 
+## Who has the power to implement a standard?
+
+Robin Berjon's [web-standards oral history](https://protocol.ecologies.info/interviews/berjon-web_standards/) adds a political question to the technical one. In his account, voluntary standards depended partly on competing implementers needing to work together. As implementation power concentrated, he argues, formally shared processes became less able to discipline dominant companies. This is his interpretation of the field's history, not an independently measured finding that every standards body is captured.
+
+He also describes shared testing as a way to bridge competing communities. **[Web Platform Tests](https://web-platform-tests.org/)** is a cross-browser test suite: its common tests help projects check whether independent implementations behave compatibly. That is a concrete practice communities can ask about when evaluating infrastructure: not only “Is there a specification?” but **“What shows that separate implementations work together, and who maintains that evidence?”**
+
+For Berjon, protocol design should consider institutions between the individual and the global network: which groups can make decisions, at what level, and with what capabilities. This connects standards to [modular governance](/concepts/modular-politics/) and [capture risk](/concepts/decentralized-landscape/#capture-risk), rather than assuming that open technical rules settle questions of power.
+
 ## Connect public data without handing over decisions
 
 Boston's **OpenContext** illustrates a different connection: between an AI assistant and a city's public-data catalogue. In a [9 March 2026 interview](https://rebootdemocracy.ai/blog/boston-agentic-middleware), Santiago Garces, introduced there as Boston's CIO, describes finding datasets, generating SQL queries and moving computation into the data portal rather than asking the model to analyse large downloads itself. These are the interviewee's account of the approach, not independent accuracy results.
@@ -53,6 +61,7 @@ Interoperability is the practical cousin of ideas already in this wiki: [protoco
 
 ## Sources
 
+- Robin Berjon, [*Web standards*](https://protocol.ecologies.info/interviews/berjon-web_standards/), interviewed by Nathan Schneider, Protocol Oral History Project (published 1 August 2025); [Web Platform Tests documentation](https://web-platform-tests.org/) verifies the shared test suite's purpose.
 - Lisa Dusseault, [*Interoperability standards*](https://protocol.ecologies.info/interviews/dusseault-interoperability/), interviewed by Nathan Schneider, Protocol Oral History Project (published 10 October 2025); [RFC 4791: CalDAV](https://www.rfc-editor.org/rfc/rfc4791) verifies its authorship and scope.
 - Ontola, [*Publishing Dutch governmental meetings as linked data*](https://ontola.io/blog/publishing-dutch-governmental-meetings-as-linked-data/) (15 December 2019), checked alongside [OpenBesluitvorming](https://openbesluitvorming.nl/), its current migration guide and VNG's standard documentation linked above.
 - [*Building an “Agentic Middleware” for the City Government: Boston’s Experiment with Model Context Protocol*](https://rebootdemocracy.ai/blog/boston-agentic-middleware), Reboot Democracy, interview with Santiago Garces (9 March 2026), checked alongside the official beta listing, repository, employee policy and data strategy linked above.
