@@ -25,8 +25,17 @@ Peixoto's advice to anyone building civic technology follows from all this: *ple
 
 This is the political-economy counterweight to the rest of the case for deliberation: it pairs with [why civic-tech projects fail](/concepts/why-civic-tech-fails/), the limits behind [cargo-cult democracy](/concepts/cargo-cult-democracy/), and the slow work of [institutionalising deliberation](/concepts/institutionalising-deliberation/) so that a process survives the next change of government.
 
+## Negotiation includes work outside the table
+
+Union negotiator Vishal Reddy offers a related perspective in his [oral history](https://protocol.ecologies.info/interviews/reddy-union_negotiating/). He describes bargaining as more than persuasive words exchanged with an employer: it also involves listening to members, identifying shared priorities, arranging participation and building collective backing. In his account, the wording of a proposal and the organisation behind it have to work together.
+
+He also describes a tension between hearing people and acting on an agreed direction under time pressure. This is not proof that deliberation should be bypassed or that one tactic always works. It raises practical governance questions: **who authorises negotiators, how are priorities chosen, and how do members remain involved after a proposal reaches the table?** His workplace examples are practitioner accounts, not independently verified case outcomes for this guide.
+
+For the distinction between an ally or negotiator and an impartial third party, see [Working with conflict](/concepts/working-with-conflict/). Having a conversation, building a mandate and obtaining an enforceable commitment are different kinds of work.
+
 ## Sources
 
 - Tiago Peixoto, interview on the Democracy Innovators podcast, 2024: [youtube.com/watch?v=cmHHZ1_cyeY](https://www.youtube.com/watch?v=cmHHZ1_cyeY)
+- Vishal Reddy, [*Union negotiating*](https://protocol.ecologies.info/interviews/reddy-union_negotiating/), interviewed by Nathan Schneider, Protocol Oral History Project (published 24 June 2026).
 - Thomas Fujiwara, "Voting Technology, Political Responsiveness, and Infant Health: Evidence from Brazil," *Econometrica*, 2015
 - Brian Wampler, Michael Touchton, Paolo Spada and others — research on the fiscal, health and electoral effects of participatory budgeting
