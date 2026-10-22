@@ -27,7 +27,12 @@ Schneider defines a protocol broadly as a **pattern of interaction** — wide en
 
 Schneider also argues protocols were the *dominant* form of human organisation long before the nation-state — which itself he reads as just one "protocol of stateness," historically an aberration — and that, since no single state can govern the climate or the internet, protocols are becoming central again.
 
+## An open process still needs care
+
+Protocols do not come only from elegant rules. Lisa Dusseault's [oral history of interoperability standards](https://protocol.ecologies.info/interviews/dusseault-interoperability/) describes the relationships, institutional interests and patient implementation work behind them. She warns that an open mailing list can still exclude people if hostile encounters drive them away. The point is not that openness fails, but that **access on paper and the ability to keep participating are different things**. See [standards, participation and implementation](/concepts/interoperability-and-standards/#standards-need-people-and-implementations).
+
 ## Sources
 
 - Nathan Schneider — Democracy Innovators Podcast (2026): [youtube.com/watch?v=jlyfhmUWX04](https://www.youtube.com/watch?v=jlyfhmUWX04) (from his forthcoming book on protocol).
+- Lisa Dusseault, [*Interoperability standards*](https://protocol.ecologies.info/interviews/dusseault-interoperability/), interviewed by Nathan Schneider, Protocol Oral History Project (published 10 October 2025).
 - "Nathan Schneider: Contributions to a Glossary of Protocol" — Protocol Town Hall (2025): [youtube.com/watch?v=-5Lq2uaOgBw](https://www.youtube.com/watch?v=-5Lq2uaOgBw).
