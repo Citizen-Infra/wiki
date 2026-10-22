@@ -10,6 +10,14 @@ Shared work needs shared resources. These tools help a community raise and manag
 - **[Goteo](https://www.goteo.org/)** — a crowdfunding platform built specifically for the commons and community-oriented projects, which can add institutional *match-funding* on top of community donations.
 - **[Open Collective](https://opencollective.com/)** — transparent collective finances: every contribution and expense is public, and a "fiscal host" handles the legal entity and banking, so a group without its own legal structure can still receive and spend money openly.
 
+## Pool savings with clear rules
+
+**Savings circles** are another model of collective finance, not the same thing as donations to a project. In his [oral history](https://protocol.ecologies.info/interviews/mwaselela-saving_circles/), Tanzanian organiser Alinagwe Mwaselela describes groups that rotate a pooled contribution between members, groups that accumulate savings and lend to members, and groups that pool resources for a shared business. Their purposes and money flows differ; not every circle funds a common project.
+
+Before choosing such a model, clarify who contributes, who can approve payouts or loans, how members inspect records, what happens if someone cannot pay, and how disputes or departures are handled. Mwaselela describes both local trust and losses when records or money went missing. Digital records may change who can see transactions, but a wallet or notification does not guarantee that money is safe or rules are fair.
+
+This is a governance example, not a recommendation to join a specific scheme, take a loan or use a token. Check the arrangement's risks, charges and applicable requirements. His separately described Nyota community-currency pilot is not interchangeable with a savings circle.
+
 ## Keep it going
 
 - **[Liberapay](https://liberapay.com/)** — recurring donations to people and projects, run as a non-profit with no cut taken; good for sustaining ongoing work rather than one-off campaigns.
