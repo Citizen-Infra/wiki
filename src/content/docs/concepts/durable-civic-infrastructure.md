@@ -17,7 +17,16 @@ The corollary is a useful humility: a citizens' assembly is **a tool, not a cure
 
 Neighbourhood capacity also matters in how public services work with residents. Cormac Russell and Lisa McNally's neighbourhood-health provocation asks whether institutions support residents' relationships, associations and plans, with resources and decision power to match. [Community power in health](/concepts/community-power-in-health/) links their practical questions for residents, councillors, system leaders and practitioners. This is an institutional proposal, not proof that a particular programme improves health outcomes.
 
+## Continuity does not require every organisation to last forever
+
+Camille Acey distinguishes a movement's purpose from the lifespan of any one organisation. In her [oral history of organisational closures](https://protocol.ecologies.info/interviews/acey-organizational_closures/), she describes planning for endings at the beginning and revisiting whether work should continue. A pause, a handover and a closure are different possibilities; her role is not to decide for a group that it must close.
+
+Her emphasis has shifted from archiving alone towards relationships as well as practical work: communicating with affected people, recognising contributions, addressing remaining responsibilities and finding appropriate stewards for useful resources. The [coordination toolkit](/toolkit/coordinate-a-community/#plan-handovers-pauses-and-endings) links her public reflection and final-website resources. These are practice-based suggestions, not evidence that a checklist guarantees a painless or legally complete closure.
+
+For civic infrastructure, the question is what capacity remains available to people—not whether every project survives indefinitely. A useful archive still needs a steward and resources; a referral still needs a receiving organisation able to help. Ending deliberately can be a stewardship decision, rather than simply abandoning people or keeping an exhausted organisation going at any cost.
+
 ## Sources
 
 - Gideon Lichfield, "The Lexington Experiment" (Parts I & II) — Futurepolis, 2026, interviewing CivicLex director Richard Young: [futurepolis.substack.com](https://futurepolis.substack.com/p/the-lexington-experiment-part-i)
 - Cormac Russell and Lisa McNally, [*Putting the Neighbourhood Back into Neighbourhood Health*](https://www.newlocal.org.uk/publications/putting-the-neighbourhood-back-into-neighbourhood-health/), New Local (2026), and accompanying question guides.
+- Camille Acey, [*Organizational closures*](https://protocol.ecologies.info/interviews/acey-organizational_closures/), interviewed by Nathan Schneider, Protocol Oral History Project (published 6 May 2025); The Wind Down's [self-assessment](https://wind-down.org/resources/the-self-assessment/) and [*Towards Your “Tombstone Site”*](https://www.wind-down.org/2024/10/22/towards-your-tombstone-site/) (22 October 2024).
