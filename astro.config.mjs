@@ -2,16 +2,23 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import starlightLinksValidator from 'starlight-links-validator';
+import { rehypeScrollTables } from './scripts/rehype-scroll-tables.mjs';
 
 export default defineConfig({
   site: 'https://wiki.citizeninfra.org',
+  markdown: { rehypePlugins: [rehypeScrollTables] },
   integrations: [
     starlight({
       // starlight-links-validator is pinned to 0.24.0: 0.24.1 has a regression that
       // false-flags inbound links to non-root .mdx pages (our card-grid overviews) as
       // invalid (upstream issue #166). Unpin once that lands fixed.
       plugins: [starlightLinksValidator()],
-      title: 'Citizen Infrastructure',
+      title: 'Citizen Infra Wiki',
+      customCss: ['./src/styles/open-index.css'],
+      components: {
+        Head: './src/components/FoundationHead.astro',
+        Footer: './src/components/FoundationFooter.astro',
+      },
       description:
         'A free, public resource for citizens: what citizen infrastructure is, and a practical toolkit of things citizens can use to act together.',
       editLink: {

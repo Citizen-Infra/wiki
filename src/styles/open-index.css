@@ -1,0 +1,209 @@
+@import '@citizen-infra/design-system/tokens.css';
+@import '@citizen-infra/design-system/fonts.css';
+
+/* The installed foundation owns values; this file maps Starlight's semantic roles. */
+:root {
+  --sl-font: var(--cibc-font-sans);
+  --sl-font-mono: var(--cibc-font-mono);
+  --sl-color-white: var(--cibc-color-text);
+  --sl-color-black: var(--cibc-color-surface-subtle);
+  --sl-color-gray-1: var(--cibc-color-text);
+  --sl-color-gray-2: var(--cibc-color-text-secondary);
+  --sl-color-gray-3: var(--cibc-color-text-muted);
+  --sl-color-gray-4: var(--cibc-color-control-border);
+  --sl-color-gray-5: var(--cibc-color-border);
+  --sl-color-gray-6: var(--cibc-color-surface-subtle);
+  --sl-color-gray-7: var(--cibc-color-surface);
+  --sl-color-accent-low: var(--cibc-color-selected);
+  --sl-color-accent: var(--cibc-color-action);
+  --sl-color-accent-high: var(--cibc-color-link);
+  --sl-color-text: var(--cibc-color-text);
+  --sl-color-text-accent: var(--cibc-color-link);
+  --sl-color-text-invert: var(--cibc-color-on-action);
+  --sl-color-bg: var(--cibc-color-surface-subtle);
+  --sl-color-bg-nav: var(--cibc-color-page);
+  --sl-color-bg-sidebar: var(--cibc-color-surface-strong);
+  --sl-color-bg-inline-code: var(--cibc-color-surface);
+  --sl-color-bg-accent: var(--cibc-color-action);
+  --sl-color-hairline-light: var(--cibc-color-border);
+  --sl-color-hairline: var(--cibc-color-control-border);
+  --sl-color-hairline-shade: var(--cibc-color-control-border);
+  --sl-color-blue-low: var(--cibc-color-info-surface);
+  --sl-color-blue: var(--cibc-color-info-border);
+  --sl-color-blue-high: var(--cibc-color-info);
+  --sl-color-purple-low: var(--cibc-color-info-surface);
+  --sl-color-purple: var(--cibc-color-info-border);
+  --sl-color-purple-high: var(--cibc-color-info);
+  --sl-color-orange-low: var(--cibc-color-warning-surface);
+  --sl-color-orange: var(--cibc-color-warning-border);
+  --sl-color-orange-high: var(--cibc-color-warning);
+  --sl-color-green-low: var(--cibc-color-success-surface);
+  --sl-color-green: var(--cibc-color-success-border);
+  --sl-color-green-high: var(--cibc-color-success);
+  --sl-color-red-low: var(--cibc-color-danger-surface);
+  --sl-color-red: var(--cibc-color-danger-border);
+  --sl-color-red-high: var(--cibc-color-danger);
+  --sl-text-2xs: var(--cibc-text-caption);
+  --sl-text-xs: var(--cibc-text-caption);
+  --sl-text-sm: var(--cibc-text-ui);
+  --sl-text-base: var(--cibc-text-body);
+  --sl-text-lg: var(--cibc-text-lead);
+  --sl-text-xl: var(--cibc-text-title);
+  --sl-text-2xl: var(--cibc-text-heading);
+  --sl-text-3xl: var(--cibc-text-page);
+  --sl-text-4xl: var(--cibc-text-page);
+  --sl-text-5xl: var(--cibc-text-display);
+  --sl-text-6xl: var(--cibc-text-display);
+  --sl-text-body: var(--cibc-text-body);
+  --sl-text-body-sm: var(--cibc-text-caption);
+  --sl-text-code: var(--cibc-text-ui);
+  --sl-text-code-sm: var(--cibc-text-caption);
+  --sl-text-h1: var(--cibc-text-page);
+  --sl-text-h2: var(--cibc-text-heading);
+  --sl-text-h3: var(--cibc-text-title);
+  --sl-text-h4: var(--cibc-text-lead);
+  --sl-text-h5: var(--cibc-text-body);
+  --sl-line-height: 1.6;
+  --sl-line-height-headings: var(--cibc-leading-heading);
+  --sl-nav-height: 5.5rem;
+  --sl-nav-pad-x: 1.5rem;
+  --sl-sidebar-width: 21rem;
+  --sl-sidebar-pad-x: 1.25rem;
+  --sl-content-width: 52rem;
+  --sl-content-pad-x: 1.5rem;
+  --sl-content-gap-y: 1.25rem;
+  --sl-menu-button-size: var(--cibc-control-height);
+  --sl-mobile-toc-height: 0rem;
+  --sl-shadow-sm: none;
+  --sl-shadow-md: none;
+  --sl-shadow-lg: var(--cibc-shadow-overlay);
+}
+:root[data-has-toc] { --sl-mobile-toc-height: 4rem; }
+
+body { font-size: var(--cibc-text-body); overflow-wrap: anywhere; font-synthesis: none; }
+::selection { background: var(--cibc-color-accent); color: var(--cibc-color-on-accent); }
+html { scrollbar-color: var(--cibc-color-control-border) var(--cibc-color-page); }
+:focus-visible { outline: var(--cibc-focus-width) solid var(--cibc-color-focus); outline-offset: var(--cibc-focus-offset); }
+h1, h2, h3, h4, h5, h6 { font-weight: var(--cibc-weight-bold); letter-spacing: var(--cibc-tracking-heading); }
+a { text-underline-offset: 0.2em; }
+.site-title { color: var(--cibc-color-text); font-weight: var(--cibc-weight-bold); font-size: var(--cibc-text-title); white-space: normal; line-height: 1.1; }
+.site-title span { overflow: visible; }
+/* Intrinsic header rows let enlarged text reflow; the observed height supplies
+   Starlight's fixed navigation offsets without changing the root font size. */
+.page > header.header { height: auto; }
+header.header > .header { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); height: auto; min-height: var(--cibc-control-height); gap: var(--cibc-space-4); }
+header.header .title-wrapper { overflow: visible; }
+.site-title span { min-width: 0; overflow-wrap: anywhere; }
+header.header .right-group { justify-content: flex-end; flex-wrap: wrap; gap: var(--cibc-space-3); }
+header.header > .header > .sl-flex { min-width: 0; }
+site-search button[data-open-modal] { min-height: var(--cibc-control-height); height: auto; min-width: var(--cibc-control-height); font-size: var(--cibc-text-ui); border-radius: var(--cibc-radius-control); }
+site-search button[data-open-modal] > :is(span,kbd) { flex-shrink: 0; }
+starlight-menu-button button { box-shadow: none; border-radius: var(--cibc-radius-control); background: var(--cibc-color-action); color: var(--cibc-color-on-action); }
+starlight-menu-button[aria-expanded='true'] button { background: var(--cibc-color-action-hover); color: var(--cibc-color-on-action); }
+starlight-theme-select { min-width: 0; max-width: 100%; }
+starlight-theme-select select { min-height: var(--cibc-control-height); max-width: 100%; font-size: var(--cibc-text-ui); }
+.social-icons a { display: inline-flex; align-items: center; justify-content: center; min-width: var(--cibc-control-height); min-height: var(--cibc-control-height); }
+.mobile-preferences { flex-wrap: wrap; }
+.pagination-links a { font-size: var(--cibc-text-ui); }
+
+/* The rail has its own tested on-field and focus roles in both themes. */
+.sidebar-pane {
+  background: var(--cibc-color-surface-strong);
+  color: var(--cibc-color-on-surface-strong);
+  --sl-color-white: var(--cibc-color-on-surface-strong);
+  --sl-color-black: var(--cibc-color-surface-strong);
+  --sl-color-text: var(--cibc-color-on-surface-strong);
+  --sl-color-gray-1: var(--cibc-color-on-surface-strong);
+  --sl-color-gray-2: var(--cibc-color-on-surface-strong);
+  --sl-color-gray-3: var(--cibc-color-on-surface-strong);
+  --sl-color-gray-5: var(--cibc-color-link-inverse);
+  --sl-color-text-accent: var(--cibc-color-link-inverse-hover);
+  --sl-color-text-invert: var(--cibc-color-on-surface-warm);
+  --sl-color-hairline-light: var(--cibc-color-link-inverse);
+}
+.sidebar-pane :focus-visible { outline-color: var(--cibc-color-focus-inverse); }
+.sidebar-pane ::selection { background: var(--cibc-color-focus-inverse); color: var(--cibc-color-on-surface-warm); }
+.sidebar-content a, .sidebar-content summary { min-height: var(--cibc-control-compact); }
+.sidebar-content .large { font-size: var(--cibc-text-ui); }
+.sidebar-content a { display: flex; align-items: center; }
+.sidebar-content [aria-current='page'] { border-radius: 0; }
+
+.sl-markdown-content { max-width: var(--cibc-measure-reading); }
+.sl-markdown-content a { color: var(--cibc-color-link); text-decoration: underline; }
+.sl-markdown-content a:hover { color: var(--cibc-color-link-hover); }
+.sl-markdown-content h1, .sl-markdown-content h2, h1 { hyphens: auto; }
+.starlight-aside { border-inline-start-width: 1px; }
+.starlight-aside__content a { color: var(--sl-color-asides-text-accent); }
+.wiki-table-scroll { position: relative; overflow-x: auto; max-width: 100%; margin-block: var(--cibc-space-6); scrollbar-color: var(--cibc-color-control-border) var(--cibc-color-surface); }
+.sl-markdown-content .wiki-table-scroll table { display: table; width: max-content; min-width: 100%; max-width: none; margin: 0; font-size: var(--cibc-text-ui); }
+.sl-markdown-content :is(th,td) { padding: var(--cibc-space-3) var(--cibc-space-4); }
+.expressive-code { --ec-codeFontFamily: var(--cibc-font-mono); --ec-codeFontSize: var(--cibc-text-ui); --ec-uiFontFamily: var(--cibc-font-sans); --ec-uiFontSize: var(--cibc-text-caption); }
+.font-licence { margin-block: var(--cibc-space-6) 0; font-size: var(--cibc-text-caption); color: var(--cibc-color-text-secondary); }
+
+/* Keep the existing homepage/overview destinations, as a flat reference index. */
+:root:not([data-has-sidebar]) { --sl-color-bg: var(--cibc-color-page); }
+.hero { padding-block: var(--cibc-space-12); }
+.hero h1 { font-size: var(--cibc-text-display); line-height: var(--cibc-leading-display); letter-spacing: var(--cibc-tracking-display); }
+.hero .tagline { font-size: var(--cibc-text-lead); }
+.hero .sl-link-button { min-height: var(--cibc-control-height); border-radius: 0; font-size: var(--cibc-text-ui); padding: var(--cibc-space-3) var(--cibc-space-6); }
+.hero .sl-link-button.primary { color: var(--cibc-color-on-action); background: var(--cibc-color-action); border-color: var(--cibc-color-action); }
+.hero .sl-link-button.primary:hover { background: var(--cibc-color-action-hover); border-color: var(--cibc-color-action-hover); }
+.card-grid { padding: var(--cibc-space-6); background: var(--cibc-color-surface-strong); color: var(--cibc-color-on-surface-strong); gap: var(--cibc-space-8); }
+.card-grid .sl-link-card { border: 0; border-top: 1px solid currentColor; border-radius: 0; box-shadow: none; background: transparent; padding: var(--cibc-space-4) 0; }
+.card-grid .sl-link-card :is(a, .title, .description, .icon) { color: var(--cibc-color-on-surface-strong); }
+.card-grid .sl-link-card .title { font-size: var(--cibc-text-title); font-weight: var(--cibc-weight-medium); }
+.card-grid .sl-link-card .description { font-size: var(--cibc-text-ui); line-height: var(--cibc-leading-body); }
+.card-grid .sl-link-card:hover :is(a, .title, .icon) { color: var(--cibc-color-link-inverse-hover); }
+.card-grid :focus-visible { outline-color: var(--cibc-color-focus-inverse); }
+
+/* Pagefind keeps its own interaction code; only presentation roles are adapted. */
+#starlight__search { --pagefind-ui-font: var(--cibc-font-sans); --pagefind-ui-primary: var(--cibc-color-link); --pagefind-ui-text: var(--cibc-color-text); --pagefind-ui-background: var(--cibc-color-surface); --pagefind-ui-border: var(--cibc-color-control-border); --pagefind-ui-border-radius: var(--cibc-radius-control); }
+#starlight__search :is(.pagefind-ui__search-input,.pagefind-ui__message,.pagefind-ui__result-title,.pagefind-ui__result-excerpt,.pagefind-ui__result-nested,.pagefind-ui__button,.pagefind-ui__filter-name,.pagefind-ui__filter-value) { font-size: var(--cibc-text-ui); line-height: var(--cibc-leading-body); }
+#starlight__search .pagefind-ui__result-link { color: var(--cibc-color-link); font-size: var(--cibc-text-ui); }
+#starlight__search .pagefind-ui__result-link:hover { color: var(--cibc-color-link-hover); }
+#starlight__search .pagefind-ui__search-input { width: 100%; height: auto; min-height: var(--cibc-control-touch); padding-block: var(--cibc-space-3); padding-inline-start: 2.75rem; padding-inline-end: var(--cibc-control-height); }
+#starlight__search .pagefind-ui__form { height: auto; }
+#starlight__search .pagefind-ui__message { display: block; height: auto; min-height: 0; margin: 0; padding-block: var(--cibc-space-4); white-space: normal; overflow-wrap: anywhere; }
+#starlight__search .pagefind-ui__form::before { top: calc(var(--cibc-control-touch) / 2); transform: translateY(-50%); inset-inline-start: var(--cibc-space-4); width: 1.25rem; height: 1.25rem; }
+#starlight__search .pagefind-ui__search-clear { height: var(--cibc-control-touch); width: var(--cibc-control-height); font-size: 0; }
+site-search dialog { background: var(--cibc-color-surface-subtle); border-radius: var(--cibc-radius-overlay); }
+site-search button[data-close-modal] { min-height: var(--cibc-control-height); font-size: var(--cibc-text-ui); }
+site-search dialog :focus-visible { outline: var(--cibc-focus-width) solid var(--cibc-color-focus); outline-offset: var(--cibc-focus-offset); }
+
+@media (max-width: 49.999rem) {
+  :root { --sl-nav-pad-x: 1rem; --sl-nav-pad-y: 0.5rem; --sl-content-pad-x: 1.25rem; }
+  .page > header.header { padding-inline-end: var(--sl-nav-pad-x); }
+  header.header > .header { grid-template-columns: minmax(0, 1fr) var(--sl-menu-button-size); gap: var(--cibc-space-2); }
+  header.header .title-wrapper { grid-column: 1 / -1; }
+  header.header > .header > .sl-flex:not(.title-wrapper):not(.right-group) { grid-column: 1; }
+  starlight-menu-button button { top: calc(var(--sl-nav-height) - var(--sl-nav-pad-y) - var(--sl-menu-button-size)); }
+  .site-title { font-size: var(--cibc-text-ui); }
+  .card-grid { padding: var(--cibc-space-4); }
+  .hero { padding-block: var(--cibc-space-8); }
+  site-search button[data-close-modal] { position: static; align-self: flex-end; }
+  #starlight__search { --sl-search-cancel-space: 0px; }
+}
+@media (min-width: 50rem) {
+  :root { --sl-sidebar-width: min(21rem, 25vw); }
+}
+@media (min-width: 72rem) {
+  :root[data-has-toc] { --sl-mobile-toc-height: 0rem; }
+}
+mobile-starlight-toc nav { container-type: inline-size; container-name: wiki-contents; }
+mobile-starlight-toc summary { height: auto; min-height: var(--cibc-control-height); padding: var(--cibc-space-2) var(--sl-content-pad-x); }
+mobile-starlight-toc summary:focus-visible { outline-offset: calc(-1 * var(--cibc-focus-width)); }
+mobile-starlight-toc .toggle { white-space: normal; min-width: 0; flex-shrink: 1; min-height: var(--cibc-control-height); line-height: 1.25; padding: var(--cibc-space-2); gap: var(--cibc-space-2); }
+@container wiki-contents (max-width: 22rem) {
+  mobile-starlight-toc .display-current { display: none; }
+  mobile-starlight-toc .toggle { width: 100%; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .sidebar-pane .caret, .sl-link-button, .sl-link-card { transition: none; }
+  html { scroll-behavior: auto; }
+}
+@media (forced-colors: active) {
+  .sidebar-pane, .card-grid { background: Canvas; color: CanvasText; }
+  .sidebar-pane a, .card-grid .sl-link-card :is(a,.title,.description,.icon) { color: LinkText; }
+  .sidebar-content [aria-current='page'] { outline: 2px solid Highlight; }
+  :focus-visible, .sidebar-pane :focus-visible, .card-grid :focus-visible { outline-color: Highlight; }
+}
