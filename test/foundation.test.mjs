@@ -58,6 +58,19 @@ test('responsive chrome and Pagefind feedback use intrinsic space rather than cl
   assert.match(css, /@container wiki-contents/);
 });
 
+test('mobile reading density is distinct from the desktop display scale', () => {
+  const css = readFileSync('src/styles/open-index.css', 'utf8');
+  const mobile = css.slice(css.indexOf('@media (max-width: 49.999rem)'));
+  for (const [role, value] of Object.entries({
+    '--cibc-text-body': '1.125rem', '--cibc-text-ui': '1rem',
+    '--cibc-text-caption': '0.875rem', '--cibc-text-page': '1.875rem',
+    '--cibc-control-height': '2.75rem',
+  })) assert.ok(mobile.includes(`${role}: ${value};`), role);
+  assert.match(mobile, /@container wiki-masthead/);
+  assert.match(mobile, /hyphens: none/);
+  assert.match(css.slice(0, css.indexOf('@media (max-width: 49.999rem)')), /--sl-text-body: var\(--cibc-text-body\)/);
+});
+
 test('the OFL serving copy and bundled fonts match the pinned source byte-for-byte', () => {
   assert.equal(hash(readFileSync('public/fonts/OFL-Public-Sans.txt')), hash(readFileSync(new URL('fonts/OFL-Public-Sans.txt', foundation))));
   assert.equal(hash(readFileSync('dist/fonts/OFL-Public-Sans.txt')), hash(readFileSync(new URL('fonts/OFL-Public-Sans.txt', foundation))));

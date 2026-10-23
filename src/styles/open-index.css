@@ -171,17 +171,45 @@ site-search button[data-close-modal] { min-height: var(--cibc-control-height); f
 site-search dialog :focus-visible { outline: var(--cibc-focus-width) solid var(--cibc-color-focus); outline-offset: var(--cibc-focus-offset); }
 
 @media (max-width: 49.999rem) {
-  :root { --sl-nav-pad-x: 1rem; --sl-nav-pad-y: 0.5rem; --sl-content-pad-x: 1.25rem; }
+  /* Wiki-specific phone density. Keep the shared colours/font, not the
+     display-oriented type/geometry floors; leave the package and desktop alone. */
+  :root {
+    --cibc-text-caption: 0.875rem;
+    --cibc-text-ui: 1rem;
+    --cibc-text-body: 1.125rem;
+    --cibc-text-lead: 1.25rem;
+    --cibc-text-title: 1.25rem;
+    --cibc-text-heading: 1.5rem;
+    --cibc-text-page: 1.875rem;
+    --cibc-text-display: 2.25rem;
+    --cibc-control-height: 2.75rem;
+    --cibc-control-compact: 2.75rem;
+    --cibc-control-touch: 2.75rem;
+    --sl-nav-pad-x: 1rem;
+    --sl-nav-pad-y: 0.5rem;
+    --sl-content-pad-x: 1rem;
+  }
   .page > header.header { padding-inline-end: var(--sl-nav-pad-x); }
-  header.header > .header { grid-template-columns: minmax(0, 1fr) var(--sl-menu-button-size); gap: var(--cibc-space-2); }
-  header.header .title-wrapper { grid-column: 1 / -1; }
-  header.header > .header > .sl-flex:not(.title-wrapper):not(.right-group) { grid-column: 1; }
+  .page > header.header { container-type: inline-size; container-name: wiki-masthead; }
+  header.header > .header { grid-template-columns: minmax(0, 1fr) var(--sl-menu-button-size) var(--sl-menu-button-size); gap: var(--cibc-space-2); }
+  header.header .title-wrapper { grid-column: 1; }
+  header.header > .header > .sl-flex:not(.title-wrapper):not(.right-group) { grid-column: 2; }
   starlight-menu-button button { top: calc(var(--sl-nav-height) - var(--sl-nav-pad-y) - var(--sl-menu-button-size)); }
-  .site-title { font-size: var(--cibc-text-ui); }
+  .site-title { font-size: 1.125rem; }
+  .sidebar-content { padding-inline: 1rem; }
+  .sidebar-content a { font-size: var(--cibc-text-ui); }
+  .sl-markdown-content h1, .sl-markdown-content h2, h1 { hyphens: none; }
+  mobile-starlight-toc summary { font-size: var(--cibc-text-ui); padding-block: var(--cibc-space-1); }
   .card-grid { padding: var(--cibc-space-4); }
   .hero { padding-block: var(--cibc-space-8); }
   site-search button[data-close-modal] { position: static; align-self: flex-end; }
   #starlight__search { --sl-search-cancel-space: 0px; }
+}
+/* Retain full-word title space when the reader enlarges text. The query uses
+   the masthead's available inline size, not a fixed-height phone assumption. */
+@container wiki-masthead (max-width: 17.5rem) {
+  header.header .title-wrapper { grid-column: 1 / -1; }
+  header.header > .header > .sl-flex:not(.title-wrapper):not(.right-group) { grid-column: 1; }
 }
 @media (min-width: 50rem) {
   :root { --sl-sidebar-width: min(21rem, 25vw); }
