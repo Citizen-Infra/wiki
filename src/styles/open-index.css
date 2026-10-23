@@ -131,7 +131,12 @@ starlight-theme-select select { min-height: var(--cibc-control-height); max-widt
 .sl-markdown-content { max-width: var(--cibc-measure-reading); }
 .sl-markdown-content a { color: var(--cibc-color-link); text-decoration: underline; }
 .sl-markdown-content a:hover { color: var(--cibc-color-link-hover); }
-.sl-markdown-content h1, .sl-markdown-content h2, h1 { hyphens: auto; }
+.sl-markdown-content :is(h1,h2,h3,h4,h5,h6), h1 {
+  hyphens: none;
+  word-break: normal;
+  /* Emergency wrapping only for a token wider than the entire column. */
+  overflow-wrap: break-word;
+}
 .starlight-aside { border-inline-start-width: 1px; }
 .starlight-aside__content a { color: var(--sl-color-asides-text-accent); }
 .wiki-table-scroll { position: relative; overflow-x: auto; max-width: 100%; margin-block: var(--cibc-space-6); scrollbar-color: var(--cibc-color-control-border) var(--cibc-color-surface); }
@@ -198,7 +203,6 @@ site-search dialog :focus-visible { outline: var(--cibc-focus-width) solid var(-
   .site-title { font-size: 1.125rem; }
   .sidebar-content { padding-inline: 1rem; }
   .sidebar-content a { font-size: var(--cibc-text-ui); }
-  .sl-markdown-content h1, .sl-markdown-content h2, h1 { hyphens: none; }
   mobile-starlight-toc summary { font-size: var(--cibc-text-ui); padding-block: var(--cibc-space-1); }
   .card-grid { padding: var(--cibc-space-4); }
   .hero { padding-block: var(--cibc-space-8); }
@@ -216,6 +220,38 @@ site-search dialog :focus-visible { outline: var(--cibc-focus-width) solid var(-
 }
 @media (min-width: 72rem) {
   :root[data-has-toc] { --sl-mobile-toc-height: 0rem; }
+  /* Contents is supporting navigation, not a second full-size navigation rail.
+     Give the article the remaining space without widening its prose measure. */
+  :root { --wiki-contents-width: clamp(10rem, 16vw, 14rem); }
+  [data-has-toc] .main-pane {
+    flex: 1 1 0;
+    min-width: 0;
+    width: auto;
+    --sl-content-margin-inline: auto;
+    --sl-content-width: var(--cibc-measure-reading);
+  }
+  .right-sidebar-container {
+    flex: 0 0 var(--wiki-contents-width);
+    width: var(--wiki-contents-width);
+    min-width: 0;
+    align-self: stretch;
+  }
+  .right-sidebar {
+    position: sticky;
+    top: var(--sl-nav-height);
+    width: 100%;
+    height: calc(100dvh - var(--sl-nav-height));
+    padding-top: 0;
+  }
+  .right-sidebar-panel .sl-container { width: 100%; max-width: none; }
+  .right-sidebar-panel h2 { font-size: 1.125rem; }
+  .right-sidebar-panel a {
+    font-size: 1rem;
+    line-height: 1.45;
+    hyphens: none;
+    word-break: normal;
+    overflow-wrap: break-word;
+  }
 }
 mobile-starlight-toc nav { container-type: inline-size; container-name: wiki-contents; }
 mobile-starlight-toc summary { height: auto; min-height: var(--cibc-control-height); padding: var(--cibc-space-2) var(--sl-content-pad-x); }

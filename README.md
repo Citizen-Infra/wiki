@@ -29,6 +29,8 @@ The source consumes [Citizen-Infra/design-system](https://github.com/Citizen-Inf
 
 `FoundationHead.astro` mirrors Starlight's resolved theme without another preference store, measures the intrinsic masthead for correct fixed-position offsets at enlarged text, and reflects accessible menu/search labels without replacing their interaction handlers. It omits Starlight's unresolved default favicon reference when no `public/favicon.svg` exists; no replacement artwork is generated. `FoundationFooter.astro` retains the default footer and adds access to the Public Sans OFL notice. Markdown tables retain their original content and native semantics inside labelled, keyboard-focusable scroll regions. No new logo or image artwork is included.
 
+Page headings wrap at word boundaries, with emergency wrapping only when one token exceeds the entire column. At the desktop contents breakpoint, the right rail has its own responsive 10–14rem width and compact 1rem link text, independent of the left navigation. The article receives the remaining space, with its maximum width tied to the shared 68ch reading measure rather than a smaller fixed-width cap; the contents scrolls in its own sticky column below the masthead.
+
 After an explicitly authorized foundation update: change both immutable pins, run a clean install, then `npm run sync-foundation-assets` to refresh the upstream licence notices. Run `npm run build && npm test` and inspect real search/navigation/theme states before publication. The foundation's full MIT notice is retained at `public/licenses/cibc-design-system-MIT.txt` and shipped with the site; Public Sans retains OFL at `public/fonts/OFL-Public-Sans.txt`; wiki content remains CC BY 4.0.
 
 ## Contributing

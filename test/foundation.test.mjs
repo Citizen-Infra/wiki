@@ -67,8 +67,25 @@ test('mobile reading density is distinct from the desktop display scale', () => 
     '--cibc-control-height': '2.75rem',
   })) assert.ok(mobile.includes(`${role}: ${value};`), role);
   assert.match(mobile, /@container wiki-masthead/);
-  assert.match(mobile, /hyphens: none/);
+  assert.match(css, /hyphens: none/);
   assert.match(css.slice(0, css.indexOf('@media (max-width: 49.999rem)')), /--sl-text-body: var\(--cibc-text-body\)/);
+});
+
+test('page titles wrap whole words without automatic hyphenation', () => {
+  const css = readFileSync('src/styles/open-index.css', 'utf8');
+  assert.doesNotMatch(css, /hyphens:\s*auto/);
+  assert.match(css, /:is\(h1,h2,h3,h4,h5,h6\), h1\s*\{[^}]*hyphens: none;[^}]*word-break: normal;[^}]*overflow-wrap: break-word;/);
+});
+
+test('contents has a bounded independent width and the article takes remaining space', () => {
+  const css = readFileSync('src/styles/open-index.css', 'utf8');
+  assert.match(css, /--wiki-contents-width: clamp\(10rem, 16vw, 14rem\)/);
+  assert.match(css, /\[data-has-toc\] \.main-pane\s*\{[^}]*flex: 1 1 0;[^}]*min-width: 0;/);
+  assert.match(css, /\.right-sidebar-container\s*\{[^}]*flex: 0 0 var\(--wiki-contents-width\)/);
+  assert.match(css, /\.right-sidebar\s*\{[^}]*position: sticky;[^}]*width: 100%;/);
+  assert.match(css, /\.right-sidebar-panel \.sl-container\s*\{ width: 100%; max-width: none;/);
+  assert.match(css, /--sl-content-width: var\(--cibc-measure-reading\)/);
+  assert.match(css, /\.right-sidebar-panel a\s*\{[^}]*font-size: 1rem;[^}]*hyphens: none;/);
 });
 
 test('the OFL serving copy and bundled fonts match the pinned source byte-for-byte', () => {
