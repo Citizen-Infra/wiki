@@ -9,10 +9,13 @@
     "prebuild": "node scripts/check-sidebar.mjs",
     "build": "astro build",
     "preview": "astro preview",
+    "sync-foundation-assets": "node scripts/sync-foundation-assets.mjs",
+    "test": "node --test test/*.test.mjs",
     "astro": "astro"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.39.2",
+    "@citizen-infra/design-system": "git+https://github.com/Citizen-Infra/design-system.git#6df5682711d11d1dde20453d0e06a78aca48b34f",
     "astro": "^6.3.1",
     "sharp": "^0.34.5"
   },

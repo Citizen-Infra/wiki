@@ -23,6 +23,14 @@ npm run build     # production build → dist/
 npm run preview   # preview the built site
 ```
 
+## Shared visual foundation
+
+The source consumes [Citizen-Infra/design-system](https://github.com/Citizen-Infra/design-system) `0.2.0-draft.1`, pinned in both package manifests to immutable HTTPS Git revision `6df5682711d11d1dde20453d0e06a78aca48b34f`. `src/styles/open-index.css` maps its roles into Starlight without creating another palette or replacing the framework's search, sidebar or theme controller. Public Sans is bundled locally through the package CSS; no font CDN is used. Supporting text stays on the shared 20–22px-equivalent scale, body 22–24px, with rem-based user resizing.
+
+`FoundationHead.astro` mirrors Starlight's resolved theme without another preference store, measures the intrinsic masthead for correct fixed-position offsets at enlarged text, and reflects accessible menu/search labels without replacing their interaction handlers. It omits Starlight's unresolved default favicon reference when no `public/favicon.svg` exists; no replacement artwork is generated. `FoundationFooter.astro` retains the default footer and adds access to the Public Sans OFL notice. Markdown tables retain their original content and native semantics inside labelled, keyboard-focusable scroll regions. No new logo or image artwork is included.
+
+After an explicitly authorized foundation update: change both immutable pins, run a clean install, then `npm run sync-foundation-assets` to refresh the upstream licence notices. Run `npm run build && npm test` and inspect real search/navigation/theme states before publication. The foundation's full MIT notice is retained at `public/licenses/cibc-design-system-MIT.txt` and shipped with the site; Public Sans retains OFL at `public/fonts/OFL-Public-Sans.txt`; wiki content remains CC BY 4.0.
+
 ## Contributing
 
 Suggestions and corrections are welcome — anyone with repo access can add or edit pages, and a merged PR goes live automatically.
