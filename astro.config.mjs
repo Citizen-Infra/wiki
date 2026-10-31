@@ -212,6 +212,7 @@ export default defineConfig({
         ]},
         { label: 'Stories', items: [
           { slug: 'stories/overview' },
+          { slug: 'stories/serbian-student-assemblies' },
           { slug: 'stories/wevis-thailand' },
           { slug: 'stories/topanga-fire-mutual-aid' },
           { slug: 'stories/open-source-insulin' },

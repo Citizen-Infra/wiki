@@ -38,8 +38,17 @@ That distinction matters when participation is sparse. If one person agrees with
 
 This is the same instinct as the [complementary-vs-competitive test](/concepts/ai-and-deliberation/): build tools that strengthen collective sense-making, and keep the binding decisions human. See also [synthetic participation](/concepts/synthetic-participation/) for the failure mode of skipping the humans entirely.
 
+## A seven-minute reflection experiment
+
+An October 2026 **arXiv preprint** tests one version of reflective elicitation before a group discussion. A 12-author team led by **Haiwen Li**, with **Nick Dufour and Manon Revel** as co-senior authors, assigned US participants to a seven-minute conversation with a purpose-built, non-directive AI reflector, static written reflection, or a control activity. The reflector used a prompted Gemma model to ask about participants' reasons and other perspectives. It had no web search; when asked for facts, it directed participants to search for themselves.
+
+Across **1,173 participants in 391 three-person discussions**, groups in the AI-reflection condition received higher Discourse Quality Index scores than either comparison condition. The benefit was concentrated in groups whose members initially disagreed. The scores came from an LLM judge, which the authors checked against a 108-message human-coded sample and a second model. That validation is useful context, but it is not human assessment of every discussion.
+
+The study tests a specific design, not a generic chatbot's effect on public debate. Everyone in a group received the same treatment, leaving open what happens when only some participants use a reflector. Overall opinion change did not differ across the three conditions, and the authors do not treat changing a person's view as desirable in itself. The result adds evidence about **preparing to deliberate**; it does not establish a mandate for AI to decide for people or show how the intervention works in a long-running citizens' assembly.
+
 ## Sources
 
+- Haiwen Li and 11 coauthors, with Nick Dufour and Manon Revel as co-senior authors, [*Improving Group Deliberation through AI-Guided Self-Reflection*](https://arxiv.org/abs/2610.37862v1), arXiv preprint, version 1 (27 October 2026). Purpose-built reflector, randomised experiment, automated discussion-quality scoring and stated limitations.
 - Manon Revel & Théophile Pénigaud, "AI-Facilitated Collective Judgements" / "AI-Enhanced Deliberative Democracy and the Future of the Collective Will," 2025: [arxiv.org/abs/2503.05830](https://arxiv.org/abs/2503.05830)
 - Manon Revel, talk to the Cooperative AI seminar series, 2025: [youtube.com/watch?v=u_azC4tgpRU](https://www.youtube.com/watch?v=u_azC4tgpRU)
 - Lisa Schirch, [“Scaling Future Peacemaking through AI-Powered Public Deliberation”](https://warpreventioninitiative.org/peace-science-digest/scaling-future-peacemaking-ai/), *Peace Science Digest* (2026).

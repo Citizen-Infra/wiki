@@ -38,8 +38,13 @@ A different route to the harder two meanings — *development* and *profits* —
 
 For the deeper critique of whether any of this is enough, see [does AI weaken democratic institutions?](/concepts/does-ai-weaken-institutions/); for the infrastructure angle, [public AI](/concepts/public-ai/); for the market-inspired mechanisms behind profit-sharing, [plural mechanisms](/concepts/plural-mechanisms/).
 
+## Compare how public participation is organised
+
+The [PAVE Case Book](/toolkit/decide-together/#compare-public-engagement-with-ai) helps turn the governance question into practical design choices: who is invited, what people can influence, how they learn and deliberate, and which public recommendations emerge. Its mix of full cases and shorter mapping records is a source for comparison, not evidence that every listed activity redistributes power or changes an AI system. Follow each case's original sources to examine the connection between participation and a resulting decision.
+
 ## Sources
 
+- [PAVE Case Book — About and methodology](https://pave.pairs.site/about/), including its distinction between featured cases, full cases and mapping entries.
 - Elizabeth Seger, Aviv Ovadya, Ben Garfinkel, Divya Siddarth & Allan Dafoe, "Democratising AI: Multiple Meanings, Goals, and Methods," 2023: [arxiv.org/abs/2303.12642](https://arxiv.org/abs/2303.12642) · [governance.ai](https://www.governance.ai/research-paper/democratising-ai-multiple-meanings-goals-and-methods)
 - Collective Intelligence Project "Democratic AI" panel (Divya Siddarth, Saffron Huang, Manu Chopra, Teddy Lee, Amba Kak, Yoshua Bengio), 2024: [youtube.com/watch?v=OQxMGMB5kL8](https://www.youtube.com/watch?v=OQxMGMB5kL8)
 - "The Indian Startup Making AI Fairer — While Helping the Poor" — TIME on Karya, 2023: [time.com](https://time.com/6297403/the-workers-behind-ai-rarely-see-its-rewards-this-indian-startup-wants-to-fix-that/)

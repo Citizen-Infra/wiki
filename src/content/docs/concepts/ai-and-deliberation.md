@@ -49,8 +49,17 @@ The [deliberative tech stack](/concepts/deliberative-tech-stack/) separates the 
 
 This is the practical, tool-level companion to [AI for participation](/concepts/ai-for-participation/) and [synthetic participation](/concepts/synthetic-participation/). For platforms in this space, see [Decide & make sense together](/toolkit/decide-together/).
 
+## Which model of democracy does a tool support?
+
+University of Bologna researcher **Francesco Nasi** maps 77 AI tools for civic participation using four democratic models drawn from Lincoln Dahlberg's framework. In the mapping, **47 are aggregative, 26 deliberative, four contestationary and none commons-oriented**. The distinction concerns their stated functions: collecting preferences, supporting dialogue, enabling organising and contestation, or supporting collective forms of cooperation and shared governance.
+
+The classification is interpretive. Nasi counts a tool as deliberative when it enables direct interaction between participants; on that criterion, he classifies Pol.is as aggregative even though it often forms part of a wider deliberative process. A tool's label and the design of the whole participation process are different questions. Nasi argues that the mapped field gives more support to processing information and finding agreement than to organising and contesting power.
+
+The study combines desk research with 15 expert interviews, and its map was last updated in June 2026. It classifies descriptions on project websites, not demonstrated democratic impact, and acknowledges an Anglophone/Global North bias. The counts describe this catalogue at that date; they do not establish the effectiveness, influence or global prevalence of each kind of tool. The [PAVE Case Book](/toolkit/decide-together/#compare-public-engagement-with-ai) offers a complementary way to examine how people organise participation in particular settings.
+
 ## Sources
 
+- Francesco Nasi, [*Which democracy does AI support? Mapping AI applications for civic participation*](https://reference-global.com/article/10.2478/acpo-2026-0004), Acta Politologica (2026), DOI 10.2478/acpo-2026-0004. A stated-function mapping of 77 tools, last updated June 2026.
 - Hélène Landemore — DemocracyNext (2026): [youtube.com/watch?v=sgFUtZCgAqI](https://www.youtube.com/watch?v=sgFUtZCgAqI).
 - David Krakauer — on complementary vs competitive cognitive artifacts.
 - Lisa Schirch, [“Scaling Future Peacemaking through AI-Powered Public Deliberation”](https://warpreventioninitiative.org/peace-science-digest/scaling-future-peacemaking-ai/), *Peace Science Digest* (2026).

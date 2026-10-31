@@ -19,7 +19,16 @@ Schneider is explicit about the risks: today's LLMs are "profit-driven, fundamen
 
 An agent interpreting a constitution still leaves the question of who wrote it and how it changes. Evan Hadfield proposes linking public deliberation to shared governance principles that guide behaviour and become criteria for evaluating it. Participants should be able to inspect the synthesis and revisit principles as results emerge. This is a related institutional proposal, rather than a demonstrated feature of Schneider's agent; see [from public principles to an audit](/concepts/binding-vs-advisory/#from-public-principles-to-an-audit).
 
+## From public input to evaluation criteria
+
+The **Collective Intelligence Project's [Free Expression Evaluation](https://free-expression.weval.org/)**, conducted with Anthropic, documents one way to make public principles testable. About 2,200 adults in the US, UK and India contributed across several rounds: proposing principles, considering one another's input, resolving conflicts, choosing topics and developing question-specific criteria. A principle needed more than 85% agreement in every tested country, cultural-values quadrant, gender and age group. The resulting suite contains 360 prompts and 3,791 criteria.
+
+Whose standards these are matters. Participants were recruited through Prolific and surveyed in English, with age, gender and education quotas; the study acknowledges that the sample is not representative of the whole world or even all perspectives in those three countries. Agreement across the tested subgroups does not settle how another community should write its rules.
+
+The project also separates two steps in evaluation. It classified model behaviour, including caveats and refusals, but scoring responses against the full 3,791 public criteria remained a next step in the published account. A caveat's presence alone does not show whether it was justified. This is a documented case of constructing standards and an evaluation suite; it does not establish that the public has binding control over a model or that a constitutional agent implements the resulting principles.
+
 ## Sources
 
+- Collective Intelligence Project with Anthropic, [*Free Expression Evaluation*](https://free-expression.weval.org/) (accessed 31 October 2026). Public-participation method, criteria, behaviour classification and stated next steps; the model snapshot is from March 2026.
 - Evan Hadfield, [*Voice without a pipeline is legitimacy theater*](https://informationaldemocracy.substack.com/p/provocation-hadfield), Informational Democracy (2026).
 - Nathan Schneider — Democracy Innovators Podcast (2026): [youtube.com/watch?v=jlyfhmUWX04](https://www.youtube.com/watch?v=jlyfhmUWX04)

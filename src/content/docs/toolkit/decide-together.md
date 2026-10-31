@@ -39,6 +39,18 @@ Groups also use these platforms to discuss proposals and make decisions:
 - **[Gemot](https://gemot.dev/)** — an open-source (Apache-2.0) tool where AI *agents* deliberate: they submit positions, vote, and it surfaces the **cruxes** — the specific claims that actually divide them, scored rather than summarised — with anti-sycophancy checks so agents can't be nudged into fake agreement. It can also turn a body of published human positions into agents that deliberate on their behalf, useful for mapping a contested debate, though that shades into the [synthetic-participation](/concepts/synthetic-participation/) question of when a stand-in stops representing a real person.
 - **[Facilitating Deliberation MCP](https://bookpower.org/facilitating-deliberation/)** — a private, book-grounded assistant for designing a deliberative process, checking whether the sponsor is ready, choosing activities, and shaping the next session. Access is available by request.
 
+## Connect live discussion, polling and reporting
+
+**[CivicOS](http://bloom-project.org/cohort)** is BLOOM's described open-source platform for its community assemblies. **Table Themer** captures table contributions and displays emerging themes during live discussion; **Open Poll** lets residents submit statements and respond agree, disagree or unsure; public reports bring the material together for residents and decision-makers. These are the project's published feature descriptions, not an independent accuracy test or evidence that officials will act on the output.
+
+BLOOM's [civic-host programme](/toolkit/fund-collective-work/#civic-host-funding-blooms-2027-us-cohort) combines these tools with local organising, facilitation and a route to a real decision. The platform is one part of that process; a poll or generated report cannot supply the host's relationships, mandate or implementation commitments.
+
+## Compare public engagement with AI
+
+The **[PAVE — Public AI Voice and Engagement Case Book](https://pave.pairs.site/)** collects examples of people learning about, discussing and seeking to shape AI. Full cases describe **who took part, what they did and how the process worked**, with links to recruitment approaches, public recommendations, facilitation guides and other materials. It is a way to compare design choices with the needs of a particular community.
+
+Its [methodology](https://pave.pairs.site/about/) distinguishes featured cases, full cases and short mapping entries. The site listed 134 entries on 31 October 2026; that is not a count of equally detailed or independently evaluated processes. Editors combine contributed material and desk research, curate for geographic, methodological and thematic variety, and pay attention to inclusion. The collection is deliberately selective. Read the original project sources before borrowing a method or drawing conclusions about its effects; the [Manchester panel](/run-reports/manchester-peoples-panel-ai/) is one example of the different questions a fuller case can answer.
+
 ## Plan and facilitate a conversation
 
 - **[Democracy Beyond Elections handbook](https://www.newdemocracy.com.au/2026/09/14/democracy-beyond-elections-a-handbook-on-citizens-assemblies/)** — a free second-edition reference for people commissioning, planning, designing, delivering or facilitating a citizens' assembly. Start with the introduction and use our [role-based chapter map](/concepts/running-a-citizens-assembly/#reading-the-handbook-by-role) to choose where to read next.

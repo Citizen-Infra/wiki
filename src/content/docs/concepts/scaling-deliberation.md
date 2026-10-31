@@ -34,8 +34,13 @@ Peacemaking shows why the dimensions have to work together. Elite negotiations o
 
 A related provocation from discussant Oliver Escobar (Edinburgh): build deliberative principles *into* the AI itself. We tend to treat AI as an **oracle** we ask for answers; a **deliberative AI** would behave more like a facilitator — asking as many questions as it answers, helping make connections, eliciting friction when a shallow consensus is forming. For the deeper tool-by-tool test, see [can AI scale deliberation?](/concepts/ai-and-deliberation/); for the risk of fake stand-ins, [synthetic participation](/concepts/synthetic-participation/).
 
+## Testing preparation before a discussion
+
+The [seven-minute AI-reflection experiment](/concepts/ai-reflectors/#a-seven-minute-reflection-experiment) gives “scaling within” a concrete research example. Its authors report higher automated discussion-quality scores after a purpose-built reflective conversation, especially in groups with disagreement. The experiment covers short online discussions where every member received the same preparation; whether benefits travel to mixed-uptake groups or sustained civic processes remains open.
+
 ## Sources
 
+- Haiwen Li and 11 coauthors, [*Improving Group Deliberation through AI-Guided Self-Reflection*](https://arxiv.org/abs/2610.37862v1), arXiv preprint, version 1 (27 October 2026); Nick Dufour and Manon Revel are co-senior authors.
 - Sammy McKinney & Claudia Chwalisz, "Five Dimensions of Scaling Democratic Deliberation: With and Beyond AI," DemocracyNext, June 2025: [demnext.org](https://www.demnext.org/action/five-dimensions-of-scaling-democratic-deliberation-with-and-beyond-ai)
 - Paper-launch webinar (with Oliver Escobar, Kyle Redman, Manon Revel; Office of Eric Schmidt), 2025: [youtube.com/watch?v=mOfvIfg2XlE](https://www.youtube.com/watch?v=mOfvIfg2XlE)
 - Sammy McKinney, "Integrating artificial intelligence into citizens' assemblies," *Journal of Deliberative Democracy*, 2024.

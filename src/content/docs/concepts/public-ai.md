@@ -46,8 +46,15 @@ Their proposed starting point is the democratic capacity people need: to know, d
 
 Supplier dependence is one practical question within that argument. In a comment on the essay, **Peter McCann Strain** proposes checking, before a contract is signed, whether an institution can export its records, reproduce past decisions, preserve appeal rights and keep a service running while changing suppliers. These are a reader's proposed tests, not evidence that a particular procurement meets them. Tang's [planned hand-back](/concepts/six-pack-of-care/#invite-it-hold-it-accountable-retire-it) applies a related principle at community scale.
 
+## Fund participation alongside the infrastructure
+
+The Citizens' Track on AI's report from September 2026 roundtables in San Francisco and New York argues that **public AI and public participation need support together**. Tim Davies describes work with Iswe Foundation bringing organisations and funders into discussion about participatory, democratic and community-led AI governance. The report connects local capacity-building with public voice in emerging international AI-governance forums.
+
+Its five messages include a growing field of participation experiments, the need to fund participation alongside public-interest technology, and the importance of treating AI governance as part of wider democratic organising. It also calls for funders and communities to learn together which approaches build public agency, while democratic norms are still being established. These are the report's arguments and proposals, not an evaluation proving that a particular funding strategy has changed AI governance. Its warning about capture connects to the distinction between [eliciting preferences and sharing control](/concepts/democratising-ai/#preferences-are-not-control).
+
 ## Sources
 
+- Tim Davies, [*Accelerating inclusive, democratic and community-led governance of AI: Mobilising Resources and Coordinating Action*](https://citizens-track.org/2026/10/05/mobilising-resources-for-democratic-ai.html), Citizens' Track on AI (5 October 2026). Five messages from September roundtables with Iswe Foundation.
 - Georg Diez and Felix Beer, [*The Infrastructural Transformation of the Public*](https://informationaldemocracy.substack.com/p/infrastructural-transformation-public), Informational Democracy (22 August 2026), including [Peter McCann Strain's comment](https://informationaldemocracy.substack.com/p/infrastructural-transformation-public/comment/326944819).
 - Bruce Schneier, remarks on public AI and trust — Collective Intelligence Project "Democratic AI" panel, 2024: [youtube.com/watch?v=OQxMGMB5kL8](https://www.youtube.com/watch?v=OQxMGMB5kL8)
 - Public AI Inference Utility & Apertus community Q&A, 2025: [youtube.com/watch?v=vgFB9opxRKs](https://www.youtube.com/watch?v=vgFB9opxRKs)
