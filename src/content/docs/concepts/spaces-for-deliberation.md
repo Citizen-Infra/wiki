@@ -26,7 +26,14 @@ Two reframes push the idea further. The Danish practitioner Johan Galster (We Do
 
 This is the spatial companion to [running an assembly well](/concepts/running-a-citizens-assembly/) and to the broader project of [institutionalising deliberation](/concepts/institutionalising-deliberation/) — and a reminder that, like adapting libraries or community centres, it is often about reusing what is already there rather than building anew.
 
+## Youth spaces in the Evens Foundation programme
+
+The Evens Foundation's October 2026 vision paper connects **places to meet with the practice of democratic disagreement**. Its programme proposes piloting and supporting youth spaces where people from different backgrounds can meet, alongside a European community of practice and advocacy to sustain those spaces. It also proposes supporting role models, research and training for constructive disagreement. These are programme objectives, not findings that a particular venue or intervention has already reduced polarisation.
+
+Physical spaces sit alongside a digital agenda: the foundation plans to lead, support and scale at least five tools, including AI for political representatives, an AI companion for first-time voters, and three further tools including one for citizens' assemblies. Its proposed support combines direct project work with grants, technical assistance, evaluation and collaborative funding. Jonathan Evens and Joe Elborn are the paper's equal lead authors, working with the board and team. The paper offers a funding and development agenda to examine; it does not document five completed tools or an open grant call. See the foundation in the [ecosystem directory](/ecosystem/overview/).
+
 ## Sources
 
 - Gustav Kjær Vad Nielsen & James MacDonald-Nelson, *Spaces for deliberation: Eight spatial qualities for designing deliberative assemblies* — DemocracyNext, 2025: [demnext.org](https://www.demnext.org/action/spaces-for-deliberation-paper)
 - Paper launch event (with Johan Galster, Felipe Rey, and Sarah Yaffe), 2025: [youtube.com/watch?v=2D4gHP5nsgk](https://www.youtube.com/watch?v=2D4gHP5nsgk)
+- Evens Foundation, Jonathan Evens and Joe Elborn (equal lead authors), [*Evolving Democracy With Europe's Next Generation: Vision Paper*](https://evensfoundation.eu/news/evolving-democracy-with-europe-s-next-generation-vision-paper) (October 2026), developed with the foundation's board and team. Programme targets and operating approach, not an evaluation of delivered outcomes.

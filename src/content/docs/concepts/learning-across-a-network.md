@@ -38,12 +38,27 @@ For a community trying this, the article raises useful questions:
 
 The proposal's test is still practical: what do people use, adapt and learn from? Its planned research on sustaining networks should be assessed through the resulting evidence, not treated as a completed finding.
 
+## A federation of personal and team wikis
+
+Gurden Batra describes another working experiment at Dark Matter Labs and xCO: **personal wikis connected to team knowledge commons**. In his 22 October 2026 account, with drafting and edits by Indy Johar and editing by Robyn Bennett, the 15 October snapshot contains 26 wikis: 15 personal and 11 team wikis. AI assistants propose linked pages and changes for people to accept or refuse.
+
+The arrangement separates several decisions that a single shared folder can hide:
+
+- **Sharing:** material moves from a personal wiki only when its author chooses to send it, carrying its provenance. Refusing to contribute is legitimate.
+- **Disagreement:** conflicting accounts stay attributed and contested until evidence or recorded agreement changes their status. A steward does not simply settle the dispute by authority.
+- **Validation:** a page's assessment of its evidence is separate from who has confirmed it. Agreement in one group does not automatically become agreement in another.
+
+The account also describes a boundary against using the commons to monitor colleagues' activity. These are documented design rules, not an independent audit proving that every implementation enforces them. Adoption was uneven: most commons material still came from Johar's wiki, while many connections had carried little or nothing. The claim that this structure improves inquiry over a central knowledge base remains a hypothesis.
+
+In a public comment, **Kevin Mears** proposes a way to examine that hypothesis: look for a contested page that changed because of the dissenting view while keeping that view attributed. His suggested test concerns changes to shared knowledge, rather than ranking contributors. He also notes that a lack of such examples could mean there has been too little disagreement to assess the design. This is a reader's proposed evaluation criterion, not a reported result.
+
 ## Related ideas
 
 This is part of the work of maintaining a [knowledge commons](/concepts/the-commons/) and building [self-governance skills](/concepts/commoning-standard/). It can complement [conversation networks](/concepts/conversation-networks/), whose focus is connecting small-group conversations, and [locality-to-locality spreading](/concepts/locality-to-locality-spreading/), where communities adapt tools and return learning to a shared pool.
 
 ## Sources
 
+- Gurden Batra, with drafting and edits by Indy Johar and editing by Robyn Bennett, [*How our shape of collaboration is evolving with LLMs*](https://civilizationaloptionality.substack.com/p/how-our-shape-of-collaboration-is), Expanding Civilizational Optionality (22 October 2026), including [Kevin Mears's comment](https://civilizationaloptionality.substack.com/p/how-our-shape-of-collaboration-is/comment/367351866).
 - Brendon Johnson, [*What Does a Network Know?*](https://medium.com/fito-network/what-does-a-network-know-16aedc3645ed), Fito Network (30 July 2026).
 - [Fito Network](https://www.fito.network/) — its public description of the network and resources.
 - [Network Weaving Game](https://www.network-weaver-game.com/) — documented reflection themes and learning resources; no independent effectiveness evaluation is claimed here.

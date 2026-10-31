@@ -18,6 +18,14 @@ Before choosing such a model, clarify who contributes, who can approve payouts o
 
 This is a governance example, not a recommendation to join a specific scheme, take a loan or use a token. Check the arrangement's risks, charges and applicable requirements. His separately described Nyota community-currency pilot is not interchangeable with a savings circle.
 
+## Civic-host funding: BLOOM's 2027 US cohort
+
+The **[BLOOM Project's Public Assembly on AI](http://bloom-project.org/cohort)** invites US civic hosts to organise community deliberation about AI. For its 2027 cohort, the published offer is **$10,000–$30,000 for a three-month process** or **$50,000–$60,000 for a six-month assembly**. Applications close **20 November 2026**; these amounts and dates belong to that round, not a standing grant programme.
+
+The shorter process combines conversations with local leaders, community forums and an open poll to identify priorities and possible action. The longer process adds goal-setting, solution development, discussion of trade-offs and recommendations put to a public ratification vote. BLOOM offers methods, training, peer support and its [CivicOS participation tools](/toolkit/decide-together/#connect-live-discussion-polling-and-reporting).
+
+Hosts need relationships across their community, convening capacity and a route to action. The call asks for identifiable decisions, decision-makers and timelines. Delivering recommendations publicly does not guarantee that an authority will implement them. Community assemblies are planned for February–July 2027; the wider state and national assembly pathway is a future programme, not a completed process.
+
 ## Keep it going
 
 - **[Liberapay](https://liberapay.com/)** — recurring donations to people and projects, run as a non-profit with no cut taken; good for sustaining ongoing work rather than one-off campaigns.

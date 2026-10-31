@@ -9,6 +9,7 @@ This section collects those stories: bottom-up, real-world examples of citizens 
 
 ## In this section
 
+- [Serbia's student movement and local assemblies (2024–2026)](/stories/serbian-student-assemblies/)
 - [WeVis: civic tools built around local participation (Thailand)](/stories/wevis-thailand/)
 - [Topanga: a WhatsApp group becomes fire infrastructure](/stories/topanga-fire-mutual-aid/)
 - [Open-source insulin: "We Are Not Waiting"](/stories/open-source-insulin/)

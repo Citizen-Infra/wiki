@@ -33,8 +33,14 @@ He also describes a tension between hearing people and acting on an agreed direc
 
 For the distinction between an ally or negotiator and an impartial third party, see [Working with conflict](/concepts/working-with-conflict/). Having a conversation, building a mandate and obtaining an enforceable commitment are different kinds of work.
 
+## Deliberation within a movement
+
+The [Serbian student and neighbourhood assemblies](/stories/serbian-student-assemblies/) connect these two kinds of work. In his account of the movement, Aleksandar Matković describes political education and extended faculty discussions before a common programme emerged. Practitioners in a separate discussion describe residents organising food, funds and local action alongside those student spaces. These accounts describe how discussion and practical organising coexisted; they do not establish which practice caused the Student List's election result or how it will govern.
+
 ## Sources
 
+- Aleksandar Matković, [*A leaderless revolution has swept Serbia. The world should be watching*](https://www.theguardian.com/commentisfree/2026/oct/27/a-leaderless-revolution-has-swept-serbia-the-world-should-be-watching), The Guardian (27 October 2026).
+- SDi Foundation, [*When Societies Begin to Shift: Exploring Systemic Change in Serbia*](https://youtu.be/sDg1L-kyqmo), with Agneš Asodi and Miloš Zeković (30 September 2026).
 - Tiago Peixoto, interview on the Democracy Innovators podcast, 2024: [youtube.com/watch?v=cmHHZ1_cyeY](https://www.youtube.com/watch?v=cmHHZ1_cyeY)
 - Vishal Reddy, [*Union negotiating*](https://protocol.ecologies.info/interviews/reddy-union_negotiating/), interviewed by Nathan Schneider, Protocol Oral History Project (published 24 June 2026).
 - Thomas Fujiwara, "Voting Technology, Political Responsiveness, and Infant Health: Evidence from Brazil," *Econometrica*, 2015

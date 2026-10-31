@@ -27,6 +27,8 @@ Its [directory policy](https://www.goodmarket.global/info/community-rules/direct
 
 This is a documented arrangement to examine, not an independent finding that every review is fair or every enterprise meets its claims. For a commons, the useful questions are concrete: **who can participate, who can change rules, what is visible, and what happens when someone challenges a claim?** The [coordination toolkit](/toolkit/coordinate-a-community/#find-groups-with-shared-standards) links the resource.
 
+Knowledge can be stewarded through similar explicit choices. The [personal and team wiki experiment](/concepts/learning-across-a-network/#a-federation-of-personal-and-team-wikis) at Dark Matter Labs and xCO separates permission to share, attributed disagreement and group validation. Its account also records uneven adoption; governance rules and a connected system do not by themselves demonstrate shared learning.
+
 ## Sources
 
 - David Bollier — *Think Like a Commoner* (2nd ed.); on Team Human w/ Douglas Rushkoff (2025): [youtube.com/watch?v=5NrkkC8tQGQ](https://www.youtube.com/watch?v=5NrkkC8tQGQ). The [Book Power MCP companion](https://bookpower.org/think-like-a-commoner/) lets an AI agent work with Bollier's commons cases, enclosure patterns, and Ostrom-based assessment questions.
