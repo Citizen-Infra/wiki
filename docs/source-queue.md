@@ -260,6 +260,10 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 - [ ] https://thecynefin.co/handing-on-a-torch/ — Dave Snowden, “Handing on a torch” (27 October 2026). Public launch essay for the practitioner field guide and its links to the Cynefin wiki and planned virtual Hexi environment.
 - [ ] https://publications.jrc.ec.europa.eu/repository/handle/JRC123629 — Dave Snowden and Alessandro Rancati, “Managing complexity (and chaos) in times of crisis” (European Commission JRC, 2021). Cynefin-inspired field guide for decision makers; publisher record verified, full guide not yet ingested.
 
+- [ ] https://github.com/atlanai/ai-registry — AI Registry — Atlan’s open registry specification; potential reference for portable artifact identity, versioning and distribution. Distinguish packaging from protocol execution or review. [Context Conference 2026, 2026-10-28; public source; Tier 3, interoperability/shared knowledge]
+- [ ] https://github.com/GoogleCloudPlatform/open-knowledge-format — Open Knowledge Format (OKF) — Google Cloud’s markdown and YAML knowledge-bundle format; potential reference for portable, inspectable shared knowledge and provenance. [Context Conference 2026, 2026-10-28; public source; Tier 3, interoperability/shared knowledge]
+- [ ] https://ossie.apache.org/ — Apache Ossie (incubating), formerly Open Semantic Interchange — Vendor-neutral semantic-metadata interchange; potential reference for common metric definitions and the limits of exchanging executable meaning. [Context Conference 2026, 2026-10-28; public source; Tier 3, interoperability/shared knowledge]
+
 ### From the Telegram digest
 
 - [ ] https://delibdemjournal.org/article/id/1625 — John Rountree and John Gastil, "The Case for Using Generative AI to Run Deliberation Simulations": an argument that AI simulations should support rather than replace human judgment, illustrated by a GPT-4o K-12 mental-health example.
