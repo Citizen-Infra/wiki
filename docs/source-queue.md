@@ -257,6 +257,9 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 - [x] https://www.linkedin.com/pulse/sortition-goes-back-further-brussels-than-many-people-hugh-pope-73rmf — Hugh Pope (essay): "Sortition goes back further in Brussels than many people think" → concepts/sortition ("Not only ancient" section) + library [Tier 1]
 - [x] https://www.cambridge.org/core/journals/data-and-policy/article/ai-and-citizen-participation-a-political-economy-lens/2A4CC7AAA4F24F5C10CFC9D606EE5E5B — Davies & Devine (*Data & Policy* 8, 2026, e33; CC BY): "AI and citizen participation: a political economy lens" — who builds, funds, and adopts civic-AI tools shapes which ever reach citizens; structural forces favour incumbents (seven builder archetypes / three funding models / four adopters) → concepts/who-builds-civic-ai (NEW page) + library [Tier 1, civic-AI] (2026-07-20)
 
+- [ ] https://thecynefin.co/handing-on-a-torch/ — Dave Snowden, “Handing on a torch” (27 October 2026). Public launch essay for the practitioner field guide and its links to the Cynefin wiki and planned virtual Hexi environment.
+- [ ] https://publications.jrc.ec.europa.eu/repository/handle/JRC123629 — Dave Snowden and Alessandro Rancati, “Managing complexity (and chaos) in times of crisis” (European Commission JRC, 2021). Cynefin-inspired field guide for decision makers; publisher record verified, full guide not yet ingested.
+
 ### From the Telegram digest
 
 - [ ] https://delibdemjournal.org/article/id/1625 — John Rountree and John Gastil, "The Case for Using Generative AI to Run Deliberation Simulations": an argument that AI simulations should support rather than replace human judgment, illustrated by a GPT-4o K-12 mental-health example.
