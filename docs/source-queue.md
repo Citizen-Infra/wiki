@@ -245,6 +245,9 @@ Substantive sources surfaced in past @citizen_infra link digests (articles/repor
 
 Sources handed in directly (never posted to the @citizen_infra group). Same routing as the rest.
 
+- [ ] https://supportukrainenow.org/together-at-distance — Support Ukraine Now, “Разом на відстані / Together at Distance” (2026). Organiser’s primary reference for an online Open Space unconference for Ukrainians across locations; useful for participant-led sessions, community-building and event organisation. Announced dates and scale are organiser claims, not independently verified outcomes. Shared directly 2026-11-02. [Tier 2]
+- [ ] https://www.akademie-solitude.de/de/keeping-the-commons-in-motion-through-collective-play/ — Akademie Schloss Solitude, “Keeping the commons in motion through collective play”: interview with Rok Kranjc (29 May 2026) about “Game-Changers: The Game,” participatory exploration of economic and governance alternatives, and a reusable Game Commons archive. Primary interview; source ingestion does not grant rights to republish game materials. Shared directly 2026-11-02. [Tier 2]
+
 - [x] https://www.coe.int/en/web/kyiv/-/a-historic-milestone-for-deliberative-democracy-ukraine-s-first-ever-citizens-assembly-successfully-launched — Council of Europe: Ukraine's first citizens' assemblies (Zvyahel + Slavutych, wartime) → run-reports/ukraine-wartime-assemblies [Tier 1]
 - [x] https://futurepolis.substack.com/p/the-lexington-experiment-part-i — Futurepolis (Gideon Lichfield): The Lexington Experiment, I & II — CivicLex's first Lexington KY civic assembly → run-reports/lexington-civic-assembly [Tier 1]
 - [x] https://www.buergerrat.de/en/background/good-examples-of-citizens-assemblies/ — Mehr Demokratie: curated "good examples" of citizens' assemblies + their political impact → library + ecosystem (Mehr Demokratie) [Tier 1] (now redirects to mehr-demokratie.de)
