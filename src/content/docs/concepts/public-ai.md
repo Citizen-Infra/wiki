@@ -52,6 +52,22 @@ The Citizens' Track on AI's report from September 2026 roundtables in San Franci
 
 Its five messages include a growing field of participation experiments, the need to fund participation alongside public-interest technology, and the importance of treating AI governance as part of wider democratic organising. It also calls for funders and communities to learn together which approaches build public agency, while democratic norms are still being established. These are the report's arguments and proposals, not an evaluation proving that a particular funding strategy has changed AI governance. Its warning about capture connects to the distinction between [eliciting preferences and sharing control](/concepts/democratising-ai/#preferences-are-not-control).
 
+## Mapping the alternatives, layer by layer
+
+Public AI is one answer among several to the concentration of AI. The Decentralization Research Center's [*Alternatives to Concentrated AI*](https://thedrcenter.org/research/alternatives-to-concentrated-ai) (Samuel Vance-Law and Kyle Bligen, October 2026) maps the others. Drawing on 36 interviews held between April and August 2026, it walks the AI "stack" one layer at a time and pairs each with working alternatives:
+
+| Layer | Where power concentrates | Alternatives the report maps |
+|---|---|---|
+| Hardware | Fabrication and advanced packaging | Open instruction sets and accelerator designs |
+| Compute | Capital, scarce chips, energy | Distributed training, federated learning, public compute |
+| Data | Access and governance | Community licences, data stewardship, cooperatives |
+| Models | Closed weights | Open weights, fully open construction, models for underserved languages |
+| Inference and access | Who may study, audit or build on systems | Privacy-preserving access; cooperative and public provision |
+| Agents | Identity, accountability, coordination | Verifiable identity, open standards |
+| Governance | Who sets the rules, for whom | Subsidiary and plural governance |
+
+Its four findings: concentration need not be the endpoint of a general-purpose technology; the alternatives do not need to match the frontier to be useful; chip manufacturing and frontier-scale training remain concentrated, but working systems exist at every other layer; and most of the alternative sits outside the safety debate about a few frontier systems. It includes three case studies written by their builders: OpenMined, the Ethereum Foundation's work on an open trust layer for AI agents, and Civic AI (see the [6-Pack of Care](/concepts/six-pack-of-care/)). The DRC advocates for decentralisation, and the report says it is not a case for open frontier weights; policy recommendations are promised in a separate 2027 report.
+
 ## Sources
 
 - Tim Davies, [*Accelerating inclusive, democratic and community-led governance of AI: Mobilising Resources and Coordinating Action*](https://citizens-track.org/2026/10/05/mobilising-resources-for-democratic-ai.html), Citizens' Track on AI (5 October 2026). Five messages from September roundtables with Iswe Foundation.
@@ -61,3 +77,4 @@ Its five messages include a growing field of participation experiments, the need
 - "Apertus: a fully open, transparent, multilingual language model" — ETH Zurich / EPFL / CSCS, September 2025: [ethz.ch](https://ethz.ch/en/news-and-events/eth-news/news/2025/09/press-release-apertus-a-fully-open-transparent-multilingual-language-model.html)
 - [publicai.co](https://publicai.co/)
 - [Swiss National AI Dialogue](https://dialogue.publicai.ch/) and its [Terms of Use and Privacy Notice](https://dialogue.publicai.ch/swiss-national-ai-dialogue/terms) — public input on AI in Switzerland; participation rules, data use and limits on official influence.
+- Samuel Vance-Law and Kyle Bligen, [*Alternatives to Concentrated AI: A Layer-by-Layer Map of What Is Being Built*](https://thedrcenter.org/research/alternatives-to-concentrated-ai), Decentralization Research Center (October 2026).
