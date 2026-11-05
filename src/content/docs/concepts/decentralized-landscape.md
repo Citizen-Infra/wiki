@@ -40,6 +40,18 @@ Prodromou also describes the tension between broader interconnection and maintai
 
 Robin Berjon's [web-standards oral history](https://protocol.ecologies.info/interviews/berjon-web_standards/) explores separating identity, storage, feeds and search between different institutions. Content-addressed systems such as IPFS can help check that retrieved content matches its identifier. That is a check on the data's integrity, **not proof that a statement is true or a decision legitimate**. Nor does an identifier keep a file available: IPFS's [persistence documentation](https://docs.ipfs.tech/concepts/persistence/) says someone must continue storing it. Berjon presents institutional flexibility as a possibility to build on these mechanisms, not evidence that cryptography itself delivers democratic governance.
 
+## Communities do not govern alone
+
+Handing moderation to communities solves one problem and exposes another: spammers, harassers and bad actors move between communities, and each one cannot handle them in isolation. A CHI 2026 paper by Sohyeon Hwang and six co-authors, [*Governing Together*](https://arxiv.org/abs/2509.19653), calls the missing layer **inter-community governance**: ways for independently run communities to coordinate on governance. From workshops with 24 people involved in the Fediverse, it names six challenges: making each community's decisions visible, collating nuanced information about problems, controlling what is shared with whom, enabling new relationships between communities, letting communities customise shared decisions, and keeping technical barriers low.
+
+Existing practice already does some of this, unevenly. The **#Fediblock** hashtag, started by a group of queer femmes, lets moderators warn each other about bad actors, and many servers use shared blocklists; workshop participants also noted that warnings posted without evidence can be unfair and that public lists can expose moderators. The authors propose three design principles:
+
+- **Modularity:** describe governance in consistent, comparable parts so communities can communicate decisions cheaply. One workshop idea is a "Governance Nutrition Facts" label summarising a community's decision-making process, rules, data security and admin team.
+- **Polycentricity:** let a community sit in several overlapping circles of trust, sharing information and moderation work with some communities but not others.
+- **Forkability:** let communities copy another's governance and adapt it, so sharing does not erode their autonomy.
+
+These are design proposals from workshops, not a deployed system. They give a concrete vocabulary for the federation question above: being able to connect is not the same as being able to govern together.
+
 ## The navigator problem
 
 The space is a confusing sea of overlapping protocols. **OpenHaven** (a prototype from the Collaborative Technology Alliance) is one attempt to map it — not as a list of tools, but by starting from what you're actually trying to do: pick a **use case** ("I care about identity and trust"), refine by the **capability** you need (sovereign identity, proof of personhood, contextual disclosure), and see which tools deliver it — including a view of the whole "stack" beneath an app.
@@ -60,3 +72,4 @@ For a community, ask who holds its assets and data, who controls the convenient 
 - Bryan Newbold, [*Protocol engineering*](https://protocol.ecologies.info/interviews/newbold-protocol_engineering/), interviewed by Nathan Schneider, Protocol Oral History Project (published 12 August 2025); checked alongside the current [AT Protocol account-migration guide](https://atproto.com/guides/account-migration).
 - Brandon Nørgaard — "OpenHaven & Civic Intelligence Infrastructure," OpenCivics Civic Innovator Session (2026): [youtu.be/Umpu1AmTuy8](https://youtu.be/Umpu1AmTuy8).
 - [OpenHaven](https://openhaven.net/) — a convergence navigator for the peer-to-peer and decentralized protocol landscape (Collaborative Technology Alliance).
+- Sohyeon Hwang, Sophie Rollins, Thatiany Andrade Nunes, Yuhan Liu, Richmond Wong, Aaron Shaw and Andrés Monroy-Hernández, [*Governing Together: Toward Infrastructure for Community-Run Social Media*](https://dl.acm.org/doi/10.1145/3772318.3790855), CHI 2026; open preprint at [arXiv:2509.19653](https://arxiv.org/abs/2509.19653).
