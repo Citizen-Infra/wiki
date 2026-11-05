@@ -245,8 +245,6 @@ Substantive sources surfaced in past @citizen_infra link digests (articles/repor
 
 Sources handed in directly (never posted to the @citizen_infra group). Same routing as the rest.
 
-- [ ] https://supportukrainenow.org/together-at-distance — Support Ukraine Now, “Разом на відстані / Together at Distance” (2026). Organiser’s primary reference for an online Open Space unconference for Ukrainians across locations; useful for participant-led sessions, community-building and event organisation. Announced dates and scale are organiser claims, not independently verified outcomes. Shared directly 2026-11-02. [Tier 2]
-- [ ] https://www.akademie-solitude.de/de/keeping-the-commons-in-motion-through-collective-play/ — Akademie Schloss Solitude, “Keeping the commons in motion through collective play”: interview with Rok Kranjc (29 May 2026) about “Game-Changers: The Game,” participatory exploration of economic and governance alternatives, and a reusable Game Commons archive. Primary interview; source ingestion does not grant rights to republish game materials. Shared directly 2026-11-02. [Tier 2]
 
 - [x] https://www.coe.int/en/web/kyiv/-/a-historic-milestone-for-deliberative-democracy-ukraine-s-first-ever-citizens-assembly-successfully-launched — Council of Europe: Ukraine's first citizens' assemblies (Zvyahel + Slavutych, wartime) → run-reports/ukraine-wartime-assemblies [Tier 1]
 - [x] https://futurepolis.substack.com/p/the-lexington-experiment-part-i — Futurepolis (Gideon Lichfield): The Lexington Experiment, I & II — CivicLex's first Lexington KY civic assembly → run-reports/lexington-civic-assembly [Tier 1]
@@ -294,6 +292,8 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 
 ## Processed
 
+- [x] #163 — https://supportukrainenow.org/together-at-distance — Support Ukraine Now, “Together at Distance” · 2026-11-05 · organiser page, format and event guides and two earlier-edition reports read; new Open Space concept (Self-governance & power), Decide together, ecosystem and Library. Scale figures are organiser claims and internally inconsistent; the Sep–Oct 2026 edition was still running.
+- [x] #164 — https://www.akademie-solitude.de/de/keeping-the-commons-in-motion-through-collective-play/ — Rok Kranjc, “Keeping the commons in motion through collective play” · 2026-11-05 · interview and companion residency page read; open-design-graveyard section in The commons, Game-Changers in Fund collective work, Library. Prototype plans, not results; no licence stated for game materials.
 - [x] #151 — https://www.theguardian.com/commentisfree/2026/oct/27/a-leaderless-revolution-has-swept-serbia-the-world-should-be-watching — Matković’s Serbian student-movement account · 2026-10-31 · firsthand account and election context checked; new Serbian assemblies Story, Movements not arguments and Library; causation and post-election governance remain open.
 - [x] #152 — https://youtu.be/sDg1L-kyqmo — SDi Foundation — Serbian local citizen assemblies · 2026-10-31 · practitioner transcript and speaker credits reviewed; Serbian Story adds participation models, practical support, coordination and facilitation limits; Library and concept cross-links.
 - [x] #153 — https://evensfoundation.eu/news/evolving-democracy-with-europe-s-next-generation-vision-paper — Evens Foundation vision paper · 2026-10-31 · programme and equal lead-author credits checked; youth-space section in Spaces for deliberation, ecosystem and Library; digital tools remain proposed targets.
