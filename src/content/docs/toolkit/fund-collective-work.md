@@ -37,7 +37,7 @@ Hosts need relationships across their community, convening capacity and a route 
 ## Own it together
 
 - **Community land trusts (CLTs)** — a non-profit holds land in trust for lasting community benefit, taking it permanently out of the speculative market so housing or farmland stays affordable and locally governed. A practical form of [relational property](/concepts/relational-property/).
-- **Community-supported agriculture (CSA)** — members pay a local farm up front for a season's share, sharing the risk and keeping the farm viable: patronage and a shared stake instead of pure market exchange.
+- **Community-supported agriculture (CSA)** — members pay a local farm up front for a season's share, sharing the risk and keeping the farm viable: patronage and a shared stake instead of pure market exchange. See [Om Sleiman Farm](/stories/om-sleiman-farm/) for one in the occupied West Bank.
 
 ## Explore models before choosing one
 

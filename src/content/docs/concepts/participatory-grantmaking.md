@@ -26,7 +26,13 @@ Crisis also reshapes *how money physically moves*. Under rising authoritarianism
 - **Think in four phases, not one.** Dalan frames crisis work as prevention, preparedness, response *and* recovery — movements are actors in all four, not just first responders.
 - **Not every funder has to do everything.** Funds coordinate as an ecosystem, playing different roles at different stages. When MADRE is already funding in a context like Afghanistan, the Global Resilience Fund moves money *to MADRE* rather than duplicating it; when GRF funded in Libya and Turkey, MADRE moved money to it. Shared due diligence and honest role-splitting get the money where it needs to go with less burden on activists.
 
-And the people are not separate from the crisis. Advisors and staff are often living through the same events they're funding — fleeing, in exile, in deep response — so the work includes care: checking in by phone, holding space for grantee partners to connect, supporting documentation and storytelling so communities can archive what they're living through and reclaim the narrative. Yara's closing advice is the shortest: *don't forget your team*.
+Dalan builds that range into its structure. Its grantmaking runs as layered funding streams, each with its own pace and its own form of participatory decision. The **Shield Fund** covers anticipatory preparedness and crisis response with nimble grants: it moved money to Georgia and Kazakhstan as foreign-agents and anti-LGBT propaganda laws arrived, and in 2025 to regional movements hit by global funding cuts. The **Shareyne Fund**, named for a Kyrgyz custom of resource-sharing, gives core and flexible grants through open windows for prevention, preparedness and recovery work; because the committee decides across all sixteen countries, a decision there takes up to two months. The **Romani Program**, launched in 2025 as Dalan's first thematic programme, funds intersectional Romani organising in Hungary, Poland, Romania and Slovakia, with its own Romani Resource Distribution Committee of five Romani women activists. Alongside the grants, strategic partnerships with **PILnet** and **NGO RESIDENT** give movement partners legal assistance and digital-security support: in a crackdown, money alone is not enough.
+
+### Care is part of the work
+
+The people are not separate from the crisis. Advisors and staff are often living through the same events they're funding — fleeing, in exile, in deep response — so the work includes care: checking in by phone, holding space for grantee partners to connect, supporting documentation and storytelling so communities can archive what they're living through and reclaim the narrative.
+
+Yara describes what it took for Rawa to re-establish contact with its partners in Gaza. There was hesitation first: what do you say, and with what standing, when you are the one who is safe? Her answer is that the useful opening is not a funding question or an update request but simply *how are you*. Contact comes before coordination; the relationship is what the money later travels along. Her closing advice is the shortest: *don't forget your team*.
 
 ## The political point
 
@@ -36,7 +42,7 @@ Practitioners insist PGM is a redistribution of power, not a technique — and t
 If a fund's "participation" is a fixed series of steps rather than a real handover of decision power, it has been depoliticised — and sometimes the honest participatory move in a crisis is to skip the process and just get the money out.
 :::
 
-Two corollaries run through the practice. First, **the community defines the crisis**: there is no single correct definition, and the definition activists offer determines how the response — and its participatory component — is built. Second, **philanthropy's silos are its own problem**: funding streams are carved up in ways movements on the ground are not, which is why flexible, cross-crisis pots (like GRF's negotiated overhead that it reallocates between crises, including ones funders ignore) matter as much as any single mechanism.
+Two corollaries run through the practice. First, **the community defines the crisis**: there is no single correct definition, and the definition activists offer determines how the response — and its participatory component — is built. That cuts against a habit in global-north philanthropy, raised by participants in the webinar's breakout discussion: treating "crisis" as something that happens *internationally*, elsewhere and episodically, when for the people living it the crisis is local and continuous. Second, **philanthropy's silos are its own problem**: funding streams are carved up in ways movements on the ground are not, which is why flexible, cross-crisis pots (like GRF's negotiated overhead that it reallocates between crises, including ones funders ignore) matter as much as any single mechanism.
 
 ## Why it's here
 
@@ -45,7 +51,7 @@ Citizen infrastructure runs on money, and who decides over money is a governance
 ## Sources
 
 - **Participatory Grantmaking During Polycrisis** — Participatory Grantmaking Community webinar with Nino Ugrekhelidze (Dalan Fund), Yara Dowani (Rawa) and Ruby Johnson (Global Resilience Fund), moderated by Coco Jervis (Mama Cash), 2024: [youtube.com/watch?v=8OS0knZwh28](https://www.youtube.com/watch?v=8OS0knZwh28)
-- **Dalan Fund** — Our Story and How We Fund: [dalan.fund](https://dalan.fund/our-story/)
+- **Dalan Fund** — Our Story: [dalan.fund/our-story](https://dalan.fund/our-story/); How We Fund (funding streams, Romani Program, PILnet and NGO RESIDENT partnerships, Resource Distribution Committee): [dalan.fund/how-we-fund](https://dalan.fund/how-we-fund/)
 - **Rawa**: [rawa.ps](https://www.rawa.ps/en-home)
 - **Global Resilience Fund** — About: [theglobalresiliencefund.org](https://www.theglobalresiliencefund.org/about)
 - **Women Win** — Democratisation of Philanthropy (pooled funding, shared governance, fiscal hosting): [womenwin.org](https://www.womenwin.org/what-we-do/democratisation-of-philanthropy/)
