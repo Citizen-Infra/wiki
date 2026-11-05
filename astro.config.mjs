@@ -224,6 +224,7 @@ export default defineConfig({
           { slug: 'stories/outer-sunset' },
           { slug: 'stories/community-supplies' },
           { slug: 'stories/on-the-table' },
+          { slug: 'stories/om-sleiman-farm' },
         ]},
         { label: 'Ecosystem', items: [
           { slug: 'ecosystem/overview' },
