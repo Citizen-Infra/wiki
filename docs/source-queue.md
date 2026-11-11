@@ -243,6 +243,8 @@ Substantive sources surfaced in past @citizen_infra link digests (articles/repor
 
 ### Shared directly (not via digest)
 
+- [ ] https://www.boardy.ai/faq — Boardy, *FAQ: how intros work, and what Boardy can’t do*: vendor-described AI-mediated introductions, double opt-in and information-sharing boundaries; reference for consent in AI-mediated coordination. Treat effectiveness and compliance assertions as vendor claims, not independent verification. [Tier 3]
+
 Sources handed in directly (never posted to the @citizen_infra group). Same routing as the rest.
 
 - [ ] https://supportukrainenow.org/together-at-distance — Support Ukraine Now, “Разом на відстані / Together at Distance” (2026). Organiser’s primary reference for an online Open Space unconference for Ukrainians across locations; useful for participant-led sessions, community-building and event organisation. Announced dates and scale are organiser claims, not independently verified outcomes. Shared directly 2026-11-02. [Tier 2]
