@@ -269,6 +269,8 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 - [ ] https://github.com/GoogleCloudPlatform/open-knowledge-format — Open Knowledge Format (OKF) — Google Cloud’s markdown and YAML knowledge-bundle format; potential reference for portable, inspectable shared knowledge and provenance. [Context Conference 2026, 2026-10-28; public source; Tier 3, interoperability/shared knowledge]
 - [ ] https://ossie.apache.org/ — Apache Ossie (incubating), formerly Open Semantic Interchange — Vendor-neutral semantic-metadata interchange; potential reference for common metric definitions and the limits of exchanging executable meaning. [Context Conference 2026, 2026-10-28; public source; Tier 3, interoperability/shared knowledge]
 
+- [ ] https://miloszekovic.substack.com/p/what-was-already-alive-in-the-system — Miloš Zeković, What was already alive in the system (9 November 2026): author's account of Serbia's student movement and the conditions for change; full text requests free subscription/sign-in. Shared directly by Artem, 12 November 2026.
+
 ### From the Telegram digest
 
 - [ ] https://delibdemjournal.org/article/id/1625 — John Rountree and John Gastil, "The Case for Using Generative AI to Run Deliberation Simulations": an argument that AI simulations should support rather than replace human judgment, illustrated by a GPT-4o K-12 mental-health example.
