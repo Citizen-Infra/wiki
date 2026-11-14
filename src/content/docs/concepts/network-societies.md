@@ -17,7 +17,22 @@ This tracks a lesson from complexity science: durable systems sit on the edge be
 
 The same point shows up in money. Drawing on the anthropologist David Graeber, Weyl notes that reducing every relationship to one universal yardstick — the dollar — is *centralizing*: it throws away the diversity of trust paths between people, which is exactly what makes a real network resilient (think of the supply chains that snapped in the pandemic). A network society values the diversity of the paths, not just the total flow. It's the same instinct behind "**integration, not exit**": spend a month in an intense community, then carry what you learned back home, rather than walling yourself off from the society that made you.
 
+## Network nations: belonging that can act
+
+Felix Beer, Primavera De Filippi and Lovisa Björna push the same contrast further in [*Network Nations: A Primer*](https://networknations.substack.com/p/network-nations-a-primer) (September 2026). They separate the **nation**, a community of belonging, from the **state**, an institution that rules a territory, and define **network nations** as translocal communities that build a shared identity, govern parts of their own affairs and act together across borders. Members stay rooted in their places and keep their existing citizenship; a network nation is "an additional layer of political coordination, not a replacement for the nation-state."
+
+The primer is blunt that "connectivity is not self-governance": a platform can enable participation while enclosing its terms, and a decentralised protocol can still concentrate influence among founders or token holders. It also distinguishes network nations from the **network state**, which follows a founder-led, startup-style path towards territory and diplomatic recognition. A network nation need not seek either.
+
+It proposes three ways such communities build lasting capacity:
+
+- **Functional sovereignty:** real autonomy over one domain at a time (education, care, housing, ecological stewardship), built by what a community can reliably do for itself rather than declared.
+- **Commons governance:** members as co-stewards, not just users, of the knowledge, funds, land and infrastructure they depend on. See [the commons](/concepts/the-commons/).
+- **Entanglement:** deliberate interdependence that gives members a stake in each other's success, balanced so that leaving and dissent stay possible.
+
+Its worked example is a network of bioregional communities, each rooted in its own watershed, linked to share knowledge and represent common interests without giving up local autonomy. It is a conceptual primer, not a report on an existing network nation.
+
 ## Sources
 
 - "Network Societies, Civic Tech & Democracy" — Glen Weyl & Timour Kosters, Edge City Austin (2025): [youtube.com/watch?v=B9RQlwyeYCY](https://www.youtube.com/watch?v=B9RQlwyeYCY).
 - *Plurality: The Future of Collaborative Technology and Democracy*: [plurality.net](https://www.plurality.net/). Its [Book Power MCP companion](https://bookpower.org/plurality/) can retrieve the book's framing and related cases for a network-society analysis.
+- Felix Beer, Primavera De Filippi and Lovisa Björna, [*Network Nations: A Primer*](https://networknations.substack.com/p/network-nations-a-primer), Network Nations (3 September 2026).

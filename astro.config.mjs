@@ -131,6 +131,7 @@ export default defineConfig({
             { slug: 'concepts/uncommon-ground' },
             { slug: 'concepts/ai-reflectors' },
             { slug: 'concepts/how-we-picture-disagreement' },
+            { slug: 'concepts/cynefin' },
           ]},
           { label: 'The civic tech field', collapsed: true, items: [
             { slug: 'concepts/why-civic-tech-fails' },

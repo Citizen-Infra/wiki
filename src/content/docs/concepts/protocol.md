@@ -59,6 +59,16 @@ In his [diplomatic-protocol oral history](https://protocol.ecologies.info/interv
 
 For civic groups, that distinction matters: **following a procedure and sharing power fairly are different questions**. Ask who sets the rules, who can challenge them and what happens when powerful actors disregard them. See the [Power Matrix](/concepts/power-matrix/). Mannan's account is context for this distinction, not diplomatic training or evidence that a particular negotiation achieved justice.
 
+## Protocols for people, not just messages
+
+Kaliya Young, co-founder of the Internet Identity Workshop, argues that the missing protocols are the ones for **relationships**. Email (SMTP) and the web (HTTP) are open protocols no one owns, which is why you can switch providers and still reach everyone. But nothing comparable was built for identity, relationships, group membership or trust, so platforms filled the gap and enclosed the social graph.
+
+In an [August 2026 essay](https://identitywoman.net/how-open-protocols-are-a-key-part-of-regenerative-technology/) she responds to Jessica Groopman and Danielle Lanyard's *Regenerative Technology* framework, which adds two layers most tech thinking ignores: the values behind what gets built, and the consequences of deploying it. Young agrees with their diagnosis that technology externalises both, and adds that the fix is the substrate underneath: a tool with good intentions built on a captured platform "cannot deliver" them, because "the substrate determines what is structurally possible." A community coordination tool running on a commercial chat platform holds its members, history and relationships on someone else's terms. She points to the open identity work assembled since 2005, including decentralised identifiers (a W3C standard since 2022), verifiable credentials held in a person's own wallet, and work on personhood and relationship credentials, as the commons-holding layer that regenerative and community projects should ask about before adopting a tool.
+
+Young and Kevin Triplett developed the argument at the [Protocol Symposium 2026](https://protocol-institute.org/events/protocol-symposium-2026/) in "The Nature of Trust", which frames protocols for who is a real person, how people are connected and who belongs to a group as a hard requirement rather than a soft afterthought, especially as AI floods networks with fake people. In a second talk, "Group Brains: Minds Made of People", Young presents her Protocol Institute-funded study of the IETF, arguing that long-lived communities can remember, deliberate and decide as a collective mind. These summaries draw on the speakers' published abstracts; recordings with transcripts are on the symposium archive.
+
+At the same symposium Nathan Schneider presented "Virtues for a Protocol Society", a paper cataloguing the virtues that protocol-oriented movements (digital rights, decolonial and environmental) say people need to live well in the social orders they imagine.
+
 ## Sources
 
 - Nathan Schneider — Democracy Innovators Podcast (2026): [youtube.com/watch?v=jlyfhmUWX04](https://www.youtube.com/watch?v=jlyfhmUWX04) (from his forthcoming book on protocol).
@@ -69,3 +79,5 @@ For civic groups, that distinction matters: **following a procedure and sharing 
 - Chi Ling Chan, [*Public health systems*](https://protocol.ecologies.info/interviews/chan-public_health_systems/), interviewed by Nathan Schneider, Protocol Oral History Project (published 31 October 2025), used for the limited discussion of institutional defaults above.
 - Mosud Mannan, [*Diplomatic protocols*](https://protocol.ecologies.info/interviews/mannan-diplomatic_protocols/), interviewed by Nathan Schneider, Protocol Oral History Project (published 13 December 2024), used for the distinction between coordination and fairness above.
 - "Nathan Schneider: Contributions to a Glossary of Protocol" — Protocol Town Hall (2025): [youtube.com/watch?v=-5Lq2uaOgBw](https://www.youtube.com/watch?v=-5Lq2uaOgBw).
+- Kaliya Young, ["How open protocols are a key part of regenerative technology"](https://identitywoman.net/how-open-protocols-are-a-key-part-of-regenerative-technology/), identitywoman.net (6 August 2026).
+- Protocol Institute, [Protocol Symposium 2026](https://protocol-institute.org/events/protocol-symposium-2026/) (online, 21 to 25 September 2026): Kaliya Young and Kevin Triplett, "The Nature of Trust"; Kaliya Young, "Group Brains: Minds Made of People"; Nathan Schneider, "Virtues for a Protocol Society" (abstracts and recordings).

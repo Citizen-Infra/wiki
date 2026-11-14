@@ -110,6 +110,9 @@ A growing, annotated shelf of the talks, research, and writing we've found usefu
 - **Arnold Mindell, *The Deep Democracy of Open Forums*** (2002) — the founding text, applying Process Work to group conflict and collective decision-making.
 - **Myrna Lewis, *Inside the No: Five Steps to Decisions That Last*** — the practical Lewis Method of deep democracy, developed in 1990s South Africa and now taught worldwide.
 - **Margaret Wheatley, *Who Do We Choose to Be? Facing Reality, Claiming Leadership, Restoring Sanity*** (2017) — on relationships as the heart of any organisation, cited as the closing note of the deep-democracy approach.
+- **[*Managing complexity (and chaos) in times of crisis*: Dave Snowden and Alessandro Rancati (EU Joint Research Centre, 2021)](https://publications.jrc.ec.europa.eu/repository/handle/JRC123629)**: a free field guide for decision makers that uses the Cynefin framework to move through a crisis in four stages (assess, adapt, exapt, transcend), including human sensor networks. The source behind our [Cynefin](/concepts/cynefin/) concept.
+- **["Handing on a torch": Dave Snowden (The Cynefin Company, 27 October 2026)](https://thecynefin.co/handing-on-a-torch/)**: launch post for *Cynefin in the Age of Entanglement*, the first of a planned series of pocket field guides, with links to the open-source Cynefin.io wiki. See [Cynefin](/concepts/cynefin/).
+- **[*Network Nations: A Primer*: Felix Beer, Primavera De Filippi and Lovisa Björna (September 2026)](https://networknations.substack.com/p/network-nations-a-primer)**: defines translocal communities that turn shared belonging into self-governance, through functional sovereignty, commons governance and entanglement, and contrasts them with the network state. Discussed in [network societies](/concepts/network-societies/).
 
 ## Deliberative democracy & citizens' assemblies
 
@@ -161,6 +164,8 @@ A growing, annotated shelf of the talks, research, and writing we've found usefu
 - **Nathan Schneider, *Governable Spaces: Democratic Design for Online Life*** (University of California Press, 2024) — the book that names "implicit feudalism" and makes the case for democratic design of online communities (open access). The [Book Power MCP companion](https://bookpower.org/governable-spaces/) helps an AI agent diagnose governance failures, find precedents, and explore democratic forms grounded in the book.
 - **"Modular Politics: Toward a Governance Layer for Online Communities"** — the Metagov paper (Frey, Schneider, et al., 2021) behind the modular-politics framework.
 - **["Nathan Schneider: Contributions to a Glossary of Protocol" — Protocol Town Hall (2025)](https://www.youtube.com/watch?v=-5Lq2uaOgBw)** — protocol as a "pattern of interaction" and a site of creativity, not just control; vernacular protocols and protocol sovereignty. A source behind our [protocol](/concepts/protocol/) concept.
+- **["How open protocols are a key part of regenerative technology": Kaliya Young (6 August 2026)](https://identitywoman.net/how-open-protocols-are-a-key-part-of-regenerative-technology/)**: argues that regenerative-tech intentions only survive on open-protocol substrates, and points to the decentralised identity and trust stack built since 2005. Discussed in [protocol](/concepts/protocol/).
+- **[Protocol Symposium 2026: Protocol Institute (online, 21 to 25 September 2026)](https://protocol-institute.org/events/protocol-symposium-2026/)**: workshops and talks with recordings and transcripts, including Kaliya Young on group brains and (with Kevin Triplett) on the trust layer, and Nathan Schneider on virtues for a protocol society. Discussed in [protocol](/concepts/protocol/).
 
 ## Infrastructure, the commons & the bigger picture
 
