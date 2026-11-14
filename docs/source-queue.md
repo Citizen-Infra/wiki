@@ -243,6 +243,12 @@ Substantive sources surfaced in past @citizen_infra link digests (articles/repor
 
 ### Shared directly (not via digest)
 
+- [ ] https://www.wedodemocracy.com/what-works-when-it-comes-to-engaging-citizens-and-young-people-a-new-nordic-project-is-mapping-and-testing-participation-methods-across-the-nordic-region/ — We Do Democracy: Nordic mapping and testing of participation methods; practitioner-led comparison by intended democratic impact and context, with recommendations planned for spring 2027.
+- [ ] https://www.wedodemocracy.com/program/democratic-impact/ — We Do Democracy: Democratic Impact framework; ten areas spanning participant capacities, process and wider effects. A framework to examine, not proof that a given method achieves those outcomes.
+- [ ] https://democracyfitness.org/the-10-muscles-of-democracy/ — Democracy Fitness Global: ten democratic skills, including listening, disagreement, curiosity and compromise; capacity-building as a distinct purpose from policy deliberation.
+- [ ] https://digidemlab.org/en/project/gothenburg/ — Digidem Lab: Gothenburg's continuing participation work since 2019, combining participatory budgets and citizens' assemblies with shared civic participation infrastructure.
+- [ ] https://www.sitra.fi/artikkelit/12-000-osallistujan-verkkokeskustelu-toi-esiin-meita-yhdistavat-ja-jakavat-tyoperaisen-maahanmuuton-kysymykset/ — Sitra (12 November 2026, Finnish): Voxit results on work-based immigration; more than 12,000 participants and 750,000 votes, with over 150 participant-proposed statements published. Participants were not a representative population sample; complements the overall programme source already queued.
+
 - [ ] https://www.boardy.ai/faq — Boardy, *FAQ: how intros work, and what Boardy can’t do*: vendor-described AI-mediated introductions, double opt-in and information-sharing boundaries; reference for consent in AI-mediated coordination. Treat effectiveness and compliance assertions as vendor claims, not independent verification. [Tier 3]
 
 Sources handed in directly (never posted to the @citizen_infra group). Same routing as the rest.
