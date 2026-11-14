@@ -21,5 +21,6 @@ This section collects those stories: bottom-up, real-world examples of citizens 
 - [The Outer Sunset: a neighborhood builds its own tech](/stories/outer-sunset/)
 - [Community Supplies: a sharing app that spread to 200 neighborhoods](/stories/community-supplies/)
 - [On the Table: a city plans itself over dinner (Lexington)](/stories/on-the-table/)
+- [Om Sleiman Farm: a community-supported farm in Bil'in (Palestine)](/stories/om-sleiman-farm/)
 
 More stories will be added over time. Have one that belongs here? Use the "Edit page" link below.

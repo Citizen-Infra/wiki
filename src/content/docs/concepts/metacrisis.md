@@ -15,6 +15,16 @@ One strand of this conversation argues that *no single framework* — no one ide
 
 A fair caution: this is a **big-picture framing, not a programme**. We include it because it's the backdrop a lot of citizen-infrastructure thinking is responding to — and it pairs naturally with the [epistemic case for democracy](/concepts/epistemic-democracy/) (diverse groups thinking better together) and [cargo cult democracy](/concepts/cargo-cult-democracy/) (build the people, not just the machinery).
 
+## A critique: does the word hide the causes?
+
+Not everyone working inside these crises is comfortable with the framing. In a breakout discussion at a 2024 webinar of the Participatory Grantmaking Community, participants pushed on whether "polycrisis" obscures more than it explains. Calling the tangle a knot of crises can leave out what is pulling the threads tight: in their view, the impacts of capitalism. And for funders, they argued, being honest about causes includes acknowledging where their own grant money comes from.
+
+The same group raised a second point about who gets to call something a crisis. Funders in the global north often read "crisis" as an *international* category: something happening elsewhere, episodically, that calls for an emergency response. For the people living it, the crisis is local and continuous. That is the practitioners' case for letting [the affected community define the crisis](/concepts/participatory-grantmaking/#the-political-point) rather than the funder.
+
+Read this as a counterweight to the integrative response above, not a refutation of it. A framing wide enough to see how crises connect is useful; one that makes them sound like weather, with no authors and no beneficiaries, is not.
+
 ## Sources
+
+- **Participatory Grantmaking During Polycrisis**: Participatory Grantmaking Community webinar, 2024 (the breakout critique above): [youtube.com/watch?v=8OS0knZwh28](https://www.youtube.com/watch?v=8OS0knZwh28).
 
 - Brandon Norgaard, Nicholas Hedlund & Claudia Meglin — *Mapping an Ecology of Integrative Approaches to Addressing the Metacrisis* (Institute of Applied Metatheory, 2025): [appliedmetatheory.org](https://appliedmetatheory.org/mapping-ecology-integrative-approaches-addressing-metacrisis/).
