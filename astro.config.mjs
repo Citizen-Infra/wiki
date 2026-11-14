@@ -84,6 +84,7 @@ export default defineConfig({
             { slug: 'concepts/network-societies' },
             { slug: 'concepts/movements-not-arguments' },
             { slug: 'concepts/deep-democracy' },
+            { slug: 'concepts/open-space' },
           ]},
           { label: 'The commons', collapsed: true, items: [
             { slug: 'concepts/the-commons' },
