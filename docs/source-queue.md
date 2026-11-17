@@ -277,6 +277,10 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 
 - [ ] https://miloszekovic.substack.com/p/what-was-already-alive-in-the-system — Miloš Zeković, What was already alive in the system (9 November 2026): author's account of Serbia's student movement and the conditions for change; full text requests free subscription/sign-in. Shared directly by Artem, 12 November 2026.
 
+- [ ] https://www.evolutionaryfutures.com/collective-narratives — Evolutionary Futures Lab, Collective Narrative Methodology. Participant contributions and corrections, thematic clustering, and human review in the harvest from group conversations. Published methodology licensed CC BY-SA 4.0 unless otherwise stated.
+- [ ] https://www.evolutionaryfutures.com/connect — Evolutionary Funding Collaboratory. The project’s own description of relationship building, learning across contexts, and collaborative funding. Use it to examine the design and its stated aims.
+- [ ] https://www.festfield.finance/financing-systemic-transformation/ — FEST, Financing Systemic Transformation. The field’s working definition and its focus on financing relationships among projects. Distinguish the proposed approach from evidence of outcomes.
+
 ### From the Telegram digest
 
 - [ ] https://delibdemjournal.org/article/id/1625 — John Rountree and John Gastil, "The Case for Using Generative AI to Run Deliberation Simulations": an argument that AI simulations should support rather than replace human judgment, illustrated by a GPT-4o K-12 mental-health example.
