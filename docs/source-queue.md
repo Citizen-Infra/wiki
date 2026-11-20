@@ -281,6 +281,9 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 - [ ] https://www.evolutionaryfutures.com/connect — Evolutionary Funding Collaboratory. The project’s own description of relationship building, learning across contexts, and collaborative funding. Use it to examine the design and its stated aims.
 - [ ] https://www.festfield.finance/financing-systemic-transformation/ — FEST, Financing Systemic Transformation. The field’s working definition and its focus on financing relationships among projects. Distinguish the proposed approach from evidence of outcomes.
 - [ ] https://stateofthefield.festfield.finance/ — FEST, State of the Field 2026 gathering report. First annual snapshot of the financing-systemic-transformation field: 123 contributors from 23 countries, a three-round World Café synthesized with the Collective Narrative Methodology, fifteen narrative clusters, and interactive Kumu network and role maps.
+- [ ] https://commongrants.org/ — CommonGrants. A common data model and API language for grants data (opportunities, applications, apply endpoints), connected to the HHS simpler-grants-gov effort; the "common app" for grantmakers. Distinguish the published standard from evidence of adoption.
+- [ ] https://fundingjson.org/ — funding.json. An open JSON manifest for FOSS projects to declare funding needs and spending, crawled by FLOSS/fund (~$1M/year, India) and an open directory; an applicant-side counterpart to funder-side funding-data publication.
+- [ ] https://www.fundsorter.com/ — Fund Sorter. Alanna Irving (ex-Enspiral, Loomio, Gift Collective); New Zealand grant funding built for communities, currently NZ/AU only. Potential reference for grant-discovery and community-scale funding infrastructure.
 
 ### From the Telegram digest
 
