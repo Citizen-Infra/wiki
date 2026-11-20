@@ -280,6 +280,7 @@ Sources handed in directly (never posted to the @citizen_infra group). Same rout
 - [ ] https://www.evolutionaryfutures.com/collective-narratives — Evolutionary Futures Lab, Collective Narrative Methodology. Participant contributions and corrections, thematic clustering, and human review in the harvest from group conversations. Published methodology licensed CC BY-SA 4.0 unless otherwise stated.
 - [ ] https://www.evolutionaryfutures.com/connect — Evolutionary Funding Collaboratory. The project’s own description of relationship building, learning across contexts, and collaborative funding. Use it to examine the design and its stated aims.
 - [ ] https://www.festfield.finance/financing-systemic-transformation/ — FEST, Financing Systemic Transformation. The field’s working definition and its focus on financing relationships among projects. Distinguish the proposed approach from evidence of outcomes.
+- [ ] https://stateofthefield.festfield.finance/ — FEST, State of the Field 2026 gathering report. First annual snapshot of the financing-systemic-transformation field: 123 contributors from 23 countries, a three-round World Café synthesized with the Collective Narrative Methodology, fifteen narrative clusters, and interactive Kumu network and role maps.
 
 ### From the Telegram digest
 
