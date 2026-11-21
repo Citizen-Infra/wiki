@@ -13,7 +13,7 @@ There's evidence it backfires. When four members of the end-of-life convention l
 
 ## The alternative
 
-Hand real procedural control to the participants. The [Connecticut Citizens' Assembly](/run-reports/connecticut-property-taxes/) is testing "full citizen governance": partway through, the expert committee **surrenders its voting rights**, leaving decisions about experts, schedule, and even the form of the final output to the citizens — within budget and time guardrails. The bet is twofold: you can't credibly champion citizen competence while micromanaging citizens; and ownership of the process yields better, more legitimate outcomes.
+Hand real procedural control to the participants. The [Connecticut Citizens' Assembly on Property Taxes](/run-reports/connecticut-property-taxes/) (2026) put this to the test. At their first working session, members voted by secret ballot, **89 to 8 with 1 abstention**, to take procedural control from the interim expert governance committee. They then ran the assembly through a seven-member executive committee drawn by lot and rotated every session, let any ten members force a vote of the whole assembly, amended the rules as they went (partly to stop staff capturing the process), set their own two-thirds threshold for adopting proposals, and wrote the final recommendations themselves. The bet is twofold: you can't credibly champion citizen competence while micromanaging citizens; and ownership of the process yields better, more legitimate outcomes.
 
 A smaller version already worked at the end-of-life convention: rather than have the committee pick who would address the President, members decided *for themselves* — debating whether to choose by election or by lot, and ultimately drawing their two spokespeople at random, in keeping with the assembly's own founding principle.
 
@@ -22,3 +22,4 @@ It connects to [civic love](/concepts/civic-love/) (ownership deepens the bond) 
 ## Sources
 
 - Hélène Landemore — DemocracyNext (2026): [youtube.com/watch?v=sgFUtZCgAqI](https://www.youtube.com/watch?v=sgFUtZCgAqI).
+- Connecticut Citizens' Assembly, [Final Report and Recommendations](https://ct-citizens-assembly.org/media/CTCA-Final-Report.pdf) (October 2026): self-governance section.
